@@ -11,3 +11,10 @@ url = "https://en.wikivoyage.org/wiki/Main_Page"
 entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
+
+[gkld]
+title = "gkld"
+url = "https://www.gongkaoleida.com/area/2460-2461-0-2,3,59,78-0,124,125,126,128"
+entrySelector = "body > section > div.mdn-content-box.clearfix > div > div > div.notice-list > ul"
+titleSelector = "body > section > div.mdn-content-box.clearfix > div > div > div.notice-list > ul > li:nth-child(1) > h5 > a"
+linkSelector = "body > section > div.mdn-content-box.clearfix > div > div > div.notice-list > ul > li:nth-child(1) > h5 > a"
