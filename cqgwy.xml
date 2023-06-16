@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://rlsbj.cq.gov.cn/ywzl/rsks/gwyks/</id>
+    <title>重庆市人社局-公务员考试</title>
+    <updated>2023-06-16T14:32:48.188Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://rlsbj.cq.gov.cn/ywzl/rsks/gwyks/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://rlsbj.cq.gov.cn/ztzl/2020ndcqsklxhgkxdgwy/202306/t20230602_12023006.html</id>
+        <link href="https://rlsbj.cq.gov.cn/ztzl/2020ndcqsklxhgkxdgwy/202306/t20230602_12023006.html"/>
+        <updated>2023-06-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="location">
+			<div style="position:relative;">
+<span>您当前的位置：</span><a href="../../../" title="首页" class="poto">首页</a><span>&gt;</span><a href="../../" title="业务专栏" class="poto">业务专栏</a><span>&gt;</span><a href="../" title="人事考试" class="poto">人事考试</a><span><span>&gt;</span>公务员考试</span>
+<div id="guidangCon" style="display: none;position: absolute;width: 77px;height:44px;background: url(http://rlsbj.cq.gov.cn/images/guidang.png) no-repeat;background-size:100% 100%;right: 10px;top: -14px;z-index:999;transform: rotate(25deg);">
+</div>
+</div>
+<script>
+	var xlguidang = '';
+	if (xlguidang=="") {
+		var guidang = '0';
+		if(guidang == 1){
+			$("#guidangCon").css("display","block");
+		}else{
+			$("#guidangCon").css("display","none");
+		}
+	}
+	else{
+		var xlgdtime = '';
+		$('#guidangCon p').text(xlgdtime);
+		if(xlguidang == 1){
+			$("#guidangCon").css("display","block");
+		}else{
+			$("#guidangCon").css("display","none");
+		}
+	}
+</script>
+		</div>
+		<div class="title"><a href="javascript:void(0)">公务员考试</a></div>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="../../../ztzl/2020ndcqsklxhgkxdgwy/202306/t20230602_12023006.html" title="2023年度重庆市公开遴选公务员公告" target="_blank">2023年度重庆市公开遴选公务员公告</a><span>2023-06-02</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202303/t20230331_11833290.html" title="重庆市公务员局2023年度公开考试录用公务员笔试成绩合格分数线及有关事宜公告" target="_blank">重庆市公务员局2023年度公开考试录用公务员笔试成绩合格分数线及有关事宜公告</a><span>2023-03-31</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202303/t20230331_11833269.html" title="重庆市公务员局2023年从优秀村（社区）干部中考试录用公务员笔试成绩合格分数线及有关事宜公告" target="_blank">重庆市公务员局2023年从优秀村（社区）干部中考试录用公务员笔试成绩合格分数线及有关事宜公告</a><span>2023-03-31</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202302/t20230216_11613358.html" title="关于调整2023年从优秀村（社区）干部中考试录用公务员招录指标的公告" target="_blank">关于调整2023年从优秀村（社区）干部中考试录用公务员招录指标的公告</a><span>2023-02-16</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202302/t20230216_11613335.html" title="重庆市2023年从优秀村（社区）干部中考试录用公务员报名比例（最终情况统计）" target="_blank">重庆市2023年从优秀村（社区）干部中考试录用公务员报名比例（最终情况统计）</a><span>2023-02-16</span> </li>
+			
+		</ul>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202302/t20230203_11565863.html" title="关于调整2023年度公开考试录用公务员招录指标的公告" target="_blank">关于调整2023年度公开考试录用公务员招录指标的公告</a><span>2023-02-03</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202302/t20230203_11565854.html" title="重庆市2023年度公开考试录用公务员考试职位统计（最终版）" target="_blank">重庆市2023年度公开考试录用公务员考试职位统计（最终版）</a><span>2023-02-03</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202302/t20230201_11554845.html" title="重庆市2023年从优秀村（社区）干部中考试录用公务员公告" target="_blank">重庆市2023年从优秀村（社区）干部中考试录用公务员公告</a><span>2023-02-01</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202301/t20230115_11505047.html" title="重庆市2023年度公开考试录用公务员考试报名统计（截至1.15 9点）" target="_blank">重庆市2023年度公开考试录用公务员考试报名统计（截至1.15 9点）</a><span>2023-01-15</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202301/t20230114_11504688.html" title="重庆市2023年度公开考试录用公务员考试报名统计（截至1.14 9点）" target="_blank">重庆市2023年度公开考试录用公务员考试报名统计（截至1.14 9点）</a><span>2023-01-14</span> </li>
+			
+		</ul>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202301/t20230113_11498877.html" title="重庆市2023年度公开考试录用公务员考试报名统计（截至1.13 11点）" target="_blank">重庆市2023年度公开考试录用公务员考试报名统计（截至1.13 11点）</a><span>2023-01-13</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202301/t20230110_11482037.html" title="重庆市2023年度公开考试录用公务员公告" target="_blank">重庆市2023年度公开考试录用公务员公告</a><span>2023-01-10</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/2020ndcqsklxhgkxdgwy/202211/t20221103_11259306.html" title="关于调整2022年度重庆市公开遴选公务员考点及重新打印准考证紧急通知" target="_blank">关于调整2022年度重庆市公开遴选公务员考点及重新打印准考证紧急通知</a><span>2022-11-03</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/2020ndcqsklxhgkxdgwy/202210/t20221028_11244010.html" title="2022年重庆市公开遴选公务员笔试考试疫情防控须知" target="_blank">2022年重庆市公开遴选公务员笔试考试疫情防控须知</a><span>2022-10-28</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/2020ndcqsklxhgkxdgwy/202210/t20221019_11202521.html" title="关于调整2022年度公开遴选公务员遴选指标、笔试开考比例的公告" target="_blank">关于调整2022年度公开遴选公务员遴选指标、笔试开考比例的公告</a><span>2022-10-19</span> </li>
+			
+		</ul>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="../../../ztzl/2020ndcqsklxhgkxdgwy/202209/t20220921_11128973.html" title="​2022年度重庆市公开遴选公务员公告" target="_blank">​2022年度重庆市公开遴选公务员公告</a><span>2022-09-21</span> </li>
+			
+			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/ywzl/rsks/tzgg_109374/202207/t20220703_10881274.html" title="重庆市2022年公开考试录用公务员及招募“三支一扶”人员笔试应试人员疫情防控须知 （2022年7月2日修订版）" target="_blank">重庆市2022年公开考试录用公务员及招募“三支一扶”人员笔试应试人员疫情防控须知 （2022年7月2日修订版）</a><span>2022-07-07</span> </li>
+			
+			<li class="clearfix"><a href="./202206/t20220630_10873812.html" title="重庆市2022年公开考试录用公务员及招募“三支一扶”人员笔试应试人员疫情防控的补充通告" target="_blank">重庆市2022年公开考试录用公务员及招募“三支一扶”人员笔试应试人员疫情防控的补充通告</a><span>2022-06-30</span> </li>
+			
+			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/tzgg/202206/t20220623_10844725.html" title="重庆市2022年公开考试录用公务员及招募“三支一扶”人员笔试应试人员疫情防控须知" target="_blank">重庆市2022年公开考试录用公务员及招募“三支一扶”人员笔试应试人员疫情防控须知</a><span>2022-06-27</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202203/t20220311_10492007.html" title="重庆市2022年公开考试录用公务员笔试应试人员疫情防控须知" target="_blank">重庆市2022年公开考试录用公务员笔试应试人员疫情防控须知</a><span>2022-03-11</span> </li>
+			
+		</ul>
+		
+      <div class="pagination" id="page"><a class="active">1</a><a class="" href="index_1.html">2</a><a class="" href="index_2.html">3</a><a class="" href="index_3.html">4</a><a class="" href="index_4.html">5</a><a>...</a><a class="" href="index_6.html">7</a><a class="last-page" href="index_1.html">下一页</a></div>
+      <script>
+//wcm分页，总记录：130
+createPage(7, 0, "index", "html");
+function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
+	
+	var page="";
+	<!-- 总页数小于一页不显示 -->
+	if (_nPageCount == null || _nPageCount <= 1) {
+		return false;
+	} 
+
+	<!-- 上一页 -->
+	if (_nCurrIndex > 0){
+		if (_nCurrIndex == 1){
+			var prePage = _sPageName + "." + _sPageExt;
+		} else {
+			var prePage = _sPageName + "_" + (_nCurrIndex - 1) + "." + _sPageExt;
+		}
+		page+='<a class="first-page" href="' + prePage + '">上一页</a>';
+	}
+	
+	<!-- 前面大于三页 -->
+	if (_nCurrIndex > 2) {
+		page+='<a class="" href="' + _sPageName + "." + _sPageExt  + '">1</a>';	
+	}
+	
+	<!-- 前面大于四页省略 -->
+	if (_nCurrIndex > 3) {
+		page+='<a>...</a>';
+	}
+	
+	<!-- 列表 -->
+	for(var i = 0; i < _nPageCount; i++){
+		var sPageName;
+		<!-- 前两页 -->
+		if ((_nCurrIndex - 2) >= 0) { 
+			if (i == (_nCurrIndex - 2)){
+			 if (i == 0) {
+				 sPageName = _sPageName + "." + _sPageExt;
+			 } else {
+				 sPageName = _sPageName + "_" + (_nCurrIndex - 2) + "." + _sPageExt;
+			 }
+			 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			} 
+		}
+		if ((_nCurrIndex - 1) >= 0) {
+			 if (i == (_nCurrIndex - 1)){
+				 if (i == 0) {
+					 sPageName = _sPageName + "." + _sPageExt;
+				 } else {
+					 sPageName = _sPageName + "_" + (_nCurrIndex - 1) + "." + _sPageExt;
+				 }
+				 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			 } 
+		}
+		
+		<!-- 当前页 -->
+		if(i == _nCurrIndex){
+			page+='<a class="active">' + (i + 1) + '</a>';
+		}
+		
+		<!-- 后两页 -->
+		if ((_nCurrIndex + 1) <= (_nPageCount - 1)) { 
+			 if (i == (_nCurrIndex + 1)){                               
+				 sPageName = _sPageName + "_" + (_nCurrIndex + 1) + "." + _sPageExt;
+				 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			 } 
+		}
+		if ((_nCurrIndex + 2) <= (_nPageCount - 1)) {
+			 if (i == (_nCurrIndex + 2)){
+				 sPageName = _sPageName + "_" + (_nCurrIndex + 2) + "." + _sPageExt;
+				 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			 } 
+		}
+              
+	}
+
+        for(var j = _nCurrIndex+3 ;j<( _nPageCount>5?5:_nPageCount); j++){
+             sPageName = _sPageName + "_" + j + "." + _sPageExt;
+	     page+='<a class="" href="' + sPageName + '">' + (j+1) +'</a>';
+                    
+        }
+
+
+		
+	<!-- 后面大于四页省略 -->
+	if (_nCurrIndex < (_nPageCount - 4)&&_nPageCount>6) {
+		page+='<a>...</a>';
+	}
+	
+	<!-- 后面大于三页 -->
+	if (_nCurrIndex <_nPageCount-3&&_nPageCount>5) {
+		page+='<a class="" href="' + _sPageName + "_" + (_nPageCount - 1) + "." + _sPageExt  + '">'+_nPageCount+'</a>';	
+	}
+
+	<!-- 下一页 -->
+	if (_nCurrIndex < (_nPageCount - 1)){
+		var prePage = _sPageName + "_" + (_nCurrIndex + 1) + "." + _sPageExt;
+		page+='<a class="last-page" href="' + prePage + '">下一页</a>';
+	}
+
+	
+	<!-- 打印页码 -->
+	$("#page").html(page);
+}
+</script>
+      <div class="dqwz" style="display:none"><a href="http://rlsbj.cq.gov.cn/" title="首页" class="CurrChnlCls" style="float: inherit;">首页</a>&nbsp;&gt;&nbsp;<a href="http://rlsbj.cq.gov.cn/ywzl/" title="业务专栏" class="CurrChnlCls" style="float: inherit;">业务专栏</a>&nbsp;&gt;&nbsp;<a href="http://rlsbj.cq.gov.cn/ywzl/rsks/" title="人事考试" class="CurrChnlCls" style="float: inherit;">人事考试</a>&nbsp;&gt;&nbsp;<a href="http://rlsbj.cq.gov.cn/ywzl/rsks/gwyks/" title="公务员考试" class="CurrChnlCls" style="float: inherit;">公务员考试</a></div>
+<script>
+	//当前位置颜色和样式
+	$('.dqwz a').css('float','inherit');
+
+	var text1=$('.dqwz a').eq(1).text();
+	$('.top-menu a').each(function(){
+		if($(this).find("span").text()===text1){
+                        $(".top-menu a").removeClass('cur');
+			$(this).addClass('cur');
+		}
+	});
+
+var text2=$('.dqwz a:last').text();
+ $('.p-lf .col').each(function(){
+	if($(this).html().indexOf(text2)>-1){
+            $('.p-lf .col').removeClass('cur');
+		$(this).addClass('cur');
+	}
+});
+</script>]]></content>
+    </entry>
+</feed>

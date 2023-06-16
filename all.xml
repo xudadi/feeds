@@ -2,16 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xudadi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-16T14:10:35.233Z</updated>
+    <updated>2023-06-16T14:32:47.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[[巴南区]
-                                    [国企]
-                                    
-                                    重庆市城南水利发展有限公司2023年度社会招聘公告 (重庆市公考雷达)]]></title>
+        <title type="html"><![CDATA[undefined (重庆市公考雷达)]]></title>
         <id>https://www.gongkaoleida.com/article/1500511</id>
         <link href="https://www.gongkaoleida.com/article/1500511"/>
-        <updated>2023-06-16T14:10:04.020Z</updated>
+        <updated>2023-06-16T14:31:32.736Z</updated>
         <content type="html"><![CDATA[<!--公告列表-->
                 <div class="notice-list">
                     <ul class="link-list">
@@ -67,7 +64,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/1499341" target="_blank" title="中国电建集团重庆工程有限公司招聘公告">中国电建集团重庆工程有限公司招聘公告</a>
                                 </h5>
-                                <time class=" time-red ">13小时前</time>
+                                <time class=" time-red ">14小时前</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -311,7 +308,7 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[重庆工商大学2023年考核招聘教学科研人员公告2023-06-15 (重庆市人社局-事业单位公开招聘)]]></title>
+        <title type="html"><![CDATA[undefined (重庆市人社局-事业单位公开招聘)]]></title>
         <id>https://rlsbj.cq.gov.cn/zwxx_182/sydw/202306/t20230615_12069690.html</id>
         <link href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202306/t20230615_12069690.html"/>
         <updated>2023-06-15T00:00:00.000Z</updated>
@@ -528,5 +525,888 @@ var text2=$('.dqwz a:last').text();
 	}
 });
 </script>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (重庆市人社局-事业单位及其他考试)]]></title>
+        <id>https://rlsbj.cq.gov.cn/ywzl/rsks/tzgg_109374/202306/t20230615_12069522.html</id>
+        <link href="https://rlsbj.cq.gov.cn/ywzl/rsks/tzgg_109374/202306/t20230615_12069522.html"/>
+        <updated>2023-06-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="location">
+			<div style="position:relative;">
+<span>您当前的位置：</span><a href="../../../" title="首页" class="poto">首页</a><span>&gt;</span><a href="../../" title="业务专栏" class="poto">业务专栏</a><span>&gt;</span><a href="../" title="人事考试" class="poto">人事考试</a><span><span>&gt;</span>事业单位及其他考试</span>
+<div id="guidangCon" style="display: none;position: absolute;width: 77px;height:44px;background: url(http://rlsbj.cq.gov.cn/images/guidang.png) no-repeat;background-size:100% 100%;right: 10px;top: -14px;z-index:999;transform: rotate(25deg);">
+</div>
+</div>
+<script>
+	var xlguidang = '';
+	if (xlguidang=="") {
+		var guidang = '0';
+		if(guidang == 1){
+			$("#guidangCon").css("display","block");
+		}else{
+			$("#guidangCon").css("display","none");
+		}
+	}
+	else{
+		var xlgdtime = '';
+		$('#guidangCon p').text(xlgdtime);
+		if(xlguidang == 1){
+			$("#guidangCon").css("display","block");
+		}else{
+			$("#guidangCon").css("display","none");
+		}
+	}
+</script>
+		</div>
+		<div class="title"><a href="javascript:void(0)">事业单位及其他考试</a></div>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="../tzgg_109374/202306/t20230615_12069522.html" title="6月17日部分区县事业单位公开（考核）招聘工作人员笔试服务指南汇总表" target="_blank">6月17日部分区县事业单位公开（考核）招聘工作人员笔试服务指南汇总表</a><span>2023-06-15</span> </li>
+			
+			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202306/t20230602_12024318.html" title="重庆市北碚区事业单位2023年上半年公开招聘工作人员公告" target="_blank">重庆市北碚区事业单位2023年上半年公开招聘工作人员公告</a><span>2023-06-02</span> </li>
+			
+			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/tzgg/202304/t20230411_11864196.html" title="​2023年重庆市招募“三支一扶”人员简章" target="_blank">​2023年重庆市招募“三支一扶”人员简章</a><span>2023-04-11</span> </li>
+			
+			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202303/t20230330_11831393.html" title="重庆市属事业单位2023年第二季度公开招聘工作人员公告" target="_blank">重庆市属事业单位2023年第二季度公开招聘工作人员公告</a><span>2023-03-30</span> </li>
+			
+			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202302/t20230210_11591967.html" title="​重庆市属事业单位2023年第一季度公开招聘工作人员公告" target="_blank">​重庆市属事业单位2023年第一季度公开招聘工作人员公告</a><span>2023-02-13</span> </li>
+			
+		</ul>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202301/t20230106_11466294.html" title="重庆市江北区事业单位面向2023届高校毕业生公开招聘工作人员公告" target="_blank">重庆市江北区事业单位面向2023届高校毕业生公开招聘工作人员公告</a><span>2023-01-06</span> </li>
+			
+			<li class="clearfix"><a href="../../../zwxx_182/sydw/202211/t20221118_11314079.html" title="关于延长2022重庆英才大会事业单位考核招聘紧缺高层次人才报名时间的公告" target="_blank">关于延长2022重庆英才大会事业单位考核招聘紧缺高层次人才报名时间的公告</a><span>2022-11-18</span> </li>
+			
+			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202209/t20220930_11160827.html" title="重庆市九龙坡区事业单位2022年下半年公开招聘工作人员公告" target="_blank">重庆市九龙坡区事业单位2022年下半年公开招聘工作人员公告</a><span>2022-09-30</span> </li>
+			
+			<li class="clearfix"><a href="../../../zwxx_182/tzgg/202209/t20220923_11136118.html" title="2022年重庆市招募“三支一扶”人员缺额岗位调剂有关事项的公告" target="_blank">2022年重庆市招募“三支一扶”人员缺额岗位调剂有关事项的公告</a><span>2022-09-23</span> </li>
+			
+			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202207/t20220707_10898400.html" title="重庆市巴南区教育事业单位2022年下半年公开招聘工作人员公告" target="_blank">重庆市巴南区教育事业单位2022年下半年公开招聘工作人员公告</a><span>2022-07-13</span> </li>
+			
+		</ul>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="../../../zwxx_182/tzgg/202206/t20220616_10819668.html" title="关于2022年重庆市招募“三支一扶”人员有关事项的补充公告" target="_blank">关于2022年重庆市招募“三支一扶”人员有关事项的补充公告</a><span>2022-06-16</span> </li>
+			
+			<li class="clearfix"><a href="../../../zwxx_182/tzgg/202206/t20220615_10816549.html" title="2022年重庆市招募“三支一扶”人员简章" target="_blank">2022年重庆市招募“三支一扶”人员简章</a><span>2022-06-15</span> </li>
+			
+			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202204/t20220408_10598536.html" title="2022年上半年重庆市属事业单位集中公开招聘工作人员公告" target="_blank">2022年上半年重庆市属事业单位集中公开招聘工作人员公告</a><span>2022-04-08</span> </li>
+			
+			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202203/t20220310_10486912.html" title="重庆市铜梁区2022年上半年公开招聘事业单位工作人员简章" target="_blank">重庆市铜梁区2022年上半年公开招聘事业单位工作人员简章</a><span>2022-03-10</span> </li>
+			
+			<li class="clearfix"><a href="http://rlsbj.cq.gov.cn/zwxx_182/sydw/202110/t20211027_9896054.html" title="关于2021重庆英才大会事业单位考核招聘高层次人才公告有关事项的补充公告" target="_blank">关于2021重庆英才大会事业单位考核招聘高层次人才公告有关事项的补充公告</a><span>2022-02-15</span> </li>
+			
+		</ul>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="http://rlsbj.cq.gov.cn/zwxx_182/sydw/202111/t20211125_10035082.html" title="​关于举行2021重庆英才大会事业单位考核招聘笔试的公告" target="_blank">​关于举行2021重庆英才大会事业单位考核招聘笔试的公告</a><span>2021-12-01</span> </li>
+			
+			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202112/t20211201_10062473.html" title="丰都县2021年下半年公开招聘事业单位工作人员简章" target="_blank">丰都县2021年下半年公开招聘事业单位工作人员简章</a><span>2021-12-01</span> </li>
+			
+			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202109/t20210930_9776473.html" title="2021年下半年重庆市属事业单位公开招聘工作人员公告" target="_blank">2021年下半年重庆市属事业单位公开招聘工作人员公告</a><span>2021-09-30</span> </li>
+			
+			<li class="clearfix"><a href="./202106/t20210603_9358283.html" title="2021年重庆市招募“三支一扶”人员最终报名统计" target="_blank">2021年重庆市招募“三支一扶”人员最终报名统计</a><span>2021-06-03</span> </li>
+			
+			<li class="clearfix"><a href="./202105/t20210521_9309960.html" title="2021年重庆市招募“三支一扶”人员报名统计0521" target="_blank">2021年重庆市招募“三支一扶”人员报名统计0521</a><span>2021-05-21</span> </li>
+			
+		</ul>
+		
+      <div class="pagination" id="page"><a class="active">1</a><a class="" href="index_1.html">2</a><a class="" href="index_2.html">3</a><a class="" href="index_3.html">4</a><a class="last-page" href="index_1.html">下一页</a></div>
+      <script>
+//wcm分页，总记录：80
+createPage(4, 0, "index", "html");
+function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
+	
+	var page="";
+	<!-- 总页数小于一页不显示 -->
+	if (_nPageCount == null || _nPageCount <= 1) {
+		return false;
+	} 
+
+	<!-- 上一页 -->
+	if (_nCurrIndex > 0){
+		if (_nCurrIndex == 1){
+			var prePage = _sPageName + "." + _sPageExt;
+		} else {
+			var prePage = _sPageName + "_" + (_nCurrIndex - 1) + "." + _sPageExt;
+		}
+		page+='<a class="first-page" href="' + prePage + '">上一页</a>';
+	}
+	
+	<!-- 前面大于三页 -->
+	if (_nCurrIndex > 2) {
+		page+='<a class="" href="' + _sPageName + "." + _sPageExt  + '">1</a>';	
+	}
+	
+	<!-- 前面大于四页省略 -->
+	if (_nCurrIndex > 3) {
+		page+='<a>...</a>';
+	}
+	
+	<!-- 列表 -->
+	for(var i = 0; i < _nPageCount; i++){
+		var sPageName;
+		<!-- 前两页 -->
+		if ((_nCurrIndex - 2) >= 0) { 
+			if (i == (_nCurrIndex - 2)){
+			 if (i == 0) {
+				 sPageName = _sPageName + "." + _sPageExt;
+			 } else {
+				 sPageName = _sPageName + "_" + (_nCurrIndex - 2) + "." + _sPageExt;
+			 }
+			 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			} 
+		}
+		if ((_nCurrIndex - 1) >= 0) {
+			 if (i == (_nCurrIndex - 1)){
+				 if (i == 0) {
+					 sPageName = _sPageName + "." + _sPageExt;
+				 } else {
+					 sPageName = _sPageName + "_" + (_nCurrIndex - 1) + "." + _sPageExt;
+				 }
+				 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			 } 
+		}
+		
+		<!-- 当前页 -->
+		if(i == _nCurrIndex){
+			page+='<a class="active">' + (i + 1) + '</a>';
+		}
+		
+		<!-- 后两页 -->
+		if ((_nCurrIndex + 1) <= (_nPageCount - 1)) { 
+			 if (i == (_nCurrIndex + 1)){                               
+				 sPageName = _sPageName + "_" + (_nCurrIndex + 1) + "." + _sPageExt;
+				 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			 } 
+		}
+		if ((_nCurrIndex + 2) <= (_nPageCount - 1)) {
+			 if (i == (_nCurrIndex + 2)){
+				 sPageName = _sPageName + "_" + (_nCurrIndex + 2) + "." + _sPageExt;
+				 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			 } 
+		}
+              
+	}
+
+        for(var j = _nCurrIndex+3 ;j<( _nPageCount>5?5:_nPageCount); j++){
+             sPageName = _sPageName + "_" + j + "." + _sPageExt;
+	     page+='<a class="" href="' + sPageName + '">' + (j+1) +'</a>';
+                    
+        }
+
+
+		
+	<!-- 后面大于四页省略 -->
+	if (_nCurrIndex < (_nPageCount - 4)&&_nPageCount>6) {
+		page+='<a>...</a>';
+	}
+	
+	<!-- 后面大于三页 -->
+	if (_nCurrIndex <_nPageCount-3&&_nPageCount>5) {
+		page+='<a class="" href="' + _sPageName + "_" + (_nPageCount - 1) + "." + _sPageExt  + '">'+_nPageCount+'</a>';	
+	}
+
+	<!-- 下一页 -->
+	if (_nCurrIndex < (_nPageCount - 1)){
+		var prePage = _sPageName + "_" + (_nCurrIndex + 1) + "." + _sPageExt;
+		page+='<a class="last-page" href="' + prePage + '">下一页</a>';
+	}
+
+	
+	<!-- 打印页码 -->
+	$("#page").html(page);
+}
+</script>
+      <div class="dqwz" style="display:none"><a href="http://rlsbj.cq.gov.cn/" title="首页" class="CurrChnlCls" style="float: inherit;">首页</a>&nbsp;&gt;&nbsp;<a href="http://rlsbj.cq.gov.cn/ywzl/" title="业务专栏" class="CurrChnlCls" style="float: inherit;">业务专栏</a>&nbsp;&gt;&nbsp;<a href="http://rlsbj.cq.gov.cn/ywzl/rsks/" title="人事考试" class="CurrChnlCls" style="float: inherit;">人事考试</a>&nbsp;&gt;&nbsp;<a href="http://rlsbj.cq.gov.cn/ywzl/rsks/sydwks/" title="事业单位及其他考试" class="CurrChnlCls" style="float: inherit;">事业单位及其他考试</a></div>
+<script>
+	//当前位置颜色和样式
+	$('.dqwz a').css('float','inherit');
+
+	var text1=$('.dqwz a').eq(1).text();
+	$('.top-menu a').each(function(){
+		if($(this).find("span").text()===text1){
+                        $(".top-menu a").removeClass('cur');
+			$(this).addClass('cur');
+		}
+	});
+
+var text2=$('.dqwz a:last').text();
+ $('.p-lf .col').each(function(){
+	if($(this).html().indexOf(text2)>-1){
+            $('.p-lf .col').removeClass('cur');
+		$(this).addClass('cur');
+	}
+});
+</script>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (重庆市人社局-公务员考试)]]></title>
+        <id>https://rlsbj.cq.gov.cn/ztzl/2020ndcqsklxhgkxdgwy/202306/t20230602_12023006.html</id>
+        <link href="https://rlsbj.cq.gov.cn/ztzl/2020ndcqsklxhgkxdgwy/202306/t20230602_12023006.html"/>
+        <updated>2023-06-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="location">
+			<div style="position:relative;">
+<span>您当前的位置：</span><a href="../../../" title="首页" class="poto">首页</a><span>&gt;</span><a href="../../" title="业务专栏" class="poto">业务专栏</a><span>&gt;</span><a href="../" title="人事考试" class="poto">人事考试</a><span><span>&gt;</span>公务员考试</span>
+<div id="guidangCon" style="display: none;position: absolute;width: 77px;height:44px;background: url(http://rlsbj.cq.gov.cn/images/guidang.png) no-repeat;background-size:100% 100%;right: 10px;top: -14px;z-index:999;transform: rotate(25deg);">
+</div>
+</div>
+<script>
+	var xlguidang = '';
+	if (xlguidang=="") {
+		var guidang = '0';
+		if(guidang == 1){
+			$("#guidangCon").css("display","block");
+		}else{
+			$("#guidangCon").css("display","none");
+		}
+	}
+	else{
+		var xlgdtime = '';
+		$('#guidangCon p').text(xlgdtime);
+		if(xlguidang == 1){
+			$("#guidangCon").css("display","block");
+		}else{
+			$("#guidangCon").css("display","none");
+		}
+	}
+</script>
+		</div>
+		<div class="title"><a href="javascript:void(0)">公务员考试</a></div>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="../../../ztzl/2020ndcqsklxhgkxdgwy/202306/t20230602_12023006.html" title="2023年度重庆市公开遴选公务员公告" target="_blank">2023年度重庆市公开遴选公务员公告</a><span>2023-06-02</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202303/t20230331_11833290.html" title="重庆市公务员局2023年度公开考试录用公务员笔试成绩合格分数线及有关事宜公告" target="_blank">重庆市公务员局2023年度公开考试录用公务员笔试成绩合格分数线及有关事宜公告</a><span>2023-03-31</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202303/t20230331_11833269.html" title="重庆市公务员局2023年从优秀村（社区）干部中考试录用公务员笔试成绩合格分数线及有关事宜公告" target="_blank">重庆市公务员局2023年从优秀村（社区）干部中考试录用公务员笔试成绩合格分数线及有关事宜公告</a><span>2023-03-31</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202302/t20230216_11613358.html" title="关于调整2023年从优秀村（社区）干部中考试录用公务员招录指标的公告" target="_blank">关于调整2023年从优秀村（社区）干部中考试录用公务员招录指标的公告</a><span>2023-02-16</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202302/t20230216_11613335.html" title="重庆市2023年从优秀村（社区）干部中考试录用公务员报名比例（最终情况统计）" target="_blank">重庆市2023年从优秀村（社区）干部中考试录用公务员报名比例（最终情况统计）</a><span>2023-02-16</span> </li>
+			
+		</ul>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202302/t20230203_11565863.html" title="关于调整2023年度公开考试录用公务员招录指标的公告" target="_blank">关于调整2023年度公开考试录用公务员招录指标的公告</a><span>2023-02-03</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202302/t20230203_11565854.html" title="重庆市2023年度公开考试录用公务员考试职位统计（最终版）" target="_blank">重庆市2023年度公开考试录用公务员考试职位统计（最终版）</a><span>2023-02-03</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202302/t20230201_11554845.html" title="重庆市2023年从优秀村（社区）干部中考试录用公务员公告" target="_blank">重庆市2023年从优秀村（社区）干部中考试录用公务员公告</a><span>2023-02-01</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202301/t20230115_11505047.html" title="重庆市2023年度公开考试录用公务员考试报名统计（截至1.15 9点）" target="_blank">重庆市2023年度公开考试录用公务员考试报名统计（截至1.15 9点）</a><span>2023-01-15</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202301/t20230114_11504688.html" title="重庆市2023年度公开考试录用公务员考试报名统计（截至1.14 9点）" target="_blank">重庆市2023年度公开考试录用公务员考试报名统计（截至1.14 9点）</a><span>2023-01-14</span> </li>
+			
+		</ul>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202301/t20230113_11498877.html" title="重庆市2023年度公开考试录用公务员考试报名统计（截至1.13 11点）" target="_blank">重庆市2023年度公开考试录用公务员考试报名统计（截至1.13 11点）</a><span>2023-01-13</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202301/t20230110_11482037.html" title="重庆市2023年度公开考试录用公务员公告" target="_blank">重庆市2023年度公开考试录用公务员公告</a><span>2023-01-10</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/2020ndcqsklxhgkxdgwy/202211/t20221103_11259306.html" title="关于调整2022年度重庆市公开遴选公务员考点及重新打印准考证紧急通知" target="_blank">关于调整2022年度重庆市公开遴选公务员考点及重新打印准考证紧急通知</a><span>2022-11-03</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/2020ndcqsklxhgkxdgwy/202210/t20221028_11244010.html" title="2022年重庆市公开遴选公务员笔试考试疫情防控须知" target="_blank">2022年重庆市公开遴选公务员笔试考试疫情防控须知</a><span>2022-10-28</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/2020ndcqsklxhgkxdgwy/202210/t20221019_11202521.html" title="关于调整2022年度公开遴选公务员遴选指标、笔试开考比例的公告" target="_blank">关于调整2022年度公开遴选公务员遴选指标、笔试开考比例的公告</a><span>2022-10-19</span> </li>
+			
+		</ul>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="../../../ztzl/2020ndcqsklxhgkxdgwy/202209/t20220921_11128973.html" title="​2022年度重庆市公开遴选公务员公告" target="_blank">​2022年度重庆市公开遴选公务员公告</a><span>2022-09-21</span> </li>
+			
+			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/ywzl/rsks/tzgg_109374/202207/t20220703_10881274.html" title="重庆市2022年公开考试录用公务员及招募“三支一扶”人员笔试应试人员疫情防控须知 （2022年7月2日修订版）" target="_blank">重庆市2022年公开考试录用公务员及招募“三支一扶”人员笔试应试人员疫情防控须知 （2022年7月2日修订版）</a><span>2022-07-07</span> </li>
+			
+			<li class="clearfix"><a href="./202206/t20220630_10873812.html" title="重庆市2022年公开考试录用公务员及招募“三支一扶”人员笔试应试人员疫情防控的补充通告" target="_blank">重庆市2022年公开考试录用公务员及招募“三支一扶”人员笔试应试人员疫情防控的补充通告</a><span>2022-06-30</span> </li>
+			
+			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/tzgg/202206/t20220623_10844725.html" title="重庆市2022年公开考试录用公务员及招募“三支一扶”人员笔试应试人员疫情防控须知" target="_blank">重庆市2022年公开考试录用公务员及招募“三支一扶”人员笔试应试人员疫情防控须知</a><span>2022-06-27</span> </li>
+			
+			<li class="clearfix"><a href="../../../ztzl/zqs2020ndkslygwyzl/202203/t20220311_10492007.html" title="重庆市2022年公开考试录用公务员笔试应试人员疫情防控须知" target="_blank">重庆市2022年公开考试录用公务员笔试应试人员疫情防控须知</a><span>2022-03-11</span> </li>
+			
+		</ul>
+		
+      <div class="pagination" id="page"><a class="active">1</a><a class="" href="index_1.html">2</a><a class="" href="index_2.html">3</a><a class="" href="index_3.html">4</a><a class="" href="index_4.html">5</a><a>...</a><a class="" href="index_6.html">7</a><a class="last-page" href="index_1.html">下一页</a></div>
+      <script>
+//wcm分页，总记录：130
+createPage(7, 0, "index", "html");
+function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
+	
+	var page="";
+	<!-- 总页数小于一页不显示 -->
+	if (_nPageCount == null || _nPageCount <= 1) {
+		return false;
+	} 
+
+	<!-- 上一页 -->
+	if (_nCurrIndex > 0){
+		if (_nCurrIndex == 1){
+			var prePage = _sPageName + "." + _sPageExt;
+		} else {
+			var prePage = _sPageName + "_" + (_nCurrIndex - 1) + "." + _sPageExt;
+		}
+		page+='<a class="first-page" href="' + prePage + '">上一页</a>';
+	}
+	
+	<!-- 前面大于三页 -->
+	if (_nCurrIndex > 2) {
+		page+='<a class="" href="' + _sPageName + "." + _sPageExt  + '">1</a>';	
+	}
+	
+	<!-- 前面大于四页省略 -->
+	if (_nCurrIndex > 3) {
+		page+='<a>...</a>';
+	}
+	
+	<!-- 列表 -->
+	for(var i = 0; i < _nPageCount; i++){
+		var sPageName;
+		<!-- 前两页 -->
+		if ((_nCurrIndex - 2) >= 0) { 
+			if (i == (_nCurrIndex - 2)){
+			 if (i == 0) {
+				 sPageName = _sPageName + "." + _sPageExt;
+			 } else {
+				 sPageName = _sPageName + "_" + (_nCurrIndex - 2) + "." + _sPageExt;
+			 }
+			 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			} 
+		}
+		if ((_nCurrIndex - 1) >= 0) {
+			 if (i == (_nCurrIndex - 1)){
+				 if (i == 0) {
+					 sPageName = _sPageName + "." + _sPageExt;
+				 } else {
+					 sPageName = _sPageName + "_" + (_nCurrIndex - 1) + "." + _sPageExt;
+				 }
+				 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			 } 
+		}
+		
+		<!-- 当前页 -->
+		if(i == _nCurrIndex){
+			page+='<a class="active">' + (i + 1) + '</a>';
+		}
+		
+		<!-- 后两页 -->
+		if ((_nCurrIndex + 1) <= (_nPageCount - 1)) { 
+			 if (i == (_nCurrIndex + 1)){                               
+				 sPageName = _sPageName + "_" + (_nCurrIndex + 1) + "." + _sPageExt;
+				 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			 } 
+		}
+		if ((_nCurrIndex + 2) <= (_nPageCount - 1)) {
+			 if (i == (_nCurrIndex + 2)){
+				 sPageName = _sPageName + "_" + (_nCurrIndex + 2) + "." + _sPageExt;
+				 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			 } 
+		}
+              
+	}
+
+        for(var j = _nCurrIndex+3 ;j<( _nPageCount>5?5:_nPageCount); j++){
+             sPageName = _sPageName + "_" + j + "." + _sPageExt;
+	     page+='<a class="" href="' + sPageName + '">' + (j+1) +'</a>';
+                    
+        }
+
+
+		
+	<!-- 后面大于四页省略 -->
+	if (_nCurrIndex < (_nPageCount - 4)&&_nPageCount>6) {
+		page+='<a>...</a>';
+	}
+	
+	<!-- 后面大于三页 -->
+	if (_nCurrIndex <_nPageCount-3&&_nPageCount>5) {
+		page+='<a class="" href="' + _sPageName + "_" + (_nPageCount - 1) + "." + _sPageExt  + '">'+_nPageCount+'</a>';	
+	}
+
+	<!-- 下一页 -->
+	if (_nCurrIndex < (_nPageCount - 1)){
+		var prePage = _sPageName + "_" + (_nCurrIndex + 1) + "." + _sPageExt;
+		page+='<a class="last-page" href="' + prePage + '">下一页</a>';
+	}
+
+	
+	<!-- 打印页码 -->
+	$("#page").html(page);
+}
+</script>
+      <div class="dqwz" style="display:none"><a href="http://rlsbj.cq.gov.cn/" title="首页" class="CurrChnlCls" style="float: inherit;">首页</a>&nbsp;&gt;&nbsp;<a href="http://rlsbj.cq.gov.cn/ywzl/" title="业务专栏" class="CurrChnlCls" style="float: inherit;">业务专栏</a>&nbsp;&gt;&nbsp;<a href="http://rlsbj.cq.gov.cn/ywzl/rsks/" title="人事考试" class="CurrChnlCls" style="float: inherit;">人事考试</a>&nbsp;&gt;&nbsp;<a href="http://rlsbj.cq.gov.cn/ywzl/rsks/gwyks/" title="公务员考试" class="CurrChnlCls" style="float: inherit;">公务员考试</a></div>
+<script>
+	//当前位置颜色和样式
+	$('.dqwz a').css('float','inherit');
+
+	var text1=$('.dqwz a').eq(1).text();
+	$('.top-menu a').each(function(){
+		if($(this).find("span").text()===text1){
+                        $(".top-menu a").removeClass('cur');
+			$(this).addClass('cur');
+		}
+	});
+
+var text2=$('.dqwz a:last').text();
+ $('.p-lf .col').each(function(){
+	if($(this).html().indexOf(text2)>-1){
+            $('.p-lf .col').removeClass('cur');
+		$(this).addClass('cur');
+	}
+});
+</script>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (重庆市人社局-社会化服务考试)]]></title>
+        <id>https://rlsbj.cq.gov.cn/zwxx_182/sydw/202306/t20230601_12019949.html</id>
+        <link href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202306/t20230601_12019949.html"/>
+        <updated>2023-06-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="location">
+			<div style="position:relative;">
+<span>您当前的位置：</span><a href="../../../" title="首页" class="poto">首页</a><span>&gt;</span><a href="../../" title="业务专栏" class="poto">业务专栏</a><span>&gt;</span><a href="../" title="人事考试" class="poto">人事考试</a><span><span>&gt;</span>社会化服务</span>
+<div id="guidangCon" style="display: none;position: absolute;width: 77px;height:44px;background: url(http://rlsbj.cq.gov.cn/images/guidang.png) no-repeat;background-size:100% 100%;right: 10px;top: -14px;z-index:999;transform: rotate(25deg);">
+</div>
+</div>
+<script>
+	var xlguidang = '';
+	if (xlguidang=="") {
+		var guidang = '0';
+		if(guidang == 1){
+			$("#guidangCon").css("display","block");
+		}else{
+			$("#guidangCon").css("display","none");
+		}
+	}
+	else{
+		var xlgdtime = '';
+		$('#guidangCon p').text(xlgdtime);
+		if(xlguidang == 1){
+			$("#guidangCon").css("display","block");
+		}else{
+			$("#guidangCon").css("display","none");
+		}
+	}
+</script>
+		</div>
+		<div class="title"><a href="javascript:void(0)">社会化服务</a></div>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202306/t20230601_12019949.html" title="重庆三峡学院2023年公开招聘事业单位工作人员公告" target="_blank">重庆三峡学院2023年公开招聘事业单位工作人员公告</a><span>2023-06-01</span> </li>
+			
+			<li class="clearfix"><a href="./202304/t20230407_11857076.html" title="关于开展2023年度重庆市专业技术人员外语水平测试（英语）的通告" target="_blank">关于开展2023年度重庆市专业技术人员外语水平测试（英语）的通告</a><span>2023-04-07</span> </li>
+			
+			<li class="clearfix"><a href="https://zsj.cq.gov.cn/zwgk_541/fdzdgknr/zkly/zkgg/202303/t20230330_11831412.html" title="2023年度重庆市招商投资促进局公开遴选公务员公告" target="_blank">2023年度重庆市招商投资促进局公开遴选公务员公告</a><span>2023-04-04</span> </li>
+			
+			<li class="clearfix"><a href="https://www.beibei.gov.cn/zwgk_239/fdzdgknr/zkxx/bbqzklygwy/202303/t20230320_11784739.html" title="重庆市北碚区2023年公开遴选公务员公告" target="_blank">重庆市北碚区2023年公开遴选公务员公告</a><span>2023-03-22</span> </li>
+			
+			<li class="clearfix"><a href="./202303/t20230308_11725740.html" title="关于2022年度第2次重庆市专业技术人员计算机水平测试未考补考的通告" target="_blank">关于2022年度第2次重庆市专业技术人员计算机水平测试未考补考的通告</a><span>2023-03-08</span> </li>
+			
+		</ul>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="./202303/t20230308_11725858.html" title="关于开展2023年上半年重庆市专业技术人员计算机水平测试的通告" target="_blank">关于开展2023年上半年重庆市专业技术人员计算机水平测试的通告</a><span>2023-03-08</span> </li>
+			
+			<li class="clearfix"><a href="./202303/t20230308_11725710.html" title="关于开展2023年度重庆市专业技术人员外语水平测试（英语）的预通告" target="_blank">关于开展2023年度重庆市专业技术人员外语水平测试（英语）的预通告</a><span>2023-03-08</span> </li>
+			
+			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202212/t20221230_11441216.html" title="重庆市丰都县事业单位2022年四季度公开招聘工作人员公告" target="_blank">重庆市丰都县事业单位2022年四季度公开招聘工作人员公告</a><span>2023-01-18</span> </li>
+			
+			<li class="clearfix"><a href="http://www.cq.jcy.gov.cn/tzgg/202211/t20221107_3876269.shtml" title="重庆市人民检察院第五分院及辖区检察院公开招聘聘用制书记员简章" target="_blank">重庆市人民检察院第五分院及辖区检察院公开招聘聘用制书记员简章</a><span>2022-11-07</span> </li>
+			
+			<li class="clearfix"><a href="http://www.cq.jcy.gov.cn/tzgg/202211/t20221107_3876268.shtml" title="重庆市人民检察院第四分院及辖区检察院公开招聘聘用制书记员简章" target="_blank">重庆市人民检察院第四分院及辖区检察院公开招聘聘用制书记员简章</a><span>2022-11-07</span> </li>
+			
+		</ul>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="http://www.cq.jcy.gov.cn/tzgg/202211/t20221107_3876266.shtml" title="重庆市人民检察院第三分院及辖区检察院公开招聘聘用制书记员简章" target="_blank">重庆市人民检察院第三分院及辖区检察院公开招聘聘用制书记员简章</a><span>2022-11-07</span> </li>
+			
+			<li class="clearfix"><a href="http://www.cq.jcy.gov.cn/tzgg/202211/t20221107_3876262.shtml" title="重庆市人民检察院第二分院及辖区检察院公开招聘聘用制书记员简章" target="_blank">重庆市人民检察院第二分院及辖区检察院公开招聘聘用制书记员简章</a><span>2022-11-07</span> </li>
+			
+			<li class="clearfix"><a href="http://www.cq.jcy.gov.cn/tzgg/202211/t20221107_3876260.shtml" title="重庆市人民检察院第一分院及辖区检察院公开招聘聘用制书记员简章" target="_blank">重庆市人民检察院第一分院及辖区检察院公开招聘聘用制书记员简章</a><span>2022-11-07</span> </li>
+			
+			<li class="clearfix"><a href="http://www.cq.jcy.gov.cn/tzgg/202211/t20221107_3876254.shtml" title="重庆市人民检察院公开招聘聘用制书记员简章" target="_blank">重庆市人民检察院公开招聘聘用制书记员简章</a><span>2022-11-07</span> </li>
+			
+			<li class="clearfix"><a href="./202210/t20221024_11219215.html" title="关于开展2022年度第2次重庆市专业技术人员计算机水平测试的通告" target="_blank">关于开展2022年度第2次重庆市专业技术人员计算机水平测试的通告</a><span>2022-10-24</span> </li>
+			
+		</ul>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202209/t20220930_11160830.html" title="重庆市九龙坡区事业单位2022年面向应届高校毕业生公开招聘工作人员公告" target="_blank">重庆市九龙坡区事业单位2022年面向应届高校毕业生公开招聘工作人员公告</a><span>2022-09-30</span> </li>
+			
+			<li class="clearfix"><a href="http://chongqing.chinatax.gov.cn/cqtax/xxgk/rsxx/gwyzl/202207/t20220714_342221.html" title="国家税务总局重庆市税务局系统部分事业单位2022年度公开招聘拟聘用人员公示" target="_blank">国家税务总局重庆市税务局系统部分事业单位2022年度公开招聘拟聘用人员公示</a><span>2022-07-14</span> </li>
+			
+			<li class="clearfix"><a href="http://sthjj.cq.gov.cn/zwgk_249/zfxxgkzl/fdzdgknr/zkly/202207/t20220704_10882242.html" title="重庆市生态环境局2022年公开遴选公务员公告" target="_blank">重庆市生态环境局2022年公开遴选公务员公告</a><span>2022-07-05</span> </li>
+			
+			<li class="clearfix"><a href="https://jtj.cq.gov.cn/zwgk_240/zfxxgk/fdzdgknr/gggs/tzgg/202206/t20220627_10859778.html" title="重庆市交通局2022年度公开遴选公务员公告" target="_blank">重庆市交通局2022年度公开遴选公务员公告</a><span>2022-06-27</span> </li>
+			
+			<li class="clearfix"><a href="http://tjj.cq.gov.cn/zwgk_233/fdzdgknr/zkly/202206/t20220609_10793299.html" title="重庆市统计局2022年度公开遴选参照公务员法管理单位工作人员公告" target="_blank">重庆市统计局2022年度公开遴选参照公务员法管理单位工作人员公告</a><span>2022-06-10</span> </li>
+			
+		</ul>
+		
+      <div class="pagination" id="page"><a class="active">1</a><a class="" href="index_1.html">2</a><a class="" href="index_2.html">3</a><a class="" href="index_3.html">4</a><a class="last-page" href="index_1.html">下一页</a></div>
+      <script>
+//wcm分页，总记录：66
+createPage(4, 0, "index", "html");
+function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
+	
+	var page="";
+	<!-- 总页数小于一页不显示 -->
+	if (_nPageCount == null || _nPageCount <= 1) {
+		return false;
+	} 
+
+	<!-- 上一页 -->
+	if (_nCurrIndex > 0){
+		if (_nCurrIndex == 1){
+			var prePage = _sPageName + "." + _sPageExt;
+		} else {
+			var prePage = _sPageName + "_" + (_nCurrIndex - 1) + "." + _sPageExt;
+		}
+		page+='<a class="first-page" href="' + prePage + '">上一页</a>';
+	}
+	
+	<!-- 前面大于三页 -->
+	if (_nCurrIndex > 2) {
+		page+='<a class="" href="' + _sPageName + "." + _sPageExt  + '">1</a>';	
+	}
+	
+	<!-- 前面大于四页省略 -->
+	if (_nCurrIndex > 3) {
+		page+='<a>...</a>';
+	}
+	
+	<!-- 列表 -->
+	for(var i = 0; i < _nPageCount; i++){
+		var sPageName;
+		<!-- 前两页 -->
+		if ((_nCurrIndex - 2) >= 0) { 
+			if (i == (_nCurrIndex - 2)){
+			 if (i == 0) {
+				 sPageName = _sPageName + "." + _sPageExt;
+			 } else {
+				 sPageName = _sPageName + "_" + (_nCurrIndex - 2) + "." + _sPageExt;
+			 }
+			 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			} 
+		}
+		if ((_nCurrIndex - 1) >= 0) {
+			 if (i == (_nCurrIndex - 1)){
+				 if (i == 0) {
+					 sPageName = _sPageName + "." + _sPageExt;
+				 } else {
+					 sPageName = _sPageName + "_" + (_nCurrIndex - 1) + "." + _sPageExt;
+				 }
+				 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			 } 
+		}
+		
+		<!-- 当前页 -->
+		if(i == _nCurrIndex){
+			page+='<a class="active">' + (i + 1) + '</a>';
+		}
+		
+		<!-- 后两页 -->
+		if ((_nCurrIndex + 1) <= (_nPageCount - 1)) { 
+			 if (i == (_nCurrIndex + 1)){                               
+				 sPageName = _sPageName + "_" + (_nCurrIndex + 1) + "." + _sPageExt;
+				 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			 } 
+		}
+		if ((_nCurrIndex + 2) <= (_nPageCount - 1)) {
+			 if (i == (_nCurrIndex + 2)){
+				 sPageName = _sPageName + "_" + (_nCurrIndex + 2) + "." + _sPageExt;
+				 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			 } 
+		}
+              
+	}
+
+        for(var j = _nCurrIndex+3 ;j<( _nPageCount>5?5:_nPageCount); j++){
+             sPageName = _sPageName + "_" + j + "." + _sPageExt;
+	     page+='<a class="" href="' + sPageName + '">' + (j+1) +'</a>';
+                    
+        }
+
+
+		
+	<!-- 后面大于四页省略 -->
+	if (_nCurrIndex < (_nPageCount - 4)&&_nPageCount>6) {
+		page+='<a>...</a>';
+	}
+	
+	<!-- 后面大于三页 -->
+	if (_nCurrIndex <_nPageCount-3&&_nPageCount>5) {
+		page+='<a class="" href="' + _sPageName + "_" + (_nPageCount - 1) + "." + _sPageExt  + '">'+_nPageCount+'</a>';	
+	}
+
+	<!-- 下一页 -->
+	if (_nCurrIndex < (_nPageCount - 1)){
+		var prePage = _sPageName + "_" + (_nCurrIndex + 1) + "." + _sPageExt;
+		page+='<a class="last-page" href="' + prePage + '">下一页</a>';
+	}
+
+	
+	<!-- 打印页码 -->
+	$("#page").html(page);
+}
+</script>
+      <div class="dqwz" style="display:none"><a href="http://rlsbj.cq.gov.cn/" title="首页" class="CurrChnlCls" style="float: inherit;">首页</a>&nbsp;&gt;&nbsp;<a href="http://rlsbj.cq.gov.cn/ywzl/" title="业务专栏" class="CurrChnlCls" style="float: inherit;">业务专栏</a>&nbsp;&gt;&nbsp;<a href="http://rlsbj.cq.gov.cn/ywzl/rsks/" title="人事考试" class="CurrChnlCls" style="float: inherit;">人事考试</a>&nbsp;&gt;&nbsp;<a href="http://rlsbj.cq.gov.cn/ywzl/rsks/shhfw/" title="社会化服务" class="CurrChnlCls" style="float: inherit;">社会化服务</a></div>
+<script>
+	//当前位置颜色和样式
+	$('.dqwz a').css('float','inherit');
+
+	var text1=$('.dqwz a').eq(1).text();
+	$('.top-menu a').each(function(){
+		if($(this).find("span").text()===text1){
+                        $(".top-menu a").removeClass('cur');
+			$(this).addClass('cur');
+		}
+	});
+
+var text2=$('.dqwz a:last').text();
+ $('.p-lf .col').each(function(){
+	if($(this).html().indexOf(text2)>-1){
+            $('.p-lf .col').removeClass('cur');
+		$(this).addClass('cur');
+	}
+});
+</script>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (重庆市人社局-公示信息)]]></title>
+        <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202306/t20230615_12069381.html</id>
+        <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202306/t20230615_12069381.html"/>
+        <updated>2023-06-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="location">
+			<div style="position:relative;">
+<span>您当前的位置：</span><a href="../../" title="首页" class="poto">首页</a><span><span>&gt;</span>公示信息</span>
+<div id="guidangCon" style="display: none;position: absolute;width: 77px;height:44px;background: url(http://rlsbj.cq.gov.cn/images/guidang.png) no-repeat;background-size:100% 100%;right: 10px;top: -14px;z-index:999;transform: rotate(25deg);">
+</div>
+</div>
+<script>
+	var xlguidang = '';
+	if (xlguidang=="") {
+		var guidang = '0';
+		if(guidang == 1){
+			$("#guidangCon").css("display","block");
+		}else{
+			$("#guidangCon").css("display","none");
+		}
+	}
+	else{
+		var xlgdtime = '';
+		$('#guidangCon p').text(xlgdtime);
+		if(xlguidang == 1){
+			$("#guidangCon").css("display","block");
+		}else{
+			$("#guidangCon").css("display","none");
+		}
+	}
+</script>
+		</div>
+		<div class="title"><a href="javascript:void(0)">公示信息</a></div>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="./202306/t20230615_12069381.html" title="市属事业单位2022年第三季度公开遴选工作人员拟聘人员公示（市生态环境局）" target="_blank">市属事业单位2022年第三季度公开遴选工作人员拟聘人员公示（市生态环境局）</a><span>2023-06-15</span> </li>
+			
+			<li class="clearfix"><a href="./202306/t20230613_12059284.html" title="北碚区事业单位2022年第三季度公开招聘拟聘人员公示（第二批）" target="_blank">北碚区事业单位2022年第三季度公开招聘拟聘人员公示（第二批）</a><span>2023-06-13</span> </li>
+			
+			<li class="clearfix"><a href="./202306/t20230613_12059281.html" title="巫山县事业单位2023年第一季度公开招聘拟聘人员公示（第一批）" target="_blank">巫山县事业单位2023年第一季度公开招聘拟聘人员公示（第一批）</a><span>2023-06-13</span> </li>
+			
+			<li class="clearfix"><a href="./202306/t20230613_12059274.html" title="江北区事业单位2023年公开招聘拟聘人员公示（第四批）" target="_blank">江北区事业单位2023年公开招聘拟聘人员公示（第四批）</a><span>2023-06-13</span> </li>
+			
+			<li class="clearfix"><a href="./202306/t20230613_12059268.html" title="荣昌区事业单位2023年公开招聘拟聘人员公示（第二批）" target="_blank">荣昌区事业单位2023年公开招聘拟聘人员公示（第二批）</a><span>2023-06-13</span> </li>
+			
+		</ul>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="./202306/t20230608_12046552.html" title="​重庆市专业技术二级岗位拟聘用人选公示" target="_blank">​重庆市专业技术二级岗位拟聘用人选公示</a><span>2023-06-08</span> </li>
+			
+			<li class="clearfix"><a href="./202306/t20230608_12043204.html" title="​关于2023年重庆市巴渝杯优质工程奖拟表彰名单的公示" target="_blank">​关于2023年重庆市巴渝杯优质工程奖拟表彰名单的公示</a><span>2023-06-08</span> </li>
+			
+			<li class="clearfix"><a href="./202306/t20230607_12042514.html" title="南川区事业单位2022年考核招聘拟聘人员公示（第四批）" target="_blank">南川区事业单位2022年考核招聘拟聘人员公示（第四批）</a><span>2023-06-07</span> </li>
+			
+			<li class="clearfix"><a href="./202306/t20230607_12042534.html" title="大足区事业单位2023年考核招聘拟聘人员公示（第一批）" target="_blank">大足区事业单位2023年考核招聘拟聘人员公示（第一批）</a><span>2023-06-07</span> </li>
+			
+			<li class="clearfix"><a href="./202306/t20230607_12042507.html" title="永川区事业单位2022年第三季度公开招聘拟聘人员公示（第三批）" target="_blank">永川区事业单位2022年第三季度公开招聘拟聘人员公示（第三批）</a><span>2023-06-07</span> </li>
+			
+		</ul>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="./202306/t20230605_12027942.html" title="奉节县乡镇（街道）事业单位2022年专项招聘工作人员拟聘人员公示（第二批）" target="_blank">奉节县乡镇（街道）事业单位2022年专项招聘工作人员拟聘人员公示（第二批）</a><span>2023-06-05</span> </li>
+			
+			<li class="clearfix"><a href="./202306/t20230602_12024500.html" title="重庆师范大学考核招聘紧缺高层次人才拟聘人员公示(第一批）" target="_blank">重庆师范大学考核招聘紧缺高层次人才拟聘人员公示(第一批）</a><span>2023-06-02</span> </li>
+			
+			<li class="clearfix"><a href="./202306/t20230602_12024495.html" title="重庆医科大学2023年公开招聘事业单位工作人员拟聘人员公示（第二轮）" target="_blank">重庆医科大学2023年公开招聘事业单位工作人员拟聘人员公示（第二轮）</a><span>2023-06-02</span> </li>
+			
+			<li class="clearfix"><a href="./202306/t20230602_12024492.html" title="市属事业单位2022年公开招聘工作人员拟聘人员公示（市生态环境局）" target="_blank">市属事业单位2022年公开招聘工作人员拟聘人员公示（市生态环境局）</a><span>2023-06-02</span> </li>
+			
+			<li class="clearfix"><a href="./202306/t20230602_12024484.html" title="市属事业单位2022年第三季度公开招聘工作人员拟聘人员公示（市文化旅游委）" target="_blank">市属事业单位2022年第三季度公开招聘工作人员拟聘人员公示（市文化旅游委）</a><span>2023-06-02</span> </li>
+			
+		</ul>
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="./202306/t20230602_12024479.html" title="市属事业单位2023年第一季度公开招聘工作人员拟聘人员公示（市市场监管局）" target="_blank">市属事业单位2023年第一季度公开招聘工作人员拟聘人员公示（市市场监管局）</a><span>2023-06-02</span> </li>
+			
+			<li class="clearfix"><a href="./202306/t20230601_12018963.html" title="大渡口区事业单位2022年下半年公开招聘拟聘人员公示（第二批）" target="_blank">大渡口区事业单位2022年下半年公开招聘拟聘人员公示（第二批）</a><span>2023-06-01</span> </li>
+			
+			<li class="clearfix"><a href="./202306/t20230601_12018961.html" title="渝中区事业单位2023年公开招聘拟聘人员公示（第四批）" target="_blank">渝中区事业单位2023年公开招聘拟聘人员公示（第四批）</a><span>2023-06-01</span> </li>
+			
+			<li class="clearfix"><a href="./202306/t20230601_12018960.html" title="江北区事业单位公开招聘工作人员拟聘人员公示（2023年第三批）" target="_blank">江北区事业单位公开招聘工作人员拟聘人员公示（2023年第三批）</a><span>2023-06-01</span> </li>
+			
+			<li class="clearfix"><a href="./202306/t20230601_12018958.html" title="黔江区事业单位2023年第一季度公开招聘拟聘人员公示（第一批）" target="_blank">黔江区事业单位2023年第一季度公开招聘拟聘人员公示（第一批）</a><span>2023-06-01</span> </li>
+			
+		</ul>
+		
+      <div class="pagination" id="page"><a class="active">1</a><a class="" href="index_1.html">2</a><a class="" href="index_2.html">3</a><a class="" href="index_3.html">4</a><a class="" href="index_4.html">5</a><a>...</a><a class="" href="index_49.html">50</a><a class="last-page" href="index_1.html">下一页</a></div>
+      <script>
+//wcm分页，总记录：1000
+createPage(50, 0, "index", "html");
+function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
+	
+	var page="";
+	<!-- 总页数小于一页不显示 -->
+	if (_nPageCount == null || _nPageCount <= 1) {
+		return false;
+	} 
+
+	<!-- 上一页 -->
+	if (_nCurrIndex > 0){
+		if (_nCurrIndex == 1){
+			var prePage = _sPageName + "." + _sPageExt;
+		} else {
+			var prePage = _sPageName + "_" + (_nCurrIndex - 1) + "." + _sPageExt;
+		}
+		page+='<a class="first-page" href="' + prePage + '">上一页</a>';
+	}
+	
+	<!-- 前面大于三页 -->
+	if (_nCurrIndex > 2) {
+		page+='<a class="" href="' + _sPageName + "." + _sPageExt  + '">1</a>';	
+	}
+	
+	<!-- 前面大于四页省略 -->
+	if (_nCurrIndex > 3) {
+		page+='<a>...</a>';
+	}
+	
+	<!-- 列表 -->
+	for(var i = 0; i < _nPageCount; i++){
+		var sPageName;
+		<!-- 前两页 -->
+		if ((_nCurrIndex - 2) >= 0) { 
+			if (i == (_nCurrIndex - 2)){
+			 if (i == 0) {
+				 sPageName = _sPageName + "." + _sPageExt;
+			 } else {
+				 sPageName = _sPageName + "_" + (_nCurrIndex - 2) + "." + _sPageExt;
+			 }
+			 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			} 
+		}
+		if ((_nCurrIndex - 1) >= 0) {
+			 if (i == (_nCurrIndex - 1)){
+				 if (i == 0) {
+					 sPageName = _sPageName + "." + _sPageExt;
+				 } else {
+					 sPageName = _sPageName + "_" + (_nCurrIndex - 1) + "." + _sPageExt;
+				 }
+				 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			 } 
+		}
+		
+		<!-- 当前页 -->
+		if(i == _nCurrIndex){
+			page+='<a class="active">' + (i + 1) + '</a>';
+		}
+		
+		<!-- 后两页 -->
+		if ((_nCurrIndex + 1) <= (_nPageCount - 1)) { 
+			 if (i == (_nCurrIndex + 1)){                               
+				 sPageName = _sPageName + "_" + (_nCurrIndex + 1) + "." + _sPageExt;
+				 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			 } 
+		}
+		if ((_nCurrIndex + 2) <= (_nPageCount - 1)) {
+			 if (i == (_nCurrIndex + 2)){
+				 sPageName = _sPageName + "_" + (_nCurrIndex + 2) + "." + _sPageExt;
+				 page+='<a class="" href="' + sPageName + '">' + ( i + 1 ) +'</a>';
+			 } 
+		}
+              
+	}
+
+        for(var j = _nCurrIndex+3 ;j<( _nPageCount>5?5:_nPageCount); j++){
+             sPageName = _sPageName + "_" + j + "." + _sPageExt;
+	     page+='<a class="" href="' + sPageName + '">' + (j+1) +'</a>';
+                    
+        }
+
+
+		
+	<!-- 后面大于四页省略 -->
+	if (_nCurrIndex < (_nPageCount - 4)&&_nPageCount>6) {
+		page+='<a>...</a>';
+	}
+	
+	<!-- 后面大于三页 -->
+	if (_nCurrIndex <_nPageCount-3&&_nPageCount>5) {
+		page+='<a class="" href="' + _sPageName + "_" + (_nPageCount - 1) + "." + _sPageExt  + '">'+_nPageCount+'</a>';	
+	}
+
+	<!-- 下一页 -->
+	if (_nCurrIndex < (_nPageCount - 1)){
+		var prePage = _sPageName + "_" + (_nCurrIndex + 1) + "." + _sPageExt;
+		page+='<a class="last-page" href="' + prePage + '">下一页</a>';
+	}
+
+	
+	<!-- 打印页码 -->
+	$("#page").html(page);
+}
+</script>
+      <div class="dqwz" style="display:none"><a href="http://rlsbj.cq.gov.cn/" title="首页" class="CurrChnlCls" style="float: inherit;">首页</a>&nbsp;&gt;&nbsp;<a href="http://rlsbj.cq.gov.cn/zwxx_182/gsxx/" title="公示信息" class="CurrChnlCls" style="float: inherit;">公示信息</a></div>
+<script>
+	//当前位置颜色和样式
+	$('.dqwz a').css('float','inherit');
+
+	var text1=$('.dqwz a').eq(1).text();
+	$('.top-menu a').each(function(){
+		if($(this).find("span").text()===text1){
+                        $(".top-menu a").removeClass('cur');
+			$(this).addClass('cur');
+		}
+	});
+
+var text2=$('.dqwz a:last').text();
+ $('.p-lf .col').each(function(){
+	if($(this).html().indexOf(text2)>-1){
+            $('.p-lf .col').removeClass('cur');
+		$(this).addClass('cur');
+	}
+});
+</script>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (重庆粉笔招考)]]></title>
+        <id>https://www.fenbi.com/page/fenxiaozhaokaodetail/25/0/442209582478336</id>
+        <link href="https://www.fenbi.com/page/fenxiaozhaokaodetail/25/0/442209582478336"/>
+        <updated>2023-06-16T14:32:46.753Z</updated>
+        <content type="html"><![CDATA[<!----><!----><!----><!----><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/442209582478336"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆市渝北区观月小学校招聘启事</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status1">即将报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;教师</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/442190155773954"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆理工大学考核招聘事业单位工作人员170人公告</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status2">正在报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/442188481984513"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆电力高等专科学校第二批合同制员工招聘108人公告</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status2">正在报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/442190142929920"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆工商大学考核招聘教学科研人员47人公告</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status2">正在报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;教师</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/442182718487553"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">长寿区面向区内在编在岗教师公开遴选城区学校教师34名公告</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status1">即将报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;教师</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/442182402866176"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">派往石柱县公安局警务辅助人员招聘28人公告</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status2">正在报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;招警</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/442182718747650"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">四川外国语大学考核招聘事业单位工作人员21名公告</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status2">正在报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/442206185355268"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆市开州区事业单位面向万州、达州、云阳公开遴选工作人员1...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status1">即将报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/442187876956160"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆市九龙坡区谢家湾街道面向社会公开招聘临聘人员15人简章</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status1">即将报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;派遣/临时/购买服务等</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/442182718487552"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">长寿区面向区外在编在岗教师公开遴选教育事业单位工作人员15名公告</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status1">即将报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/442216049571840"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆水务环境控股集团有限公司2023年本部一般管理人员招聘公告</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status2">正在报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;国企</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/442210903686144"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">国航股份重庆分公司2023年校园招聘简章</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status2">正在报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;国企</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/442206676875265"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆市綦江区南州会务服务股份有限公司面向社会公开招聘工作人...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status1">即将报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;国企</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/442182402864128"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">派往石柱县禁毒办禁毒专职社工招聘公告</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status2">正在报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/442211155606529"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆市梁平区龙泉供水有限责任公司2023年度校园招聘简章</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status2">正在报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;国企</div></div></a><!---->]]></content>
     </entry>
 </feed>
