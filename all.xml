@@ -2,16 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xudadi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-18T05:34:54.287Z</updated>
+    <updated>2023-06-18T17:34:46.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (重庆市公考雷达)]]></title>
-        <id>https://www.gongkaoleida.com/article/1501301</id>
-        <link href="https://www.gongkaoleida.com/article/1501301"/>
-        <updated>2023-06-17T05:32:38.410Z</updated>
+        <id>https://www.gongkaoleida.com/article/1501909</id>
+        <link href="https://www.gongkaoleida.com/article/1501909"/>
+        <updated>2023-06-18T17:32:50.612Z</updated>
         <content type="html"><![CDATA[<!--公告列表-->
                 <div class="notice-list">
                     <ul class="link-list">
+                                                    <li>
+                                <h5>
+                                    <i class="notice-label">[南岸区]</i>
+                                    <i class="notice-label">[教师]</i>
+                                    
+                                    <a href="https://www.gongkaoleida.com/article/1501909" target="_blank" title="重庆第二师范学院2023年上半年公开招聘编外聘用工作人员公告">重庆第二师范学院2023年上半年公开招聘编外聘用工作人员公告</a>
+                                </h5>
+                                <time class=" time-red ">11小时前</time>
+                            </li>
                                                     <li>
                                 <h5>
                                     <i class="notice-label">[重庆市]</i>
@@ -270,15 +279,6 @@
                                     <i class="notice-label">[国企]</i>
                                     
                                     <a href="https://www.gongkaoleida.com/article/1494151" target="_blank" title="重庆建工第二建设有限公司招聘启事">重庆建工第二建设有限公司招聘启事</a>
-                                </h5>
-                                <time class="">2023-06-13</time>
-                            </li>
-                                                    <li>
-                                <h5>
-                                    <i class="notice-label">[重庆市]</i>
-                                    <i class="notice-label">[国企]</i>
-                                    
-                                    <a href="https://www.gongkaoleida.com/article/1494139" target="_blank" title="重庆建工设计院招聘启事">重庆建工设计院招聘启事</a>
                                 </h5>
                                 <time class="">2023-06-13</time>
                             </li>
@@ -1406,7 +1406,7 @@ var text2=$('.dqwz a:last').text();
         <title type="html"><![CDATA[undefined (重庆粉笔招考)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2023-06-18T05:34:53.070Z</updated>
-        <content type="html"><![CDATA[重庆市渝北区观月小学校招聘启事]]></content>
+        <updated>2023-06-18T17:34:45.692Z</updated>
+        <content type="html"><![CDATA[重庆第二师范学院公开招聘编外聘用工作人员53名公告]]></content>
     </entry>
 </feed>
