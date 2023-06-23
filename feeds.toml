@@ -57,7 +57,7 @@ linkSelector = "body > div.page-list.clearfix > ul:nth-child(3) > li:nth-child(1
 dateSelector = "ul.tab-item > li > span"
 dateFormat = "yyyy-MM-dd"
 
-[cqgsxx]
+[cqgqzp]
 title = "重庆市国有资产监督管理委员会-国企招聘"
 url = "http://gzw.cq.gov.cn/gqzp/"
 entrySelector = "body > div.page-list.clearfix"
