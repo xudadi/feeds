@@ -57,6 +57,15 @@ linkSelector = "body > div.page-list.clearfix > ul:nth-child(3) > li:nth-child(1
 dateSelector = "ul.tab-item > li > span"
 dateFormat = "yyyy-MM-dd"
 
+[cqgsxx]
+title = "重庆市国有资产监督管理委员会-国企招聘"
+url = "http://gzw.cq.gov.cn/gqzp/"
+entrySelector = "body > div.page-list.clearfix"
+titleSelector = "a.title"
+linkSelector = "body > div.page-list.clearfix > ul > li > a"
+dateSelector = "ul.tab-item > li"
+dateFormat = "yyyy-MM-dd"
+
 [cqfenbi]
 title = "重庆粉笔招考"
 url = "https://www.fenbi.com/page/fenxiaozhaokao/25"
