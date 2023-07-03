@@ -2,20 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://gzw.cq.gov.cn/gqzp/</id>
     <title>重庆市国有资产监督管理委员会-国企招聘</title>
-    <updated>2023-07-03T05:36:02.422Z</updated>
+    <updated>2023-07-03T17:34:24.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://gzw.cq.gov.cn/gqzp/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>http://gzw.cq.gov.cn/gqzp/</id>
         <link href="http://gzw.cq.gov.cn/gqzp/"/>
-        <updated>2023-07-03T05:35:46.941Z</updated>
+        <updated>2023-07-03T17:34:09.552Z</updated>
         <content type="html"><![CDATA[<div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
         国企招聘
 </div>
         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202307/t20230703_12117440.html" target="_blank">重庆市水产科学研究所招聘信息</a> <span>2023-07-03</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202307/t20230703_12117436.html" target="_blank">重庆设计集团港庆建设有限公司 2023年度公开招聘公告</a> <span>2023-07-03</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202307/t20230703_12117066.html" target="_blank">重庆巫山水利发展有限公司 2023年度社会招聘公告</a> <span>2023-07-03</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202307/t20230703_12116997.html" target="_blank">重庆百业兴物业管理有限责任公司 招聘简章</a> <span>2023-07-03</span></li>
+                
+            </ul>
+         
             <ul class="tab-item">
                 
                     <li class="clearfix"><a href="./202306/t20230630_12112160.html" target="_blank">重庆三峰环境集团股份有限公司及所属子企业2023年7月招聘简章</a> <span>2023-06-30</span></li>
@@ -82,30 +106,6 @@
                 
             </ul>
          
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202306/t20230626_12093788.html" target="_blank">重庆维景酒店有限责任公司招聘启事</a> <span>2023-06-26</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202306/t20230621_12087628.html" target="_blank">重庆开洲水资源开发有限公司2023年校园招聘简章</a> <span>2023-06-21</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202306/t20230621_12087617.html" target="_blank">重庆城投集团招聘公告</a> <span>2023-06-21</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202306/t20230619_12078318.html" target="_blank">重庆市环卫集团有限公司及所属子企业2023年6月招聘简章</a> <span>2023-06-19</span></li>
-                
-            </ul>
-         
-          <div class="pagination" id="page"><a class="active">1</a><a class="" href="index_1.html">2</a><a class="" href="index_2.html">3</a><a class="" href="index_3.html">4</a><a class="" href="index_4.html">5</a><a>...</a><a class="" href="index_25.html">26</a><a class="last-page" href="index_1.html">下一页</a></div>]]></content>
+          <div class="pagination" id="page"><a class="active">1</a><a class="" href="index_1.html">2</a><a class="" href="index_2.html">3</a><a class="" href="index_3.html">4</a><a class="" href="index_4.html">5</a><a>...</a><a class="" href="index_26.html">27</a><a class="last-page" href="index_1.html">下一页</a></div>]]></content>
     </entry>
 </feed>
