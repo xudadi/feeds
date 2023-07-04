@@ -2,20 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://gzw.cq.gov.cn/gqzp/</id>
     <title>重庆市国有资产监督管理委员会-国企招聘</title>
-    <updated>2023-07-04T05:38:13.335Z</updated>
+    <updated>2023-07-04T17:36:30.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://gzw.cq.gov.cn/gqzp/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>http://gzw.cq.gov.cn/gqzp/</id>
         <link href="http://gzw.cq.gov.cn/gqzp/"/>
-        <updated>2023-07-04T05:37:56.926Z</updated>
+        <updated>2023-07-04T17:36:15.629Z</updated>
         <content type="html"><![CDATA[<div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
         国企招聘
 </div>
         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202307/t20230704_12121426.html" target="_blank">西南证券股份有限公司招聘公告</a> <span>2023-07-04</span></li>
+                
+            </ul>
+         
             <ul class="tab-item">
                 
                     <li class="clearfix"><a href="./202307/t20230703_12117440.html" target="_blank">重庆市水产科学研究所招聘信息</a> <span>2023-07-03</span></li>
@@ -97,12 +103,6 @@
             <ul class="tab-item">
                 
                     <li class="clearfix"><a href="./202306/t20230626_12093822.html" target="_blank">重庆水投企业管理咨询有限公司2023年度社会招聘公告</a> <span>2023-06-26</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202306/t20230626_12093805.html" target="_blank">中垦供应链管理有限公司招聘信息</a> <span>2023-06-26</span></li>
                 
             </ul>
          
