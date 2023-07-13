@@ -2,20 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://gzw.cq.gov.cn/gqzp/</id>
     <title>重庆市国有资产监督管理委员会-国企招聘</title>
-    <updated>2023-07-13T05:36:14.769Z</updated>
+    <updated>2023-07-13T17:35:48.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://gzw.cq.gov.cn/gqzp/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>http://gzw.cq.gov.cn/gqzp/</id>
         <link href="http://gzw.cq.gov.cn/gqzp/"/>
-        <updated>2023-07-13T05:35:59.485Z</updated>
+        <updated>2023-07-13T17:35:36.661Z</updated>
         <content type="html"><![CDATA[<div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
         国企招聘
 </div>
         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202307/t20230713_12148936.html" target="_blank">重庆巨能建设（集团）有限公司招聘简章</a> <span>2023-07-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202307/t20230713_12148903.html" target="_blank">重庆市农业投资集团有限公司招聘信息</a> <span>2023-07-13</span></li>
+                
+            </ul>
+         
             <ul class="tab-item">
                 
                     <li class="clearfix"><a href="./202307/t20230712_12145568.html" target="_blank">重庆高速公路集团有限公司 关于公开招聘集团中层领导人员的公告</a> <span>2023-07-12</span></li>
@@ -94,18 +106,6 @@
                 
             </ul>
          
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202307/t20230703_12116997.html" target="_blank">重庆百业兴物业管理有限责任公司 招聘简章</a> <span>2023-07-03</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202306/t20230630_12112160.html" target="_blank">重庆三峰环境集团股份有限公司及所属子企业2023年7月招聘简章</a> <span>2023-06-30</span></li>
-                
-            </ul>
-         
-          <div class="pagination" id="page"><a class="active">1</a><a class="" href="index_1.html">2</a><a class="" href="index_2.html">3</a><a class="" href="index_3.html">4</a><a class="" href="index_4.html">5</a><a>...</a><a class="" href="index_26.html">27</a><a class="last-page" href="index_1.html">下一页</a></div>]]></content>
+          <div class="pagination" id="page"><a class="active">1</a><a class="" href="index_1.html">2</a><a class="" href="index_2.html">3</a><a class="" href="index_3.html">4</a><a class="" href="index_4.html">5</a><a>...</a><a class="" href="index_27.html">28</a><a class="last-page" href="index_1.html">下一页</a></div>]]></content>
     </entry>
 </feed>
