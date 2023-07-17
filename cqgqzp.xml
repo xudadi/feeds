@@ -2,20 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://gzw.cq.gov.cn/gqzp/</id>
     <title>重庆市国有资产监督管理委员会-国企招聘</title>
-    <updated>2023-07-17T05:36:33.478Z</updated>
+    <updated>2023-07-17T17:35:51.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://gzw.cq.gov.cn/gqzp/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>http://gzw.cq.gov.cn/gqzp/</id>
         <link href="http://gzw.cq.gov.cn/gqzp/"/>
-        <updated>2023-07-17T05:36:19.880Z</updated>
+        <updated>2023-07-17T17:35:37.371Z</updated>
         <content type="html"><![CDATA[<div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
         国企招聘
 </div>
         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202307/t20230717_12156856.html" target="_blank">重庆两江新区长江三峡小额贷款有限公司2023年招聘启事</a> <span>2023-07-17</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202307/t20230717_12156128.html" target="_blank">重庆仙女山机场有限公司 2023年公开招聘工作人员简章</a> <span>2023-07-17</span></li>
+                
+            </ul>
+         
             <ul class="tab-item">
                 
                     <li class="clearfix"><a href="./202307/t20230714_12152945.html" target="_blank">重庆银行酉阳支行招聘启事</a> <span>2023-07-14</span></li>
@@ -94,18 +106,6 @@
                 
             </ul>
          
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202307/t20230713_12148903.html" target="_blank">重庆市农业投资集团有限公司招聘信息</a> <span>2023-07-13</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202307/t20230713_12148893.html" target="_blank">重庆市投资咨询有限公司招聘公告</a> <span>2023-07-13</span></li>
-                
-            </ul>
-         
-          <div class="pagination" id="page"><a class="active">1</a><a class="" href="index_1.html">2</a><a class="" href="index_2.html">3</a><a class="" href="index_3.html">4</a><a class="" href="index_4.html">5</a><a>...</a><a class="" href="index_27.html">28</a><a class="last-page" href="index_1.html">下一页</a></div>]]></content>
+          <div class="pagination" id="page"><a class="active">1</a><a class="" href="index_1.html">2</a><a class="" href="index_2.html">3</a><a class="" href="index_3.html">4</a><a class="" href="index_4.html">5</a><a>...</a><a class="" href="index_28.html">29</a><a class="last-page" href="index_1.html">下一页</a></div>]]></content>
     </entry>
 </feed>
