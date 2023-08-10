@@ -2,20 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://gzw.cq.gov.cn/gqzp/</id>
     <title>重庆市国有资产监督管理委员会-国企招聘</title>
-    <updated>2023-08-10T05:34:20.331Z</updated>
+    <updated>2023-08-10T17:35:08.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://gzw.cq.gov.cn/gqzp/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>http://gzw.cq.gov.cn/gqzp/</id>
         <link href="http://gzw.cq.gov.cn/gqzp/"/>
-        <updated>2023-08-10T05:34:06.708Z</updated>
+        <updated>2023-08-10T17:34:53.317Z</updated>
         <content type="html"><![CDATA[<div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
         国企招聘
 </div>
         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202308/t20230810_12231218.html" target="_blank">西南证券股份有限公司招聘公告</a> <span>2023-08-10</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202308/t20230810_12231213.html" target="_blank">重庆农投商贸有限公司招聘信息</a> <span>2023-08-10</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202308/t20230810_12231207.html" target="_blank">重庆市西部水资源开发有限公司2023年度社会招聘公告</a> <span>2023-08-10</span></li>
+                
+            </ul>
+         
             <ul class="tab-item">
                 
                     <li class="clearfix"><a href="./202308/t20230809_12227920.html" target="_blank">重庆市渝綦水务技术开发有限公司2023年度社会招聘公告</a> <span>2023-08-09</span></li>
@@ -88,24 +106,6 @@
                 
             </ul>
          
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202308/t20230801_12205590.html" target="_blank">重庆三峰环境集团股份有限公司及所属子企业2023年8月招聘简章</a> <span>2023-08-01</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202308/t20230801_12205584.html" target="_blank">重庆市金迪汽车装饰有限责任公司招聘简章</a> <span>2023-08-01</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202308/t20230801_12205582.html" target="_blank">重庆武陵文旅融合发展有限公司招聘公告</a> <span>2023-08-01</span></li>
-                
-            </ul>
-         
-          <div class="pagination" id="page"><a class="active">1</a><a class="" href="index_1.html">2</a><a class="" href="index_2.html">3</a><a class="" href="index_3.html">4</a><a class="" href="index_4.html">5</a><a>...</a><a class="" href="index_30.html">31</a><a class="last-page" href="index_1.html">下一页</a></div>]]></content>
+          <div class="pagination" id="page"><a class="active">1</a><a class="" href="index_1.html">2</a><a class="" href="index_2.html">3</a><a class="" href="index_3.html">4</a><a class="" href="index_4.html">5</a><a>...</a><a class="" href="index_31.html">32</a><a class="last-page" href="index_1.html">下一页</a></div>]]></content>
     </entry>
 </feed>
