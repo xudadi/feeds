@@ -2,20 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://gzw.cq.gov.cn/gqzp/</id>
     <title>重庆市国有资产监督管理委员会-国企招聘</title>
-    <updated>2023-08-14T05:35:05.926Z</updated>
+    <updated>2023-08-14T17:37:33.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://gzw.cq.gov.cn/gqzp/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>http://gzw.cq.gov.cn/gqzp/</id>
         <link href="http://gzw.cq.gov.cn/gqzp/"/>
-        <updated>2023-08-14T05:34:49.097Z</updated>
+        <updated>2023-08-14T17:37:18.121Z</updated>
         <content type="html"><![CDATA[<div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
         国企招聘
 </div>
         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202308/t20230814_12237732.html" target="_blank">重庆建工第三建设有限责任公司招聘启事</a> <span>2023-08-14</span></li>
+                
+            </ul>
+         
             <ul class="tab-item">
                 
                     <li class="clearfix"><a href="./202308/t20230811_12234356.html" target="_blank">重庆农投肉食品有限公司招聘简章</a> <span>2023-08-11</span></li>
@@ -97,12 +103,6 @@
             <ul class="tab-item">
                 
                     <li class="clearfix"><a href="./202308/t20230803_12212717.html" target="_blank">重庆华牧资产经营管理有限公司招聘简章</a> <span>2023-08-03</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202308/t20230803_12212709.html" target="_blank">中垦供应链管理有限公司招聘信息</a> <span>2023-08-03</span></li>
                 
             </ul>
          
