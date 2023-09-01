@@ -2,20 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://gzw.cq.gov.cn/gqzp/</id>
     <title>重庆市国有资产监督管理委员会-国企招聘</title>
-    <updated>2023-09-01T05:35:05.327Z</updated>
+    <updated>2023-09-01T17:34:40.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://gzw.cq.gov.cn/gqzp/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>http://gzw.cq.gov.cn/gqzp/</id>
         <link href="http://gzw.cq.gov.cn/gqzp/"/>
-        <updated>2023-09-01T05:34:50.062Z</updated>
+        <updated>2023-09-01T17:34:24.067Z</updated>
         <content type="html"><![CDATA[<div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
         国企招聘
 </div>
         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202309/t20230901_12298430.html" target="_blank">重庆农投商贸有限公司招聘信息</a> <span>2023-09-01</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202309/t20230901_12297879.html" target="_blank">重庆农投肉食品有限公司招聘简章</a> <span>2023-09-01</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202309/t20230901_12297855.html" target="_blank">重庆三峰环境集团股份有限公司及所属子企业2023年9月招聘简章</a> <span>2023-09-01</span></li>
+                
+            </ul>
+         
             <ul class="tab-item">
                 
                     <li class="clearfix"><a href="./202308/t20230829_12284836.html" target="_blank">重庆四联特种装备材料有限公司2023年公开招聘公告</a> <span>2023-08-29</span></li>
@@ -88,24 +106,6 @@
                 
             </ul>
          
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202308/t20230818_12254892.html" target="_blank">重庆建工市政基础设施工程事业部招聘启事</a> <span>2023-08-18</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202308/t20230818_12253447.html" target="_blank">重庆化医控股（集团）公司所属重钢总医院招聘简章</a> <span>2023-08-18</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202308/t20230817_12250507.html" target="_blank">重庆市三峡生态渔业有限公司招聘信息</a> <span>2023-08-17</span></li>
-                
-            </ul>
-         
-          <div class="pagination" id="page"><a class="active">1</a><a class="" href="index_1.html">2</a><a class="" href="index_2.html">3</a><a class="" href="index_3.html">4</a><a class="" href="index_4.html">5</a><a>...</a><a class="" href="index_32.html">33</a><a class="last-page" href="index_1.html">下一页</a></div>]]></content>
+          <div class="pagination" id="page"><a class="active">1</a><a class="" href="index_1.html">2</a><a class="" href="index_2.html">3</a><a class="" href="index_3.html">4</a><a class="" href="index_4.html">5</a><a>...</a><a class="" href="index_33.html">34</a><a class="last-page" href="index_1.html">下一页</a></div>]]></content>
     </entry>
 </feed>
