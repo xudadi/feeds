@@ -2,24 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xudadi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-03T17:52:09.819Z</updated>
+    <updated>2023-12-04T05:33:41.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (重庆市公考雷达)]]></title>
-        <id>https://www.gongkaoleida.com/article/1735925</id>
-        <link href="https://www.gongkaoleida.com/article/1735925"/>
-        <updated>2023-12-02T17:32:37.504Z</updated>
+        <id>https://www.gongkaoleida.com/article/1736366</id>
+        <link href="https://www.gongkaoleida.com/article/1736366"/>
+        <updated>2023-12-04T05:32:26.336Z</updated>
         <content type="html"><![CDATA[<!--公告列表-->
                 <div class="notice-list">
                     <ul class="link-list">
                                                     <li>
                                 <h5>
-                                    <i class="notice-label">[黔江区]</i>
+                                    <i class="notice-label">[沙坪坝区]</i>
+                                    <i class="notice-label">[国企]</i>
+                                    
+                                    <a href="https://www.gongkaoleida.com/article/1736366" target="_blank" title="重庆西永微电子产业园区开发有限公司2023年纪检监察干事社会招聘公告">重庆西永微电子产业园区开发有限公司2023年纪检监察干事社会招聘公告</a>
+                                </h5>
+                                <time class=" time-red ">3小时前</time>
+                            </li>
+                                                    <li>
+                                <h5>
+                                    <i class="notice-label">[大足区]</i>
                                     <i class="notice-label">[事业单位]</i>
                                     
-                                    <a href="https://www.gongkaoleida.com/article/1735925" target="_blank" title="关于公布重庆市黔江区事业单位2023年第四季度赴外考核招聘工作人员(长春站)招聘剩余岗位的通知">关于公布重庆市黔江区事业单位2023年第四季度赴外考核招聘工作人员(长春站)招聘剩余岗位的通知</a>
+                                    <a href="https://www.gongkaoleida.com/article/1736180" target="_blank" title="派往大足区公安局铁路护路队员招聘公告">派往大足区公安局铁路护路队员招聘公告</a>
                                 </h5>
-                                <time class="">2023-12-02</time>
+                                <time class=" time-red ">5小时前</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -273,15 +282,6 @@
                                 </h5>
                                 <time class="">2023-11-30</time>
                             </li>
-                                                    <li>
-                                <h5>
-                                    <i class="notice-label">[垫江县]</i>
-                                    <i class="notice-label">[国企]</i>
-                                    
-                                    <a href="https://www.gongkaoleida.com/article/1732214" target="_blank" title="中和农信咨询服务有限公司垫江分公司招聘简章">中和农信咨询服务有限公司垫江分公司招聘简章</a>
-                                </h5>
-                                <time class="">2023-11-29</time>
-                            </li>
                                             </ul>
                 </div>
                 <div class="pagelist-box">
@@ -309,9 +309,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (重庆市人社局-事业单位公开招聘)]]></title>
-        <id>https://rlsbj.cq.gov.cn/zwxx_182/sydw/202312/t20231203_12642028.html</id>
-        <link href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202312/t20231203_12642028.html"/>
-        <updated>2023-12-03T00:00:00.000Z</updated>
+        <id>https://rlsbj.cq.gov.cn/zwxx_182/sydw/202312/t20231204_12643815.html</id>
+        <link href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202312/t20231204_12643815.html"/>
+        <updated>2023-12-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="location">
 			<div style="position:relative;">
 <span>您当前的位置：</span><a href="../../" title="首页" class="poto">首页</a><span><span>&gt;</span>事业单位公开招聘</span>
@@ -345,6 +345,8 @@
 		
 		<ul class="tab-item">
 			
+			<li class="clearfix"><a href="./202312/t20231204_12643815.html" title="关于公布重庆市黔江区事业单位2023年第四季度赴外考核招聘工作人员（长春站）招聘剩余岗位的通知" target="_blank">关于公布重庆市黔江区事业单位2023年第四季度赴外考核招聘工作人员（长春站）招聘剩余岗位的通知</a><span>2023-12-04</span> </li>
+			
 			<li class="clearfix"><a href="./202312/t20231203_12642028.html" title="重庆市属事业单位2023年第四季度公开招聘工作人员考试报名统计2023-12-03" target="_blank">重庆市属事业单位2023年第四季度公开招聘工作人员考试报名统计2023-12-03</a><span>2023-12-03</span> </li>
 			
 			<li class="clearfix"><a href="./202312/t20231201_12640541.html" title="重庆市永川区事业单位2023年面向优秀村（社区）干部及在村挂职本土人才公开招聘工作人员公告" target="_blank">重庆市永川区事业单位2023年面向优秀村（社区）干部及在村挂职本土人才公开招聘工作人员公告</a><span>2023-12-01</span> </li>
@@ -353,11 +355,11 @@
 			
 			<li class="clearfix"><a href="./202311/t20231130_12635061.html" title="2023重庆国际人才交流大会事业单位考核招聘岗位无需笔试、直接进入面试人员名单（区县事业单位）" target="_blank">2023重庆国际人才交流大会事业单位考核招聘岗位无需笔试、直接进入面试人员名单（区县事业单位）</a><span>2023-11-30</span> </li>
 			
-			<li class="clearfix"><a href="./202311/t20231130_12635060.html" title="2023重庆国际人才交流大会事业单位考核招聘岗位实际招聘名额情况（区县事业单位）" target="_blank">2023重庆国际人才交流大会事业单位考核招聘岗位实际招聘名额情况（区县事业单位）</a><span>2023-11-30</span> </li>
-			
 		</ul>
 		
 		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="./202311/t20231130_12635060.html" title="2023重庆国际人才交流大会事业单位考核招聘岗位实际招聘名额情况（区县事业单位）" target="_blank">2023重庆国际人才交流大会事业单位考核招聘岗位实际招聘名额情况（区县事业单位）</a><span>2023-11-30</span> </li>
 			
 			<li class="clearfix"><a href="./202311/t20231130_12635059.html" title="2023重庆国际人才交流大会事业单位考核招聘岗位无需笔试、直接进入面试人员名单（市属事业单位）" target="_blank">2023重庆国际人才交流大会事业单位考核招聘岗位无需笔试、直接进入面试人员名单（市属事业单位）</a><span>2023-11-30</span> </li>
 			
@@ -367,11 +369,11 @@
 			
 			<li class="clearfix"><a href="./202311/t20231130_12634314.html" title="重庆市梁平区教育事业单位面向2024届教育部直属师范大学公费师范毕业生考核招聘工作人员公告" target="_blank">重庆市梁平区教育事业单位面向2024届教育部直属师范大学公费师范毕业生考核招聘工作人员公告</a><span>2023-11-30</span> </li>
 			
-			<li class="clearfix"><a href="./202311/t20231130_12634308.html" title="重庆市秀山县事业单位2023年下半年公开招聘工作人员公告" target="_blank">重庆市秀山县事业单位2023年下半年公开招聘工作人员公告</a><span>2023-11-30</span> </li>
-			
 		</ul>
 		
 		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="./202311/t20231130_12634308.html" title="重庆市秀山县事业单位2023年下半年公开招聘工作人员公告" target="_blank">重庆市秀山县事业单位2023年下半年公开招聘工作人员公告</a><span>2023-11-30</span> </li>
 			
 			<li class="clearfix"><a href="./202311/t20231130_12634304.html" title="重庆市云阳县事业单位2023年第四季度公开招聘工作人员公告" target="_blank">重庆市云阳县事业单位2023年第四季度公开招聘工作人员公告</a><span>2023-11-30</span> </li>
 			
@@ -381,11 +383,11 @@
 			
 			<li class="clearfix"><a href="./202311/t20231128_12620985.html" title="重庆市巫溪县基层医疗卫生事业单位2023年公开招聘紧缺专业技术人员和属地化医学类专业高校毕业生公告" target="_blank">重庆市巫溪县基层医疗卫生事业单位2023年公开招聘紧缺专业技术人员和属地化医学类专业高校毕业生公告</a><span>2023-11-28</span> </li>
 			
-			<li class="clearfix"><a href="./202311/t20231128_12620909.html" title="关于调整北碚区事业单位赴西安招聘现场报名及资格审查地点的通知" target="_blank">关于调整北碚区事业单位赴西安招聘现场报名及资格审查地点的通知</a><span>2023-11-28</span> </li>
-			
 		</ul>
 		
 		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="./202311/t20231128_12620909.html" title="关于调整北碚区事业单位赴西安招聘现场报名及资格审查地点的通知" target="_blank">关于调整北碚区事业单位赴西安招聘现场报名及资格审查地点的通知</a><span>2023-11-28</span> </li>
 			
 			<li class="clearfix"><a href="./202311/t20231127_12614357.html" title="关于公布重庆市綦江区事业单位2023年赴外公开招聘应届高校毕业生（四川站）招聘剩余岗位的通知" target="_blank">关于公布重庆市綦江区事业单位2023年赴外公开招聘应届高校毕业生（四川站）招聘剩余岗位的通知</a><span>2023-11-27</span> </li>
 			
@@ -394,8 +396,6 @@
 			<li class="clearfix"><a href="./202311/t20231124_12607563.html" title="重庆市属事业单位2023年第四季度公开招聘工作人员公告" target="_blank">重庆市属事业单位2023年第四季度公开招聘工作人员公告</a><span>2023-11-24</span> </li>
 			
 			<li class="clearfix"><a href="./202311/t20231124_12607528.html" title="2023重庆国际人才交流大会事业单位考核招聘紧缺高层次人才报名情况统计表（截至11月24日11：00）" target="_blank">2023重庆国际人才交流大会事业单位考核招聘紧缺高层次人才报名情况统计表（截至11月24日11：00）</a><span>2023-11-24</span> </li>
-			
-			<li class="clearfix"><a href="./202311/t20231124_12605692.html" title="​重庆两江新区卫生事业单位2023年下半年考核招聘工作人员公告" target="_blank">​重庆两江新区卫生事业单位2023年下半年考核招聘工作人员公告</a><span>2023-11-24</span> </li>
 			
 		</ul>
 		
@@ -1193,7 +1193,7 @@ var text2=$('.dqwz a:last').text();
         <title type="html"><![CDATA[undefined (重庆市人社局-公示信息)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2023-12-01T00:00:00.000Z</updated>
+        <updated>2023-12-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="location">
 			<div style="position:relative;">
 <span>您当前的位置：</span><a href="../../" title="首页" class="poto">首页</a><span><span>&gt;</span>公示信息</span>
@@ -1227,6 +1227,8 @@ var text2=$('.dqwz a:last').text();
 		
 		<ul class="tab-item">
 			
+			<li class="clearfix"><a href="./202312/t20231204_12643795.html" title="​关于重庆市技工教育思想政治理论课师资研修基地建设学校的公示" target="_blank">​关于重庆市技工教育思想政治理论课师资研修基地建设学校的公示</a><span>2023-12-04</span> </li>
+			
 			<li class="clearfix"><a href="./202312/t20231201_12637790.html" title="​关于第十四届重庆市青少年科技创新市长奖拟表彰对象的公示" target="_blank">​关于第十四届重庆市青少年科技创新市长奖拟表彰对象的公示</a><span>2023-12-01</span> </li>
 			
 			<li class="clearfix"><a href="./202311/t20231130_12634265.html" title="市属事业单位2023年第三季度公开招聘工作人员拟聘人员公示（市规划自然资源局）" target="_blank">市属事业单位2023年第三季度公开招聘工作人员拟聘人员公示（市规划自然资源局）</a><span>2023-11-30</span> </li>
@@ -1235,11 +1237,11 @@ var text2=$('.dqwz a:last').text();
 			
 			<li class="clearfix"><a href="./202311/t20231130_12634251.html" title="重庆师范大学2023年公开（考核）招聘工作人员拟聘人员公示（第四批）" target="_blank">重庆师范大学2023年公开（考核）招聘工作人员拟聘人员公示（第四批）</a><span>2023-11-30</span> </li>
 			
-			<li class="clearfix"><a href="./202311/t20231130_12634242.html" title="市卫生健康委所属事业单位2023年公开招聘事业单位工作人员拟聘人员公示（第四批）" target="_blank">市卫生健康委所属事业单位2023年公开招聘事业单位工作人员拟聘人员公示（第四批）</a><span>2023-11-30</span> </li>
-			
 		</ul>
 		
 		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="./202311/t20231130_12634242.html" title="市卫生健康委所属事业单位2023年公开招聘事业单位工作人员拟聘人员公示（第四批）" target="_blank">市卫生健康委所属事业单位2023年公开招聘事业单位工作人员拟聘人员公示（第四批）</a><span>2023-11-30</span> </li>
 			
 			<li class="clearfix"><a href="./202311/t20231130_12634221.html" title="市属事业单位2023年第三季度考核招聘高层次和紧缺人才拟聘人员公示（市规划自然资源局）" target="_blank">市属事业单位2023年第三季度考核招聘高层次和紧缺人才拟聘人员公示（市规划自然资源局）</a><span>2023-11-30</span> </li>
 			
@@ -1249,11 +1251,11 @@ var text2=$('.dqwz a:last').text();
 			
 			<li class="clearfix"><a href="./202311/t20231128_12620973.html" title="永川区事业单位2023年公开招聘拟聘人员公示（第七批）" target="_blank">永川区事业单位2023年公开招聘拟聘人员公示（第七批）</a><span>2023-11-28</span> </li>
 			
-			<li class="clearfix"><a href="./202311/t20231128_12620963.html" title="彭水自治县事业单位2023年公开招聘拟聘人员公示（第六批）" target="_blank">彭水自治县事业单位2023年公开招聘拟聘人员公示（第六批）</a><span>2023-11-28</span> </li>
-			
 		</ul>
 		
 		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="./202311/t20231128_12620963.html" title="彭水自治县事业单位2023年公开招聘拟聘人员公示（第六批）" target="_blank">彭水自治县事业单位2023年公开招聘拟聘人员公示（第六批）</a><span>2023-11-28</span> </li>
 			
 			<li class="clearfix"><a href="../../ywzl/zjrc/zj/202311/t20231128_12619235.html" title="关于2023年拟入选重庆市专家工作室领衔专家名单的公示" target="_blank">关于2023年拟入选重庆市专家工作室领衔专家名单的公示</a><span>2023-11-28</span> </li>
 			
@@ -1263,11 +1265,11 @@ var text2=$('.dqwz a:last').text();
 			
 			<li class="clearfix"><a href="./202311/t20231127_12614331.html" title="渝中区事业单位2023年公开招聘拟聘人员公示（第九批）" target="_blank">渝中区事业单位2023年公开招聘拟聘人员公示（第九批）</a><span>2023-11-27</span> </li>
 			
-			<li class="clearfix"><a href="./202311/t20231127_12614325.html" title="万州区事业单位2023年公开招聘拟聘人员公示（第六批）" target="_blank">万州区事业单位2023年公开招聘拟聘人员公示（第六批）</a><span>2023-11-27</span> </li>
-			
 		</ul>
 		
 		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="./202311/t20231127_12614325.html" title="万州区事业单位2023年公开招聘拟聘人员公示（第六批）" target="_blank">万州区事业单位2023年公开招聘拟聘人员公示（第六批）</a><span>2023-11-27</span> </li>
 			
 			<li class="clearfix"><a href="./202311/t20231127_12614301.html" title="渝北区事业单位2023年公开招聘拟聘人员公示（第六批）" target="_blank">渝北区事业单位2023年公开招聘拟聘人员公示（第六批）</a><span>2023-11-27</span> </li>
 			
@@ -1276,8 +1278,6 @@ var text2=$('.dqwz a:last').text();
 			<li class="clearfix"><a href="./202311/t20231127_12612809.html" title="关于设立2023年重庆市留学人员创业园的公示" target="_blank">关于设立2023年重庆市留学人员创业园的公示</a><span>2023-11-27</span> </li>
 			
 			<li class="clearfix"><a href="./202311/t20231124_12605677.html" title="市属事业单位2023年第一季度公开招聘工作人员拟聘人员公示（市人力社保局）" target="_blank">市属事业单位2023年第一季度公开招聘工作人员拟聘人员公示（市人力社保局）</a><span>2023-11-24</span> </li>
-			
-			<li class="clearfix"><a href="./202311/t20231124_12605663.html" title="西部科学城重庆高新区2023年公开招聘教育事业单位工作人员拟聘人员公示（第三批）" target="_blank">西部科学城重庆高新区2023年公开招聘教育事业单位工作人员拟聘人员公示（第三批）</a><span>2023-11-24</span> </li>
 			
 		</ul>
 		
@@ -1414,7 +1414,7 @@ var text2=$('.dqwz a:last').text();
         <title type="html"><![CDATA[undefined (重庆市国有资产监督管理委员会-国企招聘)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2023-12-03T17:51:55.455Z</updated>
+        <updated>2023-12-04T05:33:27.028Z</updated>
         <content type="html"><![CDATA[<div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
@@ -1517,7 +1517,7 @@ var text2=$('.dqwz a:last').text();
         <title type="html"><![CDATA[undefined (重庆粉笔招考)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2023-12-03T17:52:08.730Z</updated>
-        <content type="html"><![CDATA[<div _ngcontent-my-app-c3="" class="home-filter"><!----><div _ngcontent-my-app-c3="" class="home-filter-text active ng-star-inserted">招考信息</div><!----><!----><div _ngcontent-my-app-c3="" class="home-filter-text ng-star-inserted">考试时间</div></div><div _ngcontent-my-app-c3="" class="home-page-split"></div><!----><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-filter ng-star-inserted"><!----><!----><!----><!----><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-filter-item active ng-star-inserted" href="/page/fenxiaozhaokao/25/0?page=0">最新</a><!----><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-filter-item ng-star-inserted" href="/page/fenxiaozhaokao/25/181?page=0">重庆市</a><!----><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-filter-sub-open"><!----><!----><!----><div _ngcontent-my-app-c3="" class="filter-sub-open-icon shaixuan ng-star-inserted"></div><!----><div _ngcontent-my-app-c3="" class="filter-sub-open-text ng-star-inserted">筛选</div></div></div><!----><!----><!----><!----><!----><!----><div _ngcontent-my-app-c3="" class="zixun-block"><!----><!----><!----><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-detail ng-star-inserted"><!----><!----><!----><!----><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/446038500458496"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆市綦江保安服务有限公司派往重庆市綦江区公安局辅警岗位工...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status2">正在报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;招警</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/446034977243136"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆渝富控股集团有限公司2023年紧缺岗位公开招聘公告</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status2">正在报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;国企</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445721662749696"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">关于重庆医科大学附属第一医院近期赴部分高校开展校园招聘13...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;医疗</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445773693351936"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆市云阳县教育事业单位面向2024届高校毕业生公开招聘工...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445561068875781"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆医科大学附属大学城医院重庆国际人才交流大会事业单位考核...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445654292774913"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆社会科学院重庆国际人才交流大会事业单位考核招聘紧缺高层...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445948878930945"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆市江北区人民政府郭家沱街道办事处面向社会公开招聘公益性...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/446018116941829"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆市永川区事业单位2023年面向优秀村(社区)干部及在村...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status1">即将报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445989552683008"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆市綦江区赶水镇人民政府公开招聘公益性岗位人员公告</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;派遣/临时/购买服务等</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445950608571392"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">关于重医一院超声科招聘2名编外文字录入员的通知</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;派遣/临时/购买服务等</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445969780196354"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">两江新区人才发展集团派往重庆两江新区明月湖研究院公司外包岗...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;国企</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445951804194817"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆大学保卫处劳务派遣工作人员招聘启事</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;派遣/临时/购买服务等</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445828899028992"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">恒丰银行重庆分行社会招聘启事</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status2">正在报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;银行</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445814461449220"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">中化地质矿山总局(中化明达控股集团有限公司)2024年度应...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status2">正在报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;国企</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445859068920834"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆市属事业单位第四季度公开招聘工作人员244人公告</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status2">正在报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><!----></div><nav _ngcontent-my-app-c3="" class="zixun-list-pager"><!----><fb-pager _ngcontent-my-app-c3="" _nghost-my-app-c4="" class="ng-star-inserted"><!----><div _ngcontent-my-app-c4="" class="paging ng-star-inserted"><div _ngcontent-my-app-c4="" class="item"><a _ngcontent-my-app-c4="" href="/page/fenxiaozhaokao/25?page=0"></a><div _ngcontent-my-app-c4="" class="qianpage"></div></div><div _ngcontent-my-app-c4="" class="item active"><a _ngcontent-my-app-c4="" href="/page/fenxiaozhaokao/25?page=0"></a> 1 </div><!----><!----><!----><div _ngcontent-my-app-c4="" class="item ng-star-inserted"><a _ngcontent-my-app-c4="" href="/page/fenxiaozhaokao/25?page=1"></a> 2 </div><!----><div _ngcontent-my-app-c4="" class="item ng-star-inserted"><a _ngcontent-my-app-c4="" href="/page/fenxiaozhaokao/25?page=2"></a> 3 </div><!----><div _ngcontent-my-app-c4="" class="item ng-star-inserted"><a _ngcontent-my-app-c4="" href="/page/fenxiaozhaokao/25?page=3"></a> 4 </div><!----><span _ngcontent-my-app-c4="" class="ng-star-inserted">&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;</span><!----><div _ngcontent-my-app-c4="" class="item ng-star-inserted"><a _ngcontent-my-app-c4="" href="/page/fenxiaozhaokao/25?page=34"></a> 35 </div><div _ngcontent-my-app-c4="" class="item"><a _ngcontent-my-app-c4="" href="/page/fenxiaozhaokao/25?page=1"></a><div _ngcontent-my-app-c4="" class="houpage"></div></div></div></fb-pager></nav></div>]]></content>
+        <updated>2023-12-04T05:33:40.752Z</updated>
+        <content type="html"><![CDATA[<div _ngcontent-my-app-c3="" class="home-filter"><!----><div _ngcontent-my-app-c3="" class="home-filter-text active ng-star-inserted">招考信息</div><!----><!----><div _ngcontent-my-app-c3="" class="home-filter-text ng-star-inserted">考试时间</div></div><div _ngcontent-my-app-c3="" class="home-page-split"></div><!----><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-filter ng-star-inserted"><!----><!----><!----><!----><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-filter-item active ng-star-inserted" href="/page/fenxiaozhaokao/25/0?page=0">最新</a><!----><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-filter-item ng-star-inserted" href="/page/fenxiaozhaokao/25/181?page=0">重庆市</a><!----><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-filter-sub-open"><!----><!----><!----><div _ngcontent-my-app-c3="" class="filter-sub-open-icon shaixuan ng-star-inserted"></div><!----><div _ngcontent-my-app-c3="" class="filter-sub-open-text ng-star-inserted">筛选</div></div></div><!----><!----><!----><!----><!----><!----><div _ngcontent-my-app-c3="" class="zixun-block"><!----><!----><!----><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-detail ng-star-inserted"><!----><!----><!----><!----><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/446038500458496"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆市綦江保安服务有限公司派往重庆市綦江区公安局辅警岗位工...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status2">正在报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;招警</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/446078010817537"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">派往大足区公安局铁路护路队员招聘公告</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;招警</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/446079331746816"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆西永微电子产业园区开发有限公司2023年纪检监察干事社...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status2">正在报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;国企</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445721662749696"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">关于重庆医科大学附属第一医院近期赴部分高校开展校园招聘13...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;医疗</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445773693351936"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆市云阳县教育事业单位面向2024届高校毕业生公开招聘工...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445561068875781"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆医科大学附属大学城医院重庆国际人才交流大会事业单位考核...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445654292774913"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆社会科学院重庆国际人才交流大会事业单位考核招聘紧缺高层...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445948878930945"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆市江北区人民政府郭家沱街道办事处面向社会公开招聘公益性...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/446018116941829"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆市永川区事业单位2023年面向优秀村(社区)干部及在村...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445989552683008"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆市綦江区赶水镇人民政府公开招聘公益性岗位人员公告</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;派遣/临时/购买服务等</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445950608571392"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">关于重医一院超声科招聘2名编外文字录入员的通知</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;派遣/临时/购买服务等</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445969780196354"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">两江新区人才发展集团派往重庆两江新区明月湖研究院公司外包岗...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;国企</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445951804194817"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">重庆大学保卫处劳务派遣工作人员招聘启事</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status4">即将截止</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;派遣/临时/购买服务等</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445828899028992"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">恒丰银行重庆分行社会招聘启事</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status2">正在报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;银行</div></div></a><a _ngcontent-my-app-c3="" class="zhaokaoxinxi-item ng-star-inserted" target="_blank" href="/page/fenxiaozhaokaodetail/25/0/445814461449220"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-title">中化地质矿山总局(中化明达控股集团有限公司)2024年度应...</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-status status2">正在报名</div><div _ngcontent-my-app-c3="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;国企</div></div></a><!----></div><nav _ngcontent-my-app-c3="" class="zixun-list-pager"><!----><fb-pager _ngcontent-my-app-c3="" _nghost-my-app-c4="" class="ng-star-inserted"><!----><div _ngcontent-my-app-c4="" class="paging ng-star-inserted"><div _ngcontent-my-app-c4="" class="item"><a _ngcontent-my-app-c4="" href="/page/fenxiaozhaokao/25?page=0"></a><div _ngcontent-my-app-c4="" class="qianpage"></div></div><div _ngcontent-my-app-c4="" class="item active"><a _ngcontent-my-app-c4="" href="/page/fenxiaozhaokao/25?page=0"></a> 1 </div><!----><!----><!----><div _ngcontent-my-app-c4="" class="item ng-star-inserted"><a _ngcontent-my-app-c4="" href="/page/fenxiaozhaokao/25?page=1"></a> 2 </div><!----><div _ngcontent-my-app-c4="" class="item ng-star-inserted"><a _ngcontent-my-app-c4="" href="/page/fenxiaozhaokao/25?page=2"></a> 3 </div><!----><div _ngcontent-my-app-c4="" class="item ng-star-inserted"><a _ngcontent-my-app-c4="" href="/page/fenxiaozhaokao/25?page=3"></a> 4 </div><!----><span _ngcontent-my-app-c4="" class="ng-star-inserted">&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;</span><!----><div _ngcontent-my-app-c4="" class="item ng-star-inserted"><a _ngcontent-my-app-c4="" href="/page/fenxiaozhaokao/25?page=34"></a> 35 </div><div _ngcontent-my-app-c4="" class="item"><a _ngcontent-my-app-c4="" href="/page/fenxiaozhaokao/25?page=1"></a><div _ngcontent-my-app-c4="" class="houpage"></div></div></div></fb-pager></nav></div>]]></content>
     </entry>
 </feed>
