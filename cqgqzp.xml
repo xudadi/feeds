@@ -2,20 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://gzw.cq.gov.cn/gqzp/</id>
     <title>重庆市国有资产监督管理委员会-国企招聘</title>
-    <updated>2023-12-17T17:33:54.559Z</updated>
+    <updated>2023-12-18T05:34:03.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://gzw.cq.gov.cn/gqzp/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>http://gzw.cq.gov.cn/gqzp/</id>
         <link href="http://gzw.cq.gov.cn/gqzp/"/>
-        <updated>2023-12-17T17:33:38.894Z</updated>
+        <updated>2023-12-18T05:33:50.950Z</updated>
         <content type="html"><![CDATA[<div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
         国企招聘
 </div>
         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202312/t20231218_12714706.html" target="_blank">重庆机电智能制造有限公司招聘简章</a> <span>2023-12-18</span></li>
+                
+            </ul>
+         
             <ul class="tab-item">
                 
                     <li class="clearfix"><a href="./202312/t20231214_12705819.html" target="_blank">重庆江北国际机场有限公司社会招聘简章</a> <span>2023-12-14</span></li>
@@ -97,12 +103,6 @@
             <ul class="tab-item">
                 
                     <li class="clearfix"><a href="./202312/t20231206_12663368.html" target="_blank">数字重庆公司公开招聘</a> <span>2023-12-06</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202312/t20231204_12645181.html" target="_blank">重庆西永微电子产业园区开发有限公司招聘公告</a> <span>2023-12-04</span></li>
                 
             </ul>
          
