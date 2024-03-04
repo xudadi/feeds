@@ -2,20 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://gzw.cq.gov.cn/gqzp/</id>
     <title>重庆市国有资产监督管理委员会-国企招聘</title>
-    <updated>2024-03-03T17:34:23.438Z</updated>
+    <updated>2024-03-04T06:06:10.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://gzw.cq.gov.cn/gqzp/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>http://gzw.cq.gov.cn/gqzp/</id>
         <link href="http://gzw.cq.gov.cn/gqzp/"/>
-        <updated>2024-03-03T17:34:08.257Z</updated>
+        <updated>2024-03-04T06:05:57.497Z</updated>
         <content type="html"><![CDATA[<div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
         国企招聘
 </div>
         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202403/t20240304_12987969.html" target="_blank">重庆渝之旅国际旅行社股份有限公司招聘公告</a> <span>2024-03-04</span></li>
+                
+            </ul>
+         
             <ul class="tab-item">
                 
                     <li class="clearfix"><a href="./202402/t20240229_12974561.html" target="_blank">重庆两江新区招商集团有限公司招聘简章</a> <span>2024-02-29</span></li>
@@ -97,12 +103,6 @@
             <ul class="tab-item">
                 
                     <li class="clearfix"><a href="./202402/t20240201_12892070.html" target="_blank">重庆化医集团所属重钢总医院招聘简章</a> <span>2024-02-01</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202402/t20240201_12892067.html" target="_blank">重庆市天友乳业股份有限公司招聘简章</a> <span>2024-02-01</span></li>
                 
             </ul>
          
