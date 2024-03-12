@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rlsbj.cq.gov.cn/ywzl/rsks/sydwks/</id>
     <title>重庆市人社局-事业单位及其他考试</title>
-    <updated>2024-03-12T05:33:46.628Z</updated>
+    <updated>2024-03-12T17:34:30.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rlsbj.cq.gov.cn/ywzl/rsks/sydwks/favicon.ico</icon>
     <entry>
@@ -41,6 +41,8 @@
 		</div>
 		<div class="title"><a href="javascript:void(0)">事业单位及其他考试</a></div>
 		
+		
+		
 		<ul class="tab-item">
 			
 			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202402/t20240219_12934187.html" title="重庆市属事业单位2024年第一季度公开招聘工作人员公告" target="_blank">重庆市属事业单位2024年第一季度公开招聘工作人员公告</a><span>2024-02-20</span> </li>
@@ -71,8 +73,6 @@
 		
 		<ul class="tab-item">
 			
-			<li class="clearfix"><a href="../../../zwxx_182/sydw/202211/t20221118_11314079.html" title="关于延长2022重庆英才大会事业单位考核招聘紧缺高层次人才报名时间的公告" target="_blank">关于延长2022重庆英才大会事业单位考核招聘紧缺高层次人才报名时间的公告</a><span>2022-11-18</span> </li>
-			
 			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202209/t20220930_11160827.html" title="重庆市九龙坡区事业单位2022年下半年公开招聘工作人员公告" target="_blank">重庆市九龙坡区事业单位2022年下半年公开招聘工作人员公告</a><span>2022-09-30</span> </li>
 			
 			<li class="clearfix"><a href="../../../zwxx_182/tzgg/202209/t20220923_11136118.html" title="2022年重庆市招募“三支一扶”人员缺额岗位调剂有关事项的公告" target="_blank">2022年重庆市招募“三支一扶”人员缺额岗位调剂有关事项的公告</a><span>2022-09-23</span> </li>
@@ -81,11 +81,11 @@
 			
 			<li class="clearfix"><a href="../../../zwxx_182/tzgg/202206/t20220616_10819668.html" title="关于2022年重庆市招募“三支一扶”人员有关事项的补充公告" target="_blank">关于2022年重庆市招募“三支一扶”人员有关事项的补充公告</a><span>2022-06-16</span> </li>
 			
+			<li class="clearfix"><a href="../../../zwxx_182/tzgg/202206/t20220615_10816549.html" title="2022年重庆市招募“三支一扶”人员简章" target="_blank">2022年重庆市招募“三支一扶”人员简章</a><span>2022-06-15</span> </li>
+			
 		</ul>
 		
 		<ul class="tab-item">
-			
-			<li class="clearfix"><a href="../../../zwxx_182/tzgg/202206/t20220615_10816549.html" title="2022年重庆市招募“三支一扶”人员简章" target="_blank">2022年重庆市招募“三支一扶”人员简章</a><span>2022-06-15</span> </li>
 			
 			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202204/t20220408_10598536.html" title="2022年上半年重庆市属事业单位集中公开招聘工作人员公告" target="_blank">2022年上半年重庆市属事业单位集中公开招聘工作人员公告</a><span>2022-04-08</span> </li>
 			
@@ -95,11 +95,15 @@
 			
 			<li class="clearfix"><a href="http://rlsbj.cq.gov.cn/zwxx_182/sydw/202111/t20211125_10035082.html" title="​关于举行2021重庆英才大会事业单位考核招聘笔试的公告" target="_blank">​关于举行2021重庆英才大会事业单位考核招聘笔试的公告</a><span>2021-12-01</span> </li>
 			
+			<li class="clearfix"><a href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202112/t20211201_10062473.html" title="丰都县2021年下半年公开招聘事业单位工作人员简章" target="_blank">丰都县2021年下半年公开招聘事业单位工作人员简章</a><span>2021-12-01</span> </li>
+			
 		</ul>
+		
+		
 		
       <div class="pagination" id="page"><a class="active">1</a><a class="" href="index_1.html">2</a><a class="" href="index_2.html">3</a><a class="" href="index_3.html">4</a><a class="" href="index_4.html">5</a><a class="last-page" href="index_1.html">下一页</a></div>
       <script>
-//wcm分页，总记录：84
+//wcm分页，总记录：83
 createPage(5, 0, "index", "html");
 function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
 	
