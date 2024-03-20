@@ -26,8 +26,8 @@ title = "重庆市人社局-事业单位及其他考试"
 url = "https://rlsbj.cq.gov.cn/ywzl/rsks/sydwks/"
 entrySelector = "body > div.page-list.clearfix"
 titleSelector = "a.title"
-linkSelector = "ul.tab-item > li > a"
-dateSelector = "ul.tab-item > li > span"
+linkSelector = "ul.tab-item > li.clearfix > a"
+dateSelector = "ul.tab-item > li.clearfix > span"
 dateFormat = "yyyy-MM-dd"
 
 [cqgwy]
