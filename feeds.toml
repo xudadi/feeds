@@ -14,7 +14,7 @@ dateFormat = "yyyy-MM-dd"
 
 [cqsydw]
 title = "重庆市人社局-事业单位公开招聘"
-url = "https://rlsbj.cq.gov.cn/zwxx_182/sydw/"
+url = "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024/"
 entrySelector = "body > div.page-list.clearfix"
 titleSelector = "a.title"
 linkSelector = "ul.tab-item > li > a"
