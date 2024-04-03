@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/</id>
     <title>重庆市人社局-公示信息</title>
-    <updated>2024-04-02T17:35:11.879Z</updated>
+    <updated>2024-04-03T05:34:44.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/favicon.ico</icon>
     <entry>
@@ -103,7 +103,7 @@
 		
       <div class="pagination" id="page"><a class="active">1</a><a class="" href="index_1.html">2</a><a class="" href="index_2.html">3</a><a class="" href="index_3.html">4</a><a class="" href="index_4.html">5</a><a>...</a><a class="" href="index_154.html">155</a><a class="last-page" href="index_1.html">下一页</a></div>
       <script>
-//wcm分页，总记录：3087
+//wcm分页，总记录：3086
 createPage(155, 0, "index", "html");
 function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
 	
