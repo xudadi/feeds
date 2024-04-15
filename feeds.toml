@@ -75,3 +75,12 @@ linkSelector = "#zixun > div.zixun-block > div"
 dateSelector = "#zixun > div.zixun-block > div > a > div.zhaokaoxinxi-item-info"
 dateFormat = "yyyy-MM-dd"
 
+[readblog]
+title = "读书博客"
+url = "https://bf.zzxworld.com/t/read"
+entrySelector = "#topic-posts > li > div > div.block-info > div"
+titleSelector = "#topic-posts > li > div > div.block-info > div > a"
+linkSelector = "#topic-posts > li > div > div.block-info > div > a"
+dateSelector = "#topic-posts > li > div > div.block-info > footer > time"
+dateFormat = "yyyy-MM-dd"
+
