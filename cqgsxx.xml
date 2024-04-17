@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/</id>
     <title>重庆市人社局-公示信息</title>
-    <updated>2024-04-17T05:34:57.780Z</updated>
+    <updated>2024-04-17T17:36:56.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/</id>
         <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/"/>
-        <updated>2024-04-16T00:00:00.000Z</updated>
+        <updated>2024-04-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="location">
 			<div style="position:relative;">
 <span>您当前的位置：</span><a href="../../" title="首页" class="poto">首页</a><span><span>&gt;</span>公示信息</span>
@@ -41,6 +41,20 @@
 		</div>
 		<div class="title"><a href="javascript:void(0)">公示信息</a></div>
 		
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="./202404/t20240417_13139184.html" title="开州区事业单位2024年公开招聘拟聘人员公示（第四批）" target="_blank">开州区事业单位2024年公开招聘拟聘人员公示（第四批）</a><span>2024-04-17</span> </li>
+			
+			<li class="clearfix"><a href="./202404/t20240417_13139105.html" title="重庆邮电大学2024年公开招聘事业单位工作人员拟聘人员公示（第一批）" target="_blank">重庆邮电大学2024年公开招聘事业单位工作人员拟聘人员公示（第一批）</a><span>2024-04-17</span> </li>
+			
+			<li class="clearfix"><a href="./202404/t20240417_13139104.html" title="重庆城市职业学院2023年考核招聘高层次和紧缺人才拟聘人员公示（第三批）" target="_blank">重庆城市职业学院2023年考核招聘高层次和紧缺人才拟聘人员公示（第三批）</a><span>2024-04-17</span> </li>
+			
+			<li class="clearfix"><a href="./202404/t20240417_13139100.html" title="市属事业单位2023年第四季度公开招聘工作人员拟聘人员公示（市民政局）" target="_blank">市属事业单位2023年第四季度公开招聘工作人员拟聘人员公示（市民政局）</a><span>2024-04-17</span> </li>
+			
+			<li class="clearfix"><a href="./202404/t20240417_13139098.html" title="西南政法大学2023年考核招聘事业单位工作人员拟聘人员公示（第二批）" target="_blank">西南政法大学2023年考核招聘事业单位工作人员拟聘人员公示（第二批）</a><span>2024-04-17</span> </li>
+			
+		</ul>
 		
 		<ul class="tab-item">
 			
@@ -84,26 +98,12 @@
 			
 		</ul>
 		
-		<ul class="tab-item">
-			
-			<li class="clearfix"><a href="./202404/t20240407_13107885.html" title="石柱县事业单位2024年公开招聘拟聘人员公示（第三批）" target="_blank">石柱县事业单位2024年公开招聘拟聘人员公示（第三批）</a><span>2024-04-07</span> </li>
-			
-			<li class="clearfix"><a href="./202404/t20240407_13107879.html" title="梁平区事业单位2024年公开招聘拟聘人员公示（第四批）" target="_blank">梁平区事业单位2024年公开招聘拟聘人员公示（第四批）</a><span>2024-04-07</span> </li>
-			
-			<li class="clearfix"><a href="./202404/t20240407_13107873.html" title="江北区事业单位2024年公开招聘拟聘人员公示（第二批）" target="_blank">江北区事业单位2024年公开招聘拟聘人员公示（第二批）</a><span>2024-04-07</span> </li>
-			
-			<li class="clearfix"><a href="./202404/t20240407_13107859.html" title="璧山区事业单位2024年公开招聘拟聘人员公示（第二批）" target="_blank">璧山区事业单位2024年公开招聘拟聘人员公示（第二批）</a><span>2024-04-07</span> </li>
-			
-			<li class="clearfix"><a href="./202404/t20240406_13107203.html" title="关于对2023年度重庆市博士后研究项目特别资助拟入选名单的公示" target="_blank">关于对2023年度重庆市博士后研究项目特别资助拟入选名单的公示</a><span>2024-04-06</span> </li>
-			
-		</ul>
-		
 		
 		
 		
       <div class="pagination" id="page"><a class="active">1</a><a class="" href="index_1.html">2</a><a class="" href="index_2.html">3</a><a class="" href="index_3.html">4</a><a class="" href="index_4.html">5</a><a>...</a><a class="" href="index_155.html">156</a><a class="last-page" href="index_1.html">下一页</a></div>
       <script>
-//wcm分页，总记录：3108
+//wcm分页，总记录：3113
 createPage(156, 0, "index", "html");
 function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
 	
