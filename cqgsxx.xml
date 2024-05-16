@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/</id>
     <title>重庆市人社局-公示信息</title>
-    <updated>2024-05-15T17:37:15.168Z</updated>
+    <updated>2024-05-16T05:36:29.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/</id>
         <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/"/>
-        <updated>2024-05-14T00:00:00.000Z</updated>
+        <updated>2024-05-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="location">
 			<div style="position:relative;">
 <span>您当前的位置：</span><a href="../../" title="首页" class="poto">首页</a><span><span>&gt;</span>公示信息</span>
@@ -41,6 +41,20 @@
 		</div>
 		<div class="title"><a href="javascript:void(0)">公示信息</a></div>
 		
+		
+		<ul class="tab-item">
+			
+			<li class="clearfix"><a href="./202405/t20240516_13211304.html" title="渝北区事业单位2024年公开招聘拟聘人员公示（第三批）" target="_blank">渝北区事业单位2024年公开招聘拟聘人员公示（第三批）</a><span>2024-05-16</span> </li>
+			
+			<li class="clearfix"><a href="./202405/t20240516_13211301.html" title="酉阳县事业单位2024年公开招聘拟聘人员公示（第四批）" target="_blank">酉阳县事业单位2024年公开招聘拟聘人员公示（第四批）</a><span>2024-05-16</span> </li>
+			
+			<li class="clearfix"><a href="./202405/t20240516_13211299.html" title="永川区事业单位2024年公开招聘拟聘人员公示（第四批）" target="_blank">永川区事业单位2024年公开招聘拟聘人员公示（第四批）</a><span>2024-05-16</span> </li>
+			
+			<li class="clearfix"><a href="./202405/t20240516_13211296.html" title="南岸区事业单位2024年公开招聘拟聘人员公示（第五批）" target="_blank">南岸区事业单位2024年公开招聘拟聘人员公示（第五批）</a><span>2024-05-16</span> </li>
+			
+			<li class="clearfix"><a href="./202405/t20240516_13210880.html" title="长江师范学院2023年考核招聘事业单位工作人员拟聘人员公示" target="_blank">长江师范学院2023年考核招聘事业单位工作人员拟聘人员公示</a><span>2024-05-16</span> </li>
+			
+		</ul>
 		
 		<ul class="tab-item">
 			
@@ -84,26 +98,12 @@
 			
 		</ul>
 		
-		<ul class="tab-item">
-			
-			<li class="clearfix"><a href="./202404/t20240429_13168274.html" title="巫山县事业单位2024年公开招聘拟聘人员公示（第四批）" target="_blank">巫山县事业单位2024年公开招聘拟聘人员公示（第四批）</a><span>2024-04-29</span> </li>
-			
-			<li class="clearfix"><a href="./202404/t20240429_13168271.html" title="黔江区事业单位2024年公开招聘拟聘人员公示（第四批）" target="_blank">黔江区事业单位2024年公开招聘拟聘人员公示（第四批）</a><span>2024-04-29</span> </li>
-			
-			<li class="clearfix"><a href="./202404/t20240429_13168269.html" title="大足区事业单位2024年公开招聘拟聘人员公示（第三批）" target="_blank">大足区事业单位2024年公开招聘拟聘人员公示（第三批）</a><span>2024-04-29</span> </li>
-			
-			<li class="clearfix"><a href="./202404/t20240429_13168250.html" title="巴南区事业单位2024年公开招聘拟聘人员公示（第三批）" target="_blank">巴南区事业单位2024年公开招聘拟聘人员公示（第三批）</a><span>2024-04-29</span> </li>
-			
-			<li class="clearfix"><a href="./202404/t20240428_13164609.html" title="四川美术学院2023年第四季度考核招聘事业单位工作人员拟聘人员公示（第四批）" target="_blank">四川美术学院2023年第四季度考核招聘事业单位工作人员拟聘人员公示（第四批）</a><span>2024-04-28</span> </li>
-			
-		</ul>
-		
 		
 		
 		
       <div class="pagination" id="page"><a class="active">1</a><a class="" href="index_1.html">2</a><a class="" href="index_2.html">3</a><a class="" href="index_3.html">4</a><a class="" href="index_4.html">5</a><a>...</a><a class="" href="index_157.html">158</a><a class="last-page" href="index_1.html">下一页</a></div>
       <script>
-//wcm分页，总记录：3142
+//wcm分页，总记录：3147
 createPage(158, 0, "index", "html");
 function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
 	
