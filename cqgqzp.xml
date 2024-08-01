@@ -2,20 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://gzw.cq.gov.cn/gqzp/</id>
     <title>重庆市国有资产监督管理委员会-国企招聘</title>
-    <updated>2024-08-01T05:46:00.959Z</updated>
+    <updated>2024-08-01T17:44:50.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://gzw.cq.gov.cn/gqzp/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>http://gzw.cq.gov.cn/gqzp/</id>
         <link href="http://gzw.cq.gov.cn/gqzp/"/>
-        <updated>2024-08-01T05:45:41.786Z</updated>
+        <updated>2024-08-01T17:44:28.268Z</updated>
         <content type="html"><![CDATA[<div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
         国企招聘
 </div>
         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202408/t20240801_13454703.html" target="_blank">重庆市工程管理有限公司招聘公告</a> <span>2024-08-01</span></li>
+                
+            </ul>
+         
             <ul class="tab-item">
                 
                     <li class="clearfix"><a href="./202407/t20240730_13440445.html" target="_blank">重庆渝富资本运营集团有限公司招聘公告</a> <span>2024-07-30</span></li>
@@ -97,12 +103,6 @@
             <ul class="tab-item">
                 
                     <li class="clearfix"><a href="./202407/t20240718_13383014.html" target="_blank">重庆中江船业有限公司招聘简章</a> <span>2024-07-18</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202407/t20240718_13383001.html" target="_blank">重庆合川游船有限公司招聘简章</a> <span>2024-07-18</span></li>
                 
             </ul>
          
