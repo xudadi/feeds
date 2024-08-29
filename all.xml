@@ -2,16 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xudadi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-28T17:48:11.510Z</updated>
+    <updated>2024-08-29T05:50:07.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (重庆市公考雷达)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:38:43.721Z</updated>
+        <updated>2024-08-29T05:39:01.785Z</updated>
         <content type="html"><![CDATA[<!--公告列表-->
                 <div class="notice-list">
                     <ul class="link-list">
+                                                    <li>
+                                <h5>
+                                    <i class="notice-label">[渝北区]</i>
+                                    <i class="notice-label">[国企]</i>
+                                    
+                                    <a href="https://www.gongkaoleida.com/article/2102885" target="_blank" title="重庆市忠信保安服务有限公司招聘简章">重庆市忠信保安服务有限公司招聘简章</a>
+                                </h5>
+                                <time class=" time-red ">3小时前</time>
+                            </li>
+                                                    <li>
+                                <h5>
+                                    <i class="notice-label">[重庆市]</i>
+                                    <i class="notice-label">[国企]</i>
+                                    
+                                    <a href="https://www.gongkaoleida.com/article/2102570" target="_blank" title="重庆九洲星熠导航设备有限公司关于招聘成本会计等岗位的公告">重庆九洲星熠导航设备有限公司关于招聘成本会计等岗位的公告</a>
+                                </h5>
+                                <time class=" time-red ">5小时前</time>
+                            </li>
                                                     <li>
                                 <h5>
                                     <i class="notice-label">[垫江县]</i>
@@ -19,16 +37,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2102204" target="_blank" title="蓝博光电(重庆)有限公司招聘简章">蓝博光电(重庆)有限公司招聘简章</a>
                                 </h5>
-                                <time class=" time-red ">8小时前</time>
-                            </li>
-                                                    <li>
-                                <h5>
-                                    <i class="notice-label">[垫江县]</i>
-                                    <i class="notice-label">[国企]</i>
-                                    
-                                    <a href="https://www.gongkaoleida.com/article/2102102" target="_blank" title="重庆镜辰美科技有限公司招聘简章">重庆镜辰美科技有限公司招聘简章</a>
-                                </h5>
-                                <time class=" time-red ">9小时前</time>
+                                <time class=" time-red ">20小时前</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -37,7 +46,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2101648" target="_blank" title="重庆科技大学2024年公开招聘事业单位工作人员公告">重庆科技大学2024年公开招聘事业单位工作人员公告</a>
                                 </h5>
-                                <time class=" time-red ">10小时前</time>
+                                <time class=" time-red ">22小时前</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -46,7 +55,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2101606" target="_blank" title="重庆市盛景实业有限公司公开招聘1名管理员简章">重庆市盛景实业有限公司公开招聘1名管理员简章</a>
                                 </h5>
-                                <time class=" time-red ">10小时前</time>
+                                <time class=" time-red ">22小时前</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -55,7 +64,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2101601" target="_blank" title="重庆医科大学附属第一医院关于重庆市转化医学中心管理办公室招聘工作人员的通知">重庆医科大学附属第一医院关于重庆市转化医学中心管理办公室招聘工作人员的通知</a>
                                 </h5>
-                                <time class=" time-red ">10小时前</time>
+                                <time class=" time-red ">22小时前</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -64,7 +73,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2101271" target="_blank" title="重庆市某央企行政文秘专员招聘简章">重庆市某央企行政文秘专员招聘简章</a>
                                 </h5>
-                                <time class=" time-red ">12小时前</time>
+                                <time class=" time-red ">24小时前</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -73,7 +82,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2101052" target="_blank" title="重庆市奉节县事业单位面向2024年应届毕业公费师范生公开招聘工作人员公告">重庆市奉节县事业单位面向2024年应届毕业公费师范生公开招聘工作人员公告</a>
                                 </h5>
-                                <time class=" time-red ">15小时前</time>
+                                <time class="">2024-08-28</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -273,15 +282,6 @@
                                 </h5>
                                 <time class="">2024-08-23</time>
                             </li>
-                                                    <li>
-                                <h5>
-                                    <i class="notice-label">[石柱土家族自治县]</i>
-                                    <i class="notice-label">[事业单位]</i>
-                                    
-                                    <a href="https://www.gongkaoleida.com/article/2092524" target="_blank" title="重庆市石柱土家族自治县事业单位面向2024年应届毕业公费师范生、农村订单定向医学生公开招聘工作人员公告">重庆市石柱土家族自治县事业单位面向2024年应届毕业公费师范生、农村订单定向医学生公开招聘工作人员公告</a>
-                                </h5>
-                                <time class="">2024-08-22</time>
-                            </li>
                                             </ul>
                 </div>
                 <div class="pagelist-box">
@@ -311,7 +311,7 @@
         <title type="html"><![CDATA[undefined (重庆市国有资产监督管理委员会-国企招聘)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:47:05.730Z</updated>
+        <updated>2024-08-29T05:48:21.559Z</updated>
         <content type="html"><![CDATA[<div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
@@ -414,357 +414,357 @@
         <title type="html"><![CDATA[undefined (重庆粉笔招考)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:02.340Z</updated>
-        <content type="html"><![CDATA[<div _ngcontent-my-app-c146="" class="home-filter"><div _ngcontent-my-app-c146="" class="home-filter-text active ng-star-inserted"> 招考信息 </div><!----><!----><div _ngcontent-my-app-c146="" class="home-filter-text ng-star-inserted"> 考试时间 </div><!----></div><div _ngcontent-my-app-c146="" class="home-page-split"></div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-filter ng-star-inserted"><a _ngcontent-my-app-c146="" class="zhaokaoxinxi-filter-item active ng-star-inserted" href="/page/fenxiaozhaokao/25/0?page=0"> 最新 </a><!----><a _ngcontent-my-app-c146="" class="zhaokaoxinxi-filter-item ng-star-inserted" href="/page/fenxiaozhaokao/25/181?page=0"> 重庆市 </a><!----><!----><!----><!----><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-filter-sub-open"><!----><!----><div _ngcontent-my-app-c146="" class="filter-sub-open-icon shaixuan ng-star-inserted"></div><!----><div _ngcontent-my-app-c146="" class="filter-sub-open-text ng-star-inserted">筛选</div><!----></div></div><!----><!----><!----><!----><!----><!----><!----><div _ngcontent-my-app-c146="" class="zixun-block"><!----><!----><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-detail ng-star-inserted"><!----><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452154101617664"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市盛景实业有限公司公开招聘1名管理员简章</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status2 zhaokaoxinxi-item-status"> 正在报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;国企</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452154362710016"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆科技大学2024年公开招聘事业单位工作人员20名公告</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status1 zhaokaoxinxi-item-status"> 即将报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452154362713088"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市江北区大石坝街道办事处公开招聘非编工作人员简章</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status2 zhaokaoxinxi-item-status"> 正在报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452154189697024"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆医科大学附属第一医院关于重庆市转化医学中心管理办公室招...</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status2 zhaokaoxinxi-item-status"> 正在报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;医疗</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452152915676160"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市大足区人力资源和社会保障局招聘公益性岗位人员公告</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status4 zhaokaoxinxi-item-status"> 即将截止 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;派遣/临时/购买服务等</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452150084260864"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市奉节县事业单位面向2024年应届毕业公费师范生公开招...</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status1 zhaokaoxinxi-item-status"> 即将报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452137373160448"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市梁平区中医医院招聘简章</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status4 zhaokaoxinxi-item-status"> 即将截止 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;医疗</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452110966343680"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市巫溪县公开遴选机关事业单位工作人员39名公告</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status1 zhaokaoxinxi-item-status"> 即将报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452132987488257"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">大足区双桥实验中学招聘教师公告</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status2 zhaokaoxinxi-item-status"> 正在报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;教师</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452132374336512"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市酉阳自治县教育事业单位面向2024年应届毕业教育部直...</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status1 zhaokaoxinxi-item-status"> 即将报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452131933409280"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市通达劳务有限责公司公开招聘医疗卫生专业技术人员的简章</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status2 zhaokaoxinxi-item-status"> 正在报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;医疗</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452130486374400"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市公安局大渡口区分局招聘10名辅警公告</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status2 zhaokaoxinxi-item-status"> 正在报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;招警</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452127750637568"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">两江新区人才发展集团派往两江新区某机关单位派遣人员招聘简章...</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status2 zhaokaoxinxi-item-status"> 正在报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;派遣/临时/购买服务等</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452042610462720"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市潼南区教育事业单位面向2024年应届毕业教育部直属师...</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status1 zhaokaoxinxi-item-status"> 即将报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452041336442880"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">石柱县公开遴选事业单位工作人员38名公告</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status4 zhaokaoxinxi-item-status"> 即将截止 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><!----><!----><!----></div><!----><nav _ngcontent-my-app-c146="" class="zixun-list-pager"><fb-pager _ngcontent-my-app-c146="" _nghost-my-app-c124="" class="ng-star-inserted"><div _ngcontent-my-app-c124="" class="paging ng-star-inserted"><div _ngcontent-my-app-c124="" class="item"><a _ngcontent-my-app-c124="" href="/page/fenxiaozhaokao/25?page=0"></a><div _ngcontent-my-app-c124="" class="qianpage"></div></div><div _ngcontent-my-app-c124="" class="item active"><a _ngcontent-my-app-c124="" href="/page/fenxiaozhaokao/25?page=0"></a> 1 </div><!----><div _ngcontent-my-app-c124="" class="item ng-star-inserted"><a _ngcontent-my-app-c124="" href="/page/fenxiaozhaokao/25?page=1"></a> 2 </div><!----><div _ngcontent-my-app-c124="" class="item ng-star-inserted"><a _ngcontent-my-app-c124="" href="/page/fenxiaozhaokao/25?page=2"></a> 3 </div><!----><div _ngcontent-my-app-c124="" class="item ng-star-inserted"><a _ngcontent-my-app-c124="" href="/page/fenxiaozhaokao/25?page=3"></a> 4 </div><!----><!----><span _ngcontent-my-app-c124="" class="ng-star-inserted">&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;</span><!----><div _ngcontent-my-app-c124="" class="item ng-star-inserted"><a _ngcontent-my-app-c124="" href="/page/fenxiaozhaokao/25?page=37"></a> 38 </div><!----><div _ngcontent-my-app-c124="" class="item"><a _ngcontent-my-app-c124="" href="/page/fenxiaozhaokao/25?page=1"></a><div _ngcontent-my-app-c124="" class="houpage"></div></div></div><!----></fb-pager><!----></nav></div>]]></content>
+        <updated>2024-08-29T05:48:32.724Z</updated>
+        <content type="html"><![CDATA[<div _ngcontent-my-app-c146="" class="home-filter"><div _ngcontent-my-app-c146="" class="home-filter-text active ng-star-inserted"> 招考信息 </div><!----><!----><div _ngcontent-my-app-c146="" class="home-filter-text ng-star-inserted"> 考试时间 </div><!----></div><div _ngcontent-my-app-c146="" class="home-page-split"></div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-filter ng-star-inserted"><a _ngcontent-my-app-c146="" class="zhaokaoxinxi-filter-item active ng-star-inserted" href="/page/fenxiaozhaokao/25/0?page=0"> 最新 </a><!----><a _ngcontent-my-app-c146="" class="zhaokaoxinxi-filter-item ng-star-inserted" href="/page/fenxiaozhaokao/25/181?page=0"> 重庆市 </a><!----><!----><!----><!----><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-filter-sub-open"><!----><!----><div _ngcontent-my-app-c146="" class="filter-sub-open-icon shaixuan ng-star-inserted"></div><!----><div _ngcontent-my-app-c146="" class="filter-sub-open-text ng-star-inserted">筛选</div><!----></div></div><!----><!----><!----><!----><!----><!----><!----><div _ngcontent-my-app-c146="" class="zixun-block"><!----><!----><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-detail ng-star-inserted"><!----><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452170515764225"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆医科大学附属康复医院关于招聘重症康复科护理人员的招聘启事</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status2 zhaokaoxinxi-item-status"> 正在报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;医疗</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452154101617664"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市盛景实业有限公司公开招聘1名管理员简章</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status2 zhaokaoxinxi-item-status"> 正在报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;国企</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452154362710016"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆科技大学2024年公开招聘事业单位工作人员20名公告</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status1 zhaokaoxinxi-item-status"> 即将报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452154362713088"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市江北区大石坝街道办事处公开招聘非编工作人员简章</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status2 zhaokaoxinxi-item-status"> 正在报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452154189697024"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆医科大学附属第一医院关于重庆市转化医学中心管理办公室招...</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status2 zhaokaoxinxi-item-status"> 正在报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;医疗</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452152915676160"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市大足区人力资源和社会保障局招聘公益性岗位人员公告</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status4 zhaokaoxinxi-item-status"> 即将截止 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;派遣/临时/购买服务等</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452137373160448"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市梁平区中医医院招聘简章</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status4 zhaokaoxinxi-item-status"> 即将截止 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;医疗</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452110966343680"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市巫溪县公开遴选机关事业单位工作人员39名公告</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status1 zhaokaoxinxi-item-status"> 即将报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452132987488257"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">大足区双桥实验中学招聘教师公告</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status2 zhaokaoxinxi-item-status"> 正在报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;教师</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452132374336512"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市酉阳自治县教育事业单位面向2024年应届毕业教育部直...</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status1 zhaokaoxinxi-item-status"> 即将报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452131933409280"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市通达劳务有限责公司公开招聘医疗卫生专业技术人员的简章</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status2 zhaokaoxinxi-item-status"> 正在报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;医疗</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452130486374400"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市公安局大渡口区分局招聘10名辅警公告</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status2 zhaokaoxinxi-item-status"> 正在报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;招警</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452042610462720"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市潼南区教育事业单位面向2024年应届毕业教育部直属师...</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status1 zhaokaoxinxi-item-status"> 即将报名 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452041336442880"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">石柱县公开遴选事业单位工作人员38名公告</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status4 zhaokaoxinxi-item-status"> 即将截止 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><a _ngcontent-my-app-c146="" target="_blank" class="zhaokaoxinxi-item ng-star-inserted" href="/page/fenxiaozhaokaodetail/25/0/452039889668096"><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-title">重庆市奉节县公开遴选事业单位工作人员35名公告</div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-info"><div _ngcontent-my-app-c146="" class="status4 zhaokaoxinxi-item-status"> 即将截止 </div><div _ngcontent-my-app-c146="" class="zhaokaoxinxi-item-location">重庆&nbsp;·&nbsp;事业单位</div></div></a><!----><!----><!----></div><!----><nav _ngcontent-my-app-c146="" class="zixun-list-pager"><fb-pager _ngcontent-my-app-c146="" _nghost-my-app-c124="" class="ng-star-inserted"><div _ngcontent-my-app-c124="" class="paging ng-star-inserted"><div _ngcontent-my-app-c124="" class="item"><a _ngcontent-my-app-c124="" href="/page/fenxiaozhaokao/25?page=0"></a><div _ngcontent-my-app-c124="" class="qianpage"></div></div><div _ngcontent-my-app-c124="" class="item active"><a _ngcontent-my-app-c124="" href="/page/fenxiaozhaokao/25?page=0"></a> 1 </div><!----><div _ngcontent-my-app-c124="" class="item ng-star-inserted"><a _ngcontent-my-app-c124="" href="/page/fenxiaozhaokao/25?page=1"></a> 2 </div><!----><div _ngcontent-my-app-c124="" class="item ng-star-inserted"><a _ngcontent-my-app-c124="" href="/page/fenxiaozhaokao/25?page=2"></a> 3 </div><!----><div _ngcontent-my-app-c124="" class="item ng-star-inserted"><a _ngcontent-my-app-c124="" href="/page/fenxiaozhaokao/25?page=3"></a> 4 </div><!----><!----><span _ngcontent-my-app-c124="" class="ng-star-inserted">&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;</span><!----><div _ngcontent-my-app-c124="" class="item ng-star-inserted"><a _ngcontent-my-app-c124="" href="/page/fenxiaozhaokao/25?page=37"></a> 38 </div><!----><div _ngcontent-my-app-c124="" class="item"><a _ngcontent-my-app-c124="" href="/page/fenxiaozhaokao/25?page=1"></a><div _ngcontent-my-app-c124="" class="houpage"></div></div></div><!----></fb-pager><!----></nav></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.422Z</updated>
+        <updated>2024-08-29T05:50:06.632Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/90908" rel="noopener" target="_blank">蚁阅(rssant)：专注阅读体验的 RSS 应用，轻松搭建你的私人订阅中心</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.422Z</updated>
+        <updated>2024-08-29T05:50:06.632Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/90687" rel="noopener" target="_blank">139 阅读《第四类动员》笔记 现在全国经济萧条如何熬过的可能性</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.422Z</updated>
+        <updated>2024-08-29T05:50:06.634Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/90420" rel="noopener" target="_blank">2024适合个人成长阅读的书单有哪些？</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.422Z</updated>
+        <updated>2024-08-29T05:50:06.634Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/90421" rel="noopener" target="_blank">2024年必阅读书单有哪些？</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.422Z</updated>
+        <updated>2024-08-29T05:50:06.634Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/90419" rel="noopener" target="_blank">谈谈微信读书（制图向）</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.429Z</updated>
+        <updated>2024-08-29T05:50:06.634Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/89462" rel="noopener" target="_blank">书单 Anti-work and Anti-capitalism Books</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.430Z</updated>
+        <updated>2024-08-29T05:50:06.634Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/89463" rel="noopener" target="_blank">2024 纸书单</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.431Z</updated>
+        <updated>2024-08-29T05:50:06.634Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/89241" rel="noopener" target="_blank">📖 Legado：一款书虫必备的阅读App，文中附高质量书源！</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.432Z</updated>
+        <updated>2024-08-29T05:50:06.634Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/89172" rel="noopener" target="_blank">南北战争三百年：中国4—6世纪的军事与政权 读书分享</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.433Z</updated>
+        <updated>2024-08-29T05:50:06.634Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/89173" rel="noopener" target="_blank">周报#30 ENFJ人格、双月湾拾遗与阅读笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.434Z</updated>
+        <updated>2024-08-29T05:50:06.634Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/89094" rel="noopener" target="_blank">二〇二四年七月总结，慢慢去习惯看书、骑行</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.435Z</updated>
+        <updated>2024-08-29T05:50:06.635Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/89174" rel="noopener" target="_blank">大清为何轰然倒塌——读书分享</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.436Z</updated>
+        <updated>2024-08-29T05:50:06.636Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/89102" rel="noopener" target="_blank">2024年7月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.438Z</updated>
+        <updated>2024-08-29T05:50:06.645Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/88736" rel="noopener" target="_blank">经历了正好一个月，总用时9.3小时，阅读完了《苍之彼方的四重奏 EXTRA1》。剧情是真的甜！啊，好...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.438Z</updated>
+        <updated>2024-08-29T05:50:06.646Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/88609" rel="noopener" target="_blank">Thorium Reader 免费开源且没有广告的电子书阅读器</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.441Z</updated>
+        <updated>2024-08-29T05:50:06.646Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/90263" rel="noopener" target="_blank">Kindle 无线导入书籍的各种方法</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.442Z</updated>
+        <updated>2024-08-29T05:50:06.647Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/88298" rel="noopener" target="_blank">🪐 Komga：一款可以管理漫画、杂志、电子书的集大成者，网友推荐的确实是宝藏！</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.443Z</updated>
+        <updated>2024-08-29T05:50:06.647Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/87930" rel="noopener" target="_blank">高效24小时 阅读笔记（2）</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.443Z</updated>
+        <updated>2024-08-29T05:50:06.647Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/87800" rel="noopener" target="_blank">致小闲同学：一个人的阅读史，就是他的思想成长史</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.444Z</updated>
+        <updated>2024-08-29T05:50:06.647Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/87713" rel="noopener" target="_blank">📖 Koodo Reader：一款不错的电子书阅读器，支持Windows，macOS，Linux 和网页版！</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.445Z</updated>
+        <updated>2024-08-29T05:50:06.649Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/87659" rel="noopener" target="_blank">读书边角料之 Other Rivers</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.446Z</updated>
+        <updated>2024-08-29T05:50:06.650Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/87216" rel="noopener" target="_blank">为Typecho增加文章阅读次数统计功能</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.447Z</updated>
+        <updated>2024-08-29T05:50:06.651Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/89724" rel="noopener" target="_blank">简短书评|跟Wakaba酱一起学网站制作</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.448Z</updated>
+        <updated>2024-08-29T05:50:06.652Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/87058" rel="noopener" target="_blank">读者福利：超值优惠券、高额返利和精美电子书</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.449Z</updated>
+        <updated>2024-08-29T05:50:06.653Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/86802" rel="noopener" target="_blank">为什么选择无纸化阅读？为什么买墨水屏电子书？为什么 Kindle“失败”了？</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.450Z</updated>
+        <updated>2024-08-29T05:50:06.654Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/86053" rel="noopener" target="_blank">2024年6月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.451Z</updated>
+        <updated>2024-08-29T05:50:06.655Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/86004" rel="noopener" target="_blank">自建多设备电子书阅读及进度同步方案</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.453Z</updated>
+        <updated>2024-08-29T05:50:06.656Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/86027" rel="noopener" target="_blank">置身事内 - 读书笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.454Z</updated>
+        <updated>2024-08-29T05:50:06.657Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/85917" rel="noopener" target="_blank">高效24小时 阅读笔记（1）</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.455Z</updated>
+        <updated>2024-08-29T05:50:06.659Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/86472" rel="noopener" target="_blank">以前对Zotero不屑一顾，现在真香定律了（超详细Zotero文献阅读及管理教程）</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.456Z</updated>
+        <updated>2024-08-29T05:50:06.660Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/85821" rel="noopener" target="_blank">论文阅读方法</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.457Z</updated>
+        <updated>2024-08-29T05:50:06.661Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/85768" rel="noopener" target="_blank">7 月读书</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.458Z</updated>
+        <updated>2024-08-29T05:50:06.662Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/85801" rel="noopener" target="_blank">文献阅读工具</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.460Z</updated>
+        <updated>2024-08-29T05:50:06.663Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/85686" rel="noopener" target="_blank">@卡片笔记实践篇：怎么做笔记，才能避免读书过眼不过脑</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.461Z</updated>
+        <updated>2024-08-29T05:50:06.664Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/85687" rel="noopener" target="_blank">@稍后一周再读：一种明智的阅读策略</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.462Z</updated>
+        <updated>2024-08-29T05:50:06.667Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/85495" rel="noopener" target="_blank">一个更加注重UI和阅读体验的诗词网站。</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.464Z</updated>
+        <updated>2024-08-29T05:50:06.667Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/85448" rel="noopener" target="_blank">怎样才算完成阅读</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.465Z</updated>
+        <updated>2024-08-29T05:50:06.668Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/85475" rel="noopener" target="_blank">读书这件事</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.467Z</updated>
+        <updated>2024-08-29T05:50:06.669Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/84994" rel="noopener" target="_blank">为typecho 博客添加文章随机阅读</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.468Z</updated>
+        <updated>2024-08-29T05:50:06.670Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/84846" rel="noopener" target="_blank">为阅读自由那0.1%的可能性</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.469Z</updated>
+        <updated>2024-08-29T05:50:06.672Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/84852" rel="noopener" target="_blank">Python猫周刊赠书规则与书单</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.470Z</updated>
+        <updated>2024-08-29T05:50:06.673Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/84849" rel="noopener" target="_blank">@好读书，不求甚解</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.471Z</updated>
+        <updated>2024-08-29T05:50:06.674Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/84642" rel="noopener" target="_blank">Weekly #4：阅读与人生自我设计</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.473Z</updated>
+        <updated>2024-08-29T05:50:06.675Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/84599" rel="noopener" target="_blank">SRE 书单推荐</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.474Z</updated>
+        <updated>2024-08-29T05:50:06.676Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/84579" rel="noopener" target="_blank">【乡下父母的人生课】2：阅读人生</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.475Z</updated>
+        <updated>2024-08-29T05:50:06.677Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/84181" rel="noopener" target="_blank">2024年11款可平替MarginNote的PDF阅读和编辑器</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.476Z</updated>
+        <updated>2024-08-29T05:50:06.679Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/84169" rel="noopener" target="_blank">2024年5月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.478Z</updated>
+        <updated>2024-08-29T05:50:06.680Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/83219" rel="noopener" target="_blank">《富兰克林自传》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.479Z</updated>
+        <updated>2024-08-29T05:50:06.681Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/89290" rel="noopener" target="_blank">Obsidian 管理文献阅读和博客文档</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-08-28T17:48:10.480Z</updated>
+        <updated>2024-08-29T05:50:06.682Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/82614" rel="noopener" target="_blank">《结构化思维》读书笔记</a>]]></content>
     </entry>
 </feed>
