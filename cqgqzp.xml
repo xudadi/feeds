@@ -2,20 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://gzw.cq.gov.cn/gqzp/</id>
     <title>重庆市国有资产监督管理委员会-国企招聘</title>
-    <updated>2024-11-21T06:00:25.633Z</updated>
+    <updated>2024-11-21T17:56:52.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://gzw.cq.gov.cn/gqzp/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>http://gzw.cq.gov.cn/gqzp/</id>
         <link href="http://gzw.cq.gov.cn/gqzp/"/>
-        <updated>2024-11-21T06:00:04.182Z</updated>
+        <updated>2024-11-21T17:56:28.712Z</updated>
         <content type="html"><![CDATA[<div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
         国企招聘
 </div>
         
+            <ul class="tab-item">
+                
+                    <li class="clearfix"><a href="./202411/t20241121_13821052.html" target="_blank">重庆发展资产经营有限公司招聘简章</a> <span>2024-11-21</span></li>
+                
+            </ul>
+         
             <ul class="tab-item">
                 
                     <li class="clearfix"><a href="./202411/t20241108_13783656.html" target="_blank">市地矿集团市级博士后科研工作站人才招收计划</a> <span>2024-11-08</span></li>
@@ -97,12 +103,6 @@
             <ul class="tab-item">
                 
                     <li class="clearfix"><a href="./202409/t20240919_13640452.html" target="_blank">三峡人寿公司招聘简章</a> <span>2024-09-19</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix"><a href="./202409/t20240914_13634711.html" target="_blank">重庆联交所集团招聘启事</a> <span>2024-09-14</span></li>
                 
             </ul>
          
