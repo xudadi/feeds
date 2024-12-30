@@ -2,16 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xudadi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-29T17:52:04.714Z</updated>
+    <updated>2024-12-30T05:56:14.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (重庆市公考雷达)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:33:30.942Z</updated>
+        <updated>2024-12-30T05:37:26.922Z</updated>
         <content type="html"><![CDATA[<!--公告列表-->
                 <div class="notice-list">
                     <ul class="link-list">
+                                                    <li>
+                                <h5>
+                                    <i class="notice-label">[重庆市]</i>
+                                    <i class="notice-label">[国企]</i>
+                                    
+                                    <a href="https://www.gongkaoleida.com/article/2248731" target="_blank" title="重庆两江新区人才发展集团有限公司派往重庆两江新区物业管理有限公司招聘简章">重庆两江新区人才发展集团有限公司派往重庆两江新区物业管理有限公司招聘简章</a>
+                                </h5>
+                                <time class=" time-red ">3小时前</time>
+                            </li>
                                                     <li>
                                 <h5>
                                     <i class="notice-label">[重庆市]</i>
@@ -273,15 +282,6 @@
                                 </h5>
                                 <time class="">2024-12-25</time>
                             </li>
-                                                    <li>
-                                <h5>
-                                    <i class="notice-label">[重庆市]</i>
-                                    <i class="notice-label">[国企]</i>
-                                    
-                                    <a href="https://www.gongkaoleida.com/article/2242933" target="_blank" title="重庆空港人力资源管理有限公司现招聘飞机客舱保洁预备人员">重庆空港人力资源管理有限公司现招聘飞机客舱保洁预备人员</a>
-                                </h5>
-                                <time class="">2024-12-24</time>
-                            </li>
                                             </ul>
                 </div>
                 <div class="pagelist-box">
@@ -299,10 +299,10 @@
                     <li><a href="/area/2460-2461-0-2,3,59,78-124?page=7" class="list-num ">7</a></li>
         
                     <li class="pagelist-ellipsis"><span>···</span></li>
-            <li><a href="/area/2460-2461-0-2,3,59,78-124?page=296" class="list-num">296</a></li>
+            <li><a href="/area/2460-2461-0-2,3,59,78-124?page=297" class="list-num">297</a></li>
         
                     <li><a href="/area/2460-2461-0-2,3,59,78-124?page=2">下一页</a></li>
-            <li><a href="/area/2460-2461-0-2,3,59,78-124?page=296">尾页</a></li>
+            <li><a href="/area/2460-2461-0-2,3,59,78-124?page=297">尾页</a></li>
         
     </ul>
 </div>]]></content>
@@ -311,7 +311,7 @@
         <title type="html"><![CDATA[undefined (重庆市国有资产监督管理委员会-国企招聘)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:37.762Z</updated>
+        <updated>2024-12-30T05:55:50.986Z</updated>
         <content type="html"><![CDATA[<div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
@@ -414,350 +414,350 @@
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.958Z</updated>
+        <updated>2024-12-30T05:56:13.814Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/102712" rel="noopener" target="_blank">2024读书记录</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (读书博客)]]></title>
+        <id>https://xudadi.github.io/feeds/all.xml</id>
+        <link href="https://xudadi.github.io/feeds/all.xml"/>
+        <updated>2024-12-30T05:56:13.816Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/102694" rel="noopener" target="_blank">📖 2024 阅读记录</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.960Z</updated>
+        <updated>2024-12-30T05:56:13.818Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/101515" rel="noopener" target="_blank">RSS 与现代阅读习惯（一）：如何在碎片化时代重塑深度阅读体验</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.963Z</updated>
+        <updated>2024-12-30T05:56:13.821Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/100467" rel="noopener" target="_blank">2024年11月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.964Z</updated>
+        <updated>2024-12-30T05:56:13.822Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/100196" rel="noopener" target="_blank">为hexo博客Fluid主题添加书单</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.969Z</updated>
+        <updated>2024-12-30T05:56:13.823Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/102596" rel="noopener" target="_blank">我的阅读观</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.970Z</updated>
+        <updated>2024-12-30T05:56:13.824Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/98773" rel="noopener" target="_blank">《地球星人》阅读感想</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.970Z</updated>
+        <updated>2024-12-30T05:56:13.830Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/98774" rel="noopener" target="_blank">《搭便车不是一件随机的事》阅读感想</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.970Z</updated>
+        <updated>2024-12-30T05:56:13.830Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/98213" rel="noopener" target="_blank">网页顶部添加阅读进度条方法</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.971Z</updated>
+        <updated>2024-12-30T05:56:13.830Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/97598" rel="noopener" target="_blank">优化扫描版电子书指北</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.971Z</updated>
+        <updated>2024-12-30T05:56:13.830Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/98337" rel="noopener" target="_blank">开源阅读服务器版：详细部署教程全解</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.972Z</updated>
+        <updated>2024-12-30T05:56:13.831Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/97562" rel="noopener" target="_blank">2024年10月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.973Z</updated>
+        <updated>2024-12-30T05:56:13.832Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/97437" rel="noopener" target="_blank">为什么很多人看书，脑子越看越浆糊</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.978Z</updated>
+        <updated>2024-12-30T05:56:13.833Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/97297" rel="noopener" target="_blank">用 Follow 构建阅读系统遇到的问题</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.979Z</updated>
+        <updated>2024-12-30T05:56:13.834Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/97285" rel="noopener" target="_blank">阅读是孩子心灵的窗户</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.979Z</updated>
+        <updated>2024-12-30T05:56:13.836Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/101310" rel="noopener" target="_blank">阅读是孩子心灵的窗户</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.980Z</updated>
+        <updated>2024-12-30T05:56:13.836Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/101485" rel="noopener" target="_blank">阅读是孩子心灵的窗户</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.985Z</updated>
+        <updated>2024-12-30T05:56:13.837Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/97107" rel="noopener" target="_blank">ToePub 在线免费电子书格式转换</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.986Z</updated>
+        <updated>2024-12-30T05:56:13.839Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/97900" rel="noopener" target="_blank">ToePub 在线免费电子书格式转换</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.988Z</updated>
+        <updated>2024-12-30T05:56:13.841Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/97049" rel="noopener" target="_blank">EasyPub-轻量Kindle电子书格式转换工具</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.989Z</updated>
+        <updated>2024-12-30T05:56:13.842Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/96969" rel="noopener" target="_blank">如何阅读一本书</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.990Z</updated>
+        <updated>2024-12-30T05:56:13.843Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/100326" rel="noopener" target="_blank">ChatGPT-AGI基础理解 阅读笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.992Z</updated>
+        <updated>2024-12-30T05:56:13.845Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/96359" rel="noopener" target="_blank">【共读记·十三】阅读脑</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.993Z</updated>
+        <updated>2024-12-30T05:56:13.846Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/96274" rel="noopener" target="_blank">读书还有用吗？</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.994Z</updated>
+        <updated>2024-12-30T05:56:13.856Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/96110" rel="noopener" target="_blank">《富爸爸穷爸爸》读书笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.995Z</updated>
+        <updated>2024-12-30T05:56:13.858Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/95725" rel="noopener" target="_blank">关于焦虑，迷茫，业力，读书的一些回复</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.996Z</updated>
+        <updated>2024-12-30T05:56:13.859Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/95594" rel="noopener" target="_blank">🌟 Follow：新一代RSS订阅工具，让阅读更有趣！</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.997Z</updated>
+        <updated>2024-12-30T05:56:13.860Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/95619" rel="noopener" target="_blank">别相信直觉 - 读书笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:51:59.998Z</updated>
+        <updated>2024-12-30T05:56:13.861Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/95493" rel="noopener" target="_blank">follow RSS 阅读 App</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.000Z</updated>
+        <updated>2024-12-30T05:56:13.862Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/95148" rel="noopener" target="_blank">2024年9月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.000Z</updated>
+        <updated>2024-12-30T05:56:13.862Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/94959" rel="noopener" target="_blank">阅读的意义——保罗·格雷厄姆</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.001Z</updated>
+        <updated>2024-12-30T05:56:13.863Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/94837" rel="noopener" target="_blank">【油猴脚本】CSDN_Reader 阅读优化|解锁VIP文章</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.002Z</updated>
+        <updated>2024-12-30T05:56:13.863Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/94877" rel="noopener" target="_blank">邓晓芒《黑格尔辩证法讲演录》读书笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.002Z</updated>
+        <updated>2024-12-30T05:56:13.863Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/95918" rel="noopener" target="_blank">【教程】给HandSome添加预计文章阅读时间</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.003Z</updated>
+        <updated>2024-12-30T05:56:13.864Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/96934" rel="noopener" target="_blank">【教程】给HandSome添加预计文章阅读时间</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.004Z</updated>
+        <updated>2024-12-30T05:56:13.865Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/97370" rel="noopener" target="_blank">英语阅读方法论笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.006Z</updated>
+        <updated>2024-12-30T05:56:13.866Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/93656" rel="noopener" target="_blank">🌳 Hoarder：一款功能强大的稍后阅读工具，囤积爱好者必备！</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.008Z</updated>
+        <updated>2024-12-30T05:56:13.866Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/92691" rel="noopener" target="_blank">2024年，我使用什么工具帮助我阅读</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.009Z</updated>
+        <updated>2024-12-30T05:56:13.868Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/98285" rel="noopener" target="_blank">2024年，我使用什么工具帮助我阅读</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.011Z</updated>
+        <updated>2024-12-30T05:56:13.869Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/92478" rel="noopener" target="_blank">【共读记·二】三年级阅读第一课</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.013Z</updated>
+        <updated>2024-12-30T05:56:13.870Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/92346" rel="noopener" target="_blank">保持阅读</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.019Z</updated>
+        <updated>2024-12-30T05:56:13.872Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/101312" rel="noopener" target="_blank">保持阅读</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.020Z</updated>
+        <updated>2024-12-30T05:56:13.873Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/101487" rel="noopener" target="_blank">保持阅读</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.021Z</updated>
+        <updated>2024-12-30T05:56:13.874Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/92308" rel="noopener" target="_blank">黑发不知勤学早，白首方悔读书迟。周刊</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.022Z</updated>
+        <updated>2024-12-30T05:56:13.876Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/92068" rel="noopener" target="_blank">二〇二四年八月总结，将骑行和看书作为长久之事</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.023Z</updated>
+        <updated>2024-12-30T05:56:13.879Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/92052" rel="noopener" target="_blank">阅读自由(Android，IOS)-全网小说免费看</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.025Z</updated>
+        <updated>2024-12-30T05:56:13.880Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/91849" rel="noopener" target="_blank">唯有书籍——读书、藏书及与书有关的一切</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.026Z</updated>
+        <updated>2024-12-30T05:56:13.881Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/91707" rel="noopener" target="_blank">2024年8月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.027Z</updated>
+        <updated>2024-12-30T05:56:13.883Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/91650" rel="noopener" target="_blank">《从优秀到卓越》(原名：《Good to Great》)书籍笔记与深入分析</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.029Z</updated>
+        <updated>2024-12-30T05:56:13.884Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/91651" rel="noopener" target="_blank">书籍推荐《小而美：持续盈利的经营法则》，附100多个企业定位问题清单</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (读书博客)]]></title>
-        <id>https://xudadi.github.io/feeds/all.xml</id>
-        <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2024-12-29T17:52:00.036Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/94076" rel="noopener" target="_blank">《笔记的方法》阅读笔记</a>]]></content>
     </entry>
 </feed>
