@@ -66,6 +66,15 @@ linkSelector = "body > div.page-list.clearfix > ul > li > a"
 dateSelector = "ul.tab-item > li"
 dateFormat = "yyyy-MM-dd"
 
+[cqsgqzp]
+title = "重庆市国资委国企招聘页面"
+url = "http://gzw.cq.gov.cn/gqzp/"
+entrySelector = "body"
+titleSelector = ".listConBox li h4 a"
+linkSelector = ".listConBox li h4 a"
+dateSelector = ".listConBox li span"
+dateFormat = "yyyy-MM-dd"
+
 [cqfenbi]
 title = "重庆粉笔招考"
 url = "https://www.fenbi.com/page/fenxiaozhaokao/25"
@@ -74,6 +83,15 @@ titleSelector = "a.title"
 linkSelector = "#zixun > div.zixun-block > div"
 dateSelector = "#zixun > div.zixun-block > div > a > div.zhaokaoxinxi-item-info"
 dateFormat = "yyyy-MM-dd"
+
+[jinbiaochi]
+title = "金标尺重庆教师工作相关页面"
+url = "https://cq.jinbiaochi.com/jsgz/column_114/"
+entrySelector = "body" 
+titleSelector = ".article-item__title a" 
+linkSelector = ".article-item__title a" 
+dateSelector = ".article-item__meta span:nth-child(1)" 
+dateFormat = "yyyy-MM-dd" 
 
 [readblog]
 title = "读书博客"
