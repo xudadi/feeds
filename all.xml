@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xudadi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-09-17T05:46:22.372Z</updated>
+    <updated>2025-09-17T17:52:57.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (重庆市国有资产监督管理委员会-国企招聘)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:45:35.660Z</updated>
+        <updated>2025-09-17T17:46:50.104Z</updated>
         <content type="html"><![CDATA[<div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
@@ -111,7 +111,7 @@
         <title type="html"><![CDATA[undefined (重庆市国资委国企招聘页面)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:45:45.965Z</updated>
+        <updated>2025-09-17T17:51:35.620Z</updated>
         <content type="html"><![CDATA[<!-- 头部start -->
     <a id="ariaTipText" role="pagedescription" aria-label="欢迎进入 重庆市国有资产监督管理委员会门户网站,盲人用户使用操作智能引导，请按快捷键Ctrl+Alt+R；阅读详细操作说明请按快捷键Ctrl+Alt+问号键。" aria-atomic="true" href="javascript:void(0)" class="skipAutoFix ariaskiptheme" style="width: 1px; height: 1px;"><img src="" style="width:1px !important;height:1px !important;position:absolute;top:0;" tabindex="-1"></a><link rel="stylesheet" href="/images/xcConfirm.css">
 <script type="text/javascript" src="/images/xcConfirm.js"></script>
@@ -344,8 +344,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
 <div class="wrap">
 <div class="drop-groups clearfix" aria-region="true" aria-labelconfig="true" aria-label="" aria-regiontype="2" tabindex="0" aria-autolabel="true">
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,国务院部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-expandshowmethod="click" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(1) &gt; ul" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='ariaffndzrwqv80']" aria-sourceowns="true" id="ariaagjkl4wmmq8" aria-autolabel="true">国务院部门网站</p>
-      <ul class="drop-lists" id="ariaffndzrwqv80" aria-owns="[id='ariaagjkl4wmmq8']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,国务院部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(1) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='aria4s4rktdvf6m']" aria-sourceowns="true" id="ariaidskvffbm3k" aria-autolabel="true">国务院部门网站</p>
+      <ul class="drop-lists" id="aria4s4rktdvf6m" aria-owns="[id='ariaidskvffbm3k']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.mfa.gov.cn/" target="_blank">外交部</a></li>
         
@@ -420,8 +420,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,地方政府网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-expandshowmethod="click" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(2) &gt; ul" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='ariadkat75kb9g0']" aria-sourceowns="true" id="ariajvumel9sm8g" aria-autolabel="true">地方政府网站</p>
-      <ul class="drop-lists" id="ariadkat75kb9g0" aria-owns="[id='ariajvumel9sm8g']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,地方政府网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(2) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='aria8873cwniheo']" aria-sourceowns="true" id="ariaq5j3192uye8" aria-autolabel="true">地方政府网站</p>
+      <ul class="drop-lists" id="aria8873cwniheo" aria-owns="[id='ariaq5j3192uye8']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.beijing.gov.cn/" target="_blank">北京</a></li>
         
@@ -496,8 +496,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,市政府部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-expandshowmethod="click" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(3) &gt; ul" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='aria40yfeat16l0']" aria-sourceowns="true" id="aria5otlvqo31xw" aria-autolabel="true">市政府部门网站</p>
-      <ul class="drop-lists" id="aria40yfeat16l0" aria-owns="[id='aria5otlvqo31xw']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,市政府部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(3) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='aria8nnm0y7bbts']" aria-sourceowns="true" id="aria47r0fxzosyo" aria-autolabel="true">市政府部门网站</p>
+      <ul class="drop-lists" id="aria8nnm0y7bbts" aria-owns="[id='aria47r0fxzosyo']" aria-autoowns="true" aria-popup="true">
        
             <li><a href="http://fzggw.cq.gov.cn/" target="_blank">市发展改革委</a></li>
         
@@ -584,8 +584,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,区（县）部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-expandshowmethod="click" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(4) &gt; ul" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='ariadkw2urv5pqo']" aria-sourceowns="true" id="aria8nr5mv76zkk" aria-autolabel="true">区（县）政府网站</p>
-      <ul class="drop-lists" id="ariadkw2urv5pqo" aria-owns="[id='aria8nr5mv76zkk']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,区（县）部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(4) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='ariaer8aviudkm8']" aria-sourceowns="true" id="ariajrinleg6ppc" aria-autolabel="true">区（县）政府网站</p>
+      <ul class="drop-lists" id="ariaer8aviudkm8" aria-owns="[id='ariajrinleg6ppc']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.wz.gov.cn/" target="_blank">万州区</a></li>
         
@@ -666,8 +666,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
 <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,其他网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-expandshowmethod="click" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(5) &gt; ul" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='ariah6v37259axk']" aria-sourceowns="true" id="aria4a432eh576c" aria-autolabel="true">市属重点国有企业网站</p>
-      <ul class="drop-lists" id="ariah6v37259axk" aria-owns="[id='aria4a432eh576c']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,其他网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(5) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='ariap9q57qizl40']" aria-sourceowns="true" id="ariao7wz838um5c" aria-autolabel="true">市属重点国有企业网站</p>
+      <ul class="drop-lists" id="ariap9q57qizl40" aria-owns="[id='ariao7wz838um5c']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.cqa.cn" target="_blank">重庆机场集团</a></li>
         
@@ -760,7 +760,7 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
 .f-info-right{margin-right:0;}
 </style>
 <span style="float: right;display: inline-block;position: relative;top: 10px;margin-left:10px;">
-<script id="_jiucuo_" sitecode="5000000073" src="https://zfwzgl.www.gov.cn/exposure/jiucuo.js"></script><span id="_span_jiucuo"><img onclick="Link('5000000073')" style="margin:0;border:0;cursor: pointer;" src="https://zfwzgl.www.gov.cn/exposure/images/jiucuo.png?v=5000000073" tabindex="0" role="imagelink" aria-labelconfig="true" aria-label="政府网站找错" setedaria="true"></span>
+<script id="_jiucuo_" sitecode="5000000073" src="https://zfwzgl.www.gov.cn/exposure/jiucuo.js"></script>
 </span>
   <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=50019002501599" target="_blank">
     <img style="width: 68px;margin-left: -10px;" src="/images/zwgk_gaba.png" alt="" tabindex="0" role="imagelink" aria-labelconfig="true" aria-label="公安机关互联网站安全管理服务平台" setedaria="true">
@@ -990,7 +990,7 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
         <title type="html"><![CDATA[undefined (金标尺重庆教师工作相关页面)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:13.886Z</updated>
+        <updated>2025-09-17T17:52:48.689Z</updated>
         <content type="html"><![CDATA[<div id="div_company_mini" style="line-height: 0; font-size: 0px; display: none; position: fixed; right: 0px; bottom: 0px; width: 360px; height: 460px; z-index: 1000000; cursor: move; overflow: visible;"><div class="mini-btn mini-btn1" id="mini-btn" onclick="show_floatWindow();" style="width:auto;white-space:nowrap;cursor:pointer;display:none;position:absolute;right:0; bottom:0;z-index:-1;height: 42px;border-radius:4px; overflow: hidden; background: rgb(31, 140, 235);-webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, .06), 0 2px 32px rgba(0, 0, 0, .16)!important;box-shadow: 0 1px 6px rgba(0, 0, 0, .06), 0 2px 32px rgba(0, 0, 0, .16)!important;"><div class="mini-btn-info" style="position: relative;width: 42px;height: 42px;display:inline-block;"><span style="width:100%;height:100%;position:absolute;left:0;top:0;z-index:1;background: center center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/png/img-email24.png);background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/img-email24.svg), none;"></span><span style="width:100%;height:100%;position:absolute;left:0;top:0;background:#000;opacity:0.2;filter:alpha(opacity=20);"></span><span id="info-num" style="display:none;position: absolute;top: 5px;right: 5px;z-index:10;height: 14px;min-width: 14px;line-height: 14px;border-radius: 7px;background: red;font-size: 12px;color: #FFFFFF;letter-spacing: 0.47px;text-align: center;">0</span></div><div class="mini-btn-middle" style="width:auto;font-weight:normal;display:inline-block;vertical-align:top;line-height: 42px;padding: 0 8px;font-size: 16px;color: #FFFFFF;letter-spacing: 0.83px;word-break: break-all;text-align: center;">给我们留言吧!</div><div class="mini-btn-window" style="display:inline-block;width: 42px;height: 42px;background: center center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/png/to-maxWindow.png);background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/to-maxWindow.svg), none;"></div></div><div id="iframe_company_mini_div" style="font-size: 0;background-color:#fff;border-radius:6px;overflow:hidden;width:100%;height:460px;box-shadow:0 5px 40px rgba(0,0,0,.16)!important;-webkit-box-shadow:0 5px 40px rgba(0,0,0,.16)!important;"><h6 class="pc-visitor-header" style="width:100%;box-sizing:border-box;background: rgb(31, 140, 235) no-repeat 10px;margin:0;padding:0;padding-left: 10px;font-size: 14px;color: #fff;line-height: 36px;position: relative;font-weight: normal;padding-right: 72px;height:36px;"><div style="float: left;height: 100%;box-sizing: border-box;padding: 6px 0;"><img onclick="show_about_box()" style="max-width: 80px;width:auto;height:100%;border-radius:2px;vertical-align:baseline;cursor:pointer" src="https://s3v2.53kf.com/kfxt/2023/08/image/72366151_setting_1690879271_64c8c527afa3f.jpg"></div><div style="float: left;max-width: 78%;overflow: hidden;margin-left: 5px;"><label style="width:100%;background: none; padding: 0; margin: 0; border: 0; line-height:36px;cursor:move;font-weight:normal;cursor:move;color: #fff;display: block;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;font-size: 14px;" class="header-company">金标尺教育</label></div><span onclick="max_from_company_mini(this);" title="最大化" class="pc-new pc-title-btn" style="background: url(https://www7c2.53kf.com/style/chat/new2017/image/png/newWindow.png) center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/newWindow.svg),none;position: absolute;width: 36px;height: 36px;cursor: pointer;right: 40px;top: 0;fill: #F08000;"></span><span onclick="hide_floatWindow();" title="最小化" class="kf-pc-hide pc-title-btn" style="background: url(https://www7c2.53kf.com/style/chat/new2017/image/png/close2020.png) center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/close2020.svg),none;position: absolute;width: 36px;height: 36px;cursor: pointer;right: 0px;top: 0;"></span></h6><iframe id="iframe_company_mini" frameborder="0" style="height:424px;width:100%;margin:0;padding:0;visibility: inherit;opacity:1;position:inherit;"></iframe></div></div><div id="kfivtwin" style="display: none; overflow: visible;"><div id="inv_box_53kf" style="width: 380px; padding-top: 10px; padding-left: 10px; box-sizing: border-box; position: fixed; left:812px; top:74px;display: block;z-index:999998;"><div style="position:absolute;left:0;top:0;width:20px;height:20px;cursor:pointer;z-index:5;" onclick="inv.clos()"><img style="width:100%;height:100%;" src="https://www7c2.53kf.com/style/setting/ver07/img/style_mobile_invite/close_2x.png"></div><div class="inv_bg_color" style="width:100%;min-height: 250px;box-sizing: border-box;overflow:hidden;background:#ffffff; border:1px solid #eee; box-shadow:rgba(74, 144, 226, 0.4) 0px 0px 10px 0px;border-radius: 2px;position: relative;"><div style="position: absolute;top: 0;bottom: 0;left: 0; width: 128px;"><div class="img_bg" style="width: 128px;height: 250px; position: absolute;left: 50%;top: 50%;margin:-125px 0 0 -64px; background:url(https://www2c1.53kf.com/style/setting/ver07/img/style_setting_ivt/Group_5_2x.png);background-size: 100% 100%; "></div></div><div id="lr_con_53kf" style="width: 240px; padding:24px 12px; position:absolute; right:0px; top:50%; overflow: hidden;box-sizing: border-box;"><div class="inv_title" style="font-size:22px;text-align:center;float:left;width:100%;line-height:32px;margin-bottom:8px;letter-spacing:1px;box-sizing:border-box;color:#0f0e0e;">欢迎咨询</div><div class="inv_content" style="font-size: 14px; line-height: 20px;  text-align: left; max-height: 60px; overflow: auto; float: left; width: 100%; margin-bottom: 16px; word-wrap: break-word; color: #f00511;">事业单位、教师公招、公务员火热开班中，点击免费预约试听~</div><div class="talk_btn" style="float:left;width:100%;border-radius:2px;height:44px;line-height:44px;letter-spacing: 0.83px;font-size:16px;text-align:center;cursor:pointer;color:#FFFFFF;background:#118bf5;" onclick="inv.talk()">点击咨询</div></div></div></div></div>
 <div class="detpagapp newadd_feng detpagapplist">
     <!-- 顶部导航栏 -->
@@ -2406,6 +2406,14 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
 
                                         <ul class="ppatiem_lit ppatiem_aitms">
                                                                                     <li class="flex-asb ">
+                                    <a href="https://cq.jinbiaochi.com/jsgz/news_788604.html" target="_blank" class="ellipsis" title="2025重庆航天职业技术学院招聘25人">
+                                                                                    <p class="flex-a">[<span>招考公告</span>]</p>
+                                                                                <div class="text" style="color: #d7000f!important">2025重庆航天职业技术学院招聘25人</div>
+                                    </a>
+                                    <span class="date" style="color: #d7000f!important">
+                                                                                09-17</span>
+                                </li>
+                                                                                                                <li class="flex-asb ">
                                     <a href="https://cq.jinbiaochi.com/jsgz/news_787910.html" target="_blank" class="ellipsis" title="2025重庆南开中学教育集团教招聘115人">
                                                                                     <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                 <div class="text" style="color: #d7000f!important">2025重庆南开中学教育集团教招聘115人</div>
@@ -2424,9 +2432,9 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                                                                                                 <li class="flex-asb ">
                                     <a href="https://cq.jinbiaochi.com/jsgz/news_786480.html" target="_blank" class="ellipsis" title="2025年重庆师范大学新闻与传媒学院招聘3人">
                                                                                     <p class="flex-a">[<span>招考公告</span>]</p>
-                                                                                <div class="text" style="color: #d7000f!important">2025年重庆师范大学新闻与传媒学院招聘3人</div>
+                                                                                <div class="text">2025年重庆师范大学新闻与传媒学院招聘3人</div>
                                     </a>
-                                    <span class="date" style="color: #d7000f!important">
+                                    <span class="date">
                                                                                 09-15</span>
                                 </li>
                                                                                                                 <li class="flex-asb ">
@@ -2461,18 +2469,18 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                     <span class="date">
                                                                                 09-04</span>
                                 </li>
-                                                                                                                <li class="flex-asb ">
-                                    <a href="https://cq.jinbiaochi.com/jsgz/news_767656.html" target="_blank" class="ellipsis" title="2025沙坪坝区曙光幼儿园教共体招聘3人">
-                                                                                    <p class="flex-a">[<span>招考公告</span>]</p>
-                                                                                <div class="text">2025沙坪坝区曙光幼儿园教共体招聘3人</div>
-                                    </a>
-                                    <span class="date">
-                                                                                09-03</span>
-                                </li>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </ul>
                     
                                             <ul class="ppatiem_lit ppatiem_aitms">
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 <li class="flex-asb ">
+                                        <a href="https://cq.jinbiaochi.com/jsgz/news_767656.html" target="_blank" class="ellipsis" title="2025沙坪坝区曙光幼儿园教共体招聘3人">
+                                                                                            <p class="flex-a">[<span>招考公告</span>]</p>
+                                                                                        <div class="text">2025沙坪坝区曙光幼儿园教共体招聘3人</div>
+                                        </a>
+                                        <span class="date">
+                                                                                    09-03</span>
+                                    </li>
+                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_767316.html" target="_blank" class="ellipsis" title="2025年重庆轻工职业学院招聘109人">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2025年重庆轻工职业学院招聘109人</div>
@@ -2528,7 +2536,10 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         <span class="date">
                                                                                     08-28</span>
                                     </li>
-                                                                                                                                <li class="flex-asb ">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                    
+                                            <ul class="ppatiem_lit ppatiem_aitms">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_764777.html" target="_blank" class="ellipsis" title="2025年大足区教委直属事业单位遴选23人">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2025年大足区教委直属事业单位遴选23人</div>
@@ -2536,10 +2547,7 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         <span class="date">
                                                                                     08-27</span>
                                     </li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
-                    
-                                            <ul class="ppatiem_lit ppatiem_aitms">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="flex-asb ">
+                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_764130.html" target="_blank" class="ellipsis" title="2025渝北区空港实验小学校招聘教师2人">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2025渝北区空港实验小学校招聘教师2人</div>
@@ -2595,7 +2603,10 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         <span class="date">
                                                                                     08-22</span>
                                     </li>
-                                                                                                                                <li class="flex-asb ">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                    
+                                            <ul class="ppatiem_lit ppatiem_aitms">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_762912.html" target="_blank" class="ellipsis" title="2025重庆市红光中学招聘11人">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2025重庆市红光中学招聘11人</div>
@@ -2603,10 +2614,7 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         <span class="date">
                                                                                     08-21</span>
                                     </li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
-                    
-                                            <ul class="ppatiem_lit ppatiem_aitms">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="flex-asb ">
+                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_762869.html" target="_blank" class="ellipsis" title="2025江北区新村蜀都小学附属幼儿园招聘6人">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2025江北区新村蜀都小学附属幼儿园招聘6人</div>
@@ -2662,7 +2670,10 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         <span class="date">
                                                                                     08-20</span>
                                     </li>
-                                                                                                                                <li class="flex-asb ">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                    
+                                            <ul class="ppatiem_lit ppatiem_aitms">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_762018.html" target="_blank" class="ellipsis" title="2025沙坪坝区学府悦园第二小学校招聘2人">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2025沙坪坝区学府悦园第二小学校招聘2人</div>
@@ -2670,10 +2681,7 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         <span class="date">
                                                                                     08-20</span>
                                     </li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
-                    
-                                            <ul class="ppatiem_lit ppatiem_aitms">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="flex-asb ">
+                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_761978.html" target="_blank" class="ellipsis" title="2025重庆三峡学院招聘9人">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2025重庆三峡学院招聘9人</div>
@@ -2728,14 +2736,6 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         </a>
                                         <span class="date">
                                                                                     08-18</span>
-                                    </li>
-                                                                                                                                <li class="flex-asb ">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_760283.html" target="_blank" class="ellipsis" title="2025四川外国语大学附中两江云锦中学招聘9人">
-                                                                                            <p class="flex-a">[<span>招考公告</span>]</p>
-                                                                                        <div class="text">2025四川外国语大学附中两江云锦中学招聘9人</div>
-                                        </a>
-                                        <span class="date">
-                                                                                    08-15</span>
                                     </li>
                                                                                     </ul>
                                     </div>
@@ -2958,38 +2958,38 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                         <!-- 放8条 -->
                         <ul>
                                                                                                 <li class="ellipsis">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_751181.html" target="_blank" title="《教育公基》：25个常见心理学效应——踢猫效应">
+                                        <a href="https://cq.jinbiaochi.com/jsgz/news_750598.html" target="_blank" title="【每日一练】重庆教师招聘考试复习资料——数量分析专项（7.25）">
                                             <!-- 1-3依次的背景颜色值#d7000f #ff6630 #ffb830-->
                                             <span class="icos" style="background-color: #d7000f;">1</span>
-                                            <div class="text">《教育公基》：25个常见心理学效应——踢猫效应</div>
+                                            <div class="text">【每日一练】重庆教师招聘考试复习资料——数量分析专项（7.25）</div>
                                         </a>
                                     </li>
                                                                     <li class="ellipsis">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_734597.html" target="_blank" title="2025渝北中学校教师招聘公告">
+                                        <a href="https://cq.jinbiaochi.com/jsgz/news_787347.html" target="_blank" title="《地理学科知识》：地理必看常识（三）">
                                             <!-- 1-3依次的背景颜色值#d7000f #ff6630 #ffb830-->
                                             <span class="icos" style="background-color: #ff6630;">2</span>
-                                            <div class="text">2025渝北中学校教师招聘公告</div>
+                                            <div class="text">《地理学科知识》：地理必看常识（三）</div>
                                         </a>
                                     </li>
                                                                     <li class="ellipsis">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_705075.html" target="_blank" title="2025年南岸区选聘中小学教师12人">
+                                        <a href="https://cq.jinbiaochi.com/jsgz/news_711990.html" target="_blank" title="重庆教师公招新大纲《综合应用能力（D类）》：师德与职业认知（2）">
                                             <!-- 1-3依次的背景颜色值#d7000f #ff6630 #ffb830-->
                                             <span class="icos" style="background-color: #ffb830;">3</span>
-                                            <div class="text">2025年南岸区选聘中小学教师12人</div>
+                                            <div class="text">重庆教师公招新大纲《综合应用能力（D类）》：师德与职业认知（2）</div>
                                         </a>
                                     </li>
                                                                     <li class="ellipsis">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_757874.html" target="_blank" title="2025年忠县教育事业单位定向考核招聘94人">
+                                        <a href="https://cq.jinbiaochi.com/jsgz/news_762078.html" target="_blank" title="2025渝北区巴蜀小学招聘教师4人">
                                             <!-- 1-3依次的背景颜色值#d7000f #ff6630 #ffb830-->
                                             <span class="icos" style="background-color: ;">4</span>
-                                            <div class="text">2025年忠县教育事业单位定向考核招聘94人</div>
+                                            <div class="text">2025渝北区巴蜀小学招聘教师4人</div>
                                         </a>
                                     </li>
                                                                     <li class="ellipsis">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_736046.html" target="_blank" title="2025年涪陵区对外遴选教师11人">
+                                        <a href="https://cq.jinbiaochi.com/jsgz/news_737832.html" target="_blank" title="重庆特岗教师面试考什么内容">
                                             <!-- 1-3依次的背景颜色值#d7000f #ff6630 #ffb830-->
                                             <span class="icos" style="background-color: ;">5</span>
-                                            <div class="text">2025年涪陵区对外遴选教师11人</div>
+                                            <div class="text">重庆特岗教师面试考什么内容</div>
                                         </a>
                                     </li>
                                                                                     </ul>
@@ -3444,350 +3444,350 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.338Z</updated>
+        <updated>2025-09-17T17:52:56.576Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/129586" rel="noopener" target="_blank">读书笔记（大四上）</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.338Z</updated>
+        <updated>2025-09-17T17:52:56.576Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/129487" rel="noopener" target="_blank">《纸上染了蓝》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.338Z</updated>
+        <updated>2025-09-17T17:52:56.576Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/129395" rel="noopener" target="_blank">好久没看书了</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.341Z</updated>
+        <updated>2025-09-17T17:52:56.576Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/128824" rel="noopener" target="_blank">2025年8月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.343Z</updated>
+        <updated>2025-09-17T17:52:56.576Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/128813" rel="noopener" target="_blank">2025 阅读</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.345Z</updated>
+        <updated>2025-09-17T17:52:56.576Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/128814" rel="noopener" target="_blank">2025 纸书单</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.345Z</updated>
+        <updated>2025-09-17T17:52:56.576Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/128731" rel="noopener" target="_blank">以阅读体验为核心的网页宽度设计策略</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.346Z</updated>
+        <updated>2025-09-17T17:52:56.576Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/128497" rel="noopener" target="_blank">读书编教材</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.346Z</updated>
+        <updated>2025-09-17T17:52:56.576Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/128442" rel="noopener" target="_blank">TiDB Lightning 源码阅读</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.347Z</updated>
+        <updated>2025-09-17T17:52:56.576Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/128375" rel="noopener" target="_blank">书单合集</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.348Z</updated>
+        <updated>2025-09-17T17:52:56.576Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/127828" rel="noopener" target="_blank">我的投资理财书单（2025.08 更新）</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.349Z</updated>
+        <updated>2025-09-17T17:52:56.576Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/127709" rel="noopener" target="_blank">读书：《进化心理学：心理的新科学》</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.351Z</updated>
+        <updated>2025-09-17T17:52:56.576Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/126852" rel="noopener" target="_blank">2025阅读清单</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.352Z</updated>
+        <updated>2025-09-17T17:52:56.576Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/126329" rel="noopener" target="_blank">《关于性，我们想得太少》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.353Z</updated>
+        <updated>2025-09-17T17:52:56.576Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/126109" rel="noopener" target="_blank">《做自己的保险规划师：明明白白买保险》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.355Z</updated>
+        <updated>2025-09-17T17:52:56.577Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/126103" rel="noopener" target="_blank">书籍、电影等下载渠道安利总辑</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.356Z</updated>
+        <updated>2025-09-17T17:52:56.577Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/129246" rel="noopener" target="_blank">《原则》读书笔记：如何将瑞·达利欧的智慧应用到日常</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.357Z</updated>
+        <updated>2025-09-17T17:52:56.577Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/125806" rel="noopener" target="_blank">《4小时明白保险》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.359Z</updated>
+        <updated>2025-09-17T17:52:56.577Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/125755" rel="noopener" target="_blank">《持续买入》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.360Z</updated>
+        <updated>2025-09-17T17:52:56.577Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/125626" rel="noopener" target="_blank">因为买不起Typecho付费阅读插件，于是就基于支付宝自己写了一个PayIT插件</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.361Z</updated>
+        <updated>2025-09-17T17:52:56.578Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/125403" rel="noopener" target="_blank">2025年8款沉浸式翻译平替工具：助你轻松阅读网页</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.363Z</updated>
+        <updated>2025-09-17T17:52:56.579Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/125228" rel="noopener" target="_blank">读书成为博主</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.364Z</updated>
+        <updated>2025-09-17T17:52:56.580Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/125001" rel="noopener" target="_blank">解锁海量阅读！免费开源阅读神器新版下载，附赠10000+精选书源</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.366Z</updated>
+        <updated>2025-09-17T17:52:56.581Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/124942" rel="noopener" target="_blank">《Head First Software Architecture》阅读笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.367Z</updated>
+        <updated>2025-09-17T17:52:56.583Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/124710" rel="noopener" target="_blank">2025年7月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.368Z</updated>
+        <updated>2025-09-17T17:52:56.585Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/124608" rel="noopener" target="_blank">PDF 电子书重排和裁剪</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.370Z</updated>
+        <updated>2025-09-17T17:52:56.586Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/124730" rel="noopener" target="_blank">《不正经问答》现已设为私密【请在博客阅读全文】</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.371Z</updated>
+        <updated>2025-09-17T17:52:56.587Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/123634" rel="noopener" target="_blank">《智人之上: 从石器时代到 AI 时代的信息网络简史》阅读笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.372Z</updated>
+        <updated>2025-09-17T17:52:56.588Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/123438" rel="noopener" target="_blank">九月前得加油读书</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.373Z</updated>
+        <updated>2025-09-17T17:52:56.589Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/123443" rel="noopener" target="_blank">《良好生活的哲学》读书笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.375Z</updated>
+        <updated>2025-09-17T17:52:56.590Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/123208" rel="noopener" target="_blank">GoalKicker 海量免费编程书籍，涵盖各种主流编程语言和技术</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.376Z</updated>
+        <updated>2025-09-17T17:52:56.591Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/123123" rel="noopener" target="_blank">【乡下父母的人生课】10：我们可以不上学，但不能不读书</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.377Z</updated>
+        <updated>2025-09-17T17:52:56.592Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/123025" rel="noopener" target="_blank">阅读量不会只持续增长</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.378Z</updated>
+        <updated>2025-09-17T17:52:56.593Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/122932" rel="noopener" target="_blank">【读书记1573】费迪曼《一生的读书计划》</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.380Z</updated>
+        <updated>2025-09-17T17:52:56.594Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/122859" rel="noopener" target="_blank">二零二五 - 六七月读书随笔</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.381Z</updated>
+        <updated>2025-09-17T17:52:56.595Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/122551" rel="noopener" target="_blank">Gemini 2.5 Pro 是怎么炼成的？-- gemini 2.5 技术报告阅读笔记与思考</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.382Z</updated>
+        <updated>2025-09-17T17:52:56.597Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/122501" rel="noopener" target="_blank">读书：《Free as in Freedom》——若为自由故</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.387Z</updated>
+        <updated>2025-09-17T17:52:56.598Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/122452" rel="noopener" target="_blank">【儿女记】女儿的暑假阅读书单</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.388Z</updated>
+        <updated>2025-09-17T17:52:56.599Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/122037" rel="noopener" target="_blank">《一路云海》(终): 反正不会有人连着阅读到这一章的</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.390Z</updated>
+        <updated>2025-09-17T17:52:56.600Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/122017" rel="noopener" target="_blank">【居家随记】四：不读书的人在教书</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.391Z</updated>
+        <updated>2025-09-17T17:52:56.601Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/121981" rel="noopener" target="_blank">耗时两个月终于把台湾游的博文更新完了。因为时间跨度大，这里就整理了一份合集，欢迎阅读评论。</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.392Z</updated>
+        <updated>2025-09-17T17:52:56.602Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/122475" rel="noopener" target="_blank">2025年6月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.393Z</updated>
+        <updated>2025-09-17T17:52:56.603Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/121793" rel="noopener" target="_blank">【阅读笔记】基于双边滤波改进的空域滤波算法</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.395Z</updated>
+        <updated>2025-09-17T17:52:56.604Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/123370" rel="noopener" target="_blank">Rainman 的 AI 精读书单</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.396Z</updated>
+        <updated>2025-09-17T17:52:56.605Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/121595" rel="noopener" target="_blank">为什么很多人看书，脑子越看越浆糊</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.398Z</updated>
+        <updated>2025-09-17T17:52:56.606Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/124839" rel="noopener" target="_blank">读书｜母女之间：阿克曼、波伏瓦、费兰特，她们这样书写母亲</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.399Z</updated>
+        <updated>2025-09-17T17:52:56.607Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/125163" rel="noopener" target="_blank">读书｜母女之间：阿克曼、波伏瓦、费兰特，她们这样书写母亲</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.401Z</updated>
+        <updated>2025-09-17T17:52:56.608Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/126587" rel="noopener" target="_blank">读书｜母女之间：阿克曼、波伏瓦、费兰特，她们这样书写母亲</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.402Z</updated>
+        <updated>2025-09-17T17:52:56.609Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/121064" rel="noopener" target="_blank">命运与坚守—《褚时健传》读书笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-17T05:46:21.403Z</updated>
+        <updated>2025-09-17T17:52:56.610Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/123373" rel="noopener" target="_blank">从「稍后阅读地狱」到 AI 共创 — 一个工程师的信息演化之路</a>]]></content>
     </entry>
 </feed>
