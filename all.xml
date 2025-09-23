@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xudadi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-09-23T05:54:59.510Z</updated>
+    <updated>2025-09-23T17:42:03.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (重庆市国有资产监督管理委员会-国企招聘)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:18.450Z</updated>
+        <updated>2025-09-23T17:41:08.129Z</updated>
         <content type="html"><![CDATA[<div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
@@ -111,7 +111,7 @@
         <title type="html"><![CDATA[undefined (重庆市国资委国企招聘页面)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:28.346Z</updated>
+        <updated>2025-09-23T17:41:23.865Z</updated>
         <content type="html"><![CDATA[<!-- 头部start -->
     <a id="ariaTipText" role="pagedescription" aria-label="欢迎进入 重庆市国有资产监督管理委员会门户网站,盲人用户使用操作智能引导，请按快捷键Ctrl+Alt+R；阅读详细操作说明请按快捷键Ctrl+Alt+问号键。" aria-atomic="true" href="javascript:void(0)" class="skipAutoFix ariaskiptheme" style="width: 1px; height: 1px;"><img src="" style="width:1px !important;height:1px !important;position:absolute;top:0;" tabindex="-1"></a><link rel="stylesheet" href="/images/xcConfirm.css">
 <script type="text/javascript" src="/images/xcConfirm.js"></script>
@@ -344,8 +344,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
 <div class="wrap">
 <div class="drop-groups clearfix" aria-region="true" aria-labelconfig="true" aria-label="" aria-regiontype="2" tabindex="0" aria-autolabel="true">
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,国务院部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(1) &gt; ul" aria-enterownsmethod="1" aria-eschide="true" aria-expandshowmethod="click" setedaria="true" aria-ownsfor="[id='arialwppbwcer9c']" aria-sourceowns="true" id="ariak91m2bwz1c0" aria-autolabel="true">国务院部门网站</p>
-      <ul class="drop-lists" id="arialwppbwcer9c" aria-owns="[id='ariak91m2bwz1c0']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,国务院部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-enterownsmethod="1" aria-eschide="true" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(1) &gt; ul" aria-expandshowmethod="click" setedaria="true" aria-ownsfor="[id='ariag2zhf03d61s']" aria-sourceowns="true" id="aria3wiwzetw7hc" aria-autolabel="true">国务院部门网站</p>
+      <ul class="drop-lists" id="ariag2zhf03d61s" aria-owns="[id='aria3wiwzetw7hc']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.mfa.gov.cn/" target="_blank">外交部</a></li>
         
@@ -420,8 +420,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,地方政府网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(2) &gt; ul" aria-enterownsmethod="1" aria-eschide="true" aria-expandshowmethod="click" setedaria="true" aria-ownsfor="[id='aria6djbu26rat4']" aria-sourceowns="true" id="aria39dwsanud88" aria-autolabel="true">地方政府网站</p>
-      <ul class="drop-lists" id="aria6djbu26rat4" aria-owns="[id='aria39dwsanud88']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,地方政府网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-enterownsmethod="1" aria-eschide="true" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(2) &gt; ul" aria-expandshowmethod="click" setedaria="true" aria-ownsfor="[id='ariabrwkow0bc9s']" aria-sourceowns="true" id="ariaahq3wmsiyg0" aria-autolabel="true">地方政府网站</p>
+      <ul class="drop-lists" id="ariabrwkow0bc9s" aria-owns="[id='ariaahq3wmsiyg0']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.beijing.gov.cn/" target="_blank">北京</a></li>
         
@@ -496,8 +496,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,市政府部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(3) &gt; ul" aria-enterownsmethod="1" aria-eschide="true" aria-expandshowmethod="click" setedaria="true" aria-ownsfor="[id='ariaehogrw625bs']" aria-sourceowns="true" id="aria6w8tm0e7muw" aria-autolabel="true">市政府部门网站</p>
-      <ul class="drop-lists" id="ariaehogrw625bs" aria-owns="[id='aria6w8tm0e7muw']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,市政府部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-enterownsmethod="1" aria-eschide="true" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(3) &gt; ul" aria-expandshowmethod="click" setedaria="true" aria-ownsfor="[id='aria9rxe98yx6u8']" aria-sourceowns="true" id="arialj82ulu0j4w" aria-autolabel="true">市政府部门网站</p>
+      <ul class="drop-lists" id="aria9rxe98yx6u8" aria-owns="[id='arialj82ulu0j4w']" aria-autoowns="true" aria-popup="true">
        
             <li><a href="http://fzggw.cq.gov.cn/" target="_blank">市发展改革委</a></li>
         
@@ -584,8 +584,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,区（县）部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(4) &gt; ul" aria-enterownsmethod="1" aria-eschide="true" aria-expandshowmethod="click" setedaria="true" aria-ownsfor="[id='aria4qroujw22h']" aria-sourceowns="true" id="ariacja038ll7co" aria-autolabel="true">区（县）政府网站</p>
-      <ul class="drop-lists" id="aria4qroujw22h" aria-owns="[id='ariacja038ll7co']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,区（县）部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-enterownsmethod="1" aria-eschide="true" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(4) &gt; ul" aria-expandshowmethod="click" setedaria="true" aria-ownsfor="[id='ariablzw4ozutb4']" aria-sourceowns="true" id="aria7ed1qd02mlc" aria-autolabel="true">区（县）政府网站</p>
+      <ul class="drop-lists" id="ariablzw4ozutb4" aria-owns="[id='aria7ed1qd02mlc']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.wz.gov.cn/" target="_blank">万州区</a></li>
         
@@ -666,8 +666,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
 <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,其他网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(5) &gt; ul" aria-enterownsmethod="1" aria-eschide="true" aria-expandshowmethod="click" setedaria="true" aria-ownsfor="[id='aria81sor8x1h14']" aria-sourceowns="true" id="ariakhm02ta8lmo" aria-autolabel="true">市属重点国有企业网站</p>
-      <ul class="drop-lists" id="aria81sor8x1h14" aria-owns="[id='ariakhm02ta8lmo']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,其他网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-enterownsmethod="1" aria-eschide="true" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(5) &gt; ul" aria-expandshowmethod="click" setedaria="true" aria-ownsfor="[id='ariahvyzl58eyn4']" aria-sourceowns="true" id="aria6feoevicue8" aria-autolabel="true">市属重点国有企业网站</p>
+      <ul class="drop-lists" id="ariahvyzl58eyn4" aria-owns="[id='aria6feoevicue8']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.cqa.cn" target="_blank">重庆机场集团</a></li>
         
@@ -990,7 +990,7 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
         <title type="html"><![CDATA[undefined (金标尺重庆教师工作相关页面)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:51.045Z</updated>
+        <updated>2025-09-23T17:41:50.404Z</updated>
         <content type="html"><![CDATA[<div id="div_company_mini" style="line-height: 0; font-size: 0px; display: none; position: fixed; right: 0px; bottom: 0px; width: 360px; height: 460px; z-index: 1000000; cursor: move; overflow: visible;"><div class="mini-btn mini-btn1" id="mini-btn" onclick="show_floatWindow();" style="width:auto;white-space:nowrap;cursor:pointer;display:none;position:absolute;right:0; bottom:0;z-index:-1;height: 42px;border-radius:4px; overflow: hidden; background: rgb(31, 140, 235);-webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, .06), 0 2px 32px rgba(0, 0, 0, .16)!important;box-shadow: 0 1px 6px rgba(0, 0, 0, .06), 0 2px 32px rgba(0, 0, 0, .16)!important;"><div class="mini-btn-info" style="position: relative;width: 42px;height: 42px;display:inline-block;"><span style="width:100%;height:100%;position:absolute;left:0;top:0;z-index:1;background: center center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/png/img-email24.png);background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/img-email24.svg), none;"></span><span style="width:100%;height:100%;position:absolute;left:0;top:0;background:#000;opacity:0.2;filter:alpha(opacity=20);"></span><span id="info-num" style="display:none;position: absolute;top: 5px;right: 5px;z-index:10;height: 14px;min-width: 14px;line-height: 14px;border-radius: 7px;background: red;font-size: 12px;color: #FFFFFF;letter-spacing: 0.47px;text-align: center;">0</span></div><div class="mini-btn-middle" style="width:auto;font-weight:normal;display:inline-block;vertical-align:top;line-height: 42px;padding: 0 8px;font-size: 16px;color: #FFFFFF;letter-spacing: 0.83px;word-break: break-all;text-align: center;">给我们留言吧!</div><div class="mini-btn-window" style="display:inline-block;width: 42px;height: 42px;background: center center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/png/to-maxWindow.png);background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/to-maxWindow.svg), none;"></div></div><div id="iframe_company_mini_div" style="font-size: 0;background-color:#fff;border-radius:6px;overflow:hidden;width:100%;height:460px;box-shadow:0 5px 40px rgba(0,0,0,.16)!important;-webkit-box-shadow:0 5px 40px rgba(0,0,0,.16)!important;"><h6 class="pc-visitor-header" style="width:100%;box-sizing:border-box;background: rgb(31, 140, 235) no-repeat 10px;margin:0;padding:0;padding-left: 10px;font-size: 14px;color: #fff;line-height: 36px;position: relative;font-weight: normal;padding-right: 72px;height:36px;"><div style="float: left;height: 100%;box-sizing: border-box;padding: 6px 0;"><img onclick="show_about_box()" style="max-width: 80px;width:auto;height:100%;border-radius:2px;vertical-align:baseline;cursor:pointer" src="https://s3v2.53kf.com/kfxt/2023/08/image/72366151_setting_1690879271_64c8c527afa3f.jpg"></div><div style="float: left;max-width: 78%;overflow: hidden;margin-left: 5px;"><label style="width:100%;background: none; padding: 0; margin: 0; border: 0; line-height:36px;cursor:move;font-weight:normal;cursor:move;color: #fff;display: block;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;font-size: 14px;" class="header-company">金标尺教育</label></div><span onclick="max_from_company_mini(this);" title="最大化" class="pc-new pc-title-btn" style="background: url(https://www7c2.53kf.com/style/chat/new2017/image/png/newWindow.png) center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/newWindow.svg),none;position: absolute;width: 36px;height: 36px;cursor: pointer;right: 40px;top: 0;fill: #F08000;"></span><span onclick="hide_floatWindow();" title="最小化" class="kf-pc-hide pc-title-btn" style="background: url(https://www7c2.53kf.com/style/chat/new2017/image/png/close2020.png) center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/close2020.svg),none;position: absolute;width: 36px;height: 36px;cursor: pointer;right: 0px;top: 0;"></span></h6><iframe id="iframe_company_mini" frameborder="0" style="height:424px;width:100%;margin:0;padding:0;visibility: inherit;opacity:1;position:inherit;"></iframe></div></div><div id="kfivtwin" style="display: none; overflow: visible;"><div id="inv_box_53kf" style="width: 380px; padding-top: 10px; padding-left: 10px; box-sizing: border-box; position: fixed; left:812px; top:74px;display: block;z-index:999998;"><div style="position:absolute;left:0;top:0;width:20px;height:20px;cursor:pointer;z-index:5;" onclick="inv.clos()"><img style="width:100%;height:100%;" src="https://www7c2.53kf.com/style/setting/ver07/img/style_mobile_invite/close_2x.png"></div><div class="inv_bg_color" style="width:100%;min-height: 250px;box-sizing: border-box;overflow:hidden;background:#ffffff; border:1px solid #eee; box-shadow:rgba(74, 144, 226, 0.4) 0px 0px 10px 0px;border-radius: 2px;position: relative;"><div style="position: absolute;top: 0;bottom: 0;left: 0; width: 128px;"><div class="img_bg" style="width: 128px;height: 250px; position: absolute;left: 50%;top: 50%;margin:-125px 0 0 -64px; background:url(https://www2c1.53kf.com/style/setting/ver07/img/style_setting_ivt/Group_5_2x.png);background-size: 100% 100%; "></div></div><div id="lr_con_53kf" style="width: 240px; padding:24px 12px; position:absolute; right:0px; top:50%; overflow: hidden;box-sizing: border-box;"><div class="inv_title" style="font-size:22px;text-align:center;float:left;width:100%;line-height:32px;margin-bottom:8px;letter-spacing:1px;box-sizing:border-box;color:#0f0e0e;">欢迎咨询</div><div class="inv_content" style="font-size: 14px; line-height: 20px;  text-align: left; max-height: 60px; overflow: auto; float: left; width: 100%; margin-bottom: 16px; word-wrap: break-word; color: #f00511;">事业单位、教师公招、公务员火热开班中，点击免费预约试听~</div><div class="talk_btn" style="float:left;width:100%;border-radius:2px;height:44px;line-height:44px;letter-spacing: 0.83px;font-size:16px;text-align:center;cursor:pointer;color:#FFFFFF;background:#118bf5;" onclick="inv.talk()">点击咨询</div></div></div></div></div>
 <div class="detpagapp newadd_feng detpagapplist">
     <!-- 顶部导航栏 -->
@@ -1046,8 +1046,8 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                                     <div class="add_headerregion1 pmt10">
                                 <div class="p_headertit"><img alt="金标尺" src="/static/pc/newpage/newimg2022424/nav-2.png">考试科目</div>
                                 <div class="">
-                                                                            <a href="https://cq.jinbiaochi.com/sydw/" target="_blank" title="事业单位-金标尺">事业单位</a>
                                                                             <a href="https://cq.jinbiaochi.com/cqgwy/" target="_blank" title="重庆公务员-金标尺">重庆公务员</a>
+                                                                            <a href="https://cq.jinbiaochi.com/sydw/" target="_blank" title="事业单位-金标尺">事业单位</a>
                                                                             <a href="https://cq.jinbiaochi.com/jsgz/" target="_blank" title="教师公招-金标尺">教师公招</a>
                                                                             <a href="https://cq.jinbiaochi.com/gk/" target="_blank" title="国家公务员-金标尺">国家公务员</a>
                                                                             <a href="https://cq.jinbiaochi.com/xts/" target="_blank" title="选调生-金标尺">选调生</a>
@@ -1079,19 +1079,19 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                         选课报班<i class="layui-icon layui-icon-down"></i>
                         <div class="add_headerbox add_headercourse">
                                                             <div class="item">
-                                    <div class="praname">事业单位</div>
-                                    <!-- 里面的a标签可放1-2个 -->
-                                    <div class="links">
-                                                                                    <a href="https://store.jinbiaochi.com/bs/sydw/chongqing" target="_blank" title="笔试课程-金标尺">笔试课程</a>
-                                                                                    <a href="https://store.jinbiaochi.com/ms/sydw/chongqing" target="_blank" title="面试课程-金标尺">面试课程</a>
-                                                                            </div>
-                                </div>
-                                                            <div class="item">
                                     <div class="praname">重庆公务员</div>
                                     <!-- 里面的a标签可放1-2个 -->
                                     <div class="links">
                                                                                     <a href="https://store.jinbiaochi.com/bs/gwy/chongqing" target="_blank" title="笔试课程-金标尺">笔试课程</a>
                                                                                     <a href="https://store.jinbiaochi.com/ms/gwy/chongqing" target="_blank" title="面试课程-金标尺">面试课程</a>
+                                                                            </div>
+                                </div>
+                                                            <div class="item">
+                                    <div class="praname">事业单位</div>
+                                    <!-- 里面的a标签可放1-2个 -->
+                                    <div class="links">
+                                                                                    <a href="https://store.jinbiaochi.com/bs/sydw/chongqing" target="_blank" title="笔试课程-金标尺">笔试课程</a>
+                                                                                    <a href="https://store.jinbiaochi.com/ms/sydw/chongqing" target="_blank" title="面试课程-金标尺">面试课程</a>
                                                                             </div>
                                 </div>
                                                             <div class="item">
@@ -1296,6 +1296,34 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                 <div class="container">
                     <ul class="secoleve_item active">
                                                                                     <li>
+                                    <a href="https://cq.jinbiaochi.com/cqgwy/" target="_blank" title="重庆公务员">重庆公务员</a>
+                                    <!-- 子菜单 -->
+                                    <div class="jbczkbox">
+                                        <div class="jbczkbox1">
+                                            <div class="ico"><img alt="金标尺" src="/static/pc/newpage/newimg2022424/nav-jt.jpg"></div>
+                                            <p class="flex-a1">
+                                            <span>
+                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/cqgwy/column_64/" target="_blank" title="招考信息">招考信息</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </span>|                                                                                                                                                                                                                                                                                                                                                                                                    <a href="https://cq.jinbiaochi.com/cqgwy/column_65/" target="_blank" title="招考公告">招考公告</a>
+                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/cqgwy/column_4043/" target="_blank" title="职位表">职位表</a>
+                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/cqgwy/column_66/" target="_blank" title="考试大纲">考试大纲</a>
+                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/cqgwy/column_67/" target="_blank" title="报名入口">报名入口</a>
+                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/cqgwy/column_68/" target="_blank" title="准考证打印">准考证打印</a>
+                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/cqgwy/column_69/" target="_blank" title="成绩查询">成绩查询</a>
+                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/cqgwy/column_70/" target="_blank" title="面试名单">面试名单</a>
+                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/cqgwy/column_71/" target="_blank" title="录用公示">录用公示</a>
+                                                                                                                                                                                                                                                                    </p>
+                                            <p class="flex-a1">
+                                            <span>
+                                                                                                                                                                                                                                                                                        <a href="https://cq.jinbiaochi.com/cqgwy/column_72/" target="_blank" title="报考指导">报考指导</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </span>|
+                                                                                                                                                                                                                                                                                                                                                                                                    <a href="https://cq.jinbiaochi.com/cqgwy/column_73/" target="_blank" title="报考指南">报考指南</a>
+                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/cqgwy/column_74/" target="_blank" title="报名人数">报名人数</a>
+                                                                                                                                                                                                                                                                    </p>
+                                        </div>
+                                    </div>
+                                </li>
+                                                            <li>
                                     <a href="https://cq.jinbiaochi.com/sydw/" target="_blank" title="事业单位">事业单位</a>
                                     <!-- 子菜单 -->
                                     <div class="jbczkbox">
@@ -1320,34 +1348,6 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </span>|
                                                                                                                                                                                                                                                                                                                                                                                                     <a href="https://cq.jinbiaochi.com/sydw/column_49/" target="_blank" title="报考指南">报考指南</a>
                                                                                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/sydw/column_50/" target="_blank" title="报名人数">报名人数</a>
-                                                                                                                                                                                                                                                                    </p>
-                                        </div>
-                                    </div>
-                                </li>
-                                                            <li>
-                                    <a href="https://cq.jinbiaochi.com/cqgwy/" target="_blank" title="重庆公务员">重庆公务员</a>
-                                    <!-- 子菜单 -->
-                                    <div class="jbczkbox">
-                                        <div class="jbczkbox1">
-                                            <div class="ico"><img alt="金标尺" src="/static/pc/newpage/newimg2022424/nav-jt.jpg"></div>
-                                            <p class="flex-a1">
-                                            <span>
-                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/cqgwy/column_64/" target="_blank" title="招考信息">招考信息</a>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </span>|                                                                                                                                                                                                                                                                                                                                                                                                    <a href="https://cq.jinbiaochi.com/cqgwy/column_65/" target="_blank" title="招考公告">招考公告</a>
-                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/cqgwy/column_4043/" target="_blank" title="职位表">职位表</a>
-                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/cqgwy/column_66/" target="_blank" title="考试大纲">考试大纲</a>
-                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/cqgwy/column_67/" target="_blank" title="报名入口">报名入口</a>
-                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/cqgwy/column_68/" target="_blank" title="准考证打印">准考证打印</a>
-                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/cqgwy/column_69/" target="_blank" title="成绩查询">成绩查询</a>
-                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/cqgwy/column_70/" target="_blank" title="面试名单">面试名单</a>
-                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/cqgwy/column_71/" target="_blank" title="录用公示">录用公示</a>
-                                                                                                                                                                                                                                                                    </p>
-                                            <p class="flex-a1">
-                                            <span>
-                                                                                                                                                                                                                                                                                        <a href="https://cq.jinbiaochi.com/cqgwy/column_72/" target="_blank" title="报考指导">报考指导</a>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </span>|
-                                                                                                                                                                                                                                                                                                                                                                                                    <a href="https://cq.jinbiaochi.com/cqgwy/column_73/" target="_blank" title="报考指南">报考指南</a>
-                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/cqgwy/column_74/" target="_blank" title="报名人数">报名人数</a>
                                                                                                                                                                                                                                                                     </p>
                                         </div>
                                     </div>
@@ -1389,14 +1389,13 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                             <p class="flex-a1">
                                             <span>
                                                                                                                                                                                                                                                                                              <a href="https://cq.jinbiaochi.com/gk/column_88/" target="_blank" title="招考信息">招考信息</a>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </span>|                                                                                                                                                                                                                                                                                                                                                                                                    <a href="https://cq.jinbiaochi.com/gk/column_89/" target="_blank" title="招考公告">招考公告</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </span>|                                                                                                                                                                                                                                                                                                                                                                                                    <a href="https://cq.jinbiaochi.com/gk/column_89/" target="_blank" title="招考公告">招考公告</a>
                                                                                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/gk/column_90/" target="_blank" title="考试大纲">考试大纲</a>
                                                                                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/gk/column_91/" target="_blank" title="报名入口">报名入口</a>
                                                                                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/gk/column_92/" target="_blank" title="准考证打印">准考证打印</a>
                                                                                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/gk/column_93/" target="_blank" title="成绩查询">成绩查询</a>
                                                                                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/gk/column_94/" target="_blank" title="面试名单">面试名单</a>
                                                                                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/gk/column_95/" target="_blank" title="录用公示">录用公示</a>
-                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/gk/column_3658/" target="_blank" title="高校宣讲">高校宣讲</a>
                                                                                                                                                                                                                                                                     </p>
                                             <p class="flex-a1">
                                             <span>
@@ -1417,13 +1416,12 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                             <p class="flex-a1">
                                             <span>
                                                                                                                                                                                                                                                                                              <a href="https://cq.jinbiaochi.com/xts/column_173/" target="_blank" title="招考信息">招考信息</a>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </span>|                                                                                                                                                                                                                                                                                                                                                                                                    <a href="https://cq.jinbiaochi.com/xts/column_174/" target="_blank" title="招考公告">招考公告</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </span>|                                                                                                                                                                                                                                                                                                                                                                                                    <a href="https://cq.jinbiaochi.com/xts/column_174/" target="_blank" title="招考公告">招考公告</a>
                                                                                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/xts/column_175/" target="_blank" title="考试大纲">考试大纲</a>
                                                                                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/xts/column_176/" target="_blank" title="报名入口">报名入口</a>
                                                                                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/xts/column_177/" target="_blank" title="准考证打印">准考证打印</a>
                                                                                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/xts/column_178/" target="_blank" title="成绩查询">成绩查询</a>
                                                                                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/xts/column_179/" target="_blank" title="面试名单">面试名单</a>
-                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/xts/column_3659/" target="_blank" title="高校宣讲">高校宣讲</a>
                                                                                                                                                                                                                                                                     </p>
                                             <p class="flex-a1">
                                             <span>
@@ -1471,13 +1469,12 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                             <p class="flex-a1">
                                             <span>
                                                                                                                                                                                                                                                                                              <a href="https://cq.jinbiaochi.com/gqzp/column_2668/" target="_blank" title="招考信息">招考信息</a>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </span>|                                                                                                                                                                                                                                                                                                                                                                                                    <a href="https://cq.jinbiaochi.com/gqzp/column_2690/" target="_blank" title="招考公告">招考公告</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </span>|                                                                                                                                                                                                                                                                                                                                                                                                    <a href="https://cq.jinbiaochi.com/gqzp/column_2690/" target="_blank" title="招考公告">招考公告</a>
                                                                                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/gqzp/column_3569/" target="_blank" title="报名入口">报名入口</a>
                                                                                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/gqzp/column_3570/" target="_blank" title="准考证打印">准考证打印</a>
                                                                                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/gqzp/column_3044/" target="_blank" title="成绩查询">成绩查询</a>
                                                                                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/gqzp/column_2691/" target="_blank" title="面试通知">面试通知</a>
                                                                                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/gqzp/column_2692/" target="_blank" title="录用公示">录用公示</a>
-                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/gqzp/column_3660/" target="_blank" title="高校宣讲">高校宣讲</a>
                                                                                                                                                                                                                                                                     </p>
                                             <p class="flex-a1">
                                             <span>
@@ -1692,6 +1689,27 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                                                         </ul>
                     <ul class="secoleve_item">
                                                                                                                         <li>
+                                        <a href="https://cq.jinbiaochi.com/cqgwy/" target="_blank" title="重庆公务员">重庆公务员</a>
+                                        <!-- 子菜单 -->
+                                        <div class="jbczkbox">
+                                            <div class="jbczkbox1">
+                                                <div class="ico"><img alt="金标尺" src="/static/pc/newpage/newimg2022424/nav-jt.jpg"></div>
+                                                <p class="flex-a1">
+                                        <span>
+                                                                                                                                                                                                                                                                    <a href="https://cq.jinbiaochi.com/cqgwy/column_75/" target="_blank" title="阅读资料">阅读资料</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </span>|                                                                                                                                                                                                                                                                                                                                                                                                                                <a href="https://cq.jinbiaochi.com/cqgwy/column_76/" target="_blank" title="行测">行测</a>
+                                                                                                                                                                                                                                                                                                                                                                                    <a href="https://cq.jinbiaochi.com/cqgwy/column_77/" target="_blank" title="申论">申论</a>
+                                                                                                                                                                                                                                                                                                                                                                                    <a href="https://cq.jinbiaochi.com/cqgwy/column_79/" target="_blank" title="时政热点">时政热点</a>
+                                                                                                                                                                                                                                                                                        </p>
+                                                <p class="flex-a1">
+                                        <span>
+                                                                                                                                                                                                                                                                                                                                <a href="https://cq.jinbiaochi.com/cqgwy/column_80/" target="_blank" title="笔试题库">笔试题库</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                        </span>|                                                                                                                                                                                                                                                                                                                                                                                                                                <a href="https://cq.jinbiaochi.com/cqgwy/column_83/" target="_blank" title="笔试模拟">笔试模拟</a>
+                                                                                                                                                                                                                                                                                        </p>
+                                            </div>
+                                        </div>
+                                    </li>
+                                                                                                                                <li>
                                         <a href="https://cq.jinbiaochi.com/sydw/" target="_blank" title="事业单位">事业单位</a>
                                         <!-- 子菜单 -->
                                         <div class="jbczkbox">
@@ -1711,27 +1729,6 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                                                                                                                                                                                                                                                                                                                 <a href="https://cq.jinbiaochi.com/sydw/column_56/" target="_blank" title="笔试题库">笔试题库</a>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </span>|                                                                                                                                                                                                                                                                                                                                                                                                                                <a href="https://cq.jinbiaochi.com/sydw/column_57/" target="_blank" title="历年试题">历年试题</a>
                                                                                                                                                                                                                                                                                                                                                                                     <a href="https://cq.jinbiaochi.com/sydw/column_59/" target="_blank" title="笔试模拟">笔试模拟</a>
-                                                                                                                                                                                                                                                                                        </p>
-                                            </div>
-                                        </div>
-                                    </li>
-                                                                                                                                <li>
-                                        <a href="https://cq.jinbiaochi.com/cqgwy/" target="_blank" title="重庆公务员">重庆公务员</a>
-                                        <!-- 子菜单 -->
-                                        <div class="jbczkbox">
-                                            <div class="jbczkbox1">
-                                                <div class="ico"><img alt="金标尺" src="/static/pc/newpage/newimg2022424/nav-jt.jpg"></div>
-                                                <p class="flex-a1">
-                                        <span>
-                                                                                                                                                                                                                                                                    <a href="https://cq.jinbiaochi.com/cqgwy/column_75/" target="_blank" title="阅读资料">阅读资料</a>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </span>|                                                                                                                                                                                                                                                                                                                                                                                                                                <a href="https://cq.jinbiaochi.com/cqgwy/column_76/" target="_blank" title="行测">行测</a>
-                                                                                                                                                                                                                                                                                                                                                                                    <a href="https://cq.jinbiaochi.com/cqgwy/column_77/" target="_blank" title="申论">申论</a>
-                                                                                                                                                                                                                                                                                                                                                                                    <a href="https://cq.jinbiaochi.com/cqgwy/column_79/" target="_blank" title="时政热点">时政热点</a>
-                                                                                                                                                                                                                                                                                        </p>
-                                                <p class="flex-a1">
-                                        <span>
-                                                                                                                                                                                                                                                                                                                                <a href="https://cq.jinbiaochi.com/cqgwy/column_80/" target="_blank" title="笔试题库">笔试题库</a>
-                                                                                                                                                                                                                                                                                                                                                                                                                                        </span>|                                                                                                                                                                                                                                                                                                                                                                                                                                <a href="https://cq.jinbiaochi.com/cqgwy/column_83/" target="_blank" title="笔试模拟">笔试模拟</a>
                                                                                                                                                                                                                                                                                         </p>
                                             </div>
                                         </div>
@@ -1994,30 +1991,6 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                                                                                                                                                                                                                 </ul>
                                             <ul class="secoleve_item">
                                                                                                                                         <li>
-                                            <a href="https://cq.jinbiaochi.com/sydw/" target="_blank" title="事业单位">事业单位</a>
-                                            <!-- 子菜单 -->
-                                            <div class="jbczkbox">
-                                                <div class="jbczkbox1">
-                                                    <div class="ico"><img alt="金标尺" src="/static/pc/newpage/newimg2022424/nav-jt.jpg"></div>
-                                                    <p class="flex-a1">
-                                        <span>
-                                                                                                                                                                                                                                                                    <a href="https://cq.jinbiaochi.com/sydw/column_3090/" target="_blank" title="阅读资料">阅读资料</a>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </span>|                                                                                                                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/sydw/column_3064/" target="_blank" title="面试考情">面试考情</a>
-                                                                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/sydw/column_1240/" target="_blank" title="面试热点">面试热点</a>
-                                                                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/sydw/column_2564/" target="_blank" title="面试金句">面试金句</a>
-                                                                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/sydw/column_54/" target="_blank" title="拔高拓展">拔高拓展</a>
-                                                                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/sydw/column_3247/" target="_blank" title="模拟示范">模拟示范</a>
-                                                                                                                                                                                                                                                                                                            </p>
-                                                    <p class="flex-a1">
-                                        <span>
-                                                                                                                                                                                                                                                                                                                                <a href="https://cq.jinbiaochi.com/sydw/column_3124/" target="_blank" title="面试题库">面试题库</a>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </span>|                                                                                                                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/sydw/column_58/" target="_blank" title="历年试题">历年试题</a>
-                                                                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/sydw/column_3092/" target="_blank" title="面试模拟">面试模拟</a>
-                                                                                                                                                                                                                                                                                                            </p>
-                                                </div>
-                                            </div>
-                                        </li>
-                                                                                                                                                <li>
                                             <a href="https://cq.jinbiaochi.com/cqgwy/" target="_blank" title="重庆公务员">重庆公务员</a>
                                             <!-- 子菜单 -->
                                             <div class="jbczkbox">
@@ -2037,6 +2010,30 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                                                                                                                                                                                                                                                                                                                 <a href="https://cq.jinbiaochi.com/cqgwy/column_3126/" target="_blank" title="面试题库">面试题库</a>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </span>|                                                                                                                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/cqgwy/column_82/" target="_blank" title="历年试题">历年试题</a>
                                                                                                                                                                                                                                                                                                                                                                                                             <a href="https://cq.jinbiaochi.com/cqgwy/column_3059/" target="_blank" title="面试模拟">面试模拟</a>
+                                                                                                                                                                                                                                                                                                            </p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                                                                                                                                <li>
+                                            <a href="https://cq.jinbiaochi.com/sydw/" target="_blank" title="事业单位">事业单位</a>
+                                            <!-- 子菜单 -->
+                                            <div class="jbczkbox">
+                                                <div class="jbczkbox1">
+                                                    <div class="ico"><img alt="金标尺" src="/static/pc/newpage/newimg2022424/nav-jt.jpg"></div>
+                                                    <p class="flex-a1">
+                                        <span>
+                                                                                                                                                                                                                                                                    <a href="https://cq.jinbiaochi.com/sydw/column_3090/" target="_blank" title="阅读资料">阅读资料</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </span>|                                                                                                                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/sydw/column_3064/" target="_blank" title="面试考情">面试考情</a>
+                                                                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/sydw/column_1240/" target="_blank" title="面试热点">面试热点</a>
+                                                                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/sydw/column_2564/" target="_blank" title="面试金句">面试金句</a>
+                                                                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/sydw/column_54/" target="_blank" title="拔高拓展">拔高拓展</a>
+                                                                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/sydw/column_3247/" target="_blank" title="模拟示范">模拟示范</a>
+                                                                                                                                                                                                                                                                                                            </p>
+                                                    <p class="flex-a1">
+                                        <span>
+                                                                                                                                                                                                                                                                                                                                <a href="https://cq.jinbiaochi.com/sydw/column_3124/" target="_blank" title="面试题库">面试题库</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </span>|                                                                                                                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/sydw/column_58/" target="_blank" title="历年试题">历年试题</a>
+                                                                                                                                                                                                                                                                                                                                                                                                            <a href="https://cq.jinbiaochi.com/sydw/column_3092/" target="_blank" title="面试模拟">面试模拟</a>
                                                                                                                                                                                                                                                                                                             </p>
                                                 </div>
                                             </div>
@@ -2404,6 +2401,30 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
 
                                         <ul class="ppatiem_lit ppatiem_aitms">
                                                                                     <li class="flex-asb ">
+                                    <a href="https://cq.jinbiaochi.com/jsgz/news_791720.html" target="_blank" class="ellipsis" title="2025年重庆一中教育集团教师招聘公告">
+                                                                                    <p class="flex-a">[<span>招考公告</span>]</p>
+                                                                                <div class="text" style="color: #d7000f!important">2025年重庆一中教育集团教师招聘公告</div>
+                                    </a>
+                                    <span class="date" style="color: #d7000f!important">
+                                                                                09-23</span>
+                                </li>
+                                                                                                                <li class="flex-asb ">
+                                    <a href="https://cq.jinbiaochi.com/jsgz/news_791712.html" target="_blank" class="ellipsis" title="2025年渝北区长安锦绣实验小学招聘公告">
+                                                                                    <p class="flex-a">[<span>招考公告</span>]</p>
+                                                                                <div class="text" style="color: #d7000f!important">2025年渝北区长安锦绣实验小学招聘公告</div>
+                                    </a>
+                                    <span class="date" style="color: #d7000f!important">
+                                                                                09-23</span>
+                                </li>
+                                                                                                                <li class="flex-asb ">
+                                    <a href="https://cq.jinbiaochi.com/jsgz/news_791500.html" target="_blank" class="ellipsis" title="2025年重庆商务职业学院事业单位考核招聘38人（第二批）">
+                                                                                    <p class="flex-a">[<span>招考公告</span>]</p>
+                                                                                <div class="text" style="color: #d7000f!important">2025年重庆商务职业学院事业单位考核招聘38人（第二批）</div>
+                                    </a>
+                                    <span class="date" style="color: #d7000f!important">
+                                                                                09-23</span>
+                                </li>
+                                                                                                                <li class="flex-asb ">
                                     <a href="https://cq.jinbiaochi.com/jsgz/news_791195.html" target="_blank" class="ellipsis" title="2025年重庆某小学招聘公告">
                                                                                     <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                 <div class="text" style="color: #d7000f!important">2025年重庆某小学招聘公告</div>
@@ -2443,34 +2464,34 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                     <span class="date">
                                                                                 09-19</span>
                                 </li>
-                                                                                                                <li class="flex-asb ">
-                                    <a href="https://cq.jinbiaochi.com/jsgz/news_788994.html" target="_blank" class="ellipsis" title="2025重庆市青木关中学校招聘公告">
-                                                                                    <p class="flex-a">[<span>招考公告</span>]</p>
-                                                                                <div class="text">2025重庆市青木关中学校招聘公告</div>
-                                    </a>
-                                    <span class="date">
-                                                                                09-18</span>
-                                </li>
-                                                                                                                <li class="flex-asb ">
-                                    <a href="https://cq.jinbiaochi.com/jsgz/news_788604.html" target="_blank" class="ellipsis" title="2025重庆航天职业技术学院招聘25人">
-                                                                                    <p class="flex-a">[<span>招考公告</span>]</p>
-                                                                                <div class="text">2025重庆航天职业技术学院招聘25人</div>
-                                    </a>
-                                    <span class="date">
-                                                                                09-17</span>
-                                </li>
-                                                                                                                <li class="flex-asb ">
-                                    <a href="https://cq.jinbiaochi.com/jsgz/news_787910.html" target="_blank" class="ellipsis" title="2025重庆南开中学教育集团教招聘115人">
-                                                                                    <p class="flex-a">[<span>招考公告</span>]</p>
-                                                                                <div class="text">2025重庆南开中学教育集团教招聘115人</div>
-                                    </a>
-                                    <span class="date">
-                                                                                09-17</span>
-                                </li>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </ul>
                     
                                             <ul class="ppatiem_lit ppatiem_aitms">
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 <li class="flex-asb ">
+                                        <a href="https://cq.jinbiaochi.com/jsgz/news_788994.html" target="_blank" class="ellipsis" title="2025重庆市青木关中学校招聘公告">
+                                                                                            <p class="flex-a">[<span>招考公告</span>]</p>
+                                                                                        <div class="text">2025重庆市青木关中学校招聘公告</div>
+                                        </a>
+                                        <span class="date">
+                                                                                    09-18</span>
+                                    </li>
+                                                                                                                                <li class="flex-asb ">
+                                        <a href="https://cq.jinbiaochi.com/jsgz/news_788604.html" target="_blank" class="ellipsis" title="2025重庆航天职业技术学院招聘25人">
+                                                                                            <p class="flex-a">[<span>招考公告</span>]</p>
+                                                                                        <div class="text">2025重庆航天职业技术学院招聘25人</div>
+                                        </a>
+                                        <span class="date">
+                                                                                    09-17</span>
+                                    </li>
+                                                                                                                                <li class="flex-asb ">
+                                        <a href="https://cq.jinbiaochi.com/jsgz/news_787910.html" target="_blank" class="ellipsis" title="2025重庆南开中学教育集团教招聘115人">
+                                                                                            <p class="flex-a">[<span>招考公告</span>]</p>
+                                                                                        <div class="text">2025重庆南开中学教育集团教招聘115人</div>
+                                        </a>
+                                        <span class="date">
+                                                                                    09-17</span>
+                                    </li>
+                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_787906.html" target="_blank" class="ellipsis" title="2025年秀山自治县教育事业单位赴高校考核招聘49人">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2025年秀山自治县教育事业单位赴高校考核招聘49人</div>
@@ -2510,7 +2531,10 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         <span class="date">
                                                                                     09-05</span>
                                     </li>
-                                                                                                                                <li class="flex-asb ">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                    
+                                            <ul class="ppatiem_lit ppatiem_aitms">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_768112.html" target="_blank" class="ellipsis" title="2025年重庆三峡学院考核招聘6人（第二批）">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2025年重庆三峡学院考核招聘6人（第二批）</div>
@@ -2534,10 +2558,7 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         <span class="date">
                                                                                     09-03</span>
                                     </li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
-                    
-                                            <ul class="ppatiem_lit ppatiem_aitms">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="flex-asb ">
+                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_767165.html" target="_blank" class="ellipsis" title="2025年巫山县教育事业单位定向考核招聘105人">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2025年巫山县教育事业单位定向考核招聘105人</div>
@@ -2577,7 +2598,10 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         <span class="date">
                                                                                     08-29</span>
                                     </li>
-                                                                                                                                <li class="flex-asb ">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                    
+                                            <ul class="ppatiem_lit ppatiem_aitms">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_765328.html" target="_blank" class="ellipsis" title="2025两江新区星光教育集团招聘公告">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2025两江新区星光教育集团招聘公告</div>
@@ -2601,10 +2625,7 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         <span class="date">
                                                                                     08-25</span>
                                     </li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
-                    
-                                            <ul class="ppatiem_lit ppatiem_aitms">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="flex-asb ">
+                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_763738.html" target="_blank" class="ellipsis" title="2025年重庆市农业机械化学校教师招聘公告">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2025年重庆市农业机械化学校教师招聘公告</div>
@@ -2644,7 +2665,10 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         <span class="date">
                                                                                     08-22</span>
                                     </li>
-                                                                                                                                <li class="flex-asb ">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                    
+                                            <ul class="ppatiem_lit ppatiem_aitms">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_763144.html" target="_blank" class="ellipsis" title="2025石柱县事业单位面向特岗及公费师范生招聘46人">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2025石柱县事业单位面向特岗及公费师范生招聘46人</div>
@@ -2668,10 +2692,7 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         <span class="date">
                                                                                     08-21</span>
                                     </li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
-                    
-                                            <ul class="ppatiem_lit ppatiem_aitms">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="flex-asb ">
+                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_762538.html" target="_blank" class="ellipsis" title="2025年九龙坡区田家炳中学招聘5人">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2025年九龙坡区田家炳中学招聘5人</div>
@@ -2707,30 +2728,6 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_762058.html" target="_blank" class="ellipsis" title="2025重庆大学城第一小学校招聘2人">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2025重庆大学城第一小学校招聘2人</div>
-                                        </a>
-                                        <span class="date">
-                                                                                    08-20</span>
-                                    </li>
-                                                                                                                                <li class="flex-asb ">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_762022.html" target="_blank" class="ellipsis" title="2025重庆九龙坡区彩云湖小学招聘2人">
-                                                                                            <p class="flex-a">[<span>招考公告</span>]</p>
-                                                                                        <div class="text">2025重庆九龙坡区彩云湖小学招聘2人</div>
-                                        </a>
-                                        <span class="date">
-                                                                                    08-20</span>
-                                    </li>
-                                                                                                                                <li class="flex-asb ">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_762018.html" target="_blank" class="ellipsis" title="2025沙坪坝区学府悦园第二小学校招聘2人">
-                                                                                            <p class="flex-a">[<span>招考公告</span>]</p>
-                                                                                        <div class="text">2025沙坪坝区学府悦园第二小学校招聘2人</div>
-                                        </a>
-                                        <span class="date">
-                                                                                    08-20</span>
-                                    </li>
-                                                                                                                                <li class="flex-asb ">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_761978.html" target="_blank" class="ellipsis" title="2025重庆三峡学院招聘9人">
-                                                                                            <p class="flex-a">[<span>招考公告</span>]</p>
-                                                                                        <div class="text">2025重庆三峡学院招聘9人</div>
                                         </a>
                                         <span class="date">
                                                                                     08-20</span>
@@ -2867,6 +2864,14 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                             </tr>
                                                         <tr>
                                 <td><p>事业单位</p></td>
+                                <td><p>09.24~12.30</p></td>
+                                <td><p>另行通知</p></td>
+                                <td>
+                                    <a target="_blank" title="事业单位" href="https://cq.jinbiaochi.com/jsgz/news_791500.html">查看详情 &gt;</a>
+                                </td>
+                            </tr>
+                                                        <tr>
+                                <td><p>事业单位</p></td>
                                 <td><p>09.24~09.24</p></td>
                                 <td><p>09.27</p></td>
                                 <td>
@@ -2895,14 +2900,6 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                 <td><p>10.12</p></td>
                                 <td>
                                     <a target="_blank" title="银行国企" href="https://cq.jinbiaochi.com/jsgz/news_785798.html">查看详情 &gt;</a>
-                                </td>
-                            </tr>
-                                                        <tr>
-                                <td><p>教师招聘</p></td>
-                                <td><p>09.12~09.12</p></td>
-                                <td><p>09.13</p></td>
-                                <td>
-                                    <a target="_blank" title="教师招聘" href="https://cq.jinbiaochi.com/jsgz/news_785721.html">查看详情 &gt;</a>
                                 </td>
                             </tr>
                                                                             </tbody>
@@ -2956,38 +2953,38 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                         <!-- 放8条 -->
                         <ul>
                                                                                                 <li class="ellipsis">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_714299.html" target="_blank" title="重庆教师公招新大纲《综合应用能力（D类）》：师德与职业认知（3）">
+                                        <a href="https://cq.jinbiaochi.com/jsgz/news_788802.html" target="_blank" title="2025年万州区教育卫生事业单位赴高校考核招聘应届生报名入口（9.19-9.25）">
                                             <!-- 1-3依次的背景颜色值#d7000f #ff6630 #ffb830-->
                                             <span class="icos" style="background-color: #d7000f;">1</span>
-                                            <div class="text">重庆教师公招新大纲《综合应用能力（D类）》：师德与职业认知（3）</div>
+                                            <div class="text">2025年万州区教育卫生事业单位赴高校考核招聘应届生报名入口（9.19-9.25）</div>
                                         </a>
                                     </li>
                                                                     <li class="ellipsis">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_762242.html" target="_blank" title="【每日一练】重庆教师招聘考试复习资料——常识判断专项（8.20）">
+                                        <a href="https://cq.jinbiaochi.com/jsgz/news_754438.html" target="_blank" title="《音乐学科知识》：音乐必看常识（十三）">
                                             <!-- 1-3依次的背景颜色值#d7000f #ff6630 #ffb830-->
                                             <span class="icos" style="background-color: #ff6630;">2</span>
-                                            <div class="text">【每日一练】重庆教师招聘考试复习资料——常识判断专项（8.20）</div>
+                                            <div class="text">《音乐学科知识》：音乐必看常识（十三）</div>
                                         </a>
                                     </li>
                                                                     <li class="ellipsis">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_720784.html" target="_blank" title="《音乐学科知识》：音乐必看常识（三）">
+                                        <a href="https://cq.jinbiaochi.com/jsgz/news_754388.html" target="_blank" title="重庆教师公招新大纲《综合应用能力（D类）》：小学生注意发展的特点（27）">
                                             <!-- 1-3依次的背景颜色值#d7000f #ff6630 #ffb830-->
                                             <span class="icos" style="background-color: #ffb830;">3</span>
-                                            <div class="text">《音乐学科知识》：音乐必看常识（三）</div>
+                                            <div class="text">重庆教师公招新大纲《综合应用能力（D类）》：小学生注意发展的特点（27）</div>
                                         </a>
                                     </li>
                                                                     <li class="ellipsis">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_764930.html" target="_blank" title="《教育公基》：25个常见心理学效应——德西效应">
+                                        <a href="https://cq.jinbiaochi.com/jsgz/news_735354.html" target="_blank" title="2025年重庆师范大学初等教育学院附属小学招聘公告">
                                             <!-- 1-3依次的背景颜色值#d7000f #ff6630 #ffb830-->
                                             <span class="icos" style="background-color: ;">4</span>
-                                            <div class="text">《教育公基》：25个常见心理学效应——德西效应</div>
+                                            <div class="text">2025年重庆师范大学初等教育学院附属小学招聘公告</div>
                                         </a>
                                     </li>
                                                                     <li class="ellipsis">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_790718.html" target="_blank" title="【每日一练】重庆教师招聘考试复习资料——判断推理专项（9.22）">
+                                        <a href="https://cq.jinbiaochi.com/jsgz/news_708901.html" target="_blank" title="重庆教师公招新大纲《职业能力倾向测验（D类）》：政治经济（32）">
                                             <!-- 1-3依次的背景颜色值#d7000f #ff6630 #ffb830-->
                                             <span class="icos" style="background-color: ;">5</span>
-                                            <div class="text">【每日一练】重庆教师招聘考试复习资料——判断推理专项（9.22）</div>
+                                            <div class="text">重庆教师公招新大纲《职业能力倾向测验（D类）》：政治经济（32）</div>
                                         </a>
                                     </li>
                                                                                     </ul>
@@ -3442,350 +3439,350 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.320Z</updated>
+        <updated>2025-09-23T17:42:02.044Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/129586" rel="noopener" target="_blank">读书笔记（大四上）</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.320Z</updated>
+        <updated>2025-09-23T17:42:02.044Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/129487" rel="noopener" target="_blank">《纸上染了蓝》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.320Z</updated>
+        <updated>2025-09-23T17:42:02.046Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/129395" rel="noopener" target="_blank">好久没看书了</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.320Z</updated>
+        <updated>2025-09-23T17:42:02.046Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/128824" rel="noopener" target="_blank">2025年8月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.320Z</updated>
+        <updated>2025-09-23T17:42:02.046Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/128813" rel="noopener" target="_blank">2025 阅读</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.322Z</updated>
+        <updated>2025-09-23T17:42:02.046Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/128814" rel="noopener" target="_blank">2025 纸书单</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.323Z</updated>
+        <updated>2025-09-23T17:42:02.046Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/128731" rel="noopener" target="_blank">以阅读体验为核心的网页宽度设计策略</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.324Z</updated>
+        <updated>2025-09-23T17:42:02.046Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/128497" rel="noopener" target="_blank">读书编教材</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.326Z</updated>
+        <updated>2025-09-23T17:42:02.046Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/128442" rel="noopener" target="_blank">TiDB Lightning 源码阅读</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.327Z</updated>
+        <updated>2025-09-23T17:42:02.046Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/128375" rel="noopener" target="_blank">书单合集</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.328Z</updated>
+        <updated>2025-09-23T17:42:02.046Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/127828" rel="noopener" target="_blank">我的投资理财书单（2025.08 更新）</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.330Z</updated>
+        <updated>2025-09-23T17:42:02.046Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/127709" rel="noopener" target="_blank">读书：《进化心理学：心理的新科学》</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.331Z</updated>
+        <updated>2025-09-23T17:42:02.048Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/126852" rel="noopener" target="_blank">2025阅读清单</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.332Z</updated>
+        <updated>2025-09-23T17:42:02.048Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/126329" rel="noopener" target="_blank">《关于性，我们想得太少》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.334Z</updated>
+        <updated>2025-09-23T17:42:02.048Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/126109" rel="noopener" target="_blank">《做自己的保险规划师：明明白白买保险》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.335Z</updated>
+        <updated>2025-09-23T17:42:02.048Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/126103" rel="noopener" target="_blank">书籍、电影等下载渠道安利总辑</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.337Z</updated>
+        <updated>2025-09-23T17:42:02.048Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/129797" rel="noopener" target="_blank">《原则》读书笔记：如何将瑞·达利欧的智慧应用到日常</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.338Z</updated>
+        <updated>2025-09-23T17:42:02.048Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/125806" rel="noopener" target="_blank">《4小时明白保险》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.341Z</updated>
+        <updated>2025-09-23T17:42:02.048Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/125755" rel="noopener" target="_blank">《持续买入》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.341Z</updated>
+        <updated>2025-09-23T17:42:02.050Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/125626" rel="noopener" target="_blank">因为买不起Typecho付费阅读插件，于是就基于支付宝自己写了一个PayIT插件</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.342Z</updated>
+        <updated>2025-09-23T17:42:02.051Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/125403" rel="noopener" target="_blank">2025年8款沉浸式翻译平替工具：助你轻松阅读网页</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.343Z</updated>
+        <updated>2025-09-23T17:42:02.052Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/125228" rel="noopener" target="_blank">读书成为博主</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.345Z</updated>
+        <updated>2025-09-23T17:42:02.052Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/125001" rel="noopener" target="_blank">解锁海量阅读！免费开源阅读神器新版下载，附赠10000+精选书源</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.346Z</updated>
+        <updated>2025-09-23T17:42:02.053Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/124942" rel="noopener" target="_blank">《Head First Software Architecture》阅读笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.347Z</updated>
+        <updated>2025-09-23T17:42:02.054Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/124710" rel="noopener" target="_blank">2025年7月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.349Z</updated>
+        <updated>2025-09-23T17:42:02.056Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/124608" rel="noopener" target="_blank">PDF 电子书重排和裁剪</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.350Z</updated>
+        <updated>2025-09-23T17:42:02.057Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/124730" rel="noopener" target="_blank">《不正经问答》现已设为私密【请在博客阅读全文】</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.351Z</updated>
+        <updated>2025-09-23T17:42:02.058Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/123634" rel="noopener" target="_blank">《智人之上: 从石器时代到 AI 时代的信息网络简史》阅读笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.352Z</updated>
+        <updated>2025-09-23T17:42:02.059Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/123438" rel="noopener" target="_blank">九月前得加油读书</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.353Z</updated>
+        <updated>2025-09-23T17:42:02.061Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/123443" rel="noopener" target="_blank">《良好生活的哲学》读书笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.355Z</updated>
+        <updated>2025-09-23T17:42:02.062Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/123208" rel="noopener" target="_blank">GoalKicker 海量免费编程书籍，涵盖各种主流编程语言和技术</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.356Z</updated>
+        <updated>2025-09-23T17:42:02.063Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/123123" rel="noopener" target="_blank">【乡下父母的人生课】10：我们可以不上学，但不能不读书</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.357Z</updated>
+        <updated>2025-09-23T17:42:02.065Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/123025" rel="noopener" target="_blank">阅读量不会只持续增长</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.359Z</updated>
+        <updated>2025-09-23T17:42:02.066Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/122932" rel="noopener" target="_blank">【读书记1573】费迪曼《一生的读书计划》</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.360Z</updated>
+        <updated>2025-09-23T17:42:02.071Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/122859" rel="noopener" target="_blank">二零二五 - 六七月读书随笔</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.361Z</updated>
+        <updated>2025-09-23T17:42:02.073Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/122551" rel="noopener" target="_blank">Gemini 2.5 Pro 是怎么炼成的？-- gemini 2.5 技术报告阅读笔记与思考</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.363Z</updated>
+        <updated>2025-09-23T17:42:02.074Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/122501" rel="noopener" target="_blank">读书：《Free as in Freedom》——若为自由故</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.364Z</updated>
+        <updated>2025-09-23T17:42:02.076Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/122452" rel="noopener" target="_blank">【儿女记】女儿的暑假阅读书单</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.365Z</updated>
+        <updated>2025-09-23T17:42:02.077Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/122037" rel="noopener" target="_blank">《一路云海》(终): 反正不会有人连着阅读到这一章的</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.367Z</updated>
+        <updated>2025-09-23T17:42:02.078Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/122017" rel="noopener" target="_blank">【居家随记】四：不读书的人在教书</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.368Z</updated>
+        <updated>2025-09-23T17:42:02.079Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/121981" rel="noopener" target="_blank">耗时两个月终于把台湾游的博文更新完了。因为时间跨度大，这里就整理了一份合集，欢迎阅读评论。</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.369Z</updated>
+        <updated>2025-09-23T17:42:02.081Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/122475" rel="noopener" target="_blank">2025年6月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.370Z</updated>
+        <updated>2025-09-23T17:42:02.082Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/121793" rel="noopener" target="_blank">【阅读笔记】基于双边滤波改进的空域滤波算法</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.372Z</updated>
+        <updated>2025-09-23T17:42:02.084Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/123370" rel="noopener" target="_blank">Rainman 的 AI 精读书单</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.373Z</updated>
+        <updated>2025-09-23T17:42:02.086Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/121595" rel="noopener" target="_blank">为什么很多人看书，脑子越看越浆糊</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.374Z</updated>
+        <updated>2025-09-23T17:42:02.088Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/124839" rel="noopener" target="_blank">读书｜母女之间：阿克曼、波伏瓦、费兰特，她们这样书写母亲</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.376Z</updated>
+        <updated>2025-09-23T17:42:02.089Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/125163" rel="noopener" target="_blank">读书｜母女之间：阿克曼、波伏瓦、费兰特，她们这样书写母亲</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.377Z</updated>
+        <updated>2025-09-23T17:42:02.091Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/126587" rel="noopener" target="_blank">读书｜母女之间：阿克曼、波伏瓦、费兰特，她们这样书写母亲</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.379Z</updated>
+        <updated>2025-09-23T17:42:02.092Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/121064" rel="noopener" target="_blank">命运与坚守—《褚时健传》读书笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2025-09-23T05:54:58.380Z</updated>
+        <updated>2025-09-23T17:42:02.094Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/123373" rel="noopener" target="_blank">从「稍后阅读地狱」到 AI 共创 — 一个工程师的信息演化之路</a>]]></content>
     </entry>
 </feed>
