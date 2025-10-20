@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://gzw.cq.gov.cn/gqzp/</id>
     <title>重庆市国资委国企招聘页面</title>
-    <updated>2025-10-20T05:54:54.352Z</updated>
+    <updated>2025-10-20T17:56:03.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://gzw.cq.gov.cn/gqzp/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>http://gzw.cq.gov.cn/gqzp/</id>
         <link href="http://gzw.cq.gov.cn/gqzp/"/>
-        <updated>2025-10-20T05:54:21.109Z</updated>
+        <updated>2025-10-20T17:55:33.735Z</updated>
         <content type="html"><![CDATA[<!-- 头部start -->
-    <a id="ariaTipText" role="pagedescription" aria-label="欢迎进入 重庆市国有资产监督管理委员会门户网站,盲人用户使用操作智能引导，请按快捷键Ctrl+Alt+R；阅读详细操作说明请按快捷键Ctrl+Alt+问号键。" aria-atomic="true" href="javascript:void(0)" class="skipAutoFix" style="width: 1px; height: 1px;"><img src="" style="width:1px !important;height:1px !important;position:absolute;top:0;"></a><link rel="stylesheet" href="/images/xcConfirm.css">
+    <a id="ariaTipText" role="pagedescription" aria-label="欢迎进入 重庆市国有资产监督管理委员会门户网站,盲人用户使用操作智能引导，请按快捷键Ctrl+Alt+R；阅读详细操作说明请按快捷键Ctrl+Alt+问号键。" aria-atomic="true" href="javascript:void(0)" class="skipAutoFix ariaskiptheme" style="width: 1px; height: 1px;"><img src="" style="width:1px !important;height:1px !important;position:absolute;top:0;" tabindex="-1"></a><link rel="stylesheet" href="/images/xcConfirm.css">
 <script type="text/javascript" src="/images/xcConfirm.js"></script>
 
 <!--[if IE 8]><script type="text/javascript" src="/images/jquery.min.v1.js"></script>
@@ -50,24 +50,24 @@
   })
 </script>
       <div class="logo clearfix">
-        <a class="lf" href="/"><img src="/images/logo.png"></a>
-        <div class="xhy-hntr rt clearfix">
+        <a class="lf ariaskiptheme" href="/"><img src="/images/logo.png" tabindex="0" aria-labelconfig="true" aria-label="重庆市国有资产监督管理委员会.logo"></a>
+        <div class="xhy-hntr rt clearfix" aria-region="true" aria-labelconfig="true" aria-label="" aria-regiontype="3" tabindex="0" aria-autolabel="true">
           <div class="xhy-search tyh-search lf">
-            <input type="text" id="textfield" maxlength="50" onkeydown="if(event.keyCode==13){submitsearch();}" onfocus="if(this.value=='请输入关键词'){this.value='';}" onblur="if(this.value==''){this.value='请输入关键词';}" placeholder="请输入关键词">
-            <button id="toSearch" onclick="submitsearch()"></button>
+            <input type="text" id="textfield" maxlength="50" onkeydown="if(event.keyCode==13){submitsearch();}" onfocus="if(this.value=='请输入关键词'){this.value='';}" onblur="if(this.value==''){this.value='请输入关键词';}" placeholder="请输入关键词" tabindex="0" aria-labelconfig="true" aria-label="请输入关键词">
+            <button id="toSearch" onclick="submitsearch()" tabindex="0" role="button" aria-labelconfig="true" aria-label="搜索"></button>
           </div>
         </div>
       </div>
       <div class="gzw-c1bg">
         <div class="top-menu clearfix">
-          <div class="menu">
-            <a class="" href="/"><img src="/images/col-icon1.png"><span>首页</span></a>
-            <a href="//gzw.cq.gov.cn/zwgk_191/"><img src="/images/col-icon2.png"><span>政务公开</span></a>
-            <a href="https://zwykb.cq.gov.cn/?record=istrue" target="_blank"><img src="/images/col-icon3.png"><span>渝快办</span></a>
-            <a href="//gzw.cq.gov.cn/hdjl_191/"><img src="/images/col-icon4.png"><span>互动交流</span></a>
-            <a href="//gzw.cq.gov.cn/gqdj/"><img src="/images/col-icon5.png"><span>国企资讯</span></a>
-            <a href="//gzw.cq.gov.cn/gqjj/"><img src="/images/col-icon6.png"><span>国企简介</span></a>
-            <a href="//gzw.cq.gov.cn/gqzp/" class="cur"><img src="/images/col-icon7.png"><span>国企招聘</span></a>
+          <div class="menu" aria-region="true" aria-labelconfig="true" aria-label="" aria-regiontype="2" tabindex="0" aria-autolabel="true">
+            <a class="ariaskiptheme" href="/"><img src="/images/col-icon1.png"><span>首页</span></a>
+            <a href="//gzw.cq.gov.cn/zwgk_191/" class="ariaskiptheme"><img src="/images/col-icon2.png"><span>政务公开</span></a>
+            <a href="https://zwykb.cq.gov.cn/?record=istrue" target="_blank" class="ariaskiptheme"><img src="/images/col-icon3.png"><span>渝快办</span></a>
+            <a href="//gzw.cq.gov.cn/hdjl_191/" class="ariaskiptheme"><img src="/images/col-icon4.png"><span>互动交流</span></a>
+            <a href="//gzw.cq.gov.cn/gqdj/" class="ariaskiptheme"><img src="/images/col-icon5.png"><span>国企资讯</span></a>
+            <a href="//gzw.cq.gov.cn/gqjj/" class="ariaskiptheme"><img src="/images/col-icon6.png"><span>国企简介</span></a>
+            <a href="//gzw.cq.gov.cn/gqzp/" class="cur ariaskiptheme"><img src="/images/col-icon7.png"><span>国企招聘</span></a>
             <img class="menu-img" src="/images/menu.png">
             <img class="menu-img2" src="/images/menu-2.png">
           </div>
@@ -125,7 +125,7 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
 </style>
     <!-- 头部end -->
     <!-- 列表start -->
-    <div class="page-list clearfix">
+    <div class="page-list clearfix" aria-region="true" aria-labelconfig="true" aria-regiontype="5" aria-labelledby=".page-list.clearfix &gt; div.location" tabindex="0" aria-label="" aria-autolabel="true">
         <div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
@@ -134,91 +134,91 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
         
             <ul class="tab-item">
                 
-                    <li class="clearfix"><a href="./202510/t20251017_15092926.html" target="_blank">重庆数字资源集团有限公司 “数智新雁”人工智能菁英招募计划公告</a> <span>2025-10-17</span></li>
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202510/t20251017_15092926.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆数字资源集团有限公司 “数智新雁”人工智能菁英招募计划公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2025-10-17</span></li>
                 
             </ul>
          
             <ul class="tab-item">
                 
-                    <li class="clearfix"><a href="./202510/t20251017_15092924.html" target="_blank">重庆设计集团·重庆市设计院有限公司高层次人才招聘公告</a> <span>2025-10-17</span></li>
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202510/t20251017_15092924.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆设计集团·重庆市设计院有限公司高层次人才招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2025-10-17</span></li>
                 
             </ul>
          
             <ul class="tab-item">
                 
-                    <li class="clearfix"><a href="./202510/t20251017_15092919.html" target="_blank">重庆设计集团有限公司市政设计研究院招聘公告</a> <span>2025-10-17</span></li>
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202510/t20251017_15092919.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆设计集团有限公司市政设计研究院招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2025-10-17</span></li>
                 
             </ul>
          
             <ul class="tab-item">
                 
-                    <li class="clearfix"><a href="./202510/t20251017_15092900.html" target="_blank">重庆农村商业银行社会招聘公告</a> <span>2025-10-17</span></li>
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202510/t20251017_15092900.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆农村商业银行社会招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2025-10-17</span></li>
                 
             </ul>
          
             <ul class="tab-item">
                 
-                    <li class="clearfix"><a href="./202510/t20251017_15092885.html" target="_blank">重庆通用工业（集团）有限责任公司招聘公告</a> <span>2025-10-17</span></li>
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202510/t20251017_15092885.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆通用工业（集团）有限责任公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2025-10-17</span></li>
                 
             </ul>
          
             <ul class="tab-item">
                 
-                    <li class="clearfix"><a href="./202510/t20251017_15092875.html" target="_blank">​重庆标准件工业有限责任公司招聘公告</a> <span>2025-10-17</span></li>
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202510/t20251017_15092875.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">​重庆标准件工业有限责任公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2025-10-17</span></li>
                 
             </ul>
          
             <ul class="tab-item">
                 
-                    <li class="clearfix"><a href="./202510/t20251017_15092857.html" target="_blank">重庆机床（集团）有限责任公司招聘公告</a> <span>2025-10-17</span></li>
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202510/t20251017_15092857.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆机床（集团）有限责任公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2025-10-17</span></li>
                 
             </ul>
          
             <ul class="tab-item">
                 
-                    <li class="clearfix"><a href="./202510/t20251017_15092836.html" target="_blank">​重庆水轮机厂有限责任公司招聘公告</a> <span>2025-10-17</span></li>
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202510/t20251017_15092836.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">​重庆水轮机厂有限责任公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2025-10-17</span></li>
                 
             </ul>
          
             <ul class="tab-item">
                 
-                    <li class="clearfix"><a href="./202510/t20251017_15092820.html" target="_blank">重庆水泵厂有限责任公司招聘公告</a> <span>2025-10-17</span></li>
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202510/t20251017_15092820.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆水泵厂有限责任公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2025-10-17</span></li>
                 
             </ul>
          
             <ul class="tab-item">
                 
-                    <li class="clearfix"><a href="./202510/t20251017_15092808.html" target="_blank">重庆长江轴承股份有限公司招聘公告</a> <span>2025-10-17</span></li>
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202510/t20251017_15092808.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆长江轴承股份有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2025-10-17</span></li>
                 
             </ul>
          
             <ul class="tab-item">
                 
-                    <li class="clearfix"><a href="./202510/t20251017_15092794.html" target="_blank">西南计算机有限责任公司招聘公告</a> <span>2025-10-17</span></li>
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202510/t20251017_15092794.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">西南计算机有限责任公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2025-10-17</span></li>
                 
             </ul>
          
             <ul class="tab-item">
                 
-                    <li class="clearfix"><a href="./202510/t20251017_15092781.html" target="_blank">萨固密（中国）投资有限公司招聘公告</a> <span>2025-10-17</span></li>
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202510/t20251017_15092781.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">萨固密（中国）投资有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2025-10-17</span></li>
                 
             </ul>
          
             <ul class="tab-item">
                 
-                    <li class="clearfix"><a href="./202510/t20251017_15092769.html" target="_blank">重庆盟讯电子科技有限公司招聘公告</a> <span>2025-10-17</span></li>
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202510/t20251017_15092769.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆盟讯电子科技有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2025-10-17</span></li>
                 
             </ul>
          
             <ul class="tab-item">
                 
-                    <li class="clearfix"><a href="./202510/t20251017_15092760.html" target="_blank">重庆建安仪器有限责任公司招聘公告</a> <span>2025-10-17</span></li>
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202510/t20251017_15092760.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆建安仪器有限责任公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2025-10-17</span></li>
                 
             </ul>
          
             <ul class="tab-item">
                 
-                    <li class="clearfix"><a href="./202510/t20251017_15092730.html" target="_blank">重庆鸽牌电线电缆有限公司招聘公告</a> <span>2025-10-17</span></li>
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202510/t20251017_15092730.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆鸽牌电线电缆有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2025-10-17</span></li>
                 
             </ul>
          
@@ -227,11 +227,11 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
     <!-- 列表end -->
    <!-- 公共底部 -->
    <!-- 分享 -->
-<div class="share">
+<div class="share" role="floatingwindow" aria-labelconfig="true" setedaria="true">
 
      
-    <a href="javascript:void(0)"><img src="/images/weixin.png"><img style="display: none;" class="erweima" src="../../images/W020220624610552737473.png" alt=""></a>
-<a class="zp" target="_blank" href="https://www.cqrc.net/gzw/index/"><img class="icon" src="/images/2025-gqyp-icon.png"><img style="display: none;width:159px;height:149px;" class="erweima" src="/images/2025-gqyp-img.jpeg">" alt="" /&gt;</a>
+    <a href="javascript:void(0)" class="ariaskiptheme"><img src="/images/weixin.png"><img style="display: none;" class="erweima" src="../../images/W020220624610552737473.png" alt=""></a>
+<a class="zp ariaskiptheme" target="_blank" href="https://www.cqrc.net/gzw/index/"><img class="icon" src="/images/2025-gqyp-icon.png"><img style="display: none;width:159px;height:149px;" class="erweima" src="/images/2025-gqyp-img.jpeg">" alt="" /&gt;</a>
 
  
 
@@ -240,10 +240,10 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
 <!-- 底部start -->
 <div class="footer">
 <div class="wrap">
-<div class="drop-groups clearfix">
+<div class="drop-groups clearfix" aria-region="true" aria-labelconfig="true" aria-label="" aria-regiontype="2" tabindex="0" aria-autolabel="true">
     <div class="drop-down lf">
-      <p class="tag">国务院部门网站</p>
-      <ul class="drop-lists">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,国务院部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(1) &gt; ul" aria-eschide="true" aria-expandshowmethod="click" aria-enterownsmethod="1" setedaria="true" aria-ownsfor="[id='ariabiy09qd7opc']" aria-sourceowns="true" id="aria4co8y2zqsic" aria-autolabel="true">国务院部门网站</p>
+      <ul class="drop-lists" id="ariabiy09qd7opc" aria-owns="[id='aria4co8y2zqsic']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.mfa.gov.cn/" target="_blank">外交部</a></li>
         
@@ -318,8 +318,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
     <div class="drop-down lf">
-      <p class="tag">地方政府网站</p>
-      <ul class="drop-lists">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,地方政府网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(2) &gt; ul" aria-eschide="true" aria-expandshowmethod="click" aria-enterownsmethod="1" setedaria="true" aria-ownsfor="[id='aria7abps17cqtw']" aria-sourceowns="true" id="ariaa0vyqjst9lk" aria-autolabel="true">地方政府网站</p>
+      <ul class="drop-lists" id="aria7abps17cqtw" aria-owns="[id='ariaa0vyqjst9lk']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.beijing.gov.cn/" target="_blank">北京</a></li>
         
@@ -394,8 +394,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
     <div class="drop-down lf">
-      <p class="tag">市政府部门网站</p>
-      <ul class="drop-lists">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,市政府部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(3) &gt; ul" aria-eschide="true" aria-expandshowmethod="click" aria-enterownsmethod="1" setedaria="true" aria-ownsfor="[id='aria2wl3lmrhvpw']" aria-sourceowns="true" id="aria8ocfbtdn2l0" aria-autolabel="true">市政府部门网站</p>
+      <ul class="drop-lists" id="aria2wl3lmrhvpw" aria-owns="[id='aria8ocfbtdn2l0']" aria-autoowns="true" aria-popup="true">
        
             <li><a href="http://fzggw.cq.gov.cn/" target="_blank">市发展改革委</a></li>
         
@@ -482,8 +482,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
     <div class="drop-down lf">
-      <p class="tag">区（县）政府网站</p>
-      <ul class="drop-lists">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,区（县）部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(4) &gt; ul" aria-eschide="true" aria-expandshowmethod="click" aria-enterownsmethod="1" setedaria="true" aria-ownsfor="[id='ariaigugsrt161k']" aria-sourceowns="true" id="ariam3eqsodz7io" aria-autolabel="true">区（县）政府网站</p>
+      <ul class="drop-lists" id="ariaigugsrt161k" aria-owns="[id='ariam3eqsodz7io']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.wz.gov.cn/" target="_blank">万州区</a></li>
         
@@ -564,8 +564,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
 <div class="drop-down lf">
-      <p class="tag">市属重点国有企业网站</p>
-      <ul class="drop-lists">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,其他网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(5) &gt; ul" aria-eschide="true" aria-expandshowmethod="click" aria-enterownsmethod="1" setedaria="true" aria-ownsfor="[id='aria56sxeocvvmg']" aria-sourceowns="true" id="aria74po1ncbg0o" aria-autolabel="true">市属重点国有企业网站</p>
+      <ul class="drop-lists" id="aria56sxeocvvmg" aria-owns="[id='aria74po1ncbg0o']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.cqa.cn" target="_blank">重庆机场集团</a></li>
         
@@ -620,7 +620,7 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
     <div class="drop-down lf">
-      <p class="tag">其他网站</p>
+      <p class="tag" setedaria="true" tabindex="0">其他网站</p>
       <ul class="drop-lists">
         
             <li><a href="https://www.cqjgdj.gov.cn/" target="_blank">重庆机关党建</a></li>
@@ -630,7 +630,7 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
 </div>
-<div class="f-info clearfix">
+<div class="f-info clearfix" aria-region="true" aria-labelconfig="true" aria-label="服务区,当前为网页底部服务区，有联系我们、网站地图和版权声明等服务内容。" aria-regiontype="4" tabindex="0" aria-autolabel="true">
 <div class="f-info-left lf">
   <div class="f-info-div">
     <a href="//gzw.cq.gov.cn/ggbf_search/lxwm/">联系我们</a>
@@ -639,9 +639,9 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
     <span>|</span>
     <a href="//gzw.cq.gov.cn/ggbf_search/bqsm/">版权声明</a>
   </div>
-  <p class="f-info-p">版权所有：重庆市国有资产监督管理委员会&nbsp;&nbsp; 主办：重庆市国有资产监督管理委员会</p>
-  <p class="f-info-p">联系电话：023-67678000 &nbsp;&nbsp; 联系地址：重庆市两江新区黄山大道198号</p>
-  <p class="f-info-p">
+  <p class="f-info-p" setedaria="true" tabindex="0">版权所有：重庆市国有资产监督管理委员会&nbsp;&nbsp; 主办：重庆市国有资产监督管理委员会</p>
+  <p class="f-info-p" setedaria="true" tabindex="0">联系电话：023-67678000 &nbsp;&nbsp; 联系地址：重庆市两江新区黄山大道198号</p>
+  <p class="f-info-p" setedaria="true" tabindex="0">
     <span>网站标识码：5000000073</span>
     <a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">ICP备案：渝ICP备06010109号-3 </a>
     <a class="zc-fimg" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=50019002501599" target="_blank"><img src="/images/zc-fimg.png" alt="">国际联网备案：渝公网安备 50019002501599号</a> 
@@ -649,7 +649,7 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
 </div>
 <div class="f-info-right lf" style="margin-top:50px;">
 <a class="slhwzabtn" href="http://wza.isc.org.cn/rzpt/bsgl/dt/20250715/4135.html" target="_blank">
-<img src="/images/slyhwzafw.png" alt="">
+<img src="/images/slyhwzafw.png" alt="" tabindex="0" role="imagelink" aria-labelconfig="true" aria-label="公安机关互联网站安全管理服务平台" setedaria="true">
 </a>
 <style>
 .slhwzabtn{margin-left:6px;float:right;width:auto!important;margin-top: 10px;}
@@ -661,15 +661,15 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
 <script id="_jiucuo_" sitecode="5000000073" src="https://zfwzgl.www.gov.cn/exposure/jiucuo.js"></script>
 </span>
   <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=50019002501599" target="_blank">
-    <img style="width: 68px;margin-left: -10px;" src="/images/zwgk_gaba.png" alt="">
+    <img style="width: 68px;margin-left: -10px;" src="/images/zwgk_gaba.png" alt="" tabindex="0" role="imagelink" aria-labelconfig="true" aria-label="公安机关互联网站安全管理服务平台" setedaria="true">
   </a>
-  <script>document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E"));var span_msg=document.getElementById("_ideConac");span_msg.innerHTML='<a href="http://bszs.conac.cn/sitename?method=show&id=1C9B466A22716DCEE053022819AC65DE" target="_blank"><img id="imgConac" style="width: 70px;" vspace="0" hspace="0" border="0" src="/images/zwgk_dzjg.png" data-bd-imgshare-binded="1" /></a>';</script><span id="_ideConac"><a href="http://bszs.conac.cn/sitename?method=show&amp;id=1C9B466A22716DCEE053022819AC65DE" target="_blank"><img id="imgConac" style="width: 70px;" vspace="0" hspace="0" border="0" src="/images/zwgk_dzjg.png" data-bd-imgshare-binded="1"></a></span>
+  <script>document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E"));var span_msg=document.getElementById("_ideConac");span_msg.innerHTML='<a href="http://bszs.conac.cn/sitename?method=show&id=1C9B466A22716DCEE053022819AC65DE" target="_blank"><img id="imgConac" style="width: 70px;" vspace="0" hspace="0" border="0" src="/images/zwgk_dzjg.png" data-bd-imgshare-binded="1" /></a>';</script><span id="_ideConac"><a href="http://bszs.conac.cn/sitename?method=show&amp;id=1C9B466A22716DCEE053022819AC65DE" target="_blank" class="ariaskiptheme"><img id="imgConac" style="width: 70px;" vspace="0" hspace="0" border="0" src="/images/zwgk_dzjg.png" data-bd-imgshare-binded="1" tabindex="0" role="imagelink" aria-labelconfig="true" aria-label="党政机关" setedaria="true"></a></span>
   <!-- <script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/04/000/0000/60523441/CA040000000605234410002.js' type='text/javascript'%3E%3C/script%3E"));</script> -->
  
 </div>
-<a href="javascript:void(0);" class="rt" style="margin-top:20px;">
-  <img style="width:84px;" src="/images/gzwgzh.png">
-  <p style="font-size: 14px;color: #fff;text-align: center;">
+<a href="javascript:void(0);" class="rt ariaskiptheme" style="margin-top:20px;">
+  <img style="width:84px;" src="/images/gzwgzh.png" tabindex="0" role="qrcode" aria-labelconfig="true" aria-label="重庆市国资委微信公众号" setedaria="true">
+  <p style="font-size: 14px;color: #fff;text-align: center;" setedaria="true" tabindex="0">
   重庆市国资委<br>
   微信公众号
   </p>
@@ -882,8 +882,6 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
 	<!-- 打印页码 -->
 	$("#page").html(page);
 }
-</script>
-  
-<script type="text/javascript" id="ariaConfigId" charset="utf-8" src="http://gov.govwza.cn/dist/config.js?domain=gzw.cq.gov.cn&amp;v=4.8.0"></script>]]></content>
+</script>]]></content>
     </entry>
 </feed>
