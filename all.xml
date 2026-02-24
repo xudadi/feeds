@@ -2,16 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xudadi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-02-23T06:49:39.679Z</updated>
+    <updated>2026-02-24T06:41:29.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (重庆市公考雷达)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:39:09.008Z</updated>
+        <updated>2026-02-24T06:33:35.240Z</updated>
         <content type="html"><![CDATA[<!--公告列表-->
                 <div class="notice-list">
                     <ul class="link-list">
+                                                    <li>
+                                <h5>
+                                    <i class="notice-label">[北碚区]</i>
+                                    <i class="notice-label">[事业单位]</i>
+                                    
+                                    <a href="https://www.gongkaoleida.com/article/2793359" target="_blank" title="重庆市疾病预防控制中心招聘公告">重庆市疾病预防控制中心招聘公告</a>
+                                </h5>
+                                <time class=" time-red ">3小时前</time>
+                            </li>
+                                                    <li>
+                                <h5>
+                                    <i class="notice-label">[九龙坡区]</i>
+                                    <i class="notice-label">[教师]</i>
+                                    
+                                    <a href="https://www.gongkaoleida.com/article/2793273" target="_blank" title="重庆科学城走马中学校英语顶岗教师招聘公告">重庆科学城走马中学校英语顶岗教师招聘公告</a>
+                                </h5>
+                                <time class=" time-red ">4小时前</time>
+                            </li>
+                                                    <li>
+                                <h5>
+                                    <i class="notice-label">[重庆市]</i>
+                                    <i class="notice-label">[国企]</i>
+                                    
+                                    <a href="https://www.gongkaoleida.com/article/2793099" target="_blank" title="重庆农投肉食品有限公司招聘公告">重庆农投肉食品有限公司招聘公告</a>
+                                </h5>
+                                <time class=" time-red ">6小时前</time>
+                            </li>
+                                                    <li>
+                                <h5>
+                                    <i class="notice-label">[重庆市]</i>
+                                    <i class="notice-label">[国企]</i>
+                                    
+                                    <a href="https://www.gongkaoleida.com/article/2793094" target="_blank" title="重庆登康口腔护理用品股份有限公司招聘公告">重庆登康口腔护理用品股份有限公司招聘公告</a>
+                                </h5>
+                                <time class=" time-red ">6小时前</time>
+                            </li>
+                                                    <li>
+                                <h5>
+                                    <i class="notice-label">[沙坪坝区]</i>
+                                    <i class="notice-label">[教师]</i>
+                                    
+                                    <a href="https://www.gongkaoleida.com/article/2792987" target="_blank" title="重庆大学城沙坪坝小学语文非编教师招聘公告">重庆大学城沙坪坝小学语文非编教师招聘公告</a>
+                                </h5>
+                                <time class=" time-red ">22小时前</time>
+                            </li>
                                                     <li>
                                 <h5>
                                     <i class="notice-label">[沙坪坝区]</i>
@@ -19,7 +64,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2792918" target="_blank" title="重庆市沙坪坝区学府悦园第一小学校招聘教师公告">重庆市沙坪坝区学府悦园第一小学校招聘教师公告</a>
                                 </h5>
-                                <time class=" time-red ">41分钟前</time>
+                                <time class="">2026-02-23</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -28,7 +73,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2792814" target="_blank" title="重庆市大足区石马中学临聘教师招聘启事">重庆市大足区石马中学临聘教师招聘启事</a>
                                 </h5>
-                                <time class=" time-red ">4小时前</time>
+                                <time class="">2026-02-23</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -37,7 +82,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2792721" target="_blank" title="巴南消防救援支队政府专职消防员招聘简章">巴南消防救援支队政府专职消防员招聘简章</a>
                                 </h5>
-                                <time class=" time-red ">5小时前</time>
+                                <time class="">2026-02-23</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -46,7 +91,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2792694" target="_blank" title="重庆市九龙坡区玉清寺小学教师及保育员招聘公告">重庆市九龙坡区玉清寺小学教师及保育员招聘公告</a>
                                 </h5>
-                                <time class=" time-red ">5小时前</time>
+                                <time class="">2026-02-23</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -55,7 +100,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2792637" target="_blank" title="重庆市聚奎中学校2026年春季教师招聘公告">重庆市聚奎中学校2026年春季教师招聘公告</a>
                                 </h5>
-                                <time class=" time-red ">5小时前</time>
+                                <time class="">2026-02-23</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -90,15 +135,6 @@
                                     <i class="notice-label">[教师]</i>
                                     
                                     <a href="https://www.gongkaoleida.com/article/2792096" target="_blank" title="莲花第一幼儿园招聘启事">莲花第一幼儿园招聘启事</a>
-                                </h5>
-                                <time class="">2026-02-14</time>
-                            </li>
-                                                    <li>
-                                <h5>
-                                    <i class="notice-label">[重庆市]</i>
-                                    <i class="notice-label">[国企]</i>
-                                    
-                                    <a href="https://www.gongkaoleida.com/article/2792062" target="_blank" title="重庆建工集团工程管理中心招聘启事">重庆建工集团工程管理中心招聘启事</a>
                                 </h5>
                                 <time class="">2026-02-14</time>
                             </li>
@@ -246,42 +282,6 @@
                                 </h5>
                                 <time class="">2026-02-12</time>
                             </li>
-                                                    <li>
-                                <h5>
-                                    <i class="notice-label">[重庆市]</i>
-                                    <i class="notice-label">[事业单位]</i>
-                                    
-                                    <a href="https://www.gongkaoleida.com/article/2789887" target="_blank" title="重庆人力”所属企业飞驶特公司招聘派往某市级事业单位党务管理岗">重庆人力”所属企业飞驶特公司招聘派往某市级事业单位党务管理岗</a>
-                                </h5>
-                                <time class="">2026-02-12</time>
-                            </li>
-                                                    <li>
-                                <h5>
-                                    <i class="notice-label">[垫江县]</i>
-                                    <i class="notice-label">[事业单位]</i>
-                                    
-                                    <a href="https://www.gongkaoleida.com/article/2788837" target="_blank" title="重庆丹源安保服务有限公司派往垫江县人武部招聘简章">重庆丹源安保服务有限公司派往垫江县人武部招聘简章</a>
-                                </h5>
-                                <time class="">2026-02-11</time>
-                            </li>
-                                                    <li>
-                                <h5>
-                                    <i class="notice-label">[重庆市]</i>
-                                    <i class="notice-label">[教师]</i>
-                                    
-                                    <a href="https://www.gongkaoleida.com/article/2788501" target="_blank" title="重庆某学校劳务派遣岗位招聘简章">重庆某学校劳务派遣岗位招聘简章</a>
-                                </h5>
-                                <time class="">2026-02-10</time>
-                            </li>
-                                                    <li>
-                                <h5>
-                                    <i class="notice-label">[渝北区]</i>
-                                    <i class="notice-label">[国企]</i>
-                                    
-                                    <a href="https://www.gongkaoleida.com/article/2787965" target="_blank" title="重庆某国企劳务外包员工招聘简章">重庆某国企劳务外包员工招聘简章</a>
-                                </h5>
-                                <time class="">2026-02-10</time>
-                            </li>
                                             </ul>
                 </div>
                 <div class="pagelist-box">
@@ -311,7 +311,7 @@
         <title type="html"><![CDATA[undefined (重庆市国有资产监督管理委员会-国企招聘)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:48:54.195Z</updated>
+        <updated>2026-02-24T06:40:47.216Z</updated>
         <content type="html"><![CDATA[<div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
@@ -320,91 +320,91 @@
         
             <ul class="tab-item">
                 
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441649.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">西南证券股份有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441640.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆登康口腔护理用品股份有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441636.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆鸽牌电线电缆有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441633.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆机电控股集团机电工程技术有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441626.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆军通汽车有限责任公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441616.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">​上海三毛企业（集团）股份有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441608.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆水泵厂有限责任公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441592.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆标准件工业有限责任公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441583.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆艺术大市场有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441572.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆农投肉食品有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441554.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">中垦华山牧乳业有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441544.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">​中垦牧（陕西）牧业有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441531.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">宁夏黄河乳业有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441496.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">关于延长民生实业（集团）有限公司总法律顾问招聘报名时间的公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
                     <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260206_15392414.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">市纪委监委驻重庆三峡银行纪检监察组关于公开遴选工作人员的公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-06</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260130_15369649.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">数字重庆政务科技有限公司招聘专业人才公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-30</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260130_15369623.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆登康口腔护理用品股份有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-30</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260130_15369603.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆霍洛伊德精密螺杆制造有限责任公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-30</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260130_15369592.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆通用工业（集团）有限责任公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-30</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260130_15369579.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆建峰工业集团有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-30</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260130_15369575.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆国创投资管理有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-30</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260130_15369520.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆发展资产经营有限公司内部审计岗专项招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-30</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260130_15368676.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆对外经贸集团新加坡公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-30</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260130_15368506.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆渝贸通供应链管理有限责任公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-30</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260123_15350519.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆两江假日酒店管理有限公司第二批职业经理人公开招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-23</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260123_15350516.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">西部国际传播中心有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-23</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260123_15350509.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆日报报业集团所属企业招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-23</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260123_15350502.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆轮船（集团）有限公司交运游轮分公司三峡游轮船员招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-23</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260123_15350495.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">​重庆机电控股集团动力科技有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-23</span></li>
                 
             </ul>
          
@@ -414,7 +414,7 @@
         <title type="html"><![CDATA[undefined (重庆市国资委国企招聘页面)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:03.453Z</updated>
+        <updated>2026-02-24T06:40:57.157Z</updated>
         <content type="html"><![CDATA[<!-- 头部start -->
     <a id="ariaTipText" role="pagedescription" aria-label="欢迎进入 重庆市国有资产监督管理委员会门户网站,盲人用户使用操作智能引导，请按快捷键Ctrl+Alt+R；阅读详细操作说明请按快捷键Ctrl+Alt+问号键。" aria-atomic="true" href="javascript:void(0)" class="skipAutoFix ariaskiptheme" style="width: 1px; height: 1px;"><img src="" style="width:1px !important;height:1px !important;position:absolute;top:0;" tabindex="-1"></a><link rel="stylesheet" href="/images/xcConfirm.css">
 <script type="text/javascript" src="/images/xcConfirm.js"></script>
@@ -531,7 +531,7 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
 </style>
     <!-- 头部end -->
     <!-- 列表start -->
-    <div class="page-list clearfix" aria-region="true" aria-labelconfig="true" aria-regiontype="5" aria-labelledby=".page-list.clearfix &gt; div.location" tabindex="0" aria-label="" aria-autolabel="true">
+    <div class="page-list clearfix" aria-region="true" aria-labelconfig="true" aria-labelledby=".page-list.clearfix &gt; div.location" aria-regiontype="5" tabindex="0" aria-label="" aria-autolabel="true">
         <div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
@@ -540,91 +540,91 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
         
             <ul class="tab-item">
                 
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441649.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">西南证券股份有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441640.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆登康口腔护理用品股份有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441636.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆鸽牌电线电缆有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441633.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆机电控股集团机电工程技术有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441626.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆军通汽车有限责任公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441616.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">​上海三毛企业（集团）股份有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441608.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆水泵厂有限责任公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441592.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆标准件工业有限责任公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441583.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆艺术大市场有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441572.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆农投肉食品有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441554.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">中垦华山牧乳业有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441544.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">​中垦牧（陕西）牧业有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441531.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">宁夏黄河乳业有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
+                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260213_15441496.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">关于延长民生实业（集团）有限公司总法律顾问招聘报名时间的公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-13</span></li>
+                
+            </ul>
+         
+            <ul class="tab-item">
+                
                     <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202602/t20260206_15392414.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">市纪委监委驻重庆三峡银行纪检监察组关于公开遴选工作人员的公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-02-06</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260130_15369649.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">数字重庆政务科技有限公司招聘专业人才公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-30</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260130_15369623.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆登康口腔护理用品股份有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-30</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260130_15369603.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆霍洛伊德精密螺杆制造有限责任公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-30</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260130_15369592.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆通用工业（集团）有限责任公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-30</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260130_15369579.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆建峰工业集团有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-30</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260130_15369575.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆国创投资管理有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-30</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260130_15369520.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆发展资产经营有限公司内部审计岗专项招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-30</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260130_15368676.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆对外经贸集团新加坡公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-30</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260130_15368506.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆渝贸通供应链管理有限责任公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-30</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260123_15350519.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆两江假日酒店管理有限公司第二批职业经理人公开招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-23</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260123_15350516.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">西部国际传播中心有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-23</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260123_15350509.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆日报报业集团所属企业招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-23</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260123_15350502.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">重庆轮船（集团）有限公司交运游轮分公司三峡游轮船员招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-23</span></li>
-                
-            </ul>
-         
-            <ul class="tab-item">
-                
-                    <li class="clearfix" aria-artlist="true" aria-width="0" aria-height="0" aria-labelconfig="true"><a href="./202601/t20260123_15350495.html" target="_blank" aria-arttitle="true" aria-width="0" aria-height="0" aria-labelconfig="true">​重庆机电控股集团动力科技有限公司招聘公告</a> <span aria-arttime="true" aria-width="0" aria-height="0" aria-labelconfig="true">2026-01-23</span></li>
                 
             </ul>
          
@@ -648,8 +648,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
 <div class="wrap">
 <div class="drop-groups clearfix" aria-region="true" aria-labelconfig="true" aria-label="" aria-regiontype="2" tabindex="0" aria-autolabel="true">
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,国务院部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(1) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='aria4kndfxfu3w4']" aria-sourceowns="true" id="ariapx28szyqvxs" aria-autolabel="true">国务院部门网站</p>
-      <ul class="drop-lists" id="aria4kndfxfu3w4" aria-owns="[id='ariapx28szyqvxs']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,国务院部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(1) &gt; ul" setedaria="true" aria-ownsfor="[id='ariansk0cbdcp00']" aria-sourceowns="true" id="ariahoe1u4ffzww" aria-autolabel="true">国务院部门网站</p>
+      <ul class="drop-lists" id="ariansk0cbdcp00" aria-owns="[id='ariahoe1u4ffzww']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.mfa.gov.cn/" target="_blank">外交部</a></li>
         
@@ -724,8 +724,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,地方政府网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(2) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='ariafvlmvtauxbk']" aria-sourceowns="true" id="ariakwksv8xblf4" aria-autolabel="true">地方政府网站</p>
-      <ul class="drop-lists" id="ariafvlmvtauxbk" aria-owns="[id='ariakwksv8xblf4']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,地方政府网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(2) &gt; ul" setedaria="true" aria-ownsfor="[id='arialsodim1rma8']" aria-sourceowns="true" id="ariacpds1f54u4w" aria-autolabel="true">地方政府网站</p>
+      <ul class="drop-lists" id="arialsodim1rma8" aria-owns="[id='ariacpds1f54u4w']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.beijing.gov.cn/" target="_blank">北京</a></li>
         
@@ -800,8 +800,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,市政府部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(3) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='ariamx8skfzd9v4']" aria-sourceowns="true" id="aria7vldjbfh8vo" aria-autolabel="true">市政府部门网站</p>
-      <ul class="drop-lists" id="ariamx8skfzd9v4" aria-owns="[id='aria7vldjbfh8vo']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,市政府部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(3) &gt; ul" setedaria="true" aria-ownsfor="[id='ariafws673bp9cg']" aria-sourceowns="true" id="ariaos76xcvq07k" aria-autolabel="true">市政府部门网站</p>
+      <ul class="drop-lists" id="ariafws673bp9cg" aria-owns="[id='ariaos76xcvq07k']" aria-autoowns="true" aria-popup="true">
        
             <li><a href="http://fzggw.cq.gov.cn/" target="_blank">市发展改革委</a></li>
         
@@ -886,8 +886,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,区（县）部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(4) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='ariayvgbilco4z']" aria-sourceowns="true" id="ariandorbup8vg0" aria-autolabel="true">区（县）政府网站</p>
-      <ul class="drop-lists" id="ariayvgbilco4z" aria-owns="[id='ariandorbup8vg0']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,区（县）部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(4) &gt; ul" setedaria="true" aria-ownsfor="[id='ariaba6j6ed5lsg']" aria-sourceowns="true" id="ariahen4ieghj0w" aria-autolabel="true">区（县）政府网站</p>
+      <ul class="drop-lists" id="ariaba6j6ed5lsg" aria-owns="[id='ariahen4ieghj0w']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.wz.gov.cn/" target="_blank">万州区</a></li>
         
@@ -968,8 +968,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
 <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,其他网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(5) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='aria1jgao9f5fsj']" aria-sourceowns="true" id="ariaamg9bn6czsg" aria-autolabel="true">市属重点国有企业网站</p>
-      <ul class="drop-lists" id="aria1jgao9f5fsj" aria-owns="[id='ariaamg9bn6czsg']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,其他网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(5) &gt; ul" setedaria="true" aria-ownsfor="[id='ariaj9097nmudn4']" aria-sourceowns="true" id="ariau8uojbjjwx" aria-autolabel="true">市属重点国有企业网站</p>
+      <ul class="drop-lists" id="ariaj9097nmudn4" aria-owns="[id='ariau8uojbjjwx']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.cqa.cn" target="_blank">重庆机场集团</a></li>
         
@@ -1370,7 +1370,7 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
         <title type="html"><![CDATA[undefined (金标尺重庆教师工作相关页面)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:31.055Z</updated>
+        <updated>2026-02-24T06:41:21.062Z</updated>
         <content type="html"><![CDATA[<div id="div_company_mini" style="line-height: 0; font-size: 0px; display: none; position: fixed; right: 0px; bottom: 0px; width: 360px; height: 460px; z-index: 1000000; cursor: move; overflow: visible;"><div class="mini-btn mini-btn1" id="mini-btn" onclick="show_floatWindow();" style="width:auto;white-space:nowrap;cursor:pointer;display:none;position:absolute;right:0; bottom:0;z-index:-1;height: 42px;border-radius:4px; overflow: hidden; background: rgb(31, 140, 235);-webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, .06), 0 2px 32px rgba(0, 0, 0, .16)!important;box-shadow: 0 1px 6px rgba(0, 0, 0, .06), 0 2px 32px rgba(0, 0, 0, .16)!important;"><div class="mini-btn-info" style="position: relative;width: 42px;height: 42px;display:inline-block;"><span style="width:100%;height:100%;position:absolute;left:0;top:0;z-index:1;background: center center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/png/img-info24.png);background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/img-info24.svg), none;"></span><span style="width:100%;height:100%;position:absolute;left:0;top:0;background:#000;opacity:0.2;filter:alpha(opacity=20);"></span><span id="info-num" style="display:none;position: absolute;top: 5px;right: 5px;z-index:10;height: 14px;min-width: 14px;line-height: 14px;border-radius: 7px;background: red;font-size: 12px;color: #FFFFFF;letter-spacing: 0.47px;text-align: center;">0</span></div><div class="mini-btn-middle" style="width:auto;font-weight:normal;display:inline-block;vertical-align:top;line-height: 42px;padding: 0 8px;font-size: 16px;color: #FFFFFF;letter-spacing: 0.83px;word-break: break-all;text-align: center;">和我们在线交谈!</div><div class="mini-btn-window" style="display:inline-block;width: 42px;height: 42px;background: center center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/png/to-maxWindow.png);background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/to-maxWindow.svg), none;"></div></div><div id="iframe_company_mini_div" style="font-size: 0;background-color:#fff;border-radius:6px;overflow:hidden;width:100%;height:460px;box-shadow:0 5px 40px rgba(0,0,0,.16)!important;-webkit-box-shadow:0 5px 40px rgba(0,0,0,.16)!important;"><h6 class="pc-visitor-header" style="width:100%;box-sizing:border-box;background: rgb(31, 140, 235) no-repeat 10px;margin:0;padding:0;padding-left: 10px;font-size: 14px;color: #fff;line-height: 36px;position: relative;font-weight: normal;padding-right: 72px;height:36px;"><div style="float: left;height: 100%;box-sizing: border-box;padding: 6px 0;"><img onclick="show_about_box()" style="max-width: 80px;width:auto;height:100%;border-radius:2px;vertical-align:baseline;cursor:pointer" src="https://s3v2.53kf.com/kfxt/2023/08/image/72366151_setting_1690879271_64c8c527afa3f.jpg"></div><div style="float: left;max-width: 78%;overflow: hidden;margin-left: 5px;"><label style="width:100%;background: none; padding: 0; margin: 0; border: 0; line-height:36px;cursor:move;font-weight:normal;cursor:move;color: #fff;display: block;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;font-size: 14px;" class="header-company">金标尺教育</label></div><span onclick="max_from_company_mini(this);" title="最大化" class="pc-new pc-title-btn" style="background: url(https://www7c2.53kf.com/style/chat/new2017/image/png/newWindow.png) center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/newWindow.svg),none;position: absolute;width: 36px;height: 36px;cursor: pointer;right: 40px;top: 0;fill: #F08000;"></span><span onclick="hide_floatWindow();" title="最小化" class="kf-pc-hide pc-title-btn" style="background: url(https://www7c2.53kf.com/style/chat/new2017/image/png/close2020.png) center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/close2020.svg),none;position: absolute;width: 36px;height: 36px;cursor: pointer;right: 0px;top: 0;"></span></h6><iframe id="iframe_company_mini" frameborder="0" style="height:424px;width:100%;margin:0;padding:0;visibility: inherit;opacity:1;position:inherit;"></iframe></div></div><div id="kfivtwin" style="display: none; overflow: visible;"><div id="inv_box_53kf" style="width: 380px; padding-top: 10px; padding-left: 10px; box-sizing: border-box; position: fixed; left:812px; top:74px;display: block;z-index:999998;"><div style="position:absolute;left:0;top:0;width:20px;height:20px;cursor:pointer;z-index:5;" onclick="inv.clos()"><img style="width:100%;height:100%;" src="https://www7c2.53kf.com/style/setting/ver07/img/style_mobile_invite/close_2x.png"></div><div class="inv_bg_color" style="width:100%;min-height: 250px;box-sizing: border-box;overflow:hidden;background:#ffffff; border:1px solid #eee; box-shadow:rgba(74, 144, 226, 0.4) 0px 0px 10px 0px;border-radius: 2px;position: relative;"><div style="position: absolute;top: 0;bottom: 0;left: 0; width: 128px;"><div class="img_bg" style="width: 128px;height: 250px; position: absolute;left: 50%;top: 50%;margin:-125px 0 0 -64px; background:url(https://www2c1.53kf.com/style/setting/ver07/img/style_setting_ivt/Group_5_2x.png);background-size: 100% 100%; "></div></div><div id="lr_con_53kf" style="width: 240px; padding:24px 12px; position:absolute; right:0px; top:50%; overflow: hidden;box-sizing: border-box;"><div class="inv_title" style="font-size:22px;text-align:center;float:left;width:100%;line-height:32px;margin-bottom:8px;letter-spacing:1px;box-sizing:border-box;color:#0f0e0e;">欢迎咨询</div><div class="inv_content" style="font-size: 14px; line-height: 20px;  text-align: left; max-height: 60px; overflow: auto; float: left; width: 100%; margin-bottom: 16px; word-wrap: break-word; color: #f00511;">事业单位、教师公招、公务员火热开班中，点击免费预约试听~</div><div class="talk_btn" style="float:left;width:100%;border-radius:2px;height:44px;line-height:44px;letter-spacing: 0.83px;font-size:16px;text-align:center;cursor:pointer;color:#FFFFFF;background:#118bf5;" onclick="inv.talk()">点击咨询</div></div></div></div></div>
 <div class="detpagapp newadd_feng detpagapplist">
     <!-- 顶部导航栏 -->
@@ -2788,6 +2788,30 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
 
                                         <ul class="ppatiem_lit ppatiem_aitms">
                                                                                     <li class="flex-asb ">
+                                    <a href="https://cq.jinbiaochi.com/jsgz/news_862013.html" target="_blank" class="ellipsis" title="2026重庆智能工程职业学院招聘120人">
+                                                                                    <p class="flex-a">[<span>招考公告</span>]</p>
+                                                                                <div class="text" style="color: #d7000f!important">2026重庆智能工程职业学院招聘120人</div>
+                                    </a>
+                                    <span class="date" style="color: #d7000f!important">
+                                                                                02-24</span>
+                                </li>
+                                                                                                                <li class="flex-asb ">
+                                    <a href="https://cq.jinbiaochi.com/jsgz/news_861980.html" target="_blank" class="ellipsis" title="2026年重庆市大足区石马中学教师招聘2人">
+                                                                                    <p class="flex-a">[<span>招考公告</span>]</p>
+                                                                                <div class="text" style="color: #d7000f!important">2026年重庆市大足区石马中学教师招聘2人</div>
+                                    </a>
+                                    <span class="date" style="color: #d7000f!important">
+                                                                                02-24</span>
+                                </li>
+                                                                                                                <li class="flex-asb ">
+                                    <a href="https://cq.jinbiaochi.com/jsgz/news_861974.html" target="_blank" class="ellipsis" title="2026重庆市九龙坡区玉清寺小学招聘5人">
+                                                                                    <p class="flex-a">[<span>招考公告</span>]</p>
+                                                                                <div class="text" style="color: #d7000f!important">2026重庆市九龙坡区玉清寺小学招聘5人</div>
+                                    </a>
+                                    <span class="date" style="color: #d7000f!important">
+                                                                                02-24</span>
+                                </li>
+                                                                                                                <li class="flex-asb ">
                                     <a href="https://cq.jinbiaochi.com/jsgz/news_861069.html" target="_blank" class="ellipsis" title="2026年重庆市九龙坡区鹅公岩小学校招聘3人">
                                                                                     <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                 <div class="text">2026年重庆市九龙坡区鹅公岩小学校招聘3人</div>
@@ -2827,34 +2851,34 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                     <span class="date">
                                                                                 02-09</span>
                                 </li>
-                                                                                                                <li class="flex-asb ">
-                                    <a href="https://cq.jinbiaochi.com/jsgz/news_859394.html" target="_blank" class="ellipsis" title="2026年沙坪坝区覃家岗小学幼儿园教师招聘公告">
-                                                                                    <p class="flex-a">[<span>招考公告</span>]</p>
-                                                                                <div class="text">2026年沙坪坝区覃家岗小学幼儿园教师招聘公告</div>
-                                    </a>
-                                    <span class="date">
-                                                                                02-09</span>
-                                </li>
-                                                                                                                <li class="flex-asb ">
-                                    <a href="https://cq.jinbiaochi.com/jsgz/news_858656.html" target="_blank" class="ellipsis" title="2026年九龙坡区石桥铺实验幼儿园招聘3人">
-                                                                                    <p class="flex-a">[<span>招考公告</span>]</p>
-                                                                                <div class="text">2026年九龙坡区石桥铺实验幼儿园招聘3人</div>
-                                    </a>
-                                    <span class="date">
-                                                                                02-05</span>
-                                </li>
-                                                                                                                <li class="flex-asb ">
-                                    <a href="https://cq.jinbiaochi.com/jsgz/news_858644.html" target="_blank" class="ellipsis" title="2026年北碚区晏阳初中学招聘教师公告">
-                                                                                    <p class="flex-a">[<span>招考公告</span>]</p>
-                                                                                <div class="text">2026年北碚区晏阳初中学招聘教师公告</div>
-                                    </a>
-                                    <span class="date">
-                                                                                02-05</span>
-                                </li>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </ul>
                     
                                             <ul class="ppatiem_lit ppatiem_aitms">
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 <li class="flex-asb ">
+                                        <a href="https://cq.jinbiaochi.com/jsgz/news_859394.html" target="_blank" class="ellipsis" title="2026年沙坪坝区覃家岗小学幼儿园教师招聘公告">
+                                                                                            <p class="flex-a">[<span>招考公告</span>]</p>
+                                                                                        <div class="text">2026年沙坪坝区覃家岗小学幼儿园教师招聘公告</div>
+                                        </a>
+                                        <span class="date">
+                                                                                    02-09</span>
+                                    </li>
+                                                                                                                                <li class="flex-asb ">
+                                        <a href="https://cq.jinbiaochi.com/jsgz/news_858656.html" target="_blank" class="ellipsis" title="2026年九龙坡区石桥铺实验幼儿园招聘3人">
+                                                                                            <p class="flex-a">[<span>招考公告</span>]</p>
+                                                                                        <div class="text">2026年九龙坡区石桥铺实验幼儿园招聘3人</div>
+                                        </a>
+                                        <span class="date">
+                                                                                    02-05</span>
+                                    </li>
+                                                                                                                                <li class="flex-asb ">
+                                        <a href="https://cq.jinbiaochi.com/jsgz/news_858644.html" target="_blank" class="ellipsis" title="2026年北碚区晏阳初中学招聘教师公告">
+                                                                                            <p class="flex-a">[<span>招考公告</span>]</p>
+                                                                                        <div class="text">2026年北碚区晏阳初中学招聘教师公告</div>
+                                        </a>
+                                        <span class="date">
+                                                                                    02-05</span>
+                                    </li>
+                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_858154.html" target="_blank" class="ellipsis" title="2026年九龙坡区华美小学招聘2人">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2026年九龙坡区华美小学招聘2人</div>
@@ -2894,7 +2918,10 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         <span class="date">
                                                                                     02-03</span>
                                     </li>
-                                                                                                                                <li class="flex-asb ">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                    
+                                            <ul class="ppatiem_lit ppatiem_aitms">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_857134.html" target="_blank" class="ellipsis" title="2026年重庆市农业机械化学校教师招聘公告">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2026年重庆市农业机械化学校教师招聘公告</div>
@@ -2918,10 +2945,7 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         <span class="date">
                                                                                     02-02</span>
                                     </li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
-                    
-                                            <ul class="ppatiem_lit ppatiem_aitms">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="flex-asb ">
+                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_856296.html" target="_blank" class="ellipsis" title="2026重庆杨家坪中学教师招聘3人">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2026重庆杨家坪中学教师招聘3人</div>
@@ -2961,7 +2985,10 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         <span class="date">
                                                                                     01-29</span>
                                     </li>
-                                                                                                                                <li class="flex-asb ">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                    
+                                            <ul class="ppatiem_lit ppatiem_aitms">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_855221.html" target="_blank" class="ellipsis" title="2026年重庆礼嘉中学校招聘5人">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2026年重庆礼嘉中学校招聘5人</div>
@@ -2985,10 +3012,7 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         <span class="date">
                                                                                     01-28</span>
                                     </li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
-                    
-                                            <ul class="ppatiem_lit ppatiem_aitms">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="flex-asb ">
+                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_854479.html" target="_blank" class="ellipsis" title="2026年重庆工商大学二级学院院长招聘公告">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2026年重庆工商大学二级学院院长招聘公告</div>
@@ -3028,7 +3052,10 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         <span class="date">
                                                                                     01-22</span>
                                     </li>
-                                                                                                                                <li class="flex-asb ">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                    
+                                            <ul class="ppatiem_lit ppatiem_aitms">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_851445.html" target="_blank" class="ellipsis" title="2026沙坪坝区中梁实验学校招聘教师公告">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2026沙坪坝区中梁实验学校招聘教师公告</div>
@@ -3052,10 +3079,7 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         <span class="date">
                                                                                     01-21</span>
                                     </li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
-                    
-                                            <ul class="ppatiem_lit ppatiem_aitms">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="flex-asb ">
+                                                                                                                                <li class="flex-asb ">
                                         <a href="https://cq.jinbiaochi.com/jsgz/news_850476.html" target="_blank" class="ellipsis" title="2026西南大学附中教师招聘公告">
                                                                                             <p class="flex-a">[<span>招考公告</span>]</p>
                                                                                         <div class="text">2026西南大学附中教师招聘公告</div>
@@ -3094,30 +3118,6 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                                         </a>
                                         <span class="date">
                                                                                     01-16</span>
-                                    </li>
-                                                                                                                                <li class="flex-asb ">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_848341.html" target="_blank" class="ellipsis" title="2026年重庆市某事业单位教师招聘公告">
-                                                                                            <p class="flex-a">[<span>招考公告</span>]</p>
-                                                                                        <div class="text">2026年重庆市某事业单位教师招聘公告</div>
-                                        </a>
-                                        <span class="date">
-                                                                                    01-15</span>
-                                    </li>
-                                                                                                                                <li class="flex-asb ">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_846909.html" target="_blank" class="ellipsis" title="2026年四川外国语大学九龙坡区附属小学校招聘4人">
-                                                                                            <p class="flex-a">[<span>招考公告</span>]</p>
-                                                                                        <div class="text">2026年四川外国语大学九龙坡区附属小学校招聘4人</div>
-                                        </a>
-                                        <span class="date">
-                                                                                    01-13</span>
-                                    </li>
-                                                                                                                                <li class="flex-asb ">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_846896.html" target="_blank" class="ellipsis" title="2026年两江新区腾芳幼儿园招聘编外教师5人">
-                                                                                            <p class="flex-a">[<span>招考公告</span>]</p>
-                                                                                        <div class="text">2026年两江新区腾芳幼儿园招聘编外教师5人</div>
-                                        </a>
-                                        <span class="date">
-                                                                                    01-13</span>
                                     </li>
                                                                                     </ul>
                                     </div>
@@ -3427,38 +3427,38 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
                         <!-- 放8条 -->
                         <ul>
                                                                                                 <li class="ellipsis">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_791712.html" target="_blank" title="2025年渝北区长安锦绣实验小学招聘公告">
+                                        <a href="https://cq.jinbiaochi.com/sydw/news_792308.html" target="_blank" title="2025年大足区某机关事业单位信息采集员招聘公告">
                                             <!-- 1-3依次的背景颜色值#d7000f #ff6630 #ffb830-->
                                             <span class="icos" style="background-color: #d7000f;">1</span>
-                                            <div class="text">2025年渝北区长安锦绣实验小学招聘公告</div>
+                                            <div class="text">2025年大足区某机关事业单位信息采集员招聘公告</div>
                                         </a>
                                     </li>
                                                                     <li class="ellipsis">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_791720.html" target="_blank" title="2025年重庆一中教育集团教师招聘公告">
+                                        <a href="https://cq.jinbiaochi.com/sydw/news_792312.html" target="_blank" title="2025年璧山区事业单位定向招聘7人">
                                             <!-- 1-3依次的背景颜色值#d7000f #ff6630 #ffb830-->
                                             <span class="icos" style="background-color: #ff6630;">2</span>
-                                            <div class="text">2025年重庆一中教育集团教师招聘公告</div>
+                                            <div class="text">2025年璧山区事业单位定向招聘7人</div>
                                         </a>
                                     </li>
                                                                     <li class="ellipsis">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_792339.html" target="_blank" title="2025年上半年重庆社会科学院事业单位考核招聘拟聘公示">
+                                        <a href="https://cq.jinbiaochi.com/sydw/news_792342.html" target="_blank" title="2025年万州区事业单位招聘拟聘公示（第十一批）">
                                             <!-- 1-3依次的背景颜色值#d7000f #ff6630 #ffb830-->
                                             <span class="icos" style="background-color: #ffb830;">3</span>
-                                            <div class="text">2025年上半年重庆社会科学院事业单位考核招聘拟聘公示</div>
+                                            <div class="text">2025年万州区事业单位招聘拟聘公示（第十一批）</div>
                                         </a>
                                     </li>
                                                                     <li class="ellipsis">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_792367.html" target="_blank" title="【每日一练】重庆教师招聘考试复习资料——策略选择专项（9.23）">
+                                        <a href="https://cq.jinbiaochi.com/sydw/news_792346.html" target="_blank" title="2025年第二季度重庆市属事业单位招聘拟聘公示（重庆市残疾人联合会信息中心）">
                                             <!-- 1-3依次的背景颜色值#d7000f #ff6630 #ffb830-->
                                             <span class="icos" style="background-color: ;">4</span>
-                                            <div class="text">【每日一练】重庆教师招聘考试复习资料——策略选择专项（9.23）</div>
+                                            <div class="text">2025年第二季度重庆市属事业单位招聘拟聘公示（重庆市残疾人联合会信息中心）</div>
                                         </a>
                                     </li>
                                                                     <li class="ellipsis">
-                                        <a href="https://cq.jinbiaochi.com/jsgz/news_792384.html" target="_blank" title="【每日一练】重庆教师招聘考试复习资料——常识判断专项（9.24）">
+                                        <a href="https://cq.jinbiaochi.com/sydw/news_792427.html" target="_blank" title="2025年第三季度重庆市区县事业单位招聘最终报名统计4423人（巫溪县）">
                                             <!-- 1-3依次的背景颜色值#d7000f #ff6630 #ffb830-->
                                             <span class="icos" style="background-color: ;">5</span>
-                                            <div class="text">【每日一练】重庆教师招聘考试复习资料——常识判断专项（9.24）</div>
+                                            <div class="text">2025年第三季度重庆市区县事业单位招聘最终报名统计4423人（巫溪县）</div>
                                         </a>
                                     </li>
                                                                                     </ul>
@@ -3913,350 +3913,350 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.562Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/146872" rel="noopener" target="_blank">【阅读笔记】沙尘图像颜色校正A fusion-based enhancing approach for single sandstorm image</a>]]></content>
+        <updated>2026-02-24T06:41:27.959Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/127828" rel="noopener" target="_blank">我的投资理财书单（2025.08 更新）</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.562Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/146767" rel="noopener" target="_blank">《金刚金》阅读笔记：一</a>]]></content>
+        <updated>2026-02-24T06:41:27.959Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/127709" rel="noopener" target="_blank">读书：《进化心理学：心理的新科学》</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.562Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/146482" rel="noopener" target="_blank">用 AI 辅助读书</a>]]></content>
+        <updated>2026-02-24T06:41:27.959Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/126852" rel="noopener" target="_blank">2025阅读清单</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.562Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/146536" rel="noopener" target="_blank">【阅读笔记】基于暗通道的红外图像增强Infrared traffic image enhancement algorithm based on dark channel prior and gamma correction</a>]]></content>
+        <updated>2026-02-24T06:41:27.959Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/146085" rel="noopener" target="_blank">如何在Obsidian中使用dataview插件实现书籍画廊和卡片效果？</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.562Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/146392" rel="noopener" target="_blank">【阅读笔记】基于规则的清晰度评价值峰值搜索Development and real-time implementation of a rule-based auto-focus algorithm</a>]]></content>
+        <updated>2026-02-24T06:41:27.959Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/126329" rel="noopener" target="_blank">《关于性，我们想得太少》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.562Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/146386" rel="noopener" target="_blank">2026.02.15 博客阅读周记</a>]]></content>
+        <updated>2026-02-24T06:41:27.959Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/126109" rel="noopener" target="_blank">《做自己的保险规划师：明明白白买保险》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.562Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/146340" rel="noopener" target="_blank">【阅读笔记】聚焦区域自动化检测Fully Digital Auto-Focusing System with Automatic Focusing Region Selection and Point Spread Function Estimation</a>]]></content>
+        <updated>2026-02-24T06:41:27.959Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/126103" rel="noopener" target="_blank">书籍、电影等下载渠道安利总辑</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.562Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/145862" rel="noopener" target="_blank">【阅读笔记】峰值搜索方案Evaluation of Sharpness Measures and Search Algorithms for the Auto-Focusing of High Magnification Images</a>]]></content>
+        <updated>2026-02-24T06:41:27.959Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/129797" rel="noopener" target="_blank">《原则》读书笔记：如何将瑞·达利欧的智慧应用到日常</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.562Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/145846" rel="noopener" target="_blank">2026年1月阅读书摘</a>]]></content>
+        <updated>2026-02-24T06:41:27.959Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/125806" rel="noopener" target="_blank">《4小时明白保险》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.562Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/145863" rel="noopener" target="_blank">【阅读笔记】自动聚焦清晰度评价Evaluation of Sharpness Measures and Search Algorithms for the Auto-Focusing of High Magnification Images</a>]]></content>
+        <updated>2026-02-24T06:41:27.960Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/125755" rel="noopener" target="_blank">《持续买入》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.562Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/145571" rel="noopener" target="_blank">如何准确地给阅读计数器『注水』</a>]]></content>
+        <updated>2026-02-24T06:41:27.960Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/125626" rel="noopener" target="_blank">因为买不起Typecho付费阅读插件，于是就基于支付宝自己写了一个PayIT插件</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.563Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/145183" rel="noopener" target="_blank">【阅读笔记】无背景的阴影校正-Simple Shading Correction Method for Brightfield Whole Slide Imaging</a>]]></content>
+        <updated>2026-02-24T06:41:27.960Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/125403" rel="noopener" target="_blank">2025年8款沉浸式翻译平替工具：助你轻松阅读网页</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.563Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/145048" rel="noopener" target="_blank">2026.02.01 博客阅读周记</a>]]></content>
+        <updated>2026-02-24T06:41:27.960Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/125228" rel="noopener" target="_blank">读书成为博主</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.563Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/144934" rel="noopener" target="_blank">基于 Next.js + Supabase 的文章阅读量和喜欢功能</a>]]></content>
+        <updated>2026-02-24T06:41:27.961Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/124942" rel="noopener" target="_blank">《Head First Software Architecture》阅读笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.564Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/144826" rel="noopener" target="_blank">微信读书的最佳替代品：二手kindle</a>]]></content>
+        <updated>2026-02-24T06:41:27.963Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/124710" rel="noopener" target="_blank">2025年7月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.565Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/144466" rel="noopener" target="_blank">2026.01.25 博客阅读周记</a>]]></content>
+        <updated>2026-02-24T06:41:27.964Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/124608" rel="noopener" target="_blank">PDF 电子书重排和裁剪</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.567Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/144363" rel="noopener" target="_blank">【阅读笔记】Winscale: An Image-Scaling Algorithm Using an Area Pixel Model</a>]]></content>
+        <updated>2026-02-24T06:41:27.966Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/124730" rel="noopener" target="_blank">《不正经问答》现已设为私密【请在博客阅读全文】</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.568Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/143492" rel="noopener" target="_blank">2026 阅读</a>]]></content>
+        <updated>2026-02-24T06:41:27.967Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/123634" rel="noopener" target="_blank">《智人之上: 从石器时代到 AI 时代的信息网络简史》阅读笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.569Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/143379" rel="noopener" target="_blank">2026.01.18 博客阅读周记</a>]]></content>
+        <updated>2026-02-24T06:41:27.968Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/123438" rel="noopener" target="_blank">九月前得加油读书</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.570Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/143165" rel="noopener" target="_blank">《为成果管理》读书笔记｜Part 1</a>]]></content>
+        <updated>2026-02-24T06:41:27.969Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/123443" rel="noopener" target="_blank">《良好生活的哲学》读书笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.572Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/142338" rel="noopener" target="_blank">【阅读笔记】Bayer阵列坏点校正-《Adaptive pixel defect correction》</a>]]></content>
+        <updated>2026-02-24T06:41:27.970Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/123208" rel="noopener" target="_blank">GoalKicker 海量免费编程书籍，涵盖各种主流编程语言和技术</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.573Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/142283" rel="noopener" target="_blank">2026 纸书单</a>]]></content>
+        <updated>2026-02-24T06:41:27.972Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/123123" rel="noopener" target="_blank">【乡下父母的人生课】10：我们可以不上学，但不能不读书</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.574Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/142091" rel="noopener" target="_blank">😭 谁懂啊！电子书党挖到宝了！自建「私人图书馆」太香了</a>]]></content>
+        <updated>2026-02-24T06:41:27.973Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/123025" rel="noopener" target="_blank">阅读量不会只持续增长</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.576Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/141944" rel="noopener" target="_blank">阅读不能替代体验</a>]]></content>
+        <updated>2026-02-24T06:41:27.974Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/122932" rel="noopener" target="_blank">【读书记1573】费迪曼《一生的读书计划》</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.577Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/144441" rel="noopener" target="_blank">荣格《红书》-导读-Ⅰ（读书笔记）</a>]]></content>
+        <updated>2026-02-24T06:41:27.975Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/122551" rel="noopener" target="_blank">Gemini 2.5 Pro 是怎么炼成的？-- gemini 2.5 技术报告阅读笔记与思考</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.578Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/141590" rel="noopener" target="_blank">最需要阅读的年纪</a>]]></content>
+        <updated>2026-02-24T06:41:27.977Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/141354" rel="noopener" target="_blank">《营养学》读书笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.579Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/141200" rel="noopener" target="_blank">2025年12月阅读书摘</a>]]></content>
+        <updated>2026-02-24T06:41:27.978Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/122501" rel="noopener" target="_blank">读书：《Free as in Freedom》——若为自由故</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.581Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/141068" rel="noopener" target="_blank">阅读和认字的启蒙</a>]]></content>
+        <updated>2026-02-24T06:41:27.979Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/122452" rel="noopener" target="_blank">【儿女记】女儿的暑假阅读书单</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.582Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/141419" rel="noopener" target="_blank">博客评论语言自动检测及邮件阅读追踪</a>]]></content>
+        <updated>2026-02-24T06:41:27.980Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/144078" rel="noopener" target="_blank">100本必读书籍</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.583Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/145925" rel="noopener" target="_blank">博客评论语言自动检测及邮件阅读追踪</a>]]></content>
+        <updated>2026-02-24T06:41:27.982Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/144305" rel="noopener" target="_blank">2025-07-07100本必读书籍</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.584Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/140866" rel="noopener" target="_blank">且听App：罗永浩的AI讲书新作，如何用声音重塑阅读？</a>]]></content>
+        <updated>2026-02-24T06:41:27.983Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/122037" rel="noopener" target="_blank">《一路云海》(终): 反正不会有人连着阅读到这一章的</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.585Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/140780" rel="noopener" target="_blank">2025年的已读书单+观影记录</a>]]></content>
+        <updated>2026-02-24T06:41:27.984Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/137296" rel="noopener" target="_blank">自由不止软件-记录一次zlib上传书籍</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.587Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/140616" rel="noopener" target="_blank">2025阅读记录</a>]]></content>
+        <updated>2026-02-24T06:41:27.986Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/122017" rel="noopener" target="_blank">【居家随记】四：不读书的人在教书</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.588Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/140669" rel="noopener" target="_blank">25Weekly | 写年终总结、读书、观影</a>]]></content>
+        <updated>2026-02-24T06:41:27.988Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/121981" rel="noopener" target="_blank">耗时两个月终于把台湾游的博文更新完了。因为时间跨度大，这里就整理了一份合集，欢迎阅读评论。</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.589Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/143079" rel="noopener" target="_blank">25Weekly | 写年终总结、读书、观影</a>]]></content>
+        <updated>2026-02-24T06:41:27.990Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/122475" rel="noopener" target="_blank">2025年6月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.591Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/143481" rel="noopener" target="_blank">25Weekly | 写年终总结、读书、观影</a>]]></content>
+        <updated>2026-02-24T06:41:27.993Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/121793" rel="noopener" target="_blank">【阅读笔记】基于双边滤波改进的空域滤波算法</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.592Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/140331" rel="noopener" target="_blank">隐说 NO.12 鲁迅的书单</a>]]></content>
+        <updated>2026-02-24T06:41:27.994Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/123370" rel="noopener" target="_blank">Rainman 的 AI 精读书单</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.593Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/140103" rel="noopener" target="_blank">2025 读书总结</a>]]></content>
+        <updated>2026-02-24T06:41:27.996Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/121595" rel="noopener" target="_blank">为什么很多人看书，脑子越看越浆糊</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.594Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/140547" rel="noopener" target="_blank">读书笔记</a>]]></content>
+        <updated>2026-02-24T06:41:27.997Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/124839" rel="noopener" target="_blank">读书｜母女之间：阿克曼、波伏瓦、费兰特，她们这样书写母亲</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.595Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/139733" rel="noopener" target="_blank">Koodo Reader 是一个跨平台的电子书阅读器</a>]]></content>
+        <updated>2026-02-24T06:41:27.999Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/125163" rel="noopener" target="_blank">读书｜母女之间：阿克曼、波伏瓦、费兰特，她们这样书写母亲</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.597Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/139927" rel="noopener" target="_blank">第三周刊_No.49｜2025年度书单：小人物与大世界</a>]]></content>
+        <updated>2026-02-24T06:41:28.000Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/126587" rel="noopener" target="_blank">读书｜母女之间：阿克曼、波伏瓦、费兰特，她们这样书写母亲</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.601Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/145993" rel="noopener" target="_blank">第三周刊_No.49｜2025年度书单：小人物与大世界</a>]]></content>
+        <updated>2026-02-24T06:41:28.002Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/121064" rel="noopener" target="_blank">命运与坚守—《褚时健传》读书笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.602Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/146073" rel="noopener" target="_blank">第三周刊_No.49｜2025年度书单：小人物与大世界</a>]]></content>
+        <updated>2026-02-24T06:41:28.003Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/123373" rel="noopener" target="_blank">从「稍后阅读地狱」到 AI 共创 — 一个工程师的信息演化之路</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.603Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/138855" rel="noopener" target="_blank">我的独立开发者书单 2025 版</a>]]></content>
+        <updated>2026-02-24T06:41:28.005Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/120862" rel="noopener" target="_blank">读书的作用</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.605Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/138818" rel="noopener" target="_blank">读书｜《笔记的方法》</a>]]></content>
+        <updated>2026-02-24T06:41:28.006Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/120782" rel="noopener" target="_blank">日常-阅读 How we built our multi-agent research system</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.607Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/138785" rel="noopener" target="_blank">聚合阅读解决了看的问题，WebP转换器解决了写的问题（图片加载）</a>]]></content>
+        <updated>2026-02-24T06:41:28.007Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/120259" rel="noopener" target="_blank">私人阅读进化史：结构化提问与跨领域资料整理</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.608Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/138703" rel="noopener" target="_blank">给 Hexo 博客加上豆瓣读书、游戏数据</a>]]></content>
+        <updated>2026-02-24T06:41:28.015Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/120142" rel="noopener" target="_blank">2025年5月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.609Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/138576" rel="noopener" target="_blank">少谈投资，多读书，投资笔记调整后再出发</a>]]></content>
+        <updated>2026-02-24T06:41:28.016Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/134801" rel="noopener" target="_blank">二零二五 - 六七月读书随笔</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.613Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/138297" rel="noopener" target="_blank">读书、写作与其他，我为什么那么做？</a>]]></content>
+        <updated>2026-02-24T06:41:28.018Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/141841" rel="noopener" target="_blank">二零二五 - 六七月读书随笔</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-02-23T06:49:38.614Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/138926" rel="noopener" target="_blank">2025年11月阅读书摘</a>]]></content>
+        <updated>2026-02-24T06:41:28.019Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/132671" rel="noopener" target="_blank">读书</a>]]></content>
     </entry>
 </feed>
