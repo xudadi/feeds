@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xudadi.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-05-14T08:22:15.273Z</updated>
+    <updated>2026-05-14T19:28:51.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (重庆市公考雷达)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:10:26.739Z</updated>
+        <updated>2026-05-14T19:15:04.762Z</updated>
         <content type="html"><![CDATA[<!--公告列表-->
                 <div class="notice-list">
                     <ul class="link-list">
@@ -17,9 +17,45 @@
                                     <i class="notice-label">[重庆市]</i>
                                     <i class="notice-label">[国企]</i>
                                     
+                                    <a href="https://www.gongkaoleida.com/article/2896890" target="_blank" title="外派至合璧津高速、渝遂复线高速收费员招聘启事">外派至合璧津高速、渝遂复线高速收费员招聘启事</a>
+                                </h5>
+                                <time class=" time-red ">9小时前</time>
+                            </li>
+                                                    <li>
+                                <h5>
+                                    <i class="notice-label">[永川区]</i>
+                                    <i class="notice-label">[教师]</i>
+                                    
+                                    <a href="https://www.gongkaoleida.com/article/2896842" target="_blank" title="重庆财经职业学院2026年第二季度非事业编制工作人员招聘公告">重庆财经职业学院2026年第二季度非事业编制工作人员招聘公告</a>
+                                </h5>
+                                <time class=" time-red ">10小时前</time>
+                            </li>
+                                                    <li>
+                                <h5>
+                                    <i class="notice-label">[重庆市]</i>
+                                    <i class="notice-label">[国企]</i>
+                                    
+                                    <a href="https://www.gongkaoleida.com/article/2896648" target="_blank" title="重庆市烟草专卖局(公司)2026年员工招聘公告(第二批)">重庆市烟草专卖局(公司)2026年员工招聘公告(第二批)</a>
+                                </h5>
+                                <time class=" time-red ">10小时前</time>
+                            </li>
+                                                    <li>
+                                <h5>
+                                    <i class="notice-label">[重庆市]</i>
+                                    <i class="notice-label">[国企]</i>
+                                    
+                                    <a href="https://www.gongkaoleida.com/article/2896533" target="_blank" title="重庆市烟草专卖局(公司)2026年员工招聘公告(第一批)">重庆市烟草专卖局(公司)2026年员工招聘公告(第一批)</a>
+                                </h5>
+                                <time class=" time-red ">11小时前</time>
+                            </li>
+                                                    <li>
+                                <h5>
+                                    <i class="notice-label">[重庆市]</i>
+                                    <i class="notice-label">[国企]</i>
+                                    
                                     <a href="https://www.gongkaoleida.com/article/2896102" target="_blank" title="重庆数字资源集团智算科技分公司2026年市场化招聘专业人才公告">重庆数字资源集团智算科技分公司2026年市场化招聘专业人才公告</a>
                                 </h5>
-                                <time class=" time-red ">2小时前</time>
+                                <time class=" time-red ">13小时前</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -28,7 +64,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2896056" target="_blank" title="重庆市渝中职业教育中心综合高中2026年教师招聘公告">重庆市渝中职业教育中心综合高中2026年教师招聘公告</a>
                                 </h5>
-                                <time class=" time-red ">2小时前</time>
+                                <time class=" time-red ">13小时前</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -37,16 +73,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2896050" target="_blank" title="辰致汽车科技集团有限公司招聘简章">辰致汽车科技集团有限公司招聘简章</a>
                                 </h5>
-                                <time class=" time-red ">2小时前</time>
-                            </li>
-                                                    <li>
-                                <h5>
-                                    <i class="notice-label">[重庆市]</i>
-                                    <i class="notice-label">[事业单位]</i>
-                                    
-                                    <a href="https://www.gongkaoleida.com/article/2896043" target="_blank" title="重庆飞驶特人力资源管理有限公司派往某市级部门直属事业单位招聘启事">重庆飞驶特人力资源管理有限公司派往某市级部门直属事业单位招聘启事</a>
-                                </h5>
-                                <time class=" time-red ">2小时前</time>
+                                <time class=" time-red ">13小时前</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -55,7 +82,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2896042" target="_blank" title="重庆飞驶特人力资源管理有限公司派往某国企杂志编辑驻场人员招聘启事">重庆飞驶特人力资源管理有限公司派往某国企杂志编辑驻场人员招聘启事</a>
                                 </h5>
-                                <time class=" time-red ">2小时前</time>
+                                <time class=" time-red ">13小时前</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -64,7 +91,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2895955" target="_blank" title="重庆财经职业学院2026年第二季度劳务派遣工作人员招聘简章">重庆财经职业学院2026年第二季度劳务派遣工作人员招聘简章</a>
                                 </h5>
-                                <time class=" time-red ">5小时前</time>
+                                <time class=" time-red ">16小时前</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -73,7 +100,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2895709" target="_blank" title="重庆空港人力资源管理有限公司外包项目（核算统计岗）招聘简章">重庆空港人力资源管理有限公司外包项目（核算统计岗）招聘简章</a>
                                 </h5>
-                                <time class=" time-red ">6小时前</time>
+                                <time class=" time-red ">17小时前</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -82,7 +109,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2895708" target="_blank" title="重庆市建设监理协会公开招聘工作人员的公告">重庆市建设监理协会公开招聘工作人员的公告</a>
                                 </h5>
-                                <time class=" time-red ">6小时前</time>
+                                <time class=" time-red ">17小时前</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -91,7 +118,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2895519" target="_blank" title="重庆市畜牧科学院家禽研究所招聘启事">重庆市畜牧科学院家禽研究所招聘启事</a>
                                 </h5>
-                                <time class=" time-red ">7小时前</time>
+                                <time class=" time-red ">18小时前</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -100,7 +127,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2895496" target="_blank" title="重庆市沙坪坝区教育事业单位面向2026年应届毕业教育部直属师范大学公费师范生考核招聘工作人员公告">重庆市沙坪坝区教育事业单位面向2026年应届毕业教育部直属师范大学公费师范生考核招聘工作人员公告</a>
                                 </h5>
-                                <time class=" time-red ">7小时前</time>
+                                <time class=" time-red ">18小时前</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -109,7 +136,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2894819" target="_blank" title="重庆市渝中区事业单位面向2026年应届毕业教育部直属师范大学公费师范生及订单定向培养公费医学生考核招聘工作人员公告">重庆市渝中区事业单位面向2026年应届毕业教育部直属师范大学公费师范生及订单定向培养公费医学生考核招聘工作人员公告</a>
                                 </h5>
-                                <time class=" time-red ">23小时前</time>
+                                <time class="">2026-05-13</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -118,7 +145,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2894543" target="_blank" title="重庆飞驶特人力资源管理有限公司成都分公司外派至德遂高速运营人员招聘简章">重庆飞驶特人力资源管理有限公司成都分公司外派至德遂高速运营人员招聘简章</a>
                                 </h5>
-                                <time class=" time-red ">24小时前</time>
+                                <time class="">2026-05-13</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -127,7 +154,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/2894508" target="_blank" title="重庆市教育事业单位面向2026届中西部欠发达地区优秀教师定向培养计划师范生考核招聘工作人员公告">重庆市教育事业单位面向2026届中西部欠发达地区优秀教师定向培养计划师范生考核招聘工作人员公告</a>
                                 </h5>
-                                <time class=" time-red ">24小时前</time>
+                                <time class="">2026-05-13</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -255,33 +282,6 @@
                                 </h5>
                                 <time class="">2026-05-12</time>
                             </li>
-                                                    <li>
-                                <h5>
-                                    <i class="notice-label">[九龙坡区]</i>
-                                    <i class="notice-label">[事业单位]</i>
-                                    
-                                    <a href="https://www.gongkaoleida.com/article/2891649" target="_blank" title="重庆飞驶特人力资源管理有限公司派往重庆市九龙坡区土地整治储备中心(区征收事务中心)劳务派遣人员公开招聘公告">重庆飞驶特人力资源管理有限公司派往重庆市九龙坡区土地整治储备中心(区征收事务中心)劳务派遣人员公开招聘公告</a>
-                                </h5>
-                                <time class="">2026-05-12</time>
-                            </li>
-                                                    <li>
-                                <h5>
-                                    <i class="notice-label">[沙坪坝区]</i>
-                                    <i class="notice-label">[教师]</i>
-                                    
-                                    <a href="https://www.gongkaoleida.com/article/2891592" target="_blank" title="沙坪坝区覃家岗映泉幼儿园招聘公告">沙坪坝区覃家岗映泉幼儿园招聘公告</a>
-                                </h5>
-                                <time class="">2026-05-12</time>
-                            </li>
-                                                    <li>
-                                <h5>
-                                    <i class="notice-label">[北碚区]</i>
-                                    <i class="notice-label">[国企]</i>
-                                    
-                                    <a href="https://www.gongkaoleida.com/article/2891377" target="_blank" title="重庆飞驶特人力资源管理有限公司派往重庆旅游资产管理有限公司统景景区管理分公司策划岗人员招聘启事">重庆飞驶特人力资源管理有限公司派往重庆旅游资产管理有限公司统景景区管理分公司策划岗人员招聘启事</a>
-                                </h5>
-                                <time class="">2026-05-12</time>
-                            </li>
                                             </ul>
                 </div>
                 <div class="pagelist-box">
@@ -311,7 +311,7 @@
         <title type="html"><![CDATA[undefined (重庆市国有资产监督管理委员会-国企招聘)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:21:30.318Z</updated>
+        <updated>2026-05-14T19:27:45.295Z</updated>
         <content type="html"><![CDATA[<div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
@@ -414,7 +414,7 @@
         <title type="html"><![CDATA[undefined (重庆市国资委国企招聘页面)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:21:39.614Z</updated>
+        <updated>2026-05-14T19:27:52.796Z</updated>
         <content type="html"><![CDATA[<!-- 头部start -->
     <a id="ariaTipText" role="pagedescription" aria-label="欢迎进入 重庆市国有资产监督管理委员会门户网站,盲人用户使用操作智能引导，请按快捷键Ctrl+Alt+R；阅读详细操作说明请按快捷键Ctrl+Alt+问号键。" aria-atomic="true" href="javascript:void(0)" class="skipAutoFix ariaskiptheme" style="width: 1px; height: 1px;"><img src="" style="width:1px !important;height:1px !important;position:absolute;top:0;" tabindex="-1"></a><link rel="stylesheet" href="/images/xcConfirm.css">
 <script type="text/javascript" src="/images/xcConfirm.js"></script>
@@ -531,7 +531,7 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
 </style>
     <!-- 头部end -->
     <!-- 列表start -->
-    <div class="page-list clearfix" aria-region="true" aria-labelconfig="true" aria-labelledby=".page-list.clearfix &gt; div.location" aria-regiontype="5" tabindex="0" aria-label="" aria-autolabel="true">
+    <div class="page-list clearfix" aria-region="true" aria-labelconfig="true" aria-regiontype="5" aria-labelledby=".page-list.clearfix &gt; div.location" tabindex="0" aria-label="" aria-autolabel="true">
         <div class="location">
         <span>您当前的位置：</span>
         <a href="../" title="首页">首页</a><span>&gt;</span>
@@ -648,8 +648,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
 <div class="wrap">
 <div class="drop-groups clearfix" aria-region="true" aria-labelconfig="true" aria-label="" aria-regiontype="2" tabindex="0" aria-autolabel="true">
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,国务院部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(1) &gt; ul" aria-enterownsmethod="1" aria-eschide="true" aria-expandshowmethod="click" aria-haspopup="true" setedaria="true" aria-ownsfor="[id='ariadimk3q1e1r4']" aria-sourceowns="true" id="ariaotod5jm7xwg" aria-autolabel="true">国务院部门网站</p>
-      <ul class="drop-lists" id="ariadimk3q1e1r4" aria-owns="[id='ariaotod5jm7xwg']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,国务院部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(1) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='ariad2velvzyqtc']" aria-sourceowns="true" id="ariabgz4b6h2ds0" aria-autolabel="true">国务院部门网站</p>
+      <ul class="drop-lists" id="ariad2velvzyqtc" aria-owns="[id='ariabgz4b6h2ds0']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.mfa.gov.cn/" target="_blank">外交部</a></li>
         
@@ -724,8 +724,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,地方政府网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(2) &gt; ul" aria-enterownsmethod="1" aria-eschide="true" aria-expandshowmethod="click" aria-haspopup="true" setedaria="true" aria-ownsfor="[id='ariagqbl37ddp40']" aria-sourceowns="true" id="ariae11f1v3f5nk" aria-autolabel="true">地方政府网站</p>
-      <ul class="drop-lists" id="ariagqbl37ddp40" aria-owns="[id='ariae11f1v3f5nk']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,地方政府网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(2) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='ariaj9hzchv2bsw']" aria-sourceowns="true" id="aria6mhwjk5woxs" aria-autolabel="true">地方政府网站</p>
+      <ul class="drop-lists" id="ariaj9hzchv2bsw" aria-owns="[id='aria6mhwjk5woxs']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.beijing.gov.cn/" target="_blank">北京</a></li>
         
@@ -800,8 +800,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,市政府部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(3) &gt; ul" aria-enterownsmethod="1" aria-eschide="true" aria-expandshowmethod="click" aria-haspopup="true" setedaria="true" aria-ownsfor="[id='aria1tarp3ig7s4']" aria-sourceowns="true" id="aria1aotj30syg4" aria-autolabel="true">市政府部门网站</p>
-      <ul class="drop-lists" id="aria1tarp3ig7s4" aria-owns="[id='aria1aotj30syg4']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,市政府部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(3) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='ariaj9p2kdaoh8g']" aria-sourceowns="true" id="aria4dd2ftgeiww" aria-autolabel="true">市政府部门网站</p>
+      <ul class="drop-lists" id="ariaj9p2kdaoh8g" aria-owns="[id='aria4dd2ftgeiww']" aria-autoowns="true" aria-popup="true">
        
             <li><a href="http://fzggw.cq.gov.cn/" target="_blank">市发展改革委</a></li>
         
@@ -886,8 +886,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,区（县）部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(4) &gt; ul" aria-enterownsmethod="1" aria-eschide="true" aria-expandshowmethod="click" aria-haspopup="true" setedaria="true" aria-ownsfor="[id='aria3leddt78bxg']" aria-sourceowns="true" id="ariaj6g3gfz87z4" aria-autolabel="true">区（县）政府网站</p>
-      <ul class="drop-lists" id="aria3leddt78bxg" aria-owns="[id='ariaj6g3gfz87z4']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,区（县）部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(4) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='ariackk39onqpmo']" aria-sourceowns="true" id="arianpekxi2ouo0" aria-autolabel="true">区（县）政府网站</p>
+      <ul class="drop-lists" id="ariackk39onqpmo" aria-owns="[id='arianpekxi2ouo0']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.wz.gov.cn/" target="_blank">万州区</a></li>
         
@@ -968,8 +968,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
 <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,其他网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(5) &gt; ul" aria-enterownsmethod="1" aria-eschide="true" aria-expandshowmethod="click" aria-haspopup="true" setedaria="true" aria-ownsfor="[id='aria4quox4093dw']" aria-sourceowns="true" id="ariaerq16odalpc" aria-autolabel="true">市属重点国有企业网站</p>
-      <ul class="drop-lists" id="aria4quox4093dw" aria-owns="[id='ariaerq16odalpc']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,其他网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(5) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='ariagp51rzfhk5c']" aria-sourceowns="true" id="ariao5gd95xc5ds" aria-autolabel="true">市属重点国有企业网站</p>
+      <ul class="drop-lists" id="ariagp51rzfhk5c" aria-owns="[id='ariao5gd95xc5ds']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.cqa.cn" target="_blank">重庆机场集团</a></li>
         
@@ -1370,8 +1370,8 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
         <title type="html"><![CDATA[undefined (金标尺重庆教师工作相关页面)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:06.807Z</updated>
-        <content type="html"><![CDATA[<div id="div_company_mini" style="line-height: 0; font-size: 0px; display: none; position: fixed; right: 0px; bottom: 0px; width: 360px; height: 460px; z-index: 1000000; cursor: move; overflow: visible;"><div class="mini-btn mini-btn1" id="mini-btn" onclick="show_floatWindow();" style="width:auto;white-space:nowrap;cursor:pointer;display:none;position:absolute;right:0; bottom:0;z-index:-1;height: 42px;border-radius:4px; overflow: hidden; background: rgb(31, 140, 235);-webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, .06), 0 2px 32px rgba(0, 0, 0, .16)!important;box-shadow: 0 1px 6px rgba(0, 0, 0, .06), 0 2px 32px rgba(0, 0, 0, .16)!important;"><div class="mini-btn-info" style="position: relative;width: 42px;height: 42px;display:inline-block;"><span style="width:100%;height:100%;position:absolute;left:0;top:0;z-index:1;background: center center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/png/img-info24.png);background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/img-info24.svg), none;"></span><span style="width:100%;height:100%;position:absolute;left:0;top:0;background:#000;opacity:0.2;filter:alpha(opacity=20);"></span><span id="info-num" style="display:none;position: absolute;top: 5px;right: 5px;z-index:10;height: 14px;min-width: 14px;line-height: 14px;border-radius: 7px;background: red;font-size: 12px;color: #FFFFFF;letter-spacing: 0.47px;text-align: center;">0</span></div><div class="mini-btn-middle" style="width:auto;font-weight:normal;display:inline-block;vertical-align:top;line-height: 42px;padding: 0 8px;font-size: 16px;color: #FFFFFF;letter-spacing: 0.83px;word-break: break-all;text-align: center;">和我们在线交谈!</div><div class="mini-btn-window" style="display:inline-block;width: 42px;height: 42px;background: center center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/png/to-maxWindow.png);background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/to-maxWindow.svg), none;"></div></div><div id="iframe_company_mini_div" style="font-size: 0;background-color:#fff;border-radius:6px;overflow:hidden;width:100%;height:460px;box-shadow:0 5px 40px rgba(0,0,0,.16)!important;-webkit-box-shadow:0 5px 40px rgba(0,0,0,.16)!important;"><h6 class="pc-visitor-header" style="width:100%;box-sizing:border-box;background: rgb(31, 140, 235) no-repeat 10px;margin:0;padding:0;padding-left: 10px;font-size: 14px;color: #fff;line-height: 36px;position: relative;font-weight: normal;padding-right: 72px;height:36px;"><div style="float: left;height: 100%;box-sizing: border-box;padding: 6px 0;"><img onclick="show_about_box()" style="max-width: 80px;width:auto;height:100%;border-radius:2px;vertical-align:baseline;cursor:pointer" src="https://s3v2.53kf.com/kfxt/2023/08/image/72366151_setting_1690879271_64c8c527afa3f.jpg"></div><div style="float: left;max-width: 78%;overflow: hidden;margin-left: 5px;"><label style="width:100%;background: none; padding: 0; margin: 0; border: 0; line-height:36px;cursor:move;font-weight:normal;cursor:move;color: #fff;display: block;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;font-size: 14px;" class="header-company">金标尺教育</label></div><span onclick="max_from_company_mini(this);" title="最大化" class="pc-new pc-title-btn" style="background: url(https://www7c2.53kf.com/style/chat/new2017/image/png/newWindow.png) center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/newWindow.svg),none;position: absolute;width: 36px;height: 36px;cursor: pointer;right: 40px;top: 0;fill: #F08000;"></span><span onclick="hide_floatWindow();" title="最小化" class="kf-pc-hide pc-title-btn" style="background: url(https://www7c2.53kf.com/style/chat/new2017/image/png/close2020.png) center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/close2020.svg),none;position: absolute;width: 36px;height: 36px;cursor: pointer;right: 0px;top: 0;"></span></h6><iframe id="iframe_company_mini" frameborder="0" style="height:424px;width:100%;margin:0;padding:0;visibility: inherit;opacity:1;position:inherit;"></iframe></div></div><div id="kfivtwin" style="display: none; overflow: visible;"><div id="inv_box_53kf" style="width: 380px; padding-top: 10px; padding-left: 10px; box-sizing: border-box; position: fixed; left:812px; top:74px;display: block;z-index:999998;"><div style="position:absolute;left:0;top:0;width:20px;height:20px;cursor:pointer;z-index:5;" onclick="inv.clos()"><img style="width:100%;height:100%;" src="https://www7c2.53kf.com/style/setting/ver07/img/style_mobile_invite/close_2x.png"></div><div class="inv_bg_color" style="width:100%;min-height: 250px;box-sizing: border-box;overflow:hidden;background:#ffffff; border:1px solid #eee; box-shadow:rgba(74, 144, 226, 0.4) 0px 0px 10px 0px;border-radius: 2px;position: relative;"><div style="position: absolute;top: 0;bottom: 0;left: 0; width: 128px;"><div class="img_bg" style="width: 128px;height: 250px; position: absolute;left: 50%;top: 50%;margin:-125px 0 0 -64px; background:url(https://www2c1.53kf.com/style/setting/ver07/img/style_setting_ivt/Group_5_2x.png);background-size: 100% 100%; "></div></div><div id="lr_con_53kf" style="width: 240px; padding:24px 12px; position:absolute; right:0px; top:50%; overflow: hidden;box-sizing: border-box;"><div class="inv_title" style="font-size:22px;text-align:center;float:left;width:100%;line-height:32px;margin-bottom:8px;letter-spacing:1px;box-sizing:border-box;color:#0f0e0e;">欢迎咨询</div><div class="inv_content" style="font-size: 14px; line-height: 20px;  text-align: left; max-height: 60px; overflow: auto; float: left; width: 100%; margin-bottom: 16px; word-wrap: break-word; color: #f00511;">事业单位、教师公招、公务员火热开班中，点击免费预约试听~</div><div class="talk_btn" style="float:left;width:100%;border-radius:2px;height:44px;line-height:44px;letter-spacing: 0.83px;font-size:16px;text-align:center;cursor:pointer;color:#FFFFFF;background:#118bf5;" onclick="inv.talk()">点击咨询</div></div></div></div></div>
+        <updated>2026-05-14T19:28:44.491Z</updated>
+        <content type="html"><![CDATA[<div id="div_company_mini" style="line-height: 0; font-size: 0px; display: none; position: fixed; right: 0px; bottom: 0px; width: 360px; height: 460px; z-index: 1000000; cursor: move; overflow: visible;"><div class="mini-btn mini-btn1" id="mini-btn" onclick="show_floatWindow();" style="width:auto;white-space:nowrap;cursor:pointer;display:none;position:absolute;right:0; bottom:0;z-index:-1;height: 42px;border-radius:4px; overflow: hidden; background: rgb(31, 140, 235);-webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, .06), 0 2px 32px rgba(0, 0, 0, .16)!important;box-shadow: 0 1px 6px rgba(0, 0, 0, .06), 0 2px 32px rgba(0, 0, 0, .16)!important;"><div class="mini-btn-info" style="position: relative;width: 42px;height: 42px;display:inline-block;"><span style="width:100%;height:100%;position:absolute;left:0;top:0;z-index:1;background: center center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/png/img-email24.png);background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/img-email24.svg), none;"></span><span style="width:100%;height:100%;position:absolute;left:0;top:0;background:#000;opacity:0.2;filter:alpha(opacity=20);"></span><span id="info-num" style="display:none;position: absolute;top: 5px;right: 5px;z-index:10;height: 14px;min-width: 14px;line-height: 14px;border-radius: 7px;background: red;font-size: 12px;color: #FFFFFF;letter-spacing: 0.47px;text-align: center;">0</span></div><div class="mini-btn-middle" style="width:auto;font-weight:normal;display:inline-block;vertical-align:top;line-height: 42px;padding: 0 8px;font-size: 16px;color: #FFFFFF;letter-spacing: 0.83px;word-break: break-all;text-align: center;">给我们留言吧!</div><div class="mini-btn-window" style="display:inline-block;width: 42px;height: 42px;background: center center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/png/to-maxWindow.png);background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/to-maxWindow.svg), none;"></div></div><div id="iframe_company_mini_div" style="font-size: 0;background-color:#fff;border-radius:6px;overflow:hidden;width:100%;height:460px;box-shadow:0 5px 40px rgba(0,0,0,.16)!important;-webkit-box-shadow:0 5px 40px rgba(0,0,0,.16)!important;"><h6 class="pc-visitor-header" style="width:100%;box-sizing:border-box;background: rgb(31, 140, 235) no-repeat 10px;margin:0;padding:0;padding-left: 10px;font-size: 14px;color: #fff;line-height: 36px;position: relative;font-weight: normal;padding-right: 72px;height:36px;"><div style="float: left;height: 100%;box-sizing: border-box;padding: 6px 0;"><img onclick="show_about_box()" style="max-width: 80px;width:auto;height:100%;border-radius:2px;vertical-align:baseline;cursor:pointer" src="https://s3v2.53kf.com/kfxt/2023/08/image/72366151_setting_1690879271_64c8c527afa3f.jpg"></div><div style="float: left;max-width: 78%;overflow: hidden;margin-left: 5px;"><label style="width:100%;background: none; padding: 0; margin: 0; border: 0; line-height:36px;cursor:move;font-weight:normal;cursor:move;color: #fff;display: block;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;font-size: 14px;" class="header-company">金标尺教育</label></div><span onclick="max_from_company_mini(this);" title="最大化" class="pc-new pc-title-btn" style="background: url(https://www7c2.53kf.com/style/chat/new2017/image/png/newWindow.png) center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/newWindow.svg),none;position: absolute;width: 36px;height: 36px;cursor: pointer;right: 40px;top: 0;fill: #F08000;"></span><span onclick="hide_floatWindow();" title="最小化" class="kf-pc-hide pc-title-btn" style="background: url(https://www7c2.53kf.com/style/chat/new2017/image/png/close2020.png) center no-repeat;background-image: url(https://www7c2.53kf.com/style/chat/new2017/image/svg/close2020.svg),none;position: absolute;width: 36px;height: 36px;cursor: pointer;right: 0px;top: 0;"></span></h6><iframe id="iframe_company_mini" frameborder="0" style="height:424px;width:100%;margin:0;padding:0;visibility: inherit;opacity:1;position:inherit;"></iframe></div></div><div id="kfivtwin" style="display: none; overflow: visible;"><div id="inv_box_53kf" style="width: 380px; padding-top: 10px; padding-left: 10px; box-sizing: border-box; position: fixed; left:812px; top:74px;display: block;z-index:999998;"><div style="position:absolute;left:0;top:0;width:20px;height:20px;cursor:pointer;z-index:5;" onclick="inv.clos()"><img style="width:100%;height:100%;" src="https://www7c2.53kf.com/style/setting/ver07/img/style_mobile_invite/close_2x.png"></div><div class="inv_bg_color" style="width:100%;min-height: 250px;box-sizing: border-box;overflow:hidden;background:#ffffff; border:1px solid #eee; box-shadow:rgba(74, 144, 226, 0.4) 0px 0px 10px 0px;border-radius: 2px;position: relative;"><div style="position: absolute;top: 0;bottom: 0;left: 0; width: 128px;"><div class="img_bg" style="width: 128px;height: 250px; position: absolute;left: 50%;top: 50%;margin:-125px 0 0 -64px; background:url(https://www2c1.53kf.com/style/setting/ver07/img/style_setting_ivt/Group_5_2x.png);background-size: 100% 100%; "></div></div><div id="lr_con_53kf" style="width: 240px; padding:24px 12px; position:absolute; right:0px; top:50%; overflow: hidden;box-sizing: border-box;"><div class="inv_title" style="font-size:22px;text-align:center;float:left;width:100%;line-height:32px;margin-bottom:8px;letter-spacing:1px;box-sizing:border-box;color:#0f0e0e;">欢迎咨询</div><div class="inv_content" style="font-size: 14px; line-height: 20px;  text-align: left; max-height: 60px; overflow: auto; float: left; width: 100%; margin-bottom: 16px; word-wrap: break-word; color: #f00511;">事业单位、教师公招、公务员火热开班中，点击免费预约试听~</div><div class="talk_btn" style="float:left;width:100%;border-radius:2px;height:44px;line-height:44px;letter-spacing: 0.83px;font-size:16px;text-align:center;cursor:pointer;color:#FFFFFF;background:#118bf5;" onclick="inv.talk()">点击咨询</div></div></div></div></div>
 <div class="detpagapp newadd_feng detpagapplist">
     <!-- 顶部导航栏 -->
     <header>
@@ -3930,350 +3930,350 @@ function createPage(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.366Z</updated>
+        <updated>2026-05-14T19:28:50.825Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/155298" rel="noopener" target="_blank">《小泉八云〈怪谈·奇谭〉书评（1）》</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.366Z</updated>
+        <updated>2026-05-14T19:28:50.825Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/155196" rel="noopener" target="_blank">【读书记1669】斯坦尼斯拉斯·迪昂《脑与阅读：破解人类阅读之谜》</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.366Z</updated>
+        <updated>2026-05-14T19:28:50.826Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/154795" rel="noopener" target="_blank">我的 RSS 与独立博客阅读史</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.366Z</updated>
+        <updated>2026-05-14T19:28:50.826Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/154636" rel="noopener" target="_blank">2026.05.03 博客阅读周记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.366Z</updated>
+        <updated>2026-05-14T19:28:50.826Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/155077" rel="noopener" target="_blank">2026年4月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.366Z</updated>
+        <updated>2026-05-14T19:28:50.827Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/154434" rel="noopener" target="_blank">阅读《认知觉醒》，关联到博客。</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.367Z</updated>
+        <updated>2026-05-14T19:28:50.828Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/154007" rel="noopener" target="_blank">阅读，是我度过迷茫的方式</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.367Z</updated>
+        <updated>2026-05-14T19:28:50.829Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/153923" rel="noopener" target="_blank">2026.04.26 博客阅读周记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.367Z</updated>
+        <updated>2026-05-14T19:28:50.830Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/153867" rel="noopener" target="_blank">《一句顶一万句》阅读笔记 ：1</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.367Z</updated>
+        <updated>2026-05-14T19:28:50.832Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/153869" rel="noopener" target="_blank">重新阅读</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.368Z</updated>
+        <updated>2026-05-14T19:28:50.833Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/153866" rel="noopener" target="_blank">为了给自己写一个读书卡片，然后改版了整个个人网站</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.369Z</updated>
+        <updated>2026-05-14T19:28:50.834Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/153756" rel="noopener" target="_blank">世界读书日,微信读书赠免费书币</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.369Z</updated>
+        <updated>2026-05-14T19:28:50.836Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/153144" rel="noopener" target="_blank">2026.04.19 博客阅读周记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.370Z</updated>
+        <updated>2026-05-14T19:28:50.837Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/152762" rel="noopener" target="_blank">Google SRE Book 读书笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.372Z</updated>
+        <updated>2026-05-14T19:28:50.838Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/152469" rel="noopener" target="_blank">2026.04.12 博客阅读周记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.373Z</updated>
+        <updated>2026-05-14T19:28:50.839Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/154676" rel="noopener" target="_blank">（阅读笔记）VLM架构与预训练策略</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.374Z</updated>
+        <updated>2026-05-14T19:28:50.841Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/152152" rel="noopener" target="_blank">坐高铁读书是发达，我先前比他们阔</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.376Z</updated>
+        <updated>2026-05-14T19:28:50.842Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/151981" rel="noopener" target="_blank">2026年3月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.379Z</updated>
+        <updated>2026-05-14T19:28:50.843Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/151316" rel="noopener" target="_blank">阅读文学如何帮我欣赏摇滚乐？</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.379Z</updated>
+        <updated>2026-05-14T19:28:50.844Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/151333" rel="noopener" target="_blank">读书笔记（大四下）</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.380Z</updated>
+        <updated>2026-05-14T19:28:50.846Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/150756" rel="noopener" target="_blank">2026.03.22 博客阅读周记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.381Z</updated>
+        <updated>2026-05-14T19:28:50.847Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/150729" rel="noopener" target="_blank">在 Emacs 中用 Elfeed 阅读订阅流</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.382Z</updated>
+        <updated>2026-05-14T19:28:50.848Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/150332" rel="noopener" target="_blank">2036.03.15 博客阅读周记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.383Z</updated>
+        <updated>2026-05-14T19:28:50.849Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/156040" rel="noopener" target="_blank">《深度学习》读书心得：AI 的基石</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.385Z</updated>
+        <updated>2026-05-14T19:28:50.851Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/147855" rel="noopener" target="_blank">2026年2月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.386Z</updated>
+        <updated>2026-05-14T19:28:50.852Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/147763" rel="noopener" target="_blank">2025 读书总结</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.387Z</updated>
+        <updated>2026-05-14T19:28:50.853Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/149303" rel="noopener" target="_blank">努力就能成功吗？结合《随机漫步的傻瓜》谈谈幸存者偏差与概率思维 (读书笔记)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.389Z</updated>
+        <updated>2026-05-14T19:28:50.855Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/147654" rel="noopener" target="_blank">2026.03.01 博客阅读周记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.390Z</updated>
+        <updated>2026-05-14T19:28:50.856Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/149304" rel="noopener" target="_blank">《鞋狗》菲尔·奈特读书笔记：在随机漫步中寻找成功的确定性</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.391Z</updated>
+        <updated>2026-05-14T19:28:50.857Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/147100" rel="noopener" target="_blank">读书笔记：图解大模型——生成式AI原理与实战</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.392Z</updated>
+        <updated>2026-05-14T19:28:50.858Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/149305" rel="noopener" target="_blank">读书心得 | 结合《思考，快与慢》与《随机漫步的傻瓜》谈成功的概率</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.394Z</updated>
+        <updated>2026-05-14T19:28:50.860Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/146944" rel="noopener" target="_blank">【书评】读《台风眼》：被唤醒的旧时光</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.395Z</updated>
+        <updated>2026-05-14T19:28:50.861Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/146970" rel="noopener" target="_blank">【阅读笔记】沙尘图像基于绿色通道色偏校正Sand-Dust Image Enhancement Using Successive Color Balance With Coincident Chromatic Histogram</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.396Z</updated>
+        <updated>2026-05-14T19:28:50.862Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/146908" rel="noopener" target="_blank">2026.02.22 博客阅读周记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.398Z</updated>
+        <updated>2026-05-14T19:28:50.864Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/147785" rel="noopener" target="_blank">2026年妇女节赠书活动第五年啦，合伙人征集～</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.400Z</updated>
+        <updated>2026-05-14T19:28:50.866Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/150947" rel="noopener" target="_blank">2026年妇女节赠书活动第五年啦，合伙人征集～</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.401Z</updated>
+        <updated>2026-05-14T19:28:50.867Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/146910" rel="noopener" target="_blank">【阅读笔记】沙尘图像蓝色通道校正A Fast Sand-Dust Image Enhancement Algorithm by Blue Channel Compensation and Guided Image Filtering</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.402Z</updated>
+        <updated>2026-05-14T19:28:50.868Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/146872" rel="noopener" target="_blank">【阅读笔记】沙尘图像颜色校正A fusion-based enhancing approach for single sandstorm image</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.403Z</updated>
+        <updated>2026-05-14T19:28:50.869Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/146767" rel="noopener" target="_blank">《金刚金》阅读笔记：一</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.405Z</updated>
+        <updated>2026-05-14T19:28:50.871Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/146482" rel="noopener" target="_blank">用 AI 辅助读书</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.406Z</updated>
+        <updated>2026-05-14T19:28:50.872Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/146536" rel="noopener" target="_blank">【阅读笔记】基于暗通道的红外图像增强Infrared traffic image enhancement algorithm based on dark channel prior and gamma correction</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.407Z</updated>
+        <updated>2026-05-14T19:28:50.873Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/146392" rel="noopener" target="_blank">【阅读笔记】基于规则的清晰度评价值峰值搜索Development and real-time implementation of a rule-based auto-focus algorithm</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.408Z</updated>
+        <updated>2026-05-14T19:28:50.874Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/146386" rel="noopener" target="_blank">2026.02.15 博客阅读周记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.410Z</updated>
+        <updated>2026-05-14T19:28:50.876Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/146340" rel="noopener" target="_blank">【阅读笔记】聚焦区域自动化检测Fully Digital Auto-Focusing System with Automatic Focusing Region Selection and Point Spread Function Estimation</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.411Z</updated>
+        <updated>2026-05-14T19:28:50.877Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/145862" rel="noopener" target="_blank">【阅读笔记】峰值搜索方案Evaluation of Sharpness Measures and Search Algorithms for the Auto-Focusing of High Magnification Images</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.412Z</updated>
+        <updated>2026-05-14T19:28:50.878Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/145846" rel="noopener" target="_blank">2026年1月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.413Z</updated>
+        <updated>2026-05-14T19:28:50.879Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/145863" rel="noopener" target="_blank">【阅读笔记】自动聚焦清晰度评价Evaluation of Sharpness Measures and Search Algorithms for the Auto-Focusing of High Magnification Images</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.414Z</updated>
+        <updated>2026-05-14T19:28:50.881Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/145571" rel="noopener" target="_blank">如何准确地给阅读计数器『注水』</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.416Z</updated>
+        <updated>2026-05-14T19:28:50.882Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/145183" rel="noopener" target="_blank">【阅读笔记】无背景的阴影校正-Simple Shading Correction Method for Brightfield Whole Slide Imaging</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (读书博客)]]></title>
         <id>https://xudadi.github.io/feeds/all.xml</id>
         <link href="https://xudadi.github.io/feeds/all.xml"/>
-        <updated>2026-05-14T08:22:14.417Z</updated>
+        <updated>2026-05-14T19:28:50.883Z</updated>
         <content type="html"><![CDATA[<a href="/go/p/145048" rel="noopener" target="_blank">2026.02.01 博客阅读周记</a>]]></content>
     </entry>
 </feed>
