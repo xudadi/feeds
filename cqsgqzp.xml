@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://gzw.cq.gov.cn/gqzp/</id>
     <title>重庆市国资委国企招聘页面</title>
-    <updated>2026-05-20T19:41:36.439Z</updated>
+    <updated>2026-05-21T09:04:18.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://gzw.cq.gov.cn/gqzp/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>http://gzw.cq.gov.cn/gqzp/</id>
         <link href="http://gzw.cq.gov.cn/gqzp/"/>
-        <updated>2026-05-20T19:40:45.073Z</updated>
+        <updated>2026-05-21T09:03:40.509Z</updated>
         <content type="html"><![CDATA[<!-- 头部start -->
     <a id="ariaTipText" role="pagedescription" aria-label="欢迎进入 重庆市国有资产监督管理委员会门户网站,盲人用户使用操作智能引导，请按快捷键Ctrl+Alt+R；阅读详细操作说明请按快捷键Ctrl+Alt+问号键。" aria-atomic="true" href="javascript:void(0)" class="skipAutoFix ariaskiptheme" style="width: 1px; height: 1px;"><img src="" style="width:1px !important;height:1px !important;position:absolute;top:0;" tabindex="-1"></a><link rel="stylesheet" href="/images/xcConfirm.css">
 <script type="text/javascript" src="/images/xcConfirm.js"></script>
@@ -243,8 +243,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
 <div class="wrap">
 <div class="drop-groups clearfix" aria-region="true" aria-labelconfig="true" aria-label="" aria-regiontype="2" tabindex="0" aria-autolabel="true">
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,国务院部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(1) &gt; ul" aria-eschide="true" aria-expandshowmethod="click" aria-enterownsmethod="1" setedaria="true" aria-ownsfor="[id='ariap19b2x2b6f4']" aria-sourceowns="true" id="ariajf0hh6le7nc" aria-autolabel="true">国务院部门网站</p>
-      <ul class="drop-lists" id="ariap19b2x2b6f4" aria-owns="[id='ariajf0hh6le7nc']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,国务院部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(1) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='aria7chpf2swu3s']" aria-sourceowns="true" id="ariapie33wlivds" aria-autolabel="true">国务院部门网站</p>
+      <ul class="drop-lists" id="aria7chpf2swu3s" aria-owns="[id='ariapie33wlivds']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.mfa.gov.cn/" target="_blank">外交部</a></li>
         
@@ -319,8 +319,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,地方政府网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(2) &gt; ul" aria-eschide="true" aria-expandshowmethod="click" aria-enterownsmethod="1" setedaria="true" aria-ownsfor="[id='ariafniz0g62ed4']" aria-sourceowns="true" id="ariai4can8skg8o" aria-autolabel="true">地方政府网站</p>
-      <ul class="drop-lists" id="ariafniz0g62ed4" aria-owns="[id='ariai4can8skg8o']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,地方政府网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(2) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='ariaev9n4o7yb8o']" aria-sourceowns="true" id="ariajw1pw8estwg" aria-autolabel="true">地方政府网站</p>
+      <ul class="drop-lists" id="ariaev9n4o7yb8o" aria-owns="[id='ariajw1pw8estwg']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.beijing.gov.cn/" target="_blank">北京</a></li>
         
@@ -395,8 +395,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,市政府部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(3) &gt; ul" aria-eschide="true" aria-expandshowmethod="click" aria-enterownsmethod="1" setedaria="true" aria-ownsfor="[id='ariaiotle1wk56g']" aria-sourceowns="true" id="ariac2jerj21kc8" aria-autolabel="true">市政府部门网站</p>
-      <ul class="drop-lists" id="ariaiotle1wk56g" aria-owns="[id='ariac2jerj21kc8']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,市政府部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(3) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='ariahp9yeywoh2g']" aria-sourceowns="true" id="ariag9dwae41ppk" aria-autolabel="true">市政府部门网站</p>
+      <ul class="drop-lists" id="ariahp9yeywoh2g" aria-owns="[id='ariag9dwae41ppk']" aria-autoowns="true" aria-popup="true">
        
             <li><a href="http://fzggw.cq.gov.cn/" target="_blank">市发展改革委</a></li>
         
@@ -481,8 +481,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
     <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,区（县）部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(4) &gt; ul" aria-eschide="true" aria-expandshowmethod="click" aria-enterownsmethod="1" setedaria="true" aria-ownsfor="[id='ariajdjbc4ua2wo']" aria-sourceowns="true" id="aria9cylwdmnsqg" aria-autolabel="true">区（县）政府网站</p>
-      <ul class="drop-lists" id="ariajdjbc4ua2wo" aria-owns="[id='aria9cylwdmnsqg']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,区（县）部门网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(4) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='ariack2d89ghk6g']" aria-sourceowns="true" id="aria6b69h43t8q0" aria-autolabel="true">区（县）政府网站</p>
+      <ul class="drop-lists" id="ariack2d89ghk6g" aria-owns="[id='aria6b69h43t8q0']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.wz.gov.cn/" target="_blank">万州区</a></li>
         
@@ -563,8 +563,8 @@ window.location.href=  "/cqs/searchResultPC.html?tenantId=80&configTenantId=80&a
       </ul>
     </div>
 <div class="drop-down lf">
-      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,其他网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(5) &gt; ul" aria-eschide="true" aria-expandshowmethod="click" aria-enterownsmethod="1" setedaria="true" aria-ownsfor="[id='ariaqzyelds7cjk']" aria-sourceowns="true" id="ariacioqp4mhxrs" aria-autolabel="true">市属重点国有企业网站</p>
-      <ul class="drop-lists" id="ariaqzyelds7cjk" aria-owns="[id='ariacioqp4mhxrs']" aria-autoowns="true" aria-popup="true">
+      <p class="tag" tabindex="0" role="tab" aria-labelconfig="true" aria-label="tab标签,其他网站,当前有浮动窗口，按ctrl+下键进入窗口,按tab键在浮动层中遍历信息,按esc键返回" aria-haspopup="true" aria-owns=".footer &gt; div &gt; div.drop-groups.clearfix &gt; div:nth-child(5) &gt; ul" aria-expandshowmethod="click" aria-enterownsmethod="1" aria-eschide="true" setedaria="true" aria-ownsfor="[id='aria7a4msllj0x4']" aria-sourceowns="true" id="ariankdsuzwa89s" aria-autolabel="true">市属重点国有企业网站</p>
+      <ul class="drop-lists" id="aria7a4msllj0x4" aria-owns="[id='ariankdsuzwa89s']" aria-autoowns="true" aria-popup="true">
         
             <li><a href="http://www.cqa.cn" target="_blank">重庆机场集团</a></li>
         
