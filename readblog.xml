@@ -2,357 +2,357 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bf.zzxworld.com/t/read</id>
     <title>读书博客</title>
-    <updated>2026-06-08T19:51:48.055Z</updated>
+    <updated>2026-06-09T09:01:21.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bf.zzxworld.com/images/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.245Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/159403" rel="noopener" target="_blank">CatReader 上线：重启 RSS 阅读</a>]]></content>
+        <updated>2026-06-09T09:01:20.225Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/146085" rel="noopener" target="_blank">如何在Obsidian中使用dataview插件实现书籍画廊和卡片效果？</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.245Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/158782" rel="noopener" target="_blank">2018-2026微信读书阅读笔记总结</a>]]></content>
+        <updated>2026-06-09T09:01:20.225Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/150968" rel="noopener" target="_blank">如何在Obsidian中使用dataview插件实现书籍画廊和卡片效果？</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.246Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/158760" rel="noopener" target="_blank">在博客里展示微信读书的阅读信息</a>]]></content>
+        <updated>2026-06-09T09:01:20.225Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/126329" rel="noopener" target="_blank">《关于性，我们想得太少》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.249Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/158783" rel="noopener" target="_blank">2018-2026微信读书阅读记录</a>]]></content>
+        <updated>2026-06-09T09:01:20.225Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/126109" rel="noopener" target="_blank">《做自己的保险规划师：明明白白买保险》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.250Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/158718" rel="noopener" target="_blank">阅读</a>]]></content>
+        <updated>2026-06-09T09:01:20.225Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/129797" rel="noopener" target="_blank">《原则》读书笔记：如何将瑞·达利欧的智慧应用到日常</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.250Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/158672" rel="noopener" target="_blank">2026.05.31 博客阅读周记</a>]]></content>
+        <updated>2026-06-09T09:01:20.225Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/125806" rel="noopener" target="_blank">《4小时明白保险》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.253Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/158308" rel="noopener" target="_blank">第一性原理读书笔记</a>]]></content>
+        <updated>2026-06-09T09:01:20.228Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/125755" rel="noopener" target="_blank">《持续买入》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.254Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/157949" rel="noopener" target="_blank">《币安人生》读后书摘</a>]]></content>
+        <updated>2026-06-09T09:01:20.229Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/125626" rel="noopener" target="_blank">因为买不起Typecho付费阅读插件，于是就基于支付宝自己写了一个PayIT插件</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.255Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/157780" rel="noopener" target="_blank">对个人来说，没有不必读书单</a>]]></content>
+        <updated>2026-06-09T09:01:20.231Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/125403" rel="noopener" target="_blank">2025年8款沉浸式翻译平替工具：助你轻松阅读网页</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.256Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/156710" rel="noopener" target="_blank">书架495本、笔记11317条——我让AI翻了一遍我9年的阅读数据</a>]]></content>
+        <updated>2026-06-09T09:01:20.232Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/124710" rel="noopener" target="_blank">2025年7月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.258Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/156680" rel="noopener" target="_blank">《斯坦福大学人生设计课》读书笔记</a>]]></content>
+        <updated>2026-06-09T09:01:20.233Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/124608" rel="noopener" target="_blank">PDF 电子书重排和裁剪</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[11]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.259Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/156598" rel="noopener" target="_blank">把微信读书接入 ChatGPT</a>]]></content>
+        <updated>2026-06-09T09:01:20.234Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/124730" rel="noopener" target="_blank">《不正经问答》现已设为私密【请在博客阅读全文】</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[12]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.260Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/156595" rel="noopener" target="_blank">2026.05.17 博客阅读周记</a>]]></content>
+        <updated>2026-06-09T09:01:20.235Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/154064" rel="noopener" target="_blank">《智人之上: 从石器时代到 AI 时代的信息网络简史》阅读笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[13]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.261Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/156533" rel="noopener" target="_blank">微信读书Skill + IMA Copilot教程</a>]]></content>
+        <updated>2026-06-09T09:01:20.236Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/123438" rel="noopener" target="_blank">九月前得加油读书</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[14]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.263Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/156052" rel="noopener" target="_blank">读书｜给孩子的信是法拉奇给世界的情书</a>]]></content>
+        <updated>2026-06-09T09:01:20.238Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/123123" rel="noopener" target="_blank">【乡下父母的人生课】10：我们可以不上学，但不能不读书</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[15]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.264Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/155298" rel="noopener" target="_blank">《小泉八云〈怪谈·奇谭〉书评（1）》</a>]]></content>
+        <updated>2026-06-09T09:01:20.239Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/122932" rel="noopener" target="_blank">【读书记1573】费迪曼《一生的读书计划》</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[16]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.266Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/155196" rel="noopener" target="_blank">【读书记1669】斯坦尼斯拉斯·迪昂《脑与阅读：破解人类阅读之谜》</a>]]></content>
+        <updated>2026-06-09T09:01:20.240Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/122551" rel="noopener" target="_blank">Gemini 2.5 Pro 是怎么炼成的？-- gemini 2.5 技术报告阅读笔记与思考</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[17]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.267Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/156286" rel="noopener" target="_blank">从 1900 年开始按年阅读 Hacker News 的文章</a>]]></content>
+        <updated>2026-06-09T09:01:20.241Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/141354" rel="noopener" target="_blank">《营养学》读书笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[18]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.268Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/154795" rel="noopener" target="_blank">我的 RSS 与独立博客阅读史</a>]]></content>
+        <updated>2026-06-09T09:01:20.242Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/122501" rel="noopener" target="_blank">读书：《Free as in Freedom》——若为自由故</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[19]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.269Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/154636" rel="noopener" target="_blank">2026.05.03 博客阅读周记</a>]]></content>
+        <updated>2026-06-09T09:01:20.243Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/122452" rel="noopener" target="_blank">【儿女记】女儿的暑假阅读书单</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[20]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.271Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/155077" rel="noopener" target="_blank">2026年4月阅读书摘</a>]]></content>
+        <updated>2026-06-09T09:01:20.245Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/144078" rel="noopener" target="_blank">100本必读书籍</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[21]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.272Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/158164" rel="noopener" target="_blank">「阅读」生态全览</a>]]></content>
+        <updated>2026-06-09T09:01:20.246Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/144305" rel="noopener" target="_blank">2025-07-07100本必读书籍</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[22]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.273Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/154434" rel="noopener" target="_blank">阅读《认知觉醒》，关联到博客。</a>]]></content>
+        <updated>2026-06-09T09:01:20.247Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/137296" rel="noopener" target="_blank">自由不止软件-记录一次zlib上传书籍</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[23]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.274Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/154007" rel="noopener" target="_blank">阅读，是我度过迷茫的方式</a>]]></content>
+        <updated>2026-06-09T09:01:20.249Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/122017" rel="noopener" target="_blank">【居家随记】四：不读书的人在教书</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[24]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.276Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/153923" rel="noopener" target="_blank">2026.04.26 博客阅读周记</a>]]></content>
+        <updated>2026-06-09T09:01:20.250Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/122475" rel="noopener" target="_blank">2025年6月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[25]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.277Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/153867" rel="noopener" target="_blank">《一句顶一万句》阅读笔记 ：1</a>]]></content>
+        <updated>2026-06-09T09:01:20.251Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/121793" rel="noopener" target="_blank">【阅读笔记】基于双边滤波改进的空域滤波算法</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[26]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.278Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/153869" rel="noopener" target="_blank">重新阅读</a>]]></content>
+        <updated>2026-06-09T09:01:20.252Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/123370" rel="noopener" target="_blank">Rainman 的 AI 精读书单</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[27]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.279Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/153866" rel="noopener" target="_blank">为了给自己写一个读书卡片，然后改版了整个个人网站</a>]]></content>
+        <updated>2026-06-09T09:01:20.253Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/121595" rel="noopener" target="_blank">为什么很多人看书，脑子越看越浆糊</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[28]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.281Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/153756" rel="noopener" target="_blank">世界读书日,微信读书赠免费书币</a>]]></content>
+        <updated>2026-06-09T09:01:20.254Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/124839" rel="noopener" target="_blank">读书｜母女之间：阿克曼、波伏瓦、费兰特，她们这样书写母亲</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[29]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.282Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/153144" rel="noopener" target="_blank">2026.04.19 博客阅读周记</a>]]></content>
+        <updated>2026-06-09T09:01:20.256Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/125163" rel="noopener" target="_blank">读书｜母女之间：阿克曼、波伏瓦、费兰特，她们这样书写母亲</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[30]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.283Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/152762" rel="noopener" target="_blank">Google SRE Book 读书笔记</a>]]></content>
+        <updated>2026-06-09T09:01:20.257Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/126587" rel="noopener" target="_blank">读书｜母女之间：阿克曼、波伏瓦、费兰特，她们这样书写母亲</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[31]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.285Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/152469" rel="noopener" target="_blank">2026.04.12 博客阅读周记</a>]]></content>
+        <updated>2026-06-09T09:01:20.258Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/121064" rel="noopener" target="_blank">命运与坚守—《褚时健传》读书笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[32]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.286Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/154676" rel="noopener" target="_blank">（阅读笔记）VLM架构与预训练策略</a>]]></content>
+        <updated>2026-06-09T09:01:20.259Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/123373" rel="noopener" target="_blank">从「稍后阅读地狱」到 AI 共创 — 一个工程师的信息演化之路</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[33]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.287Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/152152" rel="noopener" target="_blank">坐高铁读书是发达，我先前比他们阔</a>]]></content>
+        <updated>2026-06-09T09:01:20.260Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/120782" rel="noopener" target="_blank">日常-阅读 How we built our multi-agent research system</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[34]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.291Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/151981" rel="noopener" target="_blank">2026年3月阅读书摘</a>]]></content>
+        <updated>2026-06-09T09:01:20.262Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/120259" rel="noopener" target="_blank">私人阅读进化史：结构化提问与跨领域资料整理</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[35]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.291Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/158172" rel="noopener" target="_blank">潮汐阅读</a>]]></content>
+        <updated>2026-06-09T09:01:20.264Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/120142" rel="noopener" target="_blank">2025年5月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[36]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.292Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/151316" rel="noopener" target="_blank">阅读文学如何帮我欣赏摇滚乐？</a>]]></content>
+        <updated>2026-06-09T09:01:20.264Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/134801" rel="noopener" target="_blank">二零二五 - 六七月读书随笔</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[37]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.293Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/151333" rel="noopener" target="_blank">读书笔记（大四下）</a>]]></content>
+        <updated>2026-06-09T09:01:20.266Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/141841" rel="noopener" target="_blank">二零二五 - 六七月读书随笔</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[38]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.294Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/150756" rel="noopener" target="_blank">2026.03.22 博客阅读周记</a>]]></content>
+        <updated>2026-06-09T09:01:20.267Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/129155" rel="noopener" target="_blank">博客阅读进度条</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[39]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.296Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/150729" rel="noopener" target="_blank">在 Emacs 中用 Elfeed 阅读订阅流</a>]]></content>
+        <updated>2026-06-09T09:01:20.268Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/120888" rel="noopener" target="_blank">Ep 80. 阅读状态大揭秘，有人欢喜有人悲</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[40]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.297Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/150332" rel="noopener" target="_blank">2036.03.15 博客阅读周记</a>]]></content>
+        <updated>2026-06-09T09:01:20.269Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/119787" rel="noopener" target="_blank">自由不止软件-记录一次zlib上传书籍</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[41]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.298Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/156040" rel="noopener" target="_blank">《深度学习》读书心得：AI 的基石</a>]]></content>
+        <updated>2026-06-09T09:01:20.270Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/159027" rel="noopener" target="_blank">《亲密关系》书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[42]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.300Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/147855" rel="noopener" target="_blank">2026年2月阅读书摘</a>]]></content>
+        <updated>2026-06-09T09:01:20.271Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/117724" rel="noopener" target="_blank">🆕 Anx Reader电子书阅读器v1.5.2更新</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[43]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.301Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/147763" rel="noopener" target="_blank">2025 读书总结</a>]]></content>
+        <updated>2026-06-09T09:01:20.272Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/118351" rel="noopener" target="_blank">榨干《海绵阅读法》</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[44]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.302Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/149303" rel="noopener" target="_blank">努力就能成功吗？结合《随机漫步的傻瓜》谈谈幸存者偏差与概率思维 (读书笔记)</a>]]></content>
+        <updated>2026-06-09T09:01:20.273Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/156515" rel="noopener" target="_blank">《伯恩斯新情绪疗法》阅读笔记</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[45]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.303Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/147654" rel="noopener" target="_blank">2026.03.01 博客阅读周记</a>]]></content>
+        <updated>2026-06-09T09:01:20.274Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/117479" rel="noopener" target="_blank">阅读应当是一种体验</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[46]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.305Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/149304" rel="noopener" target="_blank">《鞋狗》菲尔·奈特读书笔记：在随机漫步中寻找成功的确定性</a>]]></content>
+        <updated>2026-06-09T09:01:20.275Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/116839" rel="noopener" target="_blank">2025年4月阅读书摘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[47]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.306Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/147100" rel="noopener" target="_blank">读书笔记：图解大模型——生成式AI原理与实战</a>]]></content>
+        <updated>2026-06-09T09:01:20.276Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/117637" rel="noopener" target="_blank">读书应该是一种享受</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[48]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.307Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/149305" rel="noopener" target="_blank">读书心得 | 结合《思考，快与慢》与《随机漫步的傻瓜》谈成功的概率</a>]]></content>
+        <updated>2026-06-09T09:01:20.277Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/124734" rel="noopener" target="_blank">Termux 上使用 BBDown 踩坑记录【请在博客阅读全文】</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[49]]></title>
         <id>https://bf.zzxworld.com/t/read</id>
         <link href="https://bf.zzxworld.com/t/read"/>
-        <updated>2026-06-08T19:51:47.308Z</updated>
-        <content type="html"><![CDATA[<a href="/go/p/146944" rel="noopener" target="_blank">【书评】读《台风眼》：被唤醒的旧时光</a>]]></content>
+        <updated>2026-06-09T09:01:20.278Z</updated>
+        <content type="html"><![CDATA[<a href="/go/p/115979" rel="noopener" target="_blank">来介绍个源码阅读理解神器-deepwiki</a>]]></content>
     </entry>
 </feed>
