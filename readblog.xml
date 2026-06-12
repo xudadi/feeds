@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bf.zzxworld.com/s/diligent_list</id>
     <title>读书博客</title>
-    <updated>2026-06-12T09:59:52.116Z</updated>
+    <updated>2026-06-12T19:40:46.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bf.zzxworld.com/images/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://bf.zzxworld.com/s/diligent_list</id>
         <link href="https://bf.zzxworld.com/s/diligent_list"/>
-        <updated>2026-06-12T09:59:51.221Z</updated>
+        <updated>2026-06-12T19:40:45.694Z</updated>
         <content type="html"><![CDATA[<li class="list-group-item">
                     <div class="row">
                         <div class="col-12 col-lg-6">
@@ -30,6 +30,10 @@
                         <div class="col-12 col-lg-6">
                             <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
                                                                 <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
+                                    <a href="https://blog.solazy.me/20260612/" rel="external noopener" target="_blank">记一次出差时的 AirPods 巡回</a>
+                                </li>
+                                                                <li class="post-single-title">
                                     <time class="text-muted font-monospace float-end ms-3">2026-06-11</time>
                                     <a href="https://blog.solazy.me/20260611/" rel="external noopener" target="_blank">看电影时，我到底在期待什么</a>
                                 </li>
@@ -37,9 +41,75 @@
                                     <time class="text-muted font-monospace float-end ms-3">2026-06-10</time>
                                     <a href="https://blog.solazy.me/20260610/" rel="external noopener" target="_blank">睡眠是第二天的预算</a>
                                 </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="list-group-item">
+                    <div class="row">
+                        <div class="col-12 col-lg-6">
+                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
+                                <div class="me-4">
+                                    <a href="/s/584">
+                                        <img class="lazy-loading" width="50" src="/uploads/icons/1653316287.64.png" data-src="/uploads/icons/1653316287.64.png" alt="莫比乌斯">
+                                    </a>
+                                </div>
+                                <div>
+                                                                                                                     🥈                                                                                                                 <a href="/s/584">莫比乌斯</a>
+                                    <p class="mt-2 fs-7 text-muted mb-0">
+                                                                                    写作，一场自我悖论的旅程。
+                                                                            </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-6">
+                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
+                                    <a href="https://mobius.blog/24607.html" rel="external noopener" target="_blank">车祸 XIII</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
+                                    <a href="https://mobius.blog/24619.html" rel="external noopener" target="_blank">如何高雅地扣帽子？ I</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-11</time>
+                                    <a href="https://mobius.blog/24612.html" rel="external noopener" target="_blank">高考结束后的小剧场</a>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="list-group-item">
+                    <div class="row">
+                        <div class="col-12 col-lg-6">
+                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
+                                <div class="me-4">
+                                    <a href="/s/1813">
+                                        <img class="lazy-loading" width="50" src="/uploads/icons/1776385595.3622.png" data-src="/uploads/icons/1776385595.3622.png" alt="浮生事">
+                                    </a>
+                                </div>
+                                <div>
+                                                                                                                                                             🥉                                                                         <a href="/s/1813">浮生事</a>
+                                    <p class="mt-2 fs-7 text-muted mb-0">
+                                                                                    无根之言，只当笑谈。
+                                                                            </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-6">
+                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
+                                    <a href="http://etom.top/archives/so149.html" rel="external noopener" target="_blank">小猫吃草，还钻垃圾桶</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-11</time>
+                                    <a href="http://etom.top/archives/so145.html" rel="external noopener" target="_blank">雨中生机</a>
+                                </li>
                                                                 <li class="post-single-title">
                                     <time class="text-muted font-monospace float-end ms-3">2026-06-09</time>
-                                    <a href="https://blog.solazy.me/20260609/" rel="external noopener" target="_blank">关于自律</a>
+                                    <a href="http://etom.top/archives/so144.html" rel="external noopener" target="_blank">茶山一游</a>
                                 </li>
                                                             </ul>
                         </div>
@@ -55,7 +125,8 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                                                                     🥈                                                                                                                 <a href="/s/1701">Marcus Blog</a>
+                                                                            <span class="text-muted">4. </span>
+                                                                        <a href="/s/1701">Marcus Blog</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     I'm Marcus Blog.
                                                                             </p>
@@ -86,11 +157,12 @@
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
                                     <a href="/s/1739">
-                                        <img class="lazy-loading" width="50" src="/uploads/icons/1766709130.5484.png" data-src="/uploads/icons/1766709130.5484.png" alt="宗宗酱">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1766709130.5484.png" alt="宗宗酱">
                                     </a>
                                 </div>
                                 <div>
-                                                                                                                                                             🥉                                                                         <a href="/s/1739">宗宗酱</a>
+                                                                            <span class="text-muted">5. </span>
+                                                                        <a href="/s/1739">宗宗酱</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     用文字和图片记录工作和学习生活。
                                                                             </p>
@@ -121,11 +193,11 @@
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
                                     <a href="/s/1778">
-                                        <img class="lazy-loading" width="50" src="/uploads/icons/1771922452.3223.png" data-src="/uploads/icons/1771922452.3223.png" alt="平哥偶记">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1771922452.3223.png" alt="平哥偶记">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">4. </span>
+                                                                            <span class="text-muted">6. </span>
                                                                         <a href="/s/1778">平哥偶记</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     一个真实记录成长与思考的独立空间。
@@ -156,15 +228,15 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
-                                    <a href="/s/584">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1653316287.64.png" alt="莫比乌斯">
+                                    <a href="/s/1589">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1752453171.2924.png" alt="兜兜爸投资笔记">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">5. </span>
-                                                                        <a href="/s/584">莫比乌斯</a>
+                                                                            <span class="text-muted">7. </span>
+                                                                        <a href="/s/1589">兜兜爸投资笔记</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    写作，一场自我悖论的旅程。
+                                                                                    聚焦二级市场中长期投资，涉及证券、基金、债券、黄金、加密货币。
                                                                             </p>
                                 </div>
                             </div>
@@ -173,15 +245,15 @@
                             <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
                                                                 <li class="post-single-title">
                                     <time class="text-muted font-monospace float-end ms-3">2026-06-11</time>
-                                    <a href="https://mobius.blog/24612.html" rel="external noopener" target="_blank">高考结束后的小剧场</a>
+                                    <a href="https://ddbzhou.com/post/xiajifengbaodaolai/" rel="external noopener" target="_blank">夏季风暴到来了？</a>
                                 </li>
                                                                 <li class="post-single-title">
                                     <time class="text-muted font-monospace float-end ms-3">2026-06-10</time>
-                                    <a href="https://mobius.blog/24599.html" rel="external noopener" target="_blank">流行</a>
+                                    <a href="https://ddbzhou.com/post/haishinageshichang/" rel="external noopener" target="_blank">市场还是那个市场</a>
                                 </li>
                                                                 <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-10</time>
-                                    <a href="https://mobius.blog/24590.html" rel="external noopener" target="_blank">为什么法律作为复仇工具时必然会失效？</a>
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-09</time>
+                                    <a href="https://ddbzhou.com/post/touyunmuxuan/" rel="external noopener" target="_blank">从一泻千里到涨的头晕目眩</a>
                                 </li>
                                                             </ul>
                         </div>
@@ -197,7 +269,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">6. </span>
+                                                                            <span class="text-muted">8. </span>
                                                                         <a href="/s/1824">Zhou’s Notes</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     不谈高深理论，只唠真心喜欢，做个有温度的个人分享站。
@@ -228,15 +300,15 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
-                                    <a href="/s/1813">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1776385595.3622.png" alt="浮生事">
+                                    <a href="/s/1392">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1728952076.8826.png" alt="姓王者的博客">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">7. </span>
-                                                                        <a href="/s/1813">浮生事</a>
+                                                                            <span class="text-muted">9. </span>
+                                                                        <a href="/s/1392">姓王者的博客</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    无根之言，只当笑谈。
+                                                                                    记录学习生活的琐事和技术文章。
                                                                             </p>
                                 </div>
                             </div>
@@ -244,16 +316,16 @@
                         <div class="col-12 col-lg-6">
                             <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
                                                                 <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-11</time>
-                                    <a href="http://etom.top/archives/so145.html" rel="external noopener" target="_blank">雨中生机</a>
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
+                                    <a href="https://xingwangzhe.fun/posts/programmers-three-virtues/" rel="external noopener" target="_blank">回顾经典-程序员的三大美德</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-10</time>
+                                    <a href="https://xingwangzhe.fun/posts/modern-tags-cloud-3d/" rel="external noopener" target="_blank">我做了一个现代Web版本的标签云，支持图片视频Web组件</a>
                                 </li>
                                                                 <li class="post-single-title">
                                     <time class="text-muted font-monospace float-end ms-3">2026-06-09</time>
-                                    <a href="http://etom.top/archives/so144.html" rel="external noopener" target="_blank">茶山一游</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-08</time>
-                                    <a href="http://etom.top/archives/so139.html" rel="external noopener" target="_blank">雨路湿滑，小心驾驶</a>
+                                    <a href="https://xingwangzhe.fun/posts/zero-se-newcomer-guide/" rel="external noopener" target="_blank">别让AI替你捣乱-致零软件工程经验新人的指南</a>
                                 </li>
                                                             </ul>
                         </div>
@@ -264,15 +336,15 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
-                                    <a href="/s/1589">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1752453171.2924.png" alt="兜兜爸投资笔记">
+                                    <a href="/s/471">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1610329141.849.png" alt="王志勇的 Blog">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">8. </span>
-                                                                        <a href="/s/1589">兜兜爸投资笔记</a>
+                                                                            <span class="text-muted">10. </span>
+                                                                        <a href="/s/471">王志勇的 Blog</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    聚焦二级市场中长期投资，涉及证券、基金、债券、黄金、加密货币。
+                                                                                    Web 程序设计，API 开发，前端设计，Web 站长。
                                                                             </p>
                                 </div>
                             </div>
@@ -280,16 +352,124 @@
                         <div class="col-12 col-lg-6">
                             <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
                                                                 <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
+                                    <a href="http://www.auiou.com/relevant/00002160.jsp" rel="external noopener" target="_blank">真玄学心得(23)：再生人与我们的关联</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-11</time>
+                                    <a href="http://www.auiou.com/relevant/00002159.jsp" rel="external noopener" target="_blank">服务器版Linux系统的选择之2026</a>
+                                </li>
+                                                                <li class="post-single-title">
                                     <time class="text-muted font-monospace float-end ms-3">2026-06-10</time>
-                                    <a href="https://ddbzhou.com/post/haishinageshichang/" rel="external noopener" target="_blank">市场还是那个市场</a>
+                                    <a href="http://www.auiou.com/relevant/00002158.jsp" rel="external noopener" target="_blank">真玄学心得(22)：未来人信息新解</a>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="list-group-item">
+                    <div class="row">
+                        <div class="col-12 col-lg-6">
+                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
+                                <div class="me-4">
+                                    <a href="/s/1535">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1743900376.7542.png" alt="Yang's Blog">
+                                    </a>
+                                </div>
+                                <div>
+                                                                            <span class="text-muted">11. </span>
+                                                                        <a href="/s/1535">Yang's Blog</a>
+                                    <p class="mt-2 fs-7 text-muted mb-0">
+                                                                                    前互联网行业老兵，现港美二级市场小兵，爱好摄影，关注科技行业新产品及商业模式。
+                                                                            </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-6">
+                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
+                                    <a href="https://knay.net/note/untitled-20260612" rel="external noopener" target="_blank">远离VibeCoding的两周</a>
                                 </li>
                                                                 <li class="post-single-title">
                                     <time class="text-muted font-monospace float-end ms-3">2026-06-09</time>
-                                    <a href="https://ddbzhou.com/post/touyunmuxuan/" rel="external noopener" target="_blank">从一泻千里到涨的头晕目眩</a>
+                                    <a href="https://knay.net/note/why-gemini-rolled-out-to-hong-kong" rel="external noopener" target="_blank">WWDC：Google在香港开放Gemini的原因揭晓</a>
                                 </li>
                                                                 <li class="post-single-title">
                                     <time class="text-muted font-monospace float-end ms-3">2026-06-08</time>
-                                    <a href="https://ddbzhou.com/post/baozhubenjin/" rel="external noopener" target="_blank">投资的最高原则，保住本金</a>
+                                    <a href="https://knay.net/note/untitled-20260608" rel="external noopener" target="_blank">父子今日微信对话</a>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="list-group-item">
+                    <div class="row">
+                        <div class="col-12 col-lg-6">
+                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
+                                <div class="me-4">
+                                    <a href="/s/1690">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1761802242.0426.png" alt="不凡博客">
+                                    </a>
+                                </div>
+                                <div>
+                                                                            <span class="text-muted">12. </span>
+                                                                        <a href="/s/1690">不凡博客</a>
+                                    <p class="mt-2 fs-7 text-muted mb-0">
+                                                                                    探索绮美光影的本真之道。
+                                                                            </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-6">
+                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
+                                    <a href="https://www.bufanz.com/20260612660.html" rel="external noopener" target="_blank">为了省钱买唯卓仕微单镜头开通淘宝88VIP会员，领券后居然不能使用！</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-09</time>
+                                    <a href="https://www.bufanz.com/20260609659.html" rel="external noopener" target="_blank">两只虎皮鹦鹉互相咬嘴</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-05</time>
+                                    <a href="https://www.bufanz.com/20260605654.html" rel="external noopener" target="_blank">嫌鹦鹉鸟笼太小，换粮换水又不方便，买了大一点的鸟笼</a>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="list-group-item">
+                    <div class="row">
+                        <div class="col-12 col-lg-6">
+                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
+                                <div class="me-4">
+                                    <a href="/s/647">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1655424764.5978.png" alt="尺宅杂记">
+                                    </a>
+                                </div>
+                                <div>
+                                                                            <span class="text-muted">13. </span>
+                                                                        <a href="/s/647">尺宅杂记</a>
+                                    <p class="mt-2 fs-7 text-muted mb-0">
+                                                                                    尺宅足自庇，寸田有余畦。
+                                                                            </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-6">
+                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
+                                    <a href="http://www.qncd.com/?p=12836" rel="external noopener" target="_blank">【读书记1680】但丁《神曲：地狱篇》</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-07</time>
+                                    <a href="http://www.qncd.com/?p=12831" rel="external noopener" target="_blank">【与Mondo同行·第四季】11：蒲松龄逝世100年后，拿破仑败于滑铁卢</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-06</time>
+                                    <a href="http://www.qncd.com/?p=12826" rel="external noopener" target="_blank">【也闲谈·第四季】十四：从莎士比亚《威尼斯商人》看多数的暴政</a>
                                 </li>
                                                             </ul>
                         </div>
@@ -305,7 +485,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">9. </span>
+                                                                            <span class="text-muted">14. </span>
                                                                         <a href="/s/1833">华立博客</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     一个记录随记、日志、相册、收藏的个人博客。
@@ -336,12 +516,48 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
+                                    <a href="/s/642">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1654521031.9582.png" alt="Joojen">
+                                    </a>
+                                </div>
+                                <div>
+                                                                            <span class="text-muted">15. </span>
+                                                                        <a href="/s/642">Joojen</a>
+                                    <p class="mt-2 fs-7 text-muted mb-0">
+                                                                                    我是 Joojen ，一个写字的。
+                                                                            </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-6">
+                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
+                                    <a href="https://joojen.com/archives/9018.html" rel="external noopener" target="_blank">关于工作本质的思考</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-07</time>
+                                    <a href="https://joojen.com/archives/9012.html" rel="external noopener" target="_blank">房子依然是很多人意难平</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-06</time>
+                                    <a href="https://joojen.com/archives/9015.html" rel="external noopener" target="_blank">写在高考前夜</a>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="list-group-item">
+                    <div class="row">
+                        <div class="col-12 col-lg-6">
+                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
+                                <div class="me-4">
                                     <a href="/s/1578">
                                         <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1751241949.4393.png" alt="徐建伟">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">10. </span>
+                                                                            <span class="text-muted">16. </span>
                                                                         <a href="/s/1578">徐建伟</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     分享经典语录随笔文字的微博客。
@@ -372,12 +588,48 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
+                                    <a href="/s/1786">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1773102614.4922.png" alt="資工小廢物  - JN">
+                                    </a>
+                                </div>
+                                <div>
+                                                                            <span class="text-muted">17. </span>
+                                                                        <a href="/s/1786">資工小廢物  - JN</a>
+                                    <p class="mt-2 fs-7 text-muted mb-0">
+                                                                                    資工系畢業，但其實沒有很會寫程式。
+                                                                            </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-6">
+                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
+                                    <a href="https://blog.giveanornot.com/culture-of-blogs/" rel="external noopener" target="_blank">這是我很喜歡部落格的地方</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-10</time>
+                                    <a href="https://blog.giveanornot.com/new-homepage/" rel="external noopener" target="_blank">千呼萬喚的露狗！還有新的烘焙雞！</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-02</time>
+                                    <a href="https://blog.giveanornot.com/forgot-to-pay-tax/" rel="external noopener" target="_blank">忘記報稅怎麼辦？不在戶藉地怎麼報稅？</a>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="list-group-item">
+                    <div class="row">
+                        <div class="col-12 col-lg-6">
+                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
+                                <div class="me-4">
                                     <a href="/s/627">
                                         <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1652144507.6155.png" alt="Qthinker">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">11. </span>
+                                                                            <span class="text-muted">18. </span>
                                                                         <a href="/s/627">Qthinker</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     地产从业者，假装是个程序员，热爱编程与交易。
@@ -413,7 +665,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">12. </span>
+                                                                            <span class="text-muted">19. </span>
                                                                         <a href="/s/887">蛋蛋之家</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     两个蛋蛋的自留地。
@@ -444,12 +696,48 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
+                                    <a href="/s/1844">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1779930309.3306.png" alt="妄司逸">
+                                    </a>
+                                </div>
+                                <div>
+                                                                            <span class="text-muted">20. </span>
+                                                                        <a href="/s/1844">妄司逸</a>
+                                    <p class="mt-2 fs-7 text-muted mb-0">
+                                                                                    种一棵树最好的时间是十年前，其次是现在。
+                                                                            </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-6">
+                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
+                                    <a href="https://blog.flechazo.icu/2026/06/12/coc-counter/" rel="external noopener" target="_blank">AI做了个部落冲突管理网站</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-07</time>
+                                    <a href="https://blog.flechazo.icu/2026/06/07/imghub/" rel="external noopener" target="_blank">自建图床服务</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-04</time>
+                                    <a href="https://blog.flechazo.icu/2026/06/04/%E6%AD%A3%E5%90%91%E4%BB%A3%E7%90%86and%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/" rel="external noopener" target="_blank">正向代理&amp;反向代理？</a>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="list-group-item">
+                    <div class="row">
+                        <div class="col-12 col-lg-6">
+                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
+                                <div class="me-4">
                                     <a href="/s/1843">
                                         <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1779842892.4738.png" alt="周阿源">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">13. </span>
+                                                                            <span class="text-muted">21. </span>
                                                                         <a href="/s/1843">周阿源</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     专注原创毛绒与治愈插画。
@@ -485,7 +773,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">14. </span>
+                                                                            <span class="text-muted">22. </span>
                                                                         <a href="/s/1564">老刘博客</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     一个验光师和传统文化爱好者的博客。
@@ -521,7 +809,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">15. </span>
+                                                                            <span class="text-muted">23. </span>
                                                                         <a href="/s/612">张洪 Heo</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     分享设计与科技生活。
@@ -552,48 +840,12 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
-                                    <a href="/s/1392">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1728952076.8826.png" alt="姓王者的博客">
-                                    </a>
-                                </div>
-                                <div>
-                                                                            <span class="text-muted">16. </span>
-                                                                        <a href="/s/1392">姓王者的博客</a>
-                                    <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    记录学习生活的琐事和技术文章。
-                                                                            </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-lg-6">
-                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-10</time>
-                                    <a href="https://xingwangzhe.fun/posts/modern-tags-cloud-3d/" rel="external noopener" target="_blank">我做了一个现代Web版本的标签云，支持图片视频Web组件</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-09</time>
-                                    <a href="https://xingwangzhe.fun/posts/zero-se-newcomer-guide/" rel="external noopener" target="_blank">别让AI替你捣乱-致零软件工程经验新人的指南</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-06</time>
-                                    <a href="https://xingwangzhe.fun/posts/fix-svg-background-forcedark-whitening/" rel="external noopener" target="_blank">解决QQ浏览器等魔改内核下SVG背景图颜色异常变白的问题</a>
-                                </li>
-                                                            </ul>
-                        </div>
-                    </div>
-                </li>
-                            <li class="list-group-item">
-                    <div class="row">
-                        <div class="col-12 col-lg-6">
-                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
-                                <div class="me-4">
                                     <a href="/s/674">
                                         <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1661208911.0553.png" alt="水八口的冥想盆">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">17. </span>
+                                                                            <span class="text-muted">24. </span>
                                                                         <a href="/s/674">水八口的冥想盆</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     水八口的个人博客，旨在记录当下赠与未来。
@@ -629,7 +881,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">18. </span>
+                                                                            <span class="text-muted">25. </span>
                                                                         <a href="/s/561">太隐</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     一个人的思想发育史就是他的阅读史。
@@ -665,7 +917,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">19. </span>
+                                                                            <span class="text-muted">26. </span>
                                                                         <a href="/s/1726">枫林灯语</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     深山踏红叶，耳畔闻鹿鸣，飘摇风雨中，心比天更高。
@@ -696,84 +948,12 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
-                                    <a href="/s/471">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1610329141.849.png" alt="王志勇的 Blog">
-                                    </a>
-                                </div>
-                                <div>
-                                                                            <span class="text-muted">20. </span>
-                                                                        <a href="/s/471">王志勇的 Blog</a>
-                                    <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    Web 程序设计，API 开发，前端设计，Web 站长。
-                                                                            </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-lg-6">
-                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-11</time>
-                                    <a href="http://www.auiou.com/relevant/00002159.jsp" rel="external noopener" target="_blank">服务器版Linux系统的选择之2026</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-10</time>
-                                    <a href="http://www.auiou.com/relevant/00002158.jsp" rel="external noopener" target="_blank">真玄学心得(22)：未来人信息新解</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-01</time>
-                                    <a href="http://www.auiou.com/relevant/00002157.jsp" rel="external noopener" target="_blank">数码评测(65-2)：再谈自制CPU天梯图</a>
-                                </li>
-                                                            </ul>
-                        </div>
-                    </div>
-                </li>
-                            <li class="list-group-item">
-                    <div class="row">
-                        <div class="col-12 col-lg-6">
-                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
-                                <div class="me-4">
-                                    <a href="/s/1535">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1743900376.7542.png" alt="Yang's Blog">
-                                    </a>
-                                </div>
-                                <div>
-                                                                            <span class="text-muted">21. </span>
-                                                                        <a href="/s/1535">Yang's Blog</a>
-                                    <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    前互联网行业老兵，现港美二级市场小兵，爱好摄影，关注科技行业新产品及商业模式。
-                                                                            </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-lg-6">
-                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-09</time>
-                                    <a href="https://knay.net/note/why-gemini-rolled-out-to-hong-kong" rel="external noopener" target="_blank">WWDC：Google在香港开放Gemini的原因揭晓</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-08</time>
-                                    <a href="https://knay.net/note/untitled-20260608" rel="external noopener" target="_blank">父子今日微信对话</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-08</time>
-                                    <a href="https://knay.net/note/blog-theme-bonhamroad" rel="external noopener" target="_blank">主题 - BonhamRoad 般咸道</a>
-                                </li>
-                                                            </ul>
-                        </div>
-                    </div>
-                </li>
-                            <li class="list-group-item">
-                    <div class="row">
-                        <div class="col-12 col-lg-6">
-                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
-                                <div class="me-4">
                                     <a href="/s/1417">
                                         <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1731457945.5451.png" alt="GTX690 战术核显卡导弹">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">22. </span>
+                                                                            <span class="text-muted">27. </span>
                                                                         <a href="/s/1417">GTX690 战术核显卡导弹</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     一个过气 UP 的博客，喜欢计算机技术。
@@ -809,7 +989,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">23. </span>
+                                                                            <span class="text-muted">28. </span>
                                                                         <a href="/s/1452">新锐博客</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     记录学习与分享资源。
@@ -840,12 +1020,48 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
+                                    <a href="/s/1733">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1766104595.2754.png" alt="孤斗">
+                                    </a>
+                                </div>
+                                <div>
+                                                                            <span class="text-muted">29. </span>
+                                                                        <a href="/s/1733">孤斗</a>
+                                    <p class="mt-2 fs-7 text-muted mb-0">
+                                                                                    做自己，不随波逐流，不妥协。
+                                                                            </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-6">
+                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
+                                    <a href="https://d-d.design/single/19254" rel="external noopener" target="_blank">我的博客走过了十年</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-10</time>
+                                    <a href="https://d-d.design/single/19111" rel="external noopener" target="_blank">云南丨普洱</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-10</time>
+                                    <a href="https://d-d.design/single/18998" rel="external noopener" target="_blank">云南丨景迈山</a>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="list-group-item">
+                    <div class="row">
+                        <div class="col-12 col-lg-6">
+                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
+                                <div class="me-4">
                                     <a href="/s/1346">
                                         <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1732600406.0551.png" alt="極客死亡計劃">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">24. </span>
+                                                                            <span class="text-muted">30. </span>
                                                                         <a href="/s/1346">極客死亡計劃</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     一个由个人维护的内容生产站，专注编写有价值的文章。
@@ -881,7 +1097,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">25. </span>
+                                                                            <span class="text-muted">31. </span>
                                                                         <a href="/s/1052">安迪</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     用博客记录生活。
@@ -917,7 +1133,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">26. </span>
+                                                                            <span class="text-muted">32. </span>
                                                                         <a href="/s/522">咕咚同学</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     一个独立开发者的日常。
@@ -948,15 +1164,15 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
-                                    <a href="/s/1690">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1761802242.0426.png" alt="不凡博客">
+                                    <a href="/s/1542">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1745554637.423.png" alt="我的日志">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">27. </span>
-                                                                        <a href="/s/1690">不凡博客</a>
+                                                                            <span class="text-muted">33. </span>
+                                                                        <a href="/s/1542">我的日志</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    探索绮美光影的本真之道。
+                                                                                    记录我的工作、生活。
                                                                             </p>
                                 </div>
                             </div>
@@ -964,16 +1180,16 @@
                         <div class="col-12 col-lg-6">
                             <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
                                                                 <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-09</time>
-                                    <a href="https://www.bufanz.com/20260609659.html" rel="external noopener" target="_blank">两只虎皮鹦鹉互相咬嘴</a>
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
+                                    <a href="https://ilogs.cn/2026/06/12/384.html" rel="external noopener" target="_blank">说说</a>
                                 </li>
                                                                 <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-05</time>
-                                    <a href="https://www.bufanz.com/20260605654.html" rel="external noopener" target="_blank">嫌鹦鹉鸟笼太小，换粮换水又不方便，买了大一点的鸟笼</a>
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-06</time>
+                                    <a href="https://ilogs.cn/2026/06/06/383.html" rel="external noopener" target="_blank">没道士也没利是</a>
                                 </li>
                                                                 <li class="post-single-title">
                                     <time class="text-muted font-monospace float-end ms-3">2026-06-04</time>
-                                    <a href="https://www.bufanz.com/20260604650.html" rel="external noopener" target="_blank">多了台打印机，使用不方便，特意买了置物架专门放打印机</a>
+                                    <a href="https://ilogs.cn/2026/06/04/382.html" rel="external noopener" target="_blank">一席家常道尽人间生老</a>
                                 </li>
                                                             </ul>
                         </div>
@@ -989,7 +1205,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">28. </span>
+                                                                            <span class="text-muted">34. </span>
                                                                         <a href="/s/1814">栖迟处</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     一处安静的阅读入口。
@@ -1020,15 +1236,15 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
-                                    <a href="/s/647">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1655424764.5978.png" alt="尺宅杂记">
+                                    <a href="/s/1485">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1738756742.8343.png" alt="游钓四方的博客">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">29. </span>
-                                                                        <a href="/s/647">尺宅杂记</a>
+                                                                            <span class="text-muted">35. </span>
+                                                                        <a href="/s/1485">游钓四方的博客</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    尺宅足自庇，寸田有余畦。
+                                                                                    千禧年小孩，长途骑行小学生、野钓路亚、振出并继、古典乐、茶叶爱好者。
                                                                             </p>
                                 </div>
                             </div>
@@ -1036,16 +1252,52 @@
                         <div class="col-12 col-lg-6">
                             <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
                                                                 <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-07</time>
-                                    <a href="http://www.qncd.com/?p=12831" rel="external noopener" target="_blank">【与Mondo同行·第四季】11：蒲松龄逝世100年后，拿破仑败于滑铁卢</a>
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
+                                    <a href="https://blog.lhasa.icu/posts/technology/2026-06-12-astro-lite-v6/" rel="external noopener" target="_blank">Astro Lite 6</a>
                                 </li>
                                                                 <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-06</time>
-                                    <a href="http://www.qncd.com/?p=12826" rel="external noopener" target="_blank">【也闲谈·第四季】十四：从莎士比亚《威尼斯商人》看多数的暴政</a>
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-10</time>
+                                    <a href="https://blog.lhasa.icu/posts/technology/2026-06-09-photosuite-v0-5-0-beta/" rel="external noopener" target="_blank">Photosuite EXIF 优化</a>
                                 </li>
                                                                 <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-05</time>
-                                    <a href="http://www.qncd.com/?p=12821" rel="external noopener" target="_blank">一字为礼</a>
+                                    <time class="text-muted font-monospace float-end ms-3">2026-05-29</time>
+                                    <a href="https://blog.lhasa.icu/posts/life/2026-05-28-zhuanzhu/" rel="external noopener" target="_blank">在纷杂的世界里保持专注</a>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="list-group-item">
+                    <div class="row">
+                        <div class="col-12 col-lg-6">
+                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
+                                <div class="me-4">
+                                    <a href="/s/779">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1673913649.2446.png" alt="愆伏">
+                                    </a>
+                                </div>
+                                <div>
+                                                                            <span class="text-muted">36. </span>
+                                                                        <a href="/s/779">愆伏</a>
+                                    <p class="mt-2 fs-7 text-muted mb-0">
+                                                                                    一个浸淫互联网行业多年的斜杠中年，通过博客表达自己的所思所想以及所经历的历史进程。
+                                                                            </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-6">
+                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-11</time>
+                                    <a href="https://www.tortorse.com/archives/leave-professional-work-to-professionals/" rel="external noopener" target="_blank">专业的事，还是让专业的人做吧</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-09</time>
+                                    <a href="https://www.tortorse.com/archives/tao-zhe-soul-power-ii-nanjing-concert/" rel="external noopener" target="_blank">第一次去看陶喆演唱会</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-05-31</time>
+                                    <a href="https://www.tortorse.com/archives/vxna-rss-cloudflare-codex-debugging/" rel="external noopener" target="_blank">Codex 治好了我的博客不能被 VXNA 抓取的毛病</a>
                                 </li>
                                                             </ul>
                         </div>
@@ -1061,7 +1313,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">30. </span>
+                                                                            <span class="text-muted">37. </span>
                                                                         <a href="/s/1316">秋风于渭水</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     一个随便写点什么的地方。
@@ -1097,7 +1349,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">31. </span>
+                                                                            <span class="text-muted">38. </span>
                                                                         <a href="/s/632">苏洋博客</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     记录点滴成长，分享技术经验。
@@ -1128,12 +1380,48 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
+                                    <a href="/s/392">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1608095113.194.png" alt="二丫讲梵">
+                                    </a>
+                                </div>
+                                <div>
+                                                                            <span class="text-muted">39. </span>
+                                                                        <a href="/s/392">二丫讲梵</a>
+                                    <p class="mt-2 fs-7 text-muted mb-0">
+                                                                                    学无止境是永远前进的基础，跃然纸上是对知识的总结交代，与众分享则是实现价值的最好方式。
+                                                                            </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-6">
+                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
+                                    <a href="https://wiki.eryajf.net/pages/22d443/" rel="external noopener" target="_blank">学习周刊-总第267期-2026年第24周</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-05</time>
+                                    <a href="https://wiki.eryajf.net/pages/12eb60/" rel="external noopener" target="_blank">23学习周刊-总第266期-2026年第23周</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-05-29</time>
+                                    <a href="https://wiki.eryajf.net/pages/ff83a5/" rel="external noopener" target="_blank">学习周刊-总第265期-2026年第22周</a>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="list-group-item">
+                    <div class="row">
+                        <div class="col-12 col-lg-6">
+                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
+                                <div class="me-4">
                                     <a href="/s/1023">
                                         <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1693267753.9855.png" alt="龙鲲博客">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">32. </span>
+                                                                            <span class="text-muted">40. </span>
                                                                         <a href="/s/1023">龙鲲博客</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     一个爱倒腾、爱记录的生活类博客。
@@ -1169,7 +1457,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">33. </span>
+                                                                            <span class="text-muted">41. </span>
                                                                         <a href="/s/1553">Taxodium</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     That the powerful play goes on, and you may contribute a verse.
@@ -1200,120 +1488,12 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
-                                    <a href="/s/1846">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1780291848.0268.png" alt="Patrick's Blog">
-                                    </a>
-                                </div>
-                                <div>
-                                                                            <span class="text-muted">34. </span>
-                                                                        <a href="/s/1846">Patrick's Blog</a>
-                                    <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    攝影及我嘅日常生活。
-                                                                            </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-lg-6">
-                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-07</time>
-                                    <a href="https://impatrick.blog/mong-kok-neon-signs-under-red-rain/" rel="external noopener" target="_blank">紅雨下的旺角與霓虹燈 / 三陽10mm &amp; 永諾35mm</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-06</time>
-                                    <a href="https://impatrick.blog/hk-amateur-radio-exam-04/" rel="external noopener" target="_blank">香港業餘無線電考試全攻略第四篇：技術上你需要知道的（二）</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-05</time>
-                                    <a href="https://impatrick.blog/hk-amateur-radio-exam-03/" rel="external noopener" target="_blank">香港業餘無線電考試全攻略第三篇：技術上你需要知道的（一）</a>
-                                </li>
-                                                            </ul>
-                        </div>
-                    </div>
-                </li>
-                            <li class="list-group-item">
-                    <div class="row">
-                        <div class="col-12 col-lg-6">
-                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
-                                <div class="me-4">
-                                    <a href="/s/1786">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1773102614.4922.png" alt="資工小廢物  - JN">
-                                    </a>
-                                </div>
-                                <div>
-                                                                            <span class="text-muted">35. </span>
-                                                                        <a href="/s/1786">資工小廢物  - JN</a>
-                                    <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    資工系畢業，但其實沒有很會寫程式。
-                                                                            </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-lg-6">
-                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-10</time>
-                                    <a href="https://blog.giveanornot.com/new-homepage/" rel="external noopener" target="_blank">千呼萬喚的露狗！還有新的烘焙雞！</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-02</time>
-                                    <a href="https://blog.giveanornot.com/forgot-to-pay-tax/" rel="external noopener" target="_blank">忘記報稅怎麼辦？不在戶藉地怎麼報稅？</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-02</time>
-                                    <a href="https://blog.giveanornot.com/now/20260602/" rel="external noopener" target="_blank">JN 最近在幹嘛（20260602 更新）</a>
-                                </li>
-                                                            </ul>
-                        </div>
-                    </div>
-                </li>
-                            <li class="list-group-item">
-                    <div class="row">
-                        <div class="col-12 col-lg-6">
-                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
-                                <div class="me-4">
-                                    <a href="/s/642">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1654521031.9582.png" alt="Joojen">
-                                    </a>
-                                </div>
-                                <div>
-                                                                            <span class="text-muted">36. </span>
-                                                                        <a href="/s/642">Joojen</a>
-                                    <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    我是 Joojen ，一个写字的。
-                                                                            </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-lg-6">
-                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-07</time>
-                                    <a href="https://joojen.com/archives/9012.html" rel="external noopener" target="_blank">房子依然是很多人意难平</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-05</time>
-                                    <a href="https://joojen.com/archives/9003.html" rel="external noopener" target="_blank">房价又要起飞了？</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-01</time>
-                                    <a href="https://joojen.com/archives/9000.html" rel="external noopener" target="_blank">又到一年毕业季</a>
-                                </li>
-                                                            </ul>
-                        </div>
-                    </div>
-                </li>
-                            <li class="list-group-item">
-                    <div class="row">
-                        <div class="col-12 col-lg-6">
-                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
-                                <div class="me-4">
                                     <a href="/s/1244">
                                         <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1714263057.4856.png" alt="无敌的个人博客">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">37. </span>
+                                                                            <span class="text-muted">42. </span>
                                                                         <a href="/s/1244">无敌的个人博客</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     不要让时代的悲哀成为你的悲哀。
@@ -1344,12 +1524,48 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
+                                    <a href="/s/1846">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1780291848.0268.png" alt="Patrick's Blog">
+                                    </a>
+                                </div>
+                                <div>
+                                                                            <span class="text-muted">43. </span>
+                                                                        <a href="/s/1846">Patrick's Blog</a>
+                                    <p class="mt-2 fs-7 text-muted mb-0">
+                                                                                    攝影及我嘅日常生活。
+                                                                            </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-6">
+                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-07</time>
+                                    <a href="https://impatrick.blog/mong-kok-neon-signs-under-red-rain/" rel="external noopener" target="_blank">紅雨下的旺角與霓虹燈 / 三陽10mm &amp; 永諾35mm</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-06</time>
+                                    <a href="https://impatrick.blog/hk-amateur-radio-exam-04/" rel="external noopener" target="_blank">香港業餘無線電考試全攻略第四篇：技術上你需要知道的（二）</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-05</time>
+                                    <a href="https://impatrick.blog/hk-amateur-radio-exam-03/" rel="external noopener" target="_blank">香港業餘無線電考試全攻略第三篇：技術上你需要知道的（一）</a>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="list-group-item">
+                    <div class="row">
+                        <div class="col-12 col-lg-6">
+                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
+                                <div class="me-4">
                                     <a href="/s/8">
                                         <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/8.png" alt="JustZht">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">38. </span>
+                                                                            <span class="text-muted">44. </span>
                                                                         <a href="/s/8">JustZht</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     Indie iOS  &amp; Unity Dev.
@@ -1380,48 +1596,12 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
-                                    <a href="/s/1844">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1779930309.3306.png" alt="妄司逸">
-                                    </a>
-                                </div>
-                                <div>
-                                                                            <span class="text-muted">39. </span>
-                                                                        <a href="/s/1844">妄司逸</a>
-                                    <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    种一棵树最好的时间是十年前，其次是现在。
-                                                                            </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-lg-6">
-                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-07</time>
-                                    <a href="https://blog.flechazo.icu/2026/06/07/imghub/" rel="external noopener" target="_blank">自建图床服务</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-04</time>
-                                    <a href="https://blog.flechazo.icu/2026/06/04/%E6%AD%A3%E5%90%91%E4%BB%A3%E7%90%86and%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/" rel="external noopener" target="_blank">正向代理&amp;反向代理？</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-01</time>
-                                    <a href="https://blog.flechazo.icu/2026/06/01/qexo/" rel="external noopener" target="_blank">Qexo——为Hexo等静态博客提供动态后端的开源工具</a>
-                                </li>
-                                                            </ul>
-                        </div>
-                    </div>
-                </li>
-                            <li class="list-group-item">
-                    <div class="row">
-                        <div class="col-12 col-lg-6">
-                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
-                                <div class="me-4">
                                     <a href="/s/1302">
                                         <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1719881691.3134.png" alt="梅之夏">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">40. </span>
+                                                                            <span class="text-muted">45. </span>
                                                                         <a href="/s/1302">梅之夏</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     Explore. Dream. Discover.
@@ -1457,7 +1637,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">41. </span>
+                                                                            <span class="text-muted">46. </span>
                                                                         <a href="/s/1568">LookLeap</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     运营，记录思考与生活。
@@ -1493,7 +1673,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">42. </span>
+                                                                            <span class="text-muted">47. </span>
                                                                         <a href="/s/1802">咕唧舍</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     日常生活琐事记录和一些经验分享。
@@ -1529,7 +1709,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">43. </span>
+                                                                            <span class="text-muted">48. </span>
                                                                         <a href="/s/121">KAIX.IN</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     杂文、随笔、感悟、记录
@@ -1565,7 +1745,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">44. </span>
+                                                                            <span class="text-muted">49. </span>
                                                                         <a href="/s/945">豌豆花下猫</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     Python编程、生活随笔、个人作品。
@@ -1601,7 +1781,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">45. </span>
+                                                                            <span class="text-muted">50. </span>
                                                                         <a href="/s/1759">暖心向阳</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     永不言败，砥砺前行。
@@ -1637,7 +1817,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">46. </span>
+                                                                            <span class="text-muted">51. </span>
                                                                         <a href="/s/847">美樂地</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     一个始创于 2009 年的中文原创独立博客。
@@ -1673,7 +1853,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">47. </span>
+                                                                            <span class="text-muted">52. </span>
                                                                         <a href="/s/84">唐巧的博客</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     记录下自己学习的点滴。
@@ -1709,7 +1889,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">48. </span>
+                                                                            <span class="text-muted">53. </span>
                                                                         <a href="/s/1481">Siwei Li</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     欢迎光临我的博客。
@@ -1745,7 +1925,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">49. </span>
+                                                                            <span class="text-muted">54. </span>
                                                                         <a href="/s/1663">Jeray 大叔</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     一名生活在苏州的儿童摄影师，爱折腾数码产品、软路由、互联网小窍门，平时记录生活学习吐槽等日记。
@@ -1776,12 +1956,48 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
+                                    <a href="/s/1533">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1743552849.926.png" alt="浮生闲话">
+                                    </a>
+                                </div>
+                                <div>
+                                                                            <span class="text-muted">55. </span>
+                                                                        <a href="/s/1533">浮生闲话</a>
+                                    <p class="mt-2 fs-7 text-muted mb-0">
+                                                                                    fuXes 的胡言乱语，读书感想和日常记录。
+                                                                            </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-6">
+                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
+                                    <a href="https://fuxes.cn/readings/沈从文选集" rel="external noopener" target="_blank">《沈从文选集》读后记</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-05</time>
+                                    <a href="https://fuxes.cn/readings/鼠疫" rel="external noopener" target="_blank">《鼠疫》读后记</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-05-21</time>
+                                    <a href="https://fuxes.cn/readings/咸的玩笑" rel="external noopener" target="_blank">《咸的玩笑》读后记</a>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="list-group-item">
+                    <div class="row">
+                        <div class="col-12 col-lg-6">
+                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
+                                <div class="me-4">
                                     <a href="/s/734">
                                         <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1669692603.5168.png" alt="Macin's Blog">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">50. </span>
+                                                                            <span class="text-muted">56. </span>
                                                                         <a href="/s/734">Macin's Blog</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     热爱生活，务实，不断精进的普通人。
@@ -1817,7 +2033,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">51. </span>
+                                                                            <span class="text-muted">57. </span>
                                                                         <a href="/s/1753">团团生活志</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     记录生活的点点滴滴。
@@ -1853,7 +2069,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">52. </span>
+                                                                            <span class="text-muted">58. </span>
                                                                         <a href="/s/1650">朱小呆</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     记录分享简简单单的生活。
@@ -1889,7 +2105,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">53. </span>
+                                                                            <span class="text-muted">59. </span>
                                                                         <a href="/s/1272">小王子</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     聆听小王子，守望成长，静待花开。
@@ -1925,7 +2141,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">54. </span>
+                                                                            <span class="text-muted">60. </span>
                                                                         <a href="/s/640">陶小桃</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     热衷于分享技术和日常生活的机械专业小哥哥，捣鼓机械设计、计算机视觉和深度学习。
@@ -1961,7 +2177,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">55. </span>
+                                                                            <span class="text-muted">61. </span>
                                                                         <a href="/s/1571">Jame</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     随笔。
@@ -1997,7 +2213,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">56. </span>
+                                                                            <span class="text-muted">62. </span>
                                                                         <a href="/s/555">爱娃子</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     一个95后青年的个人博客，从事于成套电器行业，偶尔分享电器设备知识、电工技术文章的博客。
@@ -2033,7 +2249,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">57. </span>
+                                                                            <span class="text-muted">63. </span>
                                                                         <a href="/s/1259">老 T 博客</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     法学法律工作者。
@@ -2069,7 +2285,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">58. </span>
+                                                                            <span class="text-muted">64. </span>
                                                                         <a href="/s/352">静かな森</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     致虚极，守静笃。
@@ -2105,7 +2321,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">59. </span>
+                                                                            <span class="text-muted">65. </span>
                                                                         <a href="/s/242">失眠海峡</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     梦里探讨完所有议题后睁眼，发现不过凌晨一点。
@@ -2141,7 +2357,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">60. </span>
+                                                                            <span class="text-muted">66. </span>
                                                                         <a href="/s/802">时光散记</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     博客、生活、旅游、代码、记录。
@@ -2177,7 +2393,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">61. </span>
+                                                                            <span class="text-muted">67. </span>
                                                                         <a href="/s/572">威言威语</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     我愿像茶一样，把苦涩留在心里，敬发出来的都是清香。
@@ -2213,7 +2429,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">62. </span>
+                                                                            <span class="text-muted">68. </span>
                                                                         <a href="/s/1439">Ouroboros</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     Just another Utopia.
@@ -2244,48 +2460,12 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
-                                    <a href="/s/1733">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1766104595.2754.png" alt="孤斗">
-                                    </a>
-                                </div>
-                                <div>
-                                                                            <span class="text-muted">63. </span>
-                                                                        <a href="/s/1733">孤斗</a>
-                                    <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    做自己，不随波逐流，不妥协。
-                                                                            </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-lg-6">
-                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-10</time>
-                                    <a href="https://d-d.design/single/19111" rel="external noopener" target="_blank">云南丨普洱</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-10</time>
-                                    <a href="https://d-d.design/single/18998" rel="external noopener" target="_blank">云南丨景迈山</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-07</time>
-                                    <a href="https://d-d.design/single/18814" rel="external noopener" target="_blank">云南丨西双版纳</a>
-                                </li>
-                                                            </ul>
-                        </div>
-                    </div>
-                </li>
-                            <li class="list-group-item">
-                    <div class="row">
-                        <div class="col-12 col-lg-6">
-                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
-                                <div class="me-4">
                                     <a href="/s/1697">
                                         <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1762303131.3881.png" alt="Cytrogen's Blog">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">64. </span>
+                                                                            <span class="text-muted">69. </span>
                                                                         <a href="/s/1697">Cytrogen's Blog</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     Cytrogen 的个人博客。
@@ -2321,7 +2501,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">65. </span>
+                                                                            <span class="text-muted">70. </span>
                                                                         <a href="/s/565">优世界</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     用文字记录生活，用心写文章。
@@ -2357,7 +2537,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">66. </span>
+                                                                            <span class="text-muted">71. </span>
                                                                         <a href="/s/1772">阿尔的代码屋</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     分享编程路上的踩坑与成长。
@@ -2393,7 +2573,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">67. </span>
+                                                                            <span class="text-muted">72. </span>
                                                                         <a href="/s/1644">荒野菲克</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     在路上的思绪与脚印。
@@ -2429,7 +2609,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">68. </span>
+                                                                            <span class="text-muted">73. </span>
                                                                         <a href="/s/947">静风说</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     一个生活类博客，记录日常生活和所思所想。
@@ -2465,7 +2645,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">69. </span>
+                                                                            <span class="text-muted">74. </span>
                                                                         <a href="/s/1675">墨觉の日记</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     繁华落尽谁许我一世安好。
@@ -2501,7 +2681,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">70. </span>
+                                                                            <span class="text-muted">75. </span>
                                                                         <a href="/s/1186">Evan's Space</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     Crappy technophiles.
@@ -2537,7 +2717,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">71. </span>
+                                                                            <span class="text-muted">76. </span>
                                                                         <a href="/s/663">Another Dayu</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     Seize the day, gather ye rosebuds while ye may.
@@ -2573,7 +2753,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">72. </span>
+                                                                            <span class="text-muted">77. </span>
                                                                         <a href="/s/194">胡涂说</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     hutusi.com
@@ -2604,12 +2784,84 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
+                                    <a href="/s/1849">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1780619836.8734.png" alt="Tang Weijuan">
+                                    </a>
+                                </div>
+                                <div>
+                                                                            <span class="text-muted">78. </span>
+                                                                        <a href="/s/1849">Tang Weijuan</a>
+                                    <p class="mt-2 fs-7 text-muted mb-0">
+                                                                                    记录分享设计、生活、学习、成长内容。
+                                                                            </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-6">
+                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-11</time>
+                                    <a href="https://tangweijuan.com/blog/figma-variable-migration" rel="external noopener" target="_blank">Figma 跨文件迁移变量</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-07</time>
+                                    <a href="https://tangweijuan.com/illustration/pixel-liumao" rel="external noopener" target="_blank">【像素画】六毛</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-07</time>
+                                    <a href="https://tangweijuan.com/illustration/pixel-guitar" rel="external noopener" target="_blank">【像素画】吉他</a>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="list-group-item">
+                    <div class="row">
+                        <div class="col-12 col-lg-6">
+                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
+                                <div class="me-4">
+                                    <a href="/s/1715">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1764678809.5874.png" alt="四季·花开">
+                                    </a>
+                                </div>
+                                <div>
+                                                                            <span class="text-muted">79. </span>
+                                                                        <a href="/s/1715">四季·花开</a>
+                                    <p class="mt-2 fs-7 text-muted mb-0">
+                                                                                    感性地生活，理性地思考，一个八零后的个人博客。
+                                                                            </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-6">
+                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
+                                    <a href="https://www.weiwenchao.com/2666.html" rel="external noopener" target="_blank">《2026年 6 月琐事小记》</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-05-21</time>
+                                    <a href="https://www.weiwenchao.com/2661.html" rel="external noopener" target="_blank">《怀柔偈的官方解释来了》</a>
+                                </li>
+                                                                <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-05-20</time>
+                                    <a href="https://www.weiwenchao.com/2660.html" rel="external noopener" target="_blank">《何以重塑》</a>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="list-group-item">
+                    <div class="row">
+                        <div class="col-12 col-lg-6">
+                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
+                                <div class="me-4">
                                     <a href="/s/923">
                                         <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1684714116.6259.png" alt="游子微博">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">73. </span>
+                                                                            <span class="text-muted">80. </span>
                                                                         <a href="/s/923">游子微博</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     门影塘畔的后花园，随心、随意、随时地记点什么。
@@ -2645,7 +2897,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">74. </span>
+                                                                            <span class="text-muted">81. </span>
                                                                         <a href="/s/286">Nicksxs's Blog</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     What hurts more, the pain of hard work or the pain of regret?
@@ -2681,7 +2933,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">75. </span>
+                                                                            <span class="text-muted">82. </span>
                                                                         <a href="/s/1130">莫尔索</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     关于编程实践和生活思考的一些记录。
@@ -2712,48 +2964,12 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
-                                    <a href="/s/1542">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1745554637.423.png" alt="我的日志">
-                                    </a>
-                                </div>
-                                <div>
-                                                                            <span class="text-muted">76. </span>
-                                                                        <a href="/s/1542">我的日志</a>
-                                    <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    记录我的工作、生活。
-                                                                            </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-lg-6">
-                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-06</time>
-                                    <a href="https://ilogs.cn/2026/06/06/383.html" rel="external noopener" target="_blank">没道士也没利是</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-04</time>
-                                    <a href="https://ilogs.cn/2026/06/04/382.html" rel="external noopener" target="_blank">一席家常道尽人间生老</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-05-31</time>
-                                    <a href="https://ilogs.cn/2026/05/31/381.html" rel="external noopener" target="_blank">平凡的日志</a>
-                                </li>
-                                                            </ul>
-                        </div>
-                    </div>
-                </li>
-                            <li class="list-group-item">
-                    <div class="row">
-                        <div class="col-12 col-lg-6">
-                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
-                                <div class="me-4">
                                     <a href="/s/1671">
                                         <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1758844525.9249.png" alt="我是军爸">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">77. </span>
+                                                                            <span class="text-muted">83. </span>
                                                                         <a href="/s/1671">我是军爸</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     记录编程教学、生活与成长点滴。
@@ -2789,7 +3005,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">78. </span>
+                                                                            <span class="text-muted">84. </span>
                                                                         <a href="/s/1528">liuzhen932 的小窝</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     只要愿意去做，人无所不通。
@@ -2825,7 +3041,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">79. </span>
+                                                                            <span class="text-muted">85. </span>
                                                                         <a href="/s/479">不可</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     心不可缚，逍遥活着；念不可执，自在觉察。
@@ -2861,7 +3077,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">80. </span>
+                                                                            <span class="text-muted">86. </span>
                                                                         <a href="/s/786">皇家元林</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     记录工作，生活，以及 WordPress 主题和插件的博客。
@@ -2892,15 +3108,15 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
-                                    <a href="/s/779">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1673913649.2446.png" alt="愆伏">
+                                    <a href="/s/1831">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1778382681.5042.png" alt="司云有崖">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">81. </span>
-                                                                        <a href="/s/779">愆伏</a>
+                                                                            <span class="text-muted">87. </span>
+                                                                        <a href="/s/1831">司云有崖</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    一个浸淫互联网行业多年的斜杠中年，通过博客表达自己的所思所想以及所经历的历史进程。
+                                                                                    DevOps，CTH HPC 专业在读，健身爱好者，推理小说爱好者。
                                                                             </p>
                                 </div>
                             </div>
@@ -2908,16 +3124,16 @@
                         <div class="col-12 col-lg-6">
                             <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
                                                                 <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-09</time>
-                                    <a href="https://www.tortorse.com/archives/tao-zhe-soul-power-ii-nanjing-concert/" rel="external noopener" target="_blank">第一次去看陶喆演唱会</a>
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
+                                    <a href="https://eduardoqian.com/archives/luo-ma-fo-luo-lun-sa-fan-di-gang-zhi-lu-si" rel="external noopener" target="_blank">罗马-佛罗伦萨-梵蒂冈之旅（四）</a>
                                 </li>
                                                                 <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-05-31</time>
-                                    <a href="https://www.tortorse.com/archives/vxna-rss-cloudflare-codex-debugging/" rel="external noopener" target="_blank">Codex 治好了我的博客不能被 VXNA 抓取的毛病</a>
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-04</time>
+                                    <a href="https://eduardoqian.com/archives/luo-ma-fo-luo-lun-sa-fan-di-gang-zhi-lu-san" rel="external noopener" target="_blank">罗马-佛罗伦萨-梵蒂冈之旅（三）</a>
                                 </li>
                                                                 <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-05-30</time>
-                                    <a href="https://www.tortorse.com/archives/wet-market-weekend-observation/" rel="external noopener" target="_blank">菜场到底是靠谁活下来的</a>
+                                    <time class="text-muted font-monospace float-end ms-3">2026-05-12</time>
+                                    <a href="https://eduardoqian.com/archives/zuo-yi-bu-zuo-yi-jin-bu-you-tui-bu" rel="external noopener" target="_blank">左翼不左翼，进步又退步</a>
                                 </li>
                                                             </ul>
                         </div>
@@ -2933,7 +3149,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">82. </span>
+                                                                            <span class="text-muted">88. </span>
                                                                         <a href="/s/1301">Lcry</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     记录生活的点滴，分享技术享受生活。
@@ -2969,7 +3185,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">83. </span>
+                                                                            <span class="text-muted">89. </span>
                                                                         <a href="/s/1612">joeytoday</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     Show, not tell.
@@ -3005,7 +3221,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">84. </span>
+                                                                            <span class="text-muted">90. </span>
                                                                         <a href="/s/961">半方池水半方田</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     啥都懂点，只懂一点点。
@@ -3041,7 +3257,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">85. </span>
+                                                                            <span class="text-muted">91. </span>
                                                                         <a href="/s/702">杜郎俊赏</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     一个技术人的轻博客，分享学习心得和生活体验。
@@ -3077,7 +3293,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">86. </span>
+                                                                            <span class="text-muted">92. </span>
                                                                         <a href="/s/1743">卷卷</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     网络安全知识库。
@@ -3113,7 +3329,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">87. </span>
+                                                                            <span class="text-muted">93. </span>
                                                                         <a href="/s/1776">蜉蝣手札</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     沧海一粟中的一艘扁舟，记录点不值一提的小事。
@@ -3149,7 +3365,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">88. </span>
+                                                                            <span class="text-muted">94. </span>
                                                                         <a href="/s/1720">SamHou's Blog</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     Sleep for a better life.
@@ -3180,48 +3396,12 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
-                                    <a href="/s/1485">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1738756742.8343.png" alt="游钓四方的博客">
-                                    </a>
-                                </div>
-                                <div>
-                                                                            <span class="text-muted">89. </span>
-                                                                        <a href="/s/1485">游钓四方的博客</a>
-                                    <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    千禧年小孩，长途骑行小学生、野钓路亚、振出并继、古典乐、茶叶爱好者。
-                                                                            </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-lg-6">
-                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-10</time>
-                                    <a href="https://blog.lhasa.icu/posts/technology/2026-06-09-photosuite-v0-5-0-beta/" rel="external noopener" target="_blank">Photosuite EXIF 优化</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-05-29</time>
-                                    <a href="https://blog.lhasa.icu/posts/life/2026-05-28-zhuanzhu/" rel="external noopener" target="_blank">在纷杂的世界里保持专注</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-05-28</time>
-                                    <a href="https://blog.lhasa.icu/posts/life/2026-05-28-zhuanzhu" rel="external noopener" target="_blank">在纷杂的世界里保持专注</a>
-                                </li>
-                                                            </ul>
-                        </div>
-                    </div>
-                </li>
-                            <li class="list-group-item">
-                    <div class="row">
-                        <div class="col-12 col-lg-6">
-                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
-                                <div class="me-4">
                                     <a href="/s/1413">
                                         <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1731284343.5295.png" alt="倦意博客">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">90. </span>
+                                                                            <span class="text-muted">95. </span>
                                                                         <a href="/s/1413">倦意博客</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     一个专注于技术分享、网站美化和个人项目展示的博客。
@@ -3252,48 +3432,12 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
-                                    <a href="/s/1837">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1778717897.0589.png" alt="敖苛记">
-                                    </a>
-                                </div>
-                                <div>
-                                                                            <span class="text-muted">91. </span>
-                                                                        <a href="/s/1837">敖苛记</a>
-                                    <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    敖致天，苛制人。
-                                                                            </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-lg-6">
-                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-09</time>
-                                    <a href="https://blog.kayro.cn/posts/e6681c2" rel="external noopener" target="_blank">甜甜圈的数学：donut.c 是如何工作的</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-03</time>
-                                    <a href="https://blog.kayro.cn/posts/56015a4" rel="external noopener" target="_blank">如何让 AI Agent 工具帮助你清理 C 盘，让 C 盘不再报红？</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-05-26</time>
-                                    <a href="https://blog.kayro.cn/posts/54cd2e3" rel="external noopener" target="_blank">如何安装 Claude Code 并用 cc-switch 配置国内大模型</a>
-                                </li>
-                                                            </ul>
-                        </div>
-                    </div>
-                </li>
-                            <li class="list-group-item">
-                    <div class="row">
-                        <div class="col-12 col-lg-6">
-                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
-                                <div class="me-4">
                                     <a href="/s/1551">
                                         <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1747094556.27.png" alt="瓦匠小站">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">92. </span>
+                                                                            <span class="text-muted">96. </span>
                                                                         <a href="/s/1551">瓦匠小站</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     大家都是倔强的人。
@@ -3324,15 +3468,15 @@
                         <div class="col-12 col-lg-6">
                             <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
                                 <div class="me-4">
-                                    <a href="/s/392">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1608095113.194.png" alt="二丫讲梵">
+                                    <a href="/s/1837">
+                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1778717897.0589.png" alt="敖苛记">
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">93. </span>
-                                                                        <a href="/s/392">二丫讲梵</a>
+                                                                            <span class="text-muted">97. </span>
+                                                                        <a href="/s/1837">敖苛记</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    学无止境是永远前进的基础，跃然纸上是对知识的总结交代，与众分享则是实现价值的最好方式。
+                                                                                    敖致天，苛制人。
                                                                             </p>
                                 </div>
                             </div>
@@ -3340,16 +3484,16 @@
                         <div class="col-12 col-lg-6">
                             <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
                                                                 <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-05</time>
-                                    <a href="https://wiki.eryajf.net/pages/12eb60/" rel="external noopener" target="_blank">23学习周刊-总第266期-2026年第23周</a>
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-09</time>
+                                    <a href="https://blog.kayro.cn/posts/e6681c2" rel="external noopener" target="_blank">甜甜圈的数学：donut.c 是如何工作的</a>
                                 </li>
                                                                 <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-05-29</time>
-                                    <a href="https://wiki.eryajf.net/pages/ff83a5/" rel="external noopener" target="_blank">学习周刊-总第265期-2026年第22周</a>
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-03</time>
+                                    <a href="https://blog.kayro.cn/posts/56015a4" rel="external noopener" target="_blank">如何让 AI Agent 工具帮助你清理 C 盘，让 C 盘不再报红？</a>
                                 </li>
                                                                 <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-05-24</time>
-                                    <a href="https://wiki.eryajf.net/pages/1833b9/" rel="external noopener" target="_blank">学习周刊-总第264期-2026年第21周</a>
+                                    <time class="text-muted font-monospace float-end ms-3">2026-05-26</time>
+                                    <a href="https://blog.kayro.cn/posts/54cd2e3" rel="external noopener" target="_blank">如何安装 Claude Code 并用 cc-switch 配置国内大模型</a>
                                 </li>
                                                             </ul>
                         </div>
@@ -3365,7 +3509,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">94. </span>
+                                                                            <span class="text-muted">98. </span>
                                                                         <a href="/s/1770">合荒小站</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     万物合鸣，独守一荒。
@@ -3401,7 +3545,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">95. </span>
+                                                                            <span class="text-muted">99. </span>
                                                                         <a href="/s/516">破袜子</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     一个脱离不了低级趣味的人。
@@ -3437,7 +3581,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                                                            <span class="text-muted">96. </span>
+                                                                            <span class="text-muted">100. </span>
                                                                         <a href="/s/15">阮一峰的网络日志</a>
                                     <p class="mt-2 fs-7 text-muted mb-0">
                                                                                     记录每周值得分享的科技内容。
@@ -3458,150 +3602,6 @@
                                                                 <li class="post-single-title">
                                     <time class="text-muted font-monospace float-end ms-3">2026-05-22</time>
                                     <a href="http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html" rel="external noopener" target="_blank">科技爱好者周刊（第 397 期）：财富正在向 AI 集中</a>
-                                </li>
-                                                            </ul>
-                        </div>
-                    </div>
-                </li>
-                            <li class="list-group-item">
-                    <div class="row">
-                        <div class="col-12 col-lg-6">
-                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
-                                <div class="me-4">
-                                    <a href="/s/1842">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1779842755.7477.png" alt="blackbzy">
-                                    </a>
-                                </div>
-                                <div>
-                                                                            <span class="text-muted">97. </span>
-                                                                        <a href="/s/1842">blackbzy</a>
-                                    <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    日常记录，技术分享。
-                                                                            </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-lg-6">
-                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-06</time>
-                                    <a href="https://www.blackbzy.com/posts/netty-file-dispatch-center/" rel="external noopener" target="_blank">【项目】一步步做一个基于 Spring Boot + Netty 的文件分发系统</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-02</time>
-                                    <a href="https://www.blackbzy.com/posts/first-principles/" rel="external noopener" target="_blank">第一性原理（First Principles）</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-01</time>
-                                    <a href="https://www.blackbzy.com/posts/trail-running-fundamentals/" rel="external noopener" target="_blank">越野入门 基础训练</a>
-                                </li>
-                                                            </ul>
-                        </div>
-                    </div>
-                </li>
-                            <li class="list-group-item">
-                    <div class="row">
-                        <div class="col-12 col-lg-6">
-                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
-                                <div class="me-4">
-                                    <a href="/s/1806">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1775607694.5338.png" alt="人间半闲">
-                                    </a>
-                                </div>
-                                <div>
-                                                                            <span class="text-muted">98. </span>
-                                                                        <a href="/s/1806">人间半闲</a>
-                                    <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    美好的事情即将发生。
-                                                                            </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-lg-6">
-                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-05</time>
-                                    <a href="https://lhdrc.com/554.html" rel="external noopener" target="_blank">日子是过的，不是追的</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-05-26</time>
-                                    <a href="https://lhdrc.com/574.html" rel="external noopener" target="_blank">人这一辈子，到底图个什么</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-05-21</time>
-                                    <a href="https://lhdrc.com/538.html" rel="external noopener" target="_blank">修行哪有什么秘法，天天做不偷懒就行</a>
-                                </li>
-                                                            </ul>
-                        </div>
-                    </div>
-                </li>
-                            <li class="list-group-item">
-                    <div class="row">
-                        <div class="col-12 col-lg-6">
-                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
-                                <div class="me-4">
-                                    <a href="/s/890">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1681128259.5086.png" alt="拾月">
-                                    </a>
-                                </div>
-                                <div>
-                                                                            <span class="text-muted">99. </span>
-                                                                        <a href="/s/890">拾月</a>
-                                    <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    互联网行业产品类工作者；关注互联网和软件；喜欢股票投资，社科历史；执着于掌控自己的数据，self-host 爱好者。
-                                                                            </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-lg-6">
-                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-07</time>
-                                    <a href="https://www.skyue.com/26060714.html" rel="external noopener" target="_blank">装修日记（4）：618买家电</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-05-25</time>
-                                    <a href="https://www.skyue.com/26052520.html" rel="external noopener" target="_blank">一个月Vibe Coding：我写了什么，又学到了什么</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-05-17</time>
-                                    <a href="https://www.skyue.com/26051712.html" rel="external noopener" target="_blank">Typecho升级到1.3，使用Warmpaper主题</a>
-                                </li>
-                                                            </ul>
-                        </div>
-                    </div>
-                </li>
-                            <li class="list-group-item">
-                    <div class="row">
-                        <div class="col-12 col-lg-6">
-                            <div class="d-flex pt-4 pe-3 ps-3 pb-lg-4 pe-lg-0">
-                                <div class="me-4">
-                                    <a href="/s/441">
-                                        <img class="lazy-loading" width="50" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/uploads/icons/1607391112.9546.png" alt="安志合的学习博客">
-                                    </a>
-                                </div>
-                                <div>
-                                                                            <span class="text-muted">100. </span>
-                                                                        <a href="/s/441">安志合的学习博客</a>
-                                    <p class="mt-2 fs-7 text-muted mb-0">
-                                                                                    让我们面对现实 让我们忠于理想
-                                                                            </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-lg-6">
-                            <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-08</time>
-                                    <a href="https://chegva.com/6735.html" rel="external noopener" target="_blank">十二经脉，子午流注走向图</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-05-28</time>
-                                    <a href="https://chegva.com/6610.html" rel="external noopener" target="_blank">深入理解CAP理论</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-05-14</time>
-                                    <a href="https://chegva.com/6592.html" rel="external noopener" target="_blank">多路径磁盘使用场景</a>
                                 </li>
                                                             </ul>
                         </div>
