@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bf.zzxworld.com/s/diligent_list</id>
     <title>读书博客</title>
-    <updated>2026-06-16T20:26:47.118Z</updated>
+    <updated>2026-06-17T10:18:55.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bf.zzxworld.com/images/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://bf.zzxworld.com/s/diligent_list</id>
         <link href="https://bf.zzxworld.com/s/diligent_list"/>
-        <updated>2026-06-16T20:26:46.281Z</updated>
+        <updated>2026-06-17T10:18:54.501Z</updated>
         <content type="html"><![CDATA[<li class="list-group-item">
                     <div class="row">
                         <div class="col-12 col-lg-6">
@@ -928,16 +928,16 @@
                         <div class="col-12 col-lg-6">
                             <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
                                                                 <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-16</time>
+                                    <a href="https://cuixiping.com/blog/world/hgupzs" rel="external noopener" target="_blank">天涯网重启，3年恢复了25个帖子！</a>
+                                </li>
+                                                                <li class="post-single-title">
                                     <time class="text-muted font-monospace float-end ms-3">2026-06-15</time>
                                     <a href="https://cuixiping.com/blog/think/olnsvk" rel="external noopener" target="_blank">有些个人博客屏蔽海外IP访问，是不是懒？</a>
                                 </li>
                                                                 <li class="post-single-title">
                                     <time class="text-muted font-monospace float-end ms-3">2026-06-13</time>
                                     <a href="https://cuixiping.com/blog/life/xmlynr" rel="external noopener" target="_blank">《给阿嬷的情书》值得细品</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-12</time>
-                                    <a href="https://cuixiping.com/blog/life/nxsflm" rel="external noopener" target="_blank">手机屏幕坏了，体验了一次上门维修</a>
                                 </li>
                                                             </ul>
                         </div>
@@ -1072,16 +1072,16 @@
                         <div class="col-12 col-lg-6">
                             <ul class="post-list mt-3 ps-3 pe-3 pb-4 ps-lg-0">
                                                                 <li class="post-single-title">
+                                    <time class="text-muted font-monospace float-end ms-3">2026-06-17</time>
+                                    <a href="https://i55.top/archives/539/" rel="external noopener" target="_blank">硅云十年之约虚拟主机</a>
+                                </li>
+                                                                <li class="post-single-title">
                                     <time class="text-muted font-monospace float-end ms-3">2026-06-14</time>
                                     <a href="https://i55.top/archives/538/" rel="external noopener" target="_blank">世界杯有感</a>
                                 </li>
                                                                 <li class="post-single-title">
                                     <time class="text-muted font-monospace float-end ms-3">2026-06-14</time>
                                     <a href="https://i55.top/archives/537/" rel="external noopener" target="_blank">图片存档3</a>
-                                </li>
-                                                                <li class="post-single-title">
-                                    <time class="text-muted font-monospace float-end ms-3">2026-06-08</time>
-                                    <a href="https://i55.top/archives/533/" rel="external noopener" target="_blank">折腾5G通讯壳+小米路由器3</a>
                                 </li>
                                                             </ul>
                         </div>
