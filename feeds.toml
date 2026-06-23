@@ -10,6 +10,7 @@ entrySelector = ".link-list > li"
 titleSelector = "h5 > a"
 linkSelector = "h5 > a"
 dateSelector = "time"
+dateFormat = "yyyy-MM-dd"
 
 [cqsydw]
 title = "重庆市人社局-事业单位公开招聘"
@@ -18,6 +19,7 @@ entrySelector = ".rsj-list1 > li"
 titleSelector = "a"
 linkSelector = "a"
 dateSelector = "span"
+dateFormat = "yyyy-MM-dd"
 
 [cqsydwjqtks]
 title = "重庆市人社局-事业单位及其他考试"
@@ -26,6 +28,7 @@ entrySelector = ".rsj-list1 > li"
 titleSelector = "a"
 linkSelector = "a"
 dateSelector = "span"
+dateFormat = "yyyy-MM-dd"
 
 [cqgwy]
 title = "重庆市人社局-公务员考试"
@@ -42,6 +45,7 @@ entrySelector = ".rsj-list1 > li"
 titleSelector = "a"
 linkSelector = "a"
 dateSelector = "span"
+dateFormat = "yyyy-MM-dd"
 
 [cqgsxx]
 title = "重庆市人社局-公示信息"
@@ -58,6 +62,7 @@ entrySelector = ".tab-item > .clearfix"
 titleSelector = "a"
 linkSelector = "a"
 dateSelector = "span"
+dateFormat = "yyyy-MM-dd"
 
 [cqfenbi]
 title = "重庆粉笔招考"
@@ -66,6 +71,7 @@ entrySelector = "div.zixun-block > div"
 titleSelector = "div.zhaokaoxinxi-item-title"
 linkSelector = "div.zixun-block > div > a"
 dateSelector = "div.zhaokaoxinxi-item-location"
+dateFormat = "yyyy-MM-dd"
 
 [jinbiaochi]
 title = "金标尺重庆教师工作相关页面"
@@ -74,6 +80,7 @@ entrySelector = "html > body > .detpagapp > .detpag_cont > .container > .detpag_
 titleSelector = "ul > li > a > div"
 linkSelector = ".flex-asb > .ellipsis"
 dateSelector = ".date"
+dateFormat = "yyyy-MM-dd"
 
 [readblog]
 title = "读书博客"
@@ -82,3 +89,4 @@ entrySelector = ".post-single-title"
 titleSelector = "a"
 linkSelector = "a"
 dateSelector = ".text-muted"
+dateFormat = "yyyy-MM-dd"
