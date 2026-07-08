@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/</id>
     <title>重庆市人社局-公示信息</title>
-    <updated>2026-07-08T07:57:43.115Z</updated>
+    <updated>2026-07-08T19:06:50.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[重庆市属事业单位2025年第三季度公开招聘工作人员拟聘人员公示 （市高法院第二批）]]></title>
+        <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202607/t20260708_15808624.html</id>
+        <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202607/t20260708_15808624.html"/>
+        <updated>2026-07-08T19:00:16.605Z</updated>
+        <content type="html"><![CDATA[<a href="./202607/t20260708_15808624.html" title="重庆市属事业单位2025年第三季度公开招聘工作人员拟聘人员公示 （市高法院第二批）" target="_blank">重庆市属事业单位2025年第三季度公开招聘工作人员拟聘人员公示 （市高法院第二批）</a><span>2026-07-08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重庆市人力资源开发服务中心2026年公开招聘非在编工作人员拟聘人员公示]]></title>
         <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202607/t20260708_15807673.html</id>
@@ -137,12 +144,5 @@
         <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202606/t20260630_15787432.html"/>
         <updated>2026-06-30T08:53:12.667Z</updated>
         <content type="html"><![CDATA[<a href="./202606/t20260630_15787432.html" title="重庆市属事业单位2026年第一季度公开招聘工作人员拟聘人员公示 （重庆市城市管理局）" target="_blank">重庆市属事业单位2026年第一季度公开招聘工作人员拟聘人员公示 （重庆市城市管理局）</a><span>2026-06-30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重庆市属事业单位2025年第三季度公开招聘工作人员拟聘人员公示 （市委直属机关工委）]]></title>
-        <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202606/t20260630_15787280.html</id>
-        <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202606/t20260630_15787280.html"/>
-        <updated>2026-06-30T08:53:12.667Z</updated>
-        <content type="html"><![CDATA[<a href="./202606/t20260630_15787280.html" title="重庆市属事业单位2025年第三季度公开招聘工作人员拟聘人员公示 （市委直属机关工委）" target="_blank">重庆市属事业单位2025年第三季度公开招聘工作人员拟聘人员公示 （市委直属机关工委）</a><span>2026-06-30</span>]]></content>
     </entry>
 </feed>
