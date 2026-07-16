@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/</id>
     <title>重庆市人社局-公示信息</title>
-    <updated>2026-07-15T18:49:31.352Z</updated>
+    <updated>2026-07-16T07:49:03.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[关于审判工作先进集体和先进个人拟表彰对象的公示]]></title>
+        <id>http://cqgy.cqfygzfw.gov.cn/article/detail/2026/07/id/9410690.shtml</id>
+        <link href="http://cqgy.cqfygzfw.gov.cn/article/detail/2026/07/id/9410690.shtml"/>
+        <updated>2026-07-16T07:45:20.391Z</updated>
+        <content type="html"><![CDATA[<a href="http://cqgy.cqfygzfw.gov.cn/article/detail/2026/07/id/9410690.shtml" title="关于审判工作先进集体和先进个人拟表彰对象的公示" target="_blank">关于审判工作先进集体和先进个人拟表彰对象的公示</a><span>2026-07-16</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于人力社保工作先进集体和先进个人拟表彰对象的公示]]></title>
         <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202607/t20260715_15825347.html</id>
@@ -137,12 +144,5 @@
         <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202607/t20260709_15812250.html"/>
         <updated>2026-07-09T19:19:57.259Z</updated>
         <content type="html"><![CDATA[<a href="./202607/t20260709_15812250.html" title="重庆市属事业单位2025年第二季度公开遴选工作人员拟聘人员公示（市民政局第二批）" target="_blank">重庆市属事业单位2025年第二季度公开遴选工作人员拟聘人员公示（市民政局第二批）</a><span>2026-07-09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[渝中区事业单位2026年公开招聘拟聘人员公示（第三批）]]></title>
-        <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202607/t20260709_15812280.html</id>
-        <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202607/t20260709_15812280.html"/>
-        <updated>2026-07-09T19:19:57.266Z</updated>
-        <content type="html"><![CDATA[<a href="./202607/t20260709_15812280.html" title="渝中区事业单位2026年公开招聘拟聘人员公示（第三批）" target="_blank">渝中区事业单位2026年公开招聘拟聘人员公示（第三批）</a><span>2026-07-09</span>]]></content>
     </entry>
 </feed>
