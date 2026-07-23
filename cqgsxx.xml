@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/</id>
     <title>重庆市人社局-公示信息</title>
-    <updated>2026-07-22T08:08:21.528Z</updated>
+    <updated>2026-07-23T08:14:40.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[关于拟备案职业技能考核鉴定机构的公示]]></title>
+        <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202607/t20260723_15844688.html</id>
+        <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202607/t20260723_15844688.html"/>
+        <updated>2026-07-23T08:13:56.996Z</updated>
+        <content type="html"><![CDATA[<a href="./202607/t20260723_15844688.html" title="关于拟备案职业技能考核鉴定机构的公示" target="_blank">关于拟备案职业技能考核鉴定机构的公示</a><span>2026-07-23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大渡口区事业单位2026年公开招聘拟聘人员公示（第五批）]]></title>
         <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202607/t20260721_15837846.html</id>
@@ -137,12 +144,5 @@
         <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202607/t20260710_15815653.html"/>
         <updated>2026-07-10T08:57:19.440Z</updated>
         <content type="html"><![CDATA[<a href="./202607/t20260710_15815653.html" title="关于2026年度第一批拟新增备案职业（工种）及等级认定范围的公示" target="_blank">关于2026年度第一批拟新增备案职业（工种）及等级认定范围的公示</a><span>2026-07-10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于2026年度第一批拟新设备案职业技能等级认定机构的公示]]></title>
-        <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202607/t20260710_15815646.html</id>
-        <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202607/t20260710_15815646.html"/>
-        <updated>2026-07-10T08:57:19.441Z</updated>
-        <content type="html"><![CDATA[<a href="./202607/t20260710_15815646.html" title="关于2026年度第一批拟新设备案职业技能等级认定机构的公示" target="_blank">关于2026年度第一批拟新设备案职业技能等级认定机构的公示</a><span>2026-07-10</span>]]></content>
     </entry>
 </feed>
