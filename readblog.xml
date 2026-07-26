@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bf.zzxworld.com/s/diligent_list</id>
     <title>读书博客</title>
-    <updated>2026-07-26T08:09:15.378Z</updated>
+    <updated>2026-07-26T18:38:44.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bf.zzxworld.com/images/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ZR 集训 Day10 – DP 优化]]></title>
+        <id>https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day10-dp-%e4%bc%98%e5%8c%96/</id>
+        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day10-dp-%e4%bc%98%e5%8c%96/"/>
+        <updated>2026-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-26</time>
+                                    <a href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day10-dp-%e4%bc%98%e5%8c%96/" rel="external noopener" target="_blank">ZR 集训 Day10 – DP 优化</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZR 集训 Day 9 – 状态压缩 DP，数位 DP]]></title>
+        <id>https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day-9-%e7%8a%b6%e6%80%81%e5%8e%8b%e7%bc%a9-dp%ef%bc%8c%e6%95%b0%e4%bd%8d-dp/</id>
+        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day-9-%e7%8a%b6%e6%80%81%e5%8e%8b%e7%bc%a9-dp%ef%bc%8c%e6%95%b0%e4%bd%8d-dp/"/>
+        <updated>2026-07-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-25</time>
+                                    <a href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day-9-%e7%8a%b6%e6%80%81%e5%8e%8b%e7%bc%a9-dp%ef%bc%8c%e6%95%b0%e4%bd%8d-dp/" rel="external noopener" target="_blank">ZR 集训 Day 9 – 状态压缩 DP，数位 DP</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZR 集训 Day9 – 状态压缩 DP，数位 DP]]></title>
+        <id>https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day9-%e7%8a%b6%e6%80%81%e5%8e%8b%e7%bc%a9-dp%e6%95%b0%e4%bd%8d-dp/</id>
+        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day9-%e7%8a%b6%e6%80%81%e5%8e%8b%e7%bc%a9-dp%e6%95%b0%e4%bd%8d-dp/"/>
+        <updated>2026-07-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-25</time>
+                                    <a href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day9-%e7%8a%b6%e6%80%81%e5%8e%8b%e7%bc%a9-dp%e6%95%b0%e4%bd%8d-dp/" rel="external noopener" target="_blank">ZR 集训 Day9 – 状态压缩 DP，数位 DP</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[≡ 005｜这两周莫比乌斯环转到了哪里？]]></title>
+        <id>https://mobius.blog/25160.html</id>
+        <link href="https://mobius.blog/25160.html"/>
+        <updated>2026-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-26</time>
+                                    <a href="https://mobius.blog/25160.html" rel="external noopener" target="_blank">≡ 005｜这两周莫比乌斯环转到了哪里？</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[厕所]]></title>
         <id>https://mobius.blog/25199.html</id>
@@ -22,36 +54,76 @@
                                     <a href="https://mobius.blog/25145.html" rel="external noopener" target="_blank">为了反对而反对的人，如何反对为了反对而反对他们的人？</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI 还原已故亲人，也制造精神病人？II]]></title>
-        <id>https://mobius.blog/25130.html</id>
-        <link href="https://mobius.blog/25130.html"/>
-        <updated>2026-07-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-23</time>
-                                    <a href="https://mobius.blog/25130.html" rel="external noopener" target="_blank">AI 还原已故亲人，也制造精神病人？II</a>]]></content>
+        <title type="html"><![CDATA[断层里的心理学]]></title>
+        <id>https://blog.solazy.me/20260726/</id>
+        <link href="https://blog.solazy.me/20260726/"/>
+        <updated>2026-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-26</time>
+                                    <a href="https://blog.solazy.me/20260726/" rel="external noopener" target="_blank">断层里的心理学</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ZR 集训 Day 9 – 状态压缩 DP，数位 DP]]></title>
-        <id>https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day-9-%e7%8a%b6%e6%80%81%e5%8e%8b%e7%bc%a9-dp%ef%bc%8c%e6%95%b0%e4%bd%8d-dp/</id>
-        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day-9-%e7%8a%b6%e6%80%81%e5%8e%8b%e7%bc%a9-dp%ef%bc%8c%e6%95%b0%e4%bd%8d-dp/"/>
+        <title type="html"><![CDATA[周末流水账 0725]]></title>
+        <id>https://blog.solazy.me/20260725/</id>
+        <link href="https://blog.solazy.me/20260725/"/>
         <updated>2026-07-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-25</time>
-                                    <a href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day-9-%e7%8a%b6%e6%80%81%e5%8e%8b%e7%bc%a9-dp%ef%bc%8c%e6%95%b0%e4%bd%8d-dp/" rel="external noopener" target="_blank">ZR 集训 Day 9 – 状态压缩 DP，数位 DP</a>]]></content>
+                                    <a href="https://blog.solazy.me/20260725/" rel="external noopener" target="_blank">周末流水账 0725</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[区间 DP、树形 DP]]></title>
-        <id>https://blog.ooliver.cn/%e5%8c%ba%e9%97%b4-dp%e3%80%81%e6%a0%91%e5%bd%a2-dp/</id>
-        <link href="https://blog.ooliver.cn/%e5%8c%ba%e9%97%b4-dp%e3%80%81%e6%a0%91%e5%bd%a2-dp/"/>
+        <title type="html"><![CDATA[那些没有拍下来的时刻]]></title>
+        <id>https://blog.solazy.me/20260724/</id>
+        <link href="https://blog.solazy.me/20260724/"/>
         <updated>2026-07-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-24</time>
-                                    <a href="https://blog.ooliver.cn/%e5%8c%ba%e9%97%b4-dp%e3%80%81%e6%a0%91%e5%bd%a2-dp/" rel="external noopener" target="_blank">区间 DP、树形 DP</a>]]></content>
+                                    <a href="https://blog.solazy.me/20260724/" rel="external noopener" target="_blank">那些没有拍下来的时刻</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ZR 集训 Day8 – 区间 DP、树形 DP]]></title>
-        <id>https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day8-%e5%8c%ba%e9%97%b4-dp%e6%a0%91%e5%bd%a2-dp/</id>
-        <link href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day8-%e5%8c%ba%e9%97%b4-dp%e6%a0%91%e5%bd%a2-dp/"/>
+        <title type="html"><![CDATA[暴露出傲慢与无知的优越感]]></title>
+        <id>https://www.pgoj.top/archives/wu-zhi-you-yue.html</id>
+        <link href="https://www.pgoj.top/archives/wu-zhi-you-yue.html"/>
+        <updated>2026-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-26</time>
+                                    <a href="https://www.pgoj.top/archives/wu-zhi-you-yue.html" rel="external noopener" target="_blank">暴露出傲慢与无知的优越感</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这个时代，只有好心、善意是不行的]]></title>
+        <id>https://www.pgoj.top/archives/hao-xin-shan-yi.html</id>
+        <link href="https://www.pgoj.top/archives/hao-xin-shan-yi.html"/>
         <updated>2026-07-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-24</time>
-                                    <a href="https://blog.ooliver.cn/zr-%e9%9b%86%e8%ae%ad-day8-%e5%8c%ba%e9%97%b4-dp%e6%a0%91%e5%bd%a2-dp/" rel="external noopener" target="_blank">ZR 集训 Day8 – 区间 DP、树形 DP</a>]]></content>
+                                    <a href="https://www.pgoj.top/archives/hao-xin-shan-yi.html" rel="external noopener" target="_blank">这个时代，只有好心、善意是不行的</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[缺少情感陪伴的老人容易上当]]></title>
+        <id>https://www.pgoj.top/archives/lao-ren-gou-wu.html</id>
+        <link href="https://www.pgoj.top/archives/lao-ren-gou-wu.html"/>
+        <updated>2026-07-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-23</time>
+                                    <a href="https://www.pgoj.top/archives/lao-ren-gou-wu.html" rel="external noopener" target="_blank">缺少情感陪伴的老人容易上当</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[豆子如何产生价值]]></title>
+        <id>https://www.immarcus.com/blog/how-a-bean-creates-value</id>
+        <link href="https://www.immarcus.com/blog/how-a-bean-creates-value"/>
+        <updated>2026-07-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-25</time>
+                                    <a href="https://www.immarcus.com/blog/how-a-bean-creates-value" rel="external noopener" target="_blank">豆子如何产生价值</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超～长篇博客]]></title>
+        <id>https://www.immarcus.com/blog/cytrogen-returns-s</id>
+        <link href="https://www.immarcus.com/blog/cytrogen-returns-s"/>
+        <updated>2026-07-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-24</time>
+                                    <a href="https://www.immarcus.com/blog/cytrogen-returns-s" rel="external noopener" target="_blank">超～长篇博客</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疯狂的美国体育文化]]></title>
+        <id>https://www.immarcus.com/blog/crazy-sports-culture-in-usa</id>
+        <link href="https://www.immarcus.com/blog/crazy-sports-culture-in-usa"/>
+        <updated>2026-07-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-23</time>
+                                    <a href="https://www.immarcus.com/blog/crazy-sports-culture-in-usa" rel="external noopener" target="_blank">疯狂的美国体育文化</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一次高铁旅程，看清某些素质低下的家教和教育程度👎]]></title>
@@ -78,6 +150,54 @@
                                     <a href="https://upxuu.com/posts/seed-file/" rel="external noopener" target="_blank">无需服务器，让文件在各个设备自由流转——LocalSend</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[随思 #108 - 2026-07-26]]></title>
+        <id>http://qthinker.net/content/108</id>
+        <link href="http://qthinker.net/content/108"/>
+        <updated>2026-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-26</time>
+                                    <a href="http://qthinker.net/content/108" rel="external noopener" target="_blank">随思 #108 - 2026-07-26</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[随思 #107 - 2026-07-21]]></title>
+        <id>http://qthinker.net/content/107</id>
+        <link href="http://qthinker.net/content/107"/>
+        <updated>2026-07-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-22</time>
+                                    <a href="http://qthinker.net/content/107" rel="external noopener" target="_blank">随思 #107 - 2026-07-21</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黄金价格分析与黄金 ETF 投资策略研究报告]]></title>
+        <id>http://qthinker.net/content/106</id>
+        <link href="http://qthinker.net/content/106"/>
+        <updated>2026-07-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-21</time>
+                                    <a href="http://qthinker.net/content/106" rel="external noopener" target="_blank">黄金价格分析与黄金 ETF 投资策略研究报告</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《找个好归宿》]]></title>
+        <id>https://www.weiwenchao.com/2708.html</id>
+        <link href="https://www.weiwenchao.com/2708.html"/>
+        <updated>2026-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-26</time>
+                                    <a href="https://www.weiwenchao.com/2708.html" rel="external noopener" target="_blank">《找个好归宿》</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《一声吆喝》]]></title>
+        <id>https://www.weiwenchao.com/2699.html</id>
+        <link href="https://www.weiwenchao.com/2699.html"/>
+        <updated>2026-07-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-24</time>
+                                    <a href="https://www.weiwenchao.com/2699.html" rel="external noopener" target="_blank">《一声吆喝》</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《随感言论杂录2607-2》]]></title>
+        <id>https://www.weiwenchao.com/2692.html</id>
+        <link href="https://www.weiwenchao.com/2692.html"/>
+        <updated>2026-07-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-22</time>
+                                    <a href="https://www.weiwenchao.com/2692.html" rel="external noopener" target="_blank">《随感言论杂录2607-2》</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[十年了！我终于学会了蛙泳]]></title>
         <id>https://blog.weasel6.cn/posts/swimming/</id>
         <link href="https://blog.weasel6.cn/posts/swimming/"/>
@@ -102,52 +222,28 @@
                                     <a href="https://blog.weasel6.cn/posts/vivobrowser/" rel="external noopener" target="_blank">国产手机浏览器居然开始好用了</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[超～长篇博客]]></title>
-        <id>https://www.immarcus.com/blog/cytrogen-returns-s</id>
-        <link href="https://www.immarcus.com/blog/cytrogen-returns-s"/>
+        <title type="html"><![CDATA[好像都是坏消息]]></title>
+        <id>https://ddbzhou.com/post/doushihuaixiaoxi/</id>
+        <link href="https://ddbzhou.com/post/doushihuaixiaoxi/"/>
         <updated>2026-07-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-24</time>
-                                    <a href="https://www.immarcus.com/blog/cytrogen-returns-s" rel="external noopener" target="_blank">超～长篇博客</a>]]></content>
+                                    <a href="https://ddbzhou.com/post/doushihuaixiaoxi/" rel="external noopener" target="_blank">好像都是坏消息</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[疯狂的美国体育文化]]></title>
-        <id>https://www.immarcus.com/blog/crazy-sports-culture-in-usa</id>
-        <link href="https://www.immarcus.com/blog/crazy-sports-culture-in-usa"/>
+        <title type="html"><![CDATA[果然如此]]></title>
+        <id>https://ddbzhou.com/post/guoranruci/</id>
+        <link href="https://ddbzhou.com/post/guoranruci/"/>
         <updated>2026-07-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-23</time>
-                                    <a href="https://www.immarcus.com/blog/crazy-sports-culture-in-usa" rel="external noopener" target="_blank">疯狂的美国体育文化</a>]]></content>
+                                    <a href="https://ddbzhou.com/post/guoranruci/" rel="external noopener" target="_blank">果然如此</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[re² 三种法律，三种世界]]></title>
-        <id>https://www.immarcus.com/blog/re-re-three-laws-three-worlds</id>
-        <link href="https://www.immarcus.com/blog/re-re-three-laws-three-worlds"/>
+        <title type="html"><![CDATA[棒糖交加的日子]]></title>
+        <id>https://ddbzhou.com/post/bangtangjiajia/</id>
+        <link href="https://ddbzhou.com/post/bangtangjiajia/"/>
         <updated>2026-07-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-22</time>
-                                    <a href="https://www.immarcus.com/blog/re-re-three-laws-three-worlds" rel="external noopener" target="_blank">re² 三种法律，三种世界</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个时代，只有好心、善意是不行的]]></title>
-        <id>https://www.pgoj.top/archives/hao-xin-shan-yi.html</id>
-        <link href="https://www.pgoj.top/archives/hao-xin-shan-yi.html"/>
-        <updated>2026-07-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-24</time>
-                                    <a href="https://www.pgoj.top/archives/hao-xin-shan-yi.html" rel="external noopener" target="_blank">这个时代，只有好心、善意是不行的</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[缺少情感陪伴的老人容易上当]]></title>
-        <id>https://www.pgoj.top/archives/lao-ren-gou-wu.html</id>
-        <link href="https://www.pgoj.top/archives/lao-ren-gou-wu.html"/>
-        <updated>2026-07-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-23</time>
-                                    <a href="https://www.pgoj.top/archives/lao-ren-gou-wu.html" rel="external noopener" target="_blank">缺少情感陪伴的老人容易上当</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[越来越多的孩子与家长看淡学历了]]></title>
-        <id>https://www.pgoj.top/archives/xu-li-dan-hua.html</id>
-        <link href="https://www.pgoj.top/archives/xu-li-dan-hua.html"/>
-        <updated>2026-07-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-22</time>
-                                    <a href="https://www.pgoj.top/archives/xu-li-dan-hua.html" rel="external noopener" target="_blank">越来越多的孩子与家长看淡学历了</a>]]></content>
+                                    <a href="https://ddbzhou.com/post/bangtangjiajia/" rel="external noopener" target="_blank">棒糖交加的日子</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【不凡摄影作品 | 2026.7.25】]]></title>
@@ -174,28 +270,28 @@
                                     <a href="https://www.bufanz.com/20260721759.html" rel="external noopener" target="_blank">四川地区室外太阳下温度超50度！</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[耳机戴久了耳朵痛]]></title>
-        <id>https://dahaishiguang.cn/posts/627217/</id>
-        <link href="https://dahaishiguang.cn/posts/627217/"/>
+        <title type="html"><![CDATA[【故事】我给自己写了一只手]]></title>
+        <id>https://hexo.limour.top/i-wrote-a-hand-for-myself</id>
+        <link href="https://hexo.limour.top/i-wrote-a-hand-for-myself"/>
+        <updated>2026-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-26</time>
+                                    <a href="https://hexo.limour.top/i-wrote-a-hand-for-myself" rel="external noopener" target="_blank">【故事】我给自己写了一只手</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【记录】安装并配置pi-agent]]></title>
+        <id>https://hexo.limour.top/installing-and-configuring-pi-agent</id>
+        <link href="https://hexo.limour.top/installing-and-configuring-pi-agent"/>
         <updated>2026-07-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-25</time>
-                                    <a href="https://dahaishiguang.cn/posts/627217/" rel="external noopener" target="_blank">耳机戴久了耳朵痛</a>]]></content>
+                                    <a href="https://hexo.limour.top/installing-and-configuring-pi-agent" rel="external noopener" target="_blank">【记录】安装并配置pi-agent</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[车祸后的这一个月]]></title>
-        <id>https://dahaishiguang.cn/posts/565194/</id>
-        <link href="https://dahaishiguang.cn/posts/565194/"/>
-        <updated>2026-07-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-24</time>
-                                    <a href="https://dahaishiguang.cn/posts/565194/" rel="external noopener" target="_blank">车祸后的这一个月</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kindle Colorsoft 半个月体验]]></title>
-        <id>https://dahaishiguang.cn/posts/853247/</id>
-        <link href="https://dahaishiguang.cn/posts/853247/"/>
-        <updated>2026-07-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-24</time>
-                                    <a href="https://dahaishiguang.cn/posts/853247/" rel="external noopener" target="_blank">Kindle Colorsoft 半个月体验</a>]]></content>
+        <title type="html"><![CDATA[【记录】虚拟机安装Debian]]></title>
+        <id>https://hexo.limour.top/installing-debian-on-vmware</id>
+        <link href="https://hexo.limour.top/installing-debian-on-vmware"/>
+        <updated>2026-07-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-23</time>
+                                    <a href="https://hexo.limour.top/installing-debian-on-vmware" rel="external noopener" target="_blank">【记录】虚拟机安装Debian</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[褪去流量滤镜，读懂《功夫女足》：周星驰从未辜负平凡的梦想]]></title>
@@ -246,28 +342,52 @@
                                     <a href="https://d-d.design/single/19812" rel="external noopener" target="_blank">我以为凶手是穿越后的自己</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[那些没有拍下来的时刻]]></title>
-        <id>https://blog.solazy.me/20260724/</id>
-        <link href="https://blog.solazy.me/20260724/"/>
-        <updated>2026-07-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-24</time>
-                                    <a href="https://blog.solazy.me/20260724/" rel="external noopener" target="_blank">那些没有拍下来的时刻</a>]]></content>
+        <title type="html"><![CDATA[tmux 的 Windows 版本 psmux，无需 WSL Cygwin]]></title>
+        <id>https://www.sunzhongwei.com/tmux-windows-version-psmux</id>
+        <link href="https://www.sunzhongwei.com/tmux-windows-version-psmux"/>
+        <updated>2026-07-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-25</time>
+                                    <a href="https://www.sunzhongwei.com/tmux-windows-version-psmux" rel="external noopener" target="_blank">tmux 的 Windows 版本 psmux，无需 WSL Cygwin</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[事情要一件一件来]]></title>
-        <id>https://blog.solazy.me/20260722/</id>
-        <link href="https://blog.solazy.me/20260722/"/>
+        <title type="html"><![CDATA[Red Hat 8 / Rocky Linux 配置国内软件源]]></title>
+        <id>https://www.sunzhongwei.com/red-hat-rocky-linux-configuration-domestic-software-sources</id>
+        <link href="https://www.sunzhongwei.com/red-hat-rocky-linux-configuration-domestic-software-sources"/>
         <updated>2026-07-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-22</time>
-                                    <a href="https://blog.solazy.me/20260722/" rel="external noopener" target="_blank">事情要一件一件来</a>]]></content>
+                                    <a href="https://www.sunzhongwei.com/red-hat-rocky-linux-configuration-domestic-software-sources" rel="external noopener" target="_blank">Red Hat 8 / Rocky Linux 配置国内软件源</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[凌晨十二点的工作群]]></title>
-        <id>https://blog.solazy.me/20260721/</id>
-        <link href="https://blog.solazy.me/20260721/"/>
-        <updated>2026-07-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-21</time>
-                                    <a href="https://blog.solazy.me/20260721/" rel="external noopener" target="_blank">凌晨十二点的工作群</a>]]></content>
+        <title type="html"><![CDATA[Linux 服务器上将 Excel 文件转换为 PDF，docker 镜像 gotenberg]]></title>
+        <id>https://www.sunzhongwei.com/convert-excel-files-pdf-linux-servers-docker-image-gotenberg</id>
+        <link href="https://www.sunzhongwei.com/convert-excel-files-pdf-linux-servers-docker-image-gotenberg"/>
+        <updated>2026-07-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-19</time>
+                                    <a href="https://www.sunzhongwei.com/convert-excel-files-pdf-linux-servers-docker-image-gotenberg" rel="external noopener" target="_blank">Linux 服务器上将 Excel 文件转换为 PDF，docker 镜像 gotenberg</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[耳机戴久了耳朵痛]]></title>
+        <id>https://dahaishiguang.cn/posts/627217/</id>
+        <link href="https://dahaishiguang.cn/posts/627217/"/>
+        <updated>2026-07-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-25</time>
+                                    <a href="https://dahaishiguang.cn/posts/627217/" rel="external noopener" target="_blank">耳机戴久了耳朵痛</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[车祸后的这一个月]]></title>
+        <id>https://dahaishiguang.cn/posts/565194/</id>
+        <link href="https://dahaishiguang.cn/posts/565194/"/>
+        <updated>2026-07-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-24</time>
+                                    <a href="https://dahaishiguang.cn/posts/565194/" rel="external noopener" target="_blank">车祸后的这一个月</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kindle Colorsoft 半个月体验]]></title>
+        <id>https://dahaishiguang.cn/posts/853247/</id>
+        <link href="https://dahaishiguang.cn/posts/853247/"/>
+        <updated>2026-07-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-24</time>
+                                    <a href="https://dahaishiguang.cn/posts/853247/" rel="external noopener" target="_blank">Kindle Colorsoft 半个月体验</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[trae告别白嫖时代，auto也需排队了]]></title>
@@ -342,28 +462,28 @@
                                     <a href="https://blog.biecui.com/35.html" rel="external noopener" target="_blank">Typecho文章默认排序方式修改</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[果然如此]]></title>
-        <id>https://ddbzhou.com/post/guoranruci/</id>
-        <link href="https://ddbzhou.com/post/guoranruci/"/>
-        <updated>2026-07-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-23</time>
-                                    <a href="https://ddbzhou.com/post/guoranruci/" rel="external noopener" target="_blank">果然如此</a>]]></content>
+        <title type="html"><![CDATA[网站出现意外，恢复后部分评论遗失]]></title>
+        <id>https://jiangcl.com/4869</id>
+        <link href="https://jiangcl.com/4869"/>
+        <updated>2026-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-26</time>
+                                    <a href="https://jiangcl.com/4869" rel="external noopener" target="_blank">网站出现意外，恢复后部分评论遗失</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[棒糖交加的日子]]></title>
-        <id>https://ddbzhou.com/post/bangtangjiajia/</id>
-        <link href="https://ddbzhou.com/post/bangtangjiajia/"/>
-        <updated>2026-07-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-22</time>
-                                    <a href="https://ddbzhou.com/post/bangtangjiajia/" rel="external noopener" target="_blank">棒糖交加的日子</a>]]></content>
+        <title type="html"><![CDATA[关于蒙需和友情链接页面的视觉改版]]></title>
+        <id>https://jiangcl.com/4857</id>
+        <link href="https://jiangcl.com/4857"/>
+        <updated>2026-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-26</time>
+                                    <a href="https://jiangcl.com/4857" rel="external noopener" target="_blank">关于蒙需和友情链接页面的视觉改版</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[还是熟悉的套路]]></title>
-        <id>https://ddbzhou.com/post/haishishuxidetaolu/</id>
-        <link href="https://ddbzhou.com/post/haishishuxidetaolu/"/>
-        <updated>2026-07-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-21</time>
-                                    <a href="https://ddbzhou.com/post/haishishuxidetaolu/" rel="external noopener" target="_blank">还是熟悉的套路</a>]]></content>
+        <title type="html"><![CDATA[构树神奇的同枝异形叶片]]></title>
+        <id>https://jiangcl.com/4854</id>
+        <link href="https://jiangcl.com/4854"/>
+        <updated>2026-07-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-25</time>
+                                    <a href="https://jiangcl.com/4854" rel="external noopener" target="_blank">构树神奇的同枝异形叶片</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[請開啟 JavaScript 以繼續搜尋]]></title>
@@ -388,6 +508,30 @@
         <updated>2026-07-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-19</time>
                                     <a href="https://taxodium.ink/xiaoxiang-supermarket-fresh-beer-review.html" rel="external noopener" target="_blank">小象超市鮮啤簡評</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近惦念 20260716]]></title>
+        <id>https://z.arlmy.me/posts/TILs/thoughts/20260716_Recently/</id>
+        <link href="https://z.arlmy.me/posts/TILs/thoughts/20260716_Recently/"/>
+        <updated>2026-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-26</time>
+                                    <a href="https://z.arlmy.me/posts/TILs/thoughts/20260716_Recently/" rel="external noopener" target="_blank">最近惦念 20260716</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toots 429 2026 Jul.19 - Jul.25]]></title>
+        <id>https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260725/</id>
+        <link href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260725/"/>
+        <updated>2026-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-26</time>
+                                    <a href="https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260725/" rel="external noopener" target="_blank">Toots 429 2026 Jul.19 - Jul.25</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近惦念 20260705]]></title>
+        <id>https://z.arlmy.me/posts/TILs/thoughts/20260705_Recently/</id>
+        <link href="https://z.arlmy.me/posts/TILs/thoughts/20260705_Recently/"/>
+        <updated>2026-07-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-20</time>
+                                    <a href="https://z.arlmy.me/posts/TILs/thoughts/20260705_Recently/" rel="external noopener" target="_blank">最近惦念 20260705</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[解决Quicker旧版本无法登录]]></title>
@@ -510,6 +654,30 @@
                                     <a href="http://www.xulog.cn/index.php?act=pl&amp;id=1185" rel="external noopener" target="_blank">五年念洪</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[网吧复兴？]]></title>
+        <id>https://ltmltm.cn/bk/1482.html</id>
+        <link href="https://ltmltm.cn/bk/1482.html"/>
+        <updated>2026-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-26</time>
+                                    <a href="https://ltmltm.cn/bk/1482.html" rel="external noopener" target="_blank">网吧复兴？</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[充送]]></title>
+        <id>https://ltmltm.cn/bk/1480.html</id>
+        <link href="https://ltmltm.cn/bk/1480.html"/>
+        <updated>2026-07-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-22</time>
+                                    <a href="https://ltmltm.cn/bk/1480.html" rel="external noopener" target="_blank">充送</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[填志愿]]></title>
+        <id>https://ltmltm.cn/bk/1479.html</id>
+        <link href="https://ltmltm.cn/bk/1479.html"/>
+        <updated>2026-07-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-14</time>
+                                    <a href="https://ltmltm.cn/bk/1479.html" rel="external noopener" target="_blank">填志愿</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[矩阵分解 -3- 方法综述]]></title>
         <id>https://www.zywvvd.com/notes/study/linear-algebra/matrix-decomp/matrix-decomp-overview/matrix-decomp-overview/</id>
         <link href="https://www.zywvvd.com/notes/study/linear-algebra/matrix-decomp/matrix-decomp-overview/matrix-decomp-overview/"/>
@@ -556,6 +724,30 @@
         <updated>2026-07-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-22</time>
                                     <a href="https://blog.lichenghao.cn/article/f7940r53580s" rel="external noopener" target="_blank">SpringBoot下载文件打不开问题</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[说说：昨天去看了扬州主场VS徐州的比赛，但是由于天气太热，身体不舒服，上半场…]]></title>
+        <id>https://yigeboke.com/shuoshuo.php#shuo_37</id>
+        <link href="https://yigeboke.com/shuoshuo.php#shuo_37"/>
+        <updated>2026-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-26</time>
+                                    <a href="https://yigeboke.com/shuoshuo.php#shuo_37" rel="external noopener" target="_blank">说说：昨天去看了扬州主场VS徐州的比赛，但是由于天气太热，身体不舒服，上半场…</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[说说：今天凌晨西班牙成功拿下 2026 美加墨世界杯总冠军，翻出 6 月 1…]]></title>
+        <id>https://yigeboke.com/shuoshuo.php#shuo_36</id>
+        <link href="https://yigeboke.com/shuoshuo.php#shuo_36"/>
+        <updated>2026-07-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-20</time>
+                                    <a href="https://yigeboke.com/shuoshuo.php#shuo_36" rel="external noopener" target="_blank">说说：今天凌晨西班牙成功拿下 2026 美加墨世界杯总冠军，翻出 6 月 1…</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[求助｜慢性咽炎久治不愈，输液吃药不停复发怎么办]]></title>
+        <id>https://yigeboke.com/article.php?id=47</id>
+        <link href="https://yigeboke.com/article.php?id=47"/>
+        <updated>2026-07-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-15</time>
+                                    <a href="https://yigeboke.com/article.php?id=47" rel="external noopener" target="_blank">求助｜慢性咽炎久治不愈，输液吃药不停复发怎么办</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[数码评测(72)：多核CPU选择之新发现]]></title>
@@ -630,52 +822,28 @@
                                     <a href="https://qaqbuyan.com:88/乔安文章/126.html" rel="external noopener" target="_blank">模型量化：从 FP16 到 INT4，GGUF 格式解析与推理部署</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[随思 #107 - 2026-07-21]]></title>
-        <id>http://qthinker.net/content/107</id>
-        <link href="http://qthinker.net/content/107"/>
-        <updated>2026-07-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-22</time>
-                                    <a href="http://qthinker.net/content/107" rel="external noopener" target="_blank">随思 #107 - 2026-07-21</a>]]></content>
+        <title type="html"><![CDATA[陪孩子九寨沟游学第一日]]></title>
+        <id>https://fxpai.com/article/peihaizijiuzhaigouyouxuediyiri</id>
+        <link href="https://fxpai.com/article/peihaizijiuzhaigouyouxuediyiri"/>
+        <updated>2026-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-26</time>
+                                    <a href="https://fxpai.com/article/peihaizijiuzhaigouyouxuediyiri" rel="external noopener" target="_blank">陪孩子九寨沟游学第一日</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[黄金价格分析与黄金 ETF 投资策略研究报告]]></title>
-        <id>http://qthinker.net/content/106</id>
-        <link href="http://qthinker.net/content/106"/>
-        <updated>2026-07-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-21</time>
-                                    <a href="http://qthinker.net/content/106" rel="external noopener" target="_blank">黄金价格分析与黄金 ETF 投资策略研究报告</a>]]></content>
+        <title type="html"><![CDATA[关于入学体检折腾一通的事情]]></title>
+        <id>https://fxpai.com/article/guanyuruxuetijianzhetengyitongdeshiqing</id>
+        <link href="https://fxpai.com/article/guanyuruxuetijianzhetengyitongdeshiqing"/>
+        <updated>2026-07-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-25</time>
+                                    <a href="https://fxpai.com/article/guanyuruxuetijianzhetengyitongdeshiqing" rel="external noopener" target="_blank">关于入学体检折腾一通的事情</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[随思 #105 - 2026-07-20]]></title>
-        <id>http://qthinker.net/content/105</id>
-        <link href="http://qthinker.net/content/105"/>
-        <updated>2026-07-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-20</time>
-                                    <a href="http://qthinker.net/content/105" rel="external noopener" target="_blank">随思 #105 - 2026-07-20</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《一声吆喝》]]></title>
-        <id>https://www.weiwenchao.com/2699.html</id>
-        <link href="https://www.weiwenchao.com/2699.html"/>
-        <updated>2026-07-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-24</time>
-                                    <a href="https://www.weiwenchao.com/2699.html" rel="external noopener" target="_blank">《一声吆喝》</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《随感言论杂录2607-2》]]></title>
-        <id>https://www.weiwenchao.com/2692.html</id>
-        <link href="https://www.weiwenchao.com/2692.html"/>
-        <updated>2026-07-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-22</time>
-                                    <a href="https://www.weiwenchao.com/2692.html" rel="external noopener" target="_blank">《随感言论杂录2607-2》</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《随感言论杂录2607-1》]]></title>
-        <id>https://www.weiwenchao.com/2690.html</id>
-        <link href="https://www.weiwenchao.com/2690.html"/>
-        <updated>2026-07-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-20</time>
-                                    <a href="https://www.weiwenchao.com/2690.html" rel="external noopener" target="_blank">《随感言论杂录2607-1》</a>]]></content>
+        <title type="html"><![CDATA[因为一个吊饰在火车站被拦了]]></title>
+        <id>https://fxpai.com/article/yinweiyigediaoshizaihuochezhanbeilanle</id>
+        <link href="https://fxpai.com/article/yinweiyigediaoshizaihuochezhanbeilanle"/>
+        <updated>2026-07-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-25</time>
+                                    <a href="https://fxpai.com/article/yinweiyigediaoshizaihuochezhanbeilanle" rel="external noopener" target="_blank">因为一个吊饰在火车站被拦了</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[腾讯miora上手：设计师又又又失业的一集？]]></title>
@@ -724,30 +892,6 @@
         <updated>2026-07-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-20</time>
                                     <a href="https://liuqingwushui.top/archives/174/" rel="external noopener" target="_blank">【景点篇】川大博物馆</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Hat 8 / Rocky Linux 配置国内软件源]]></title>
-        <id>https://www.sunzhongwei.com/red-hat-rocky-linux-configuration-domestic-software-sources</id>
-        <link href="https://www.sunzhongwei.com/red-hat-rocky-linux-configuration-domestic-software-sources"/>
-        <updated>2026-07-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-22</time>
-                                    <a href="https://www.sunzhongwei.com/red-hat-rocky-linux-configuration-domestic-software-sources" rel="external noopener" target="_blank">Red Hat 8 / Rocky Linux 配置国内软件源</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 服务器上将 Excel 文件转换为 PDF，docker 镜像 gotenberg]]></title>
-        <id>https://www.sunzhongwei.com/convert-excel-files-pdf-linux-servers-docker-image-gotenberg</id>
-        <link href="https://www.sunzhongwei.com/convert-excel-files-pdf-linux-servers-docker-image-gotenberg"/>
-        <updated>2026-07-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-19</time>
-                                    <a href="https://www.sunzhongwei.com/convert-excel-files-pdf-linux-servers-docker-image-gotenberg" rel="external noopener" target="_blank">Linux 服务器上将 Excel 文件转换为 PDF，docker 镜像 gotenberg</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RuoYi 中开启 mybatis debug 日志]]></title>
-        <id>https://www.sunzhongwei.com/open-mybatis-debug-log-ruoyi</id>
-        <link href="https://www.sunzhongwei.com/open-mybatis-debug-log-ruoyi"/>
-        <updated>2026-07-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-18</time>
-                                    <a href="https://www.sunzhongwei.com/open-mybatis-debug-log-ruoyi" rel="external noopener" target="_blank">RuoYi 中开启 mybatis debug 日志</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[（转载）为什么你刚搜的东西，其他App转头就知道了？（包括IOS系统）]]></title>
@@ -894,6 +1038,54 @@
                                     <a href="https://www.bytecho.net/archives/domain_driven_design.html" rel="external noopener" target="_blank">浅谈 DDD 领域驱动设计架构</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[联想 G400 安装 Windows 7 折腾记录]]></title>
+        <id>https://nicksxs.me/2026/07/26/%E8%81%94%E6%83%B3-G400-%E5%AE%89%E8%A3%85-Windows-7/</id>
+        <link href="https://nicksxs.me/2026/07/26/%E8%81%94%E6%83%B3-G400-%E5%AE%89%E8%A3%85-Windows-7/"/>
+        <updated>2026-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-26</time>
+                                    <a href="https://nicksxs.me/2026/07/26/%E8%81%94%E6%83%B3-G400-%E5%AE%89%E8%A3%85-Windows-7/" rel="external noopener" target="_blank">联想 G400 安装 Windows 7 折腾记录</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记一个gitea推送失败的问题]]></title>
+        <id>https://nicksxs.me/2026/07/19/%E8%AE%B0%E4%B8%80%E4%B8%AAgiea%E6%8E%A8%E9%80%81%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/</id>
+        <link href="https://nicksxs.me/2026/07/19/%E8%AE%B0%E4%B8%80%E4%B8%AAgiea%E6%8E%A8%E9%80%81%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+        <updated>2026-07-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-19</time>
+                                    <a href="https://nicksxs.me/2026/07/19/%E8%AE%B0%E4%B8%80%E4%B8%AAgiea%E6%8E%A8%E9%80%81%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/" rel="external noopener" target="_blank">记一个gitea推送失败的问题</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学一下chrome的扩展开发]]></title>
+        <id>https://nicksxs.me/2026/07/12/%E5%AD%A6%E4%B8%80%E4%B8%8Bchrome%E7%9A%84%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91/</id>
+        <link href="https://nicksxs.me/2026/07/12/%E5%AD%A6%E4%B8%80%E4%B8%8Bchrome%E7%9A%84%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91/"/>
+        <updated>2026-07-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-12</time>
+                                    <a href="https://nicksxs.me/2026/07/12/%E5%AD%A6%E4%B8%80%E4%B8%8Bchrome%E7%9A%84%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91/" rel="external noopener" target="_blank">学一下chrome的扩展开发</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人为什么要中庸 AI从一个意想不到的角度给了我雷霆一击]]></title>
+        <id>http://weiwuhui.com/10798.html</id>
+        <link href="http://weiwuhui.com/10798.html"/>
+        <updated>2026-07-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-24</time>
+                                    <a href="http://weiwuhui.com/10798.html" rel="external noopener" target="_blank">人为什么要中庸 AI从一个意想不到的角度给了我雷霆一击</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[都是抓“奴隶” 这两个游戏的内核是完全不同的]]></title>
+        <id>http://weiwuhui.com/10752.html</id>
+        <link href="http://weiwuhui.com/10752.html"/>
+        <updated>2026-07-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-22</time>
+                                    <a href="http://weiwuhui.com/10752.html" rel="external noopener" target="_blank">都是抓“奴隶” 这两个游戏的内核是完全不同的</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRAE Work已正式上岗 成为我的教学小助理]]></title>
+        <id>http://weiwuhui.com/10760.html</id>
+        <link href="http://weiwuhui.com/10760.html"/>
+        <updated>2026-07-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-21</time>
+                                    <a href="http://weiwuhui.com/10760.html" rel="external noopener" target="_blank">TRAE Work已正式上岗 成为我的教学小助理</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[众生易度不]]></title>
         <id>http://www.qncd.com/?p=12933</id>
         <link href="http://www.qncd.com/?p=12933"/>
@@ -990,6 +1182,30 @@
                                     <a href="http://etom.top/archives/so182.html" rel="external noopener" target="_blank">此地无银，垃圾请绕道</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Python 潮流周刊#160：AI 智能体与 LLM 推理]]></title>
+        <id>https://pythoncat.top/posts/2026-07-25-weekly/</id>
+        <link href="https://pythoncat.top/posts/2026-07-25-weekly/"/>
+        <updated>2026-07-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-25</time>
+                                    <a href="https://pythoncat.top/posts/2026-07-25-weekly/" rel="external noopener" target="_blank">Python 潮流周刊#160：AI 智能体与 LLM 推理</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 潮流周刊#159：Python 3.15 预览]]></title>
+        <id>https://pythoncat.top/posts/2026-07-18-weekly/</id>
+        <link href="https://pythoncat.top/posts/2026-07-18-weekly/"/>
+        <updated>2026-07-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-18</time>
+                                    <a href="https://pythoncat.top/posts/2026-07-18-weekly/" rel="external noopener" target="_blank">Python 潮流周刊#159：Python 3.15 预览</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 潮流周刊#158：frozendict 内置类型]]></title>
+        <id>https://pythoncat.top/posts/2026-07-11-weekly/</id>
+        <link href="https://pythoncat.top/posts/2026-07-11-weekly/"/>
+        <updated>2026-07-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-11</time>
+                                    <a href="https://pythoncat.top/posts/2026-07-11-weekly/" rel="external noopener" target="_blank">Python 潮流周刊#158：frozendict 内置类型</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[梁文锋四小时投资人会议有感]]></title>
         <id>https://blog.devtang.com/2026/07/23/liang-wenfeng-investor-meeting/</id>
         <link href="https://blog.devtang.com/2026/07/23/liang-wenfeng-investor-meeting/"/>
@@ -1038,30 +1254,6 @@
                                     <a href="https://www.gujishe.com/archives/71.html" rel="external noopener" target="_blank">彻底放弃虚拟主机</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[构树神奇的同枝异形叶片]]></title>
-        <id>https://jiangcl.com/4854</id>
-        <link href="https://jiangcl.com/4854"/>
-        <updated>2026-07-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-25</time>
-                                    <a href="https://jiangcl.com/4854" rel="external noopener" target="_blank">构树神奇的同枝异形叶片</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[施工合同中约定变更项目经理需支付违约金的相关问题探讨]]></title>
-        <id>https://jiangcl.com/4664</id>
-        <link href="https://jiangcl.com/4664"/>
-        <updated>2026-07-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-20</time>
-                                    <a href="https://jiangcl.com/4664" rel="external noopener" target="_blank">施工合同中约定变更项目经理需支付违约金的相关问题探讨</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特定的体育训练会诱发代脉脉象]]></title>
-        <id>https://jiangcl.com/4658</id>
-        <link href="https://jiangcl.com/4658"/>
-        <updated>2026-07-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-19</time>
-                                    <a href="https://jiangcl.com/4658" rel="external noopener" target="_blank">特定的体育训练会诱发代脉脉象</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[小西天的美景]]></title>
         <id>https://yishu-life.com/index.php/archives/514.html</id>
         <link href="https://yishu-life.com/index.php/archives/514.html"/>
@@ -1108,6 +1300,30 @@
         <updated>2026-07-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-08</time>
                                     <a href="https://innei.in/posts/tech/canary-at-the-cdn-edge" rel="external noopener" target="_blank">在 CDN 边缘做灰度：分流在缓存前，资产在灰度外</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tracks#1: Life]]></title>
+        <id>https://blog.verdant.ee/posts/tracks/1/</id>
+        <link href="https://blog.verdant.ee/posts/tracks/1/"/>
+        <updated>2026-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-26</time>
+                                    <a href="https://blog.verdant.ee/posts/tracks/1/" rel="external noopener" target="_blank">Tracks#1: Life</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[讀《1973 年的彈子球》]]></title>
+        <id>https://blog.verdant.ee/posts/1973-nen-no-pin-bo-ru/</id>
+        <link href="https://blog.verdant.ee/posts/1973-nen-no-pin-bo-ru/"/>
+        <updated>2026-07-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-24</time>
+                                    <a href="https://blog.verdant.ee/posts/1973-nen-no-pin-bo-ru/" rel="external noopener" target="_blank">讀《1973 年的彈子球》</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 org-mode 寫博客]]></title>
+        <id>https://blog.verdant.ee/posts/%E7%94%A8org-mode%E5%AF%AB%E5%8D%9A%E5%AE%A2/</id>
+        <link href="https://blog.verdant.ee/posts/%E7%94%A8org-mode%E5%AF%AB%E5%8D%9A%E5%AE%A2/"/>
+        <updated>2026-07-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-18</time>
+                                    <a href="https://blog.verdant.ee/posts/%E7%94%A8org-mode%E5%AF%AB%E5%8D%9A%E5%AE%A2/" rel="external noopener" target="_blank">用 org-mode 寫博客</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[向云端｜西南自驾03 - 景德镇]]></title>
@@ -1228,30 +1444,6 @@
         <updated>2026-07-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-10</time>
                                     <a href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html" rel="external noopener" target="_blank">科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近惦念 20260705]]></title>
-        <id>https://z.arlmy.me/posts/TILs/thoughts/20260705_Recently/</id>
-        <link href="https://z.arlmy.me/posts/TILs/thoughts/20260705_Recently/"/>
-        <updated>2026-07-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-20</time>
-                                    <a href="https://z.arlmy.me/posts/TILs/thoughts/20260705_Recently/" rel="external noopener" target="_blank">最近惦念 20260705</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波动的理解]]></title>
-        <id>https://z.arlmy.me/posts/ZArlmyMe/Damping_20260719/</id>
-        <link href="https://z.arlmy.me/posts/ZArlmyMe/Damping_20260719/"/>
-        <updated>2026-07-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-19</time>
-                                    <a href="https://z.arlmy.me/posts/ZArlmyMe/Damping_20260719/" rel="external noopener" target="_blank">波动的理解</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[游牧地活着]]></title>
-        <id>https://z.arlmy.me/posts/ZArlmyMe/BeHunterGatherer_20260719/</id>
-        <link href="https://z.arlmy.me/posts/ZArlmyMe/BeHunterGatherer_20260719/"/>
-        <updated>2026-07-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-19</time>
-                                    <a href="https://z.arlmy.me/posts/ZArlmyMe/BeHunterGatherer_20260719/" rel="external noopener" target="_blank">游牧地活着</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[学习周刊-总第273期-2026年第30周]]></title>
@@ -1398,30 +1590,6 @@
                                     <a href="https://www.munue.com/806.html" rel="external noopener" target="_blank">【KVP学堂】如何将多个 Word 文档合并成一个文档？</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[充送]]></title>
-        <id>https://ltmltm.cn/bk/1480.html</id>
-        <link href="https://ltmltm.cn/bk/1480.html"/>
-        <updated>2026-07-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-22</time>
-                                    <a href="https://ltmltm.cn/bk/1480.html" rel="external noopener" target="_blank">充送</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[填志愿]]></title>
-        <id>https://ltmltm.cn/bk/1479.html</id>
-        <link href="https://ltmltm.cn/bk/1479.html"/>
-        <updated>2026-07-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-14</time>
-                                    <a href="https://ltmltm.cn/bk/1479.html" rel="external noopener" target="_blank">填志愿</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[失望]]></title>
-        <id>https://ltmltm.cn/bk/1477.html</id>
-        <link href="https://ltmltm.cn/bk/1477.html"/>
-        <updated>2026-07-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-12</time>
-                                    <a href="https://ltmltm.cn/bk/1477.html" rel="external noopener" target="_blank">失望</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[本地部署 Qwen3-TTS 读取字幕文件为视频配音]]></title>
         <id>https://www.nekopara.uk/archives/Qwen3-TTS_dubbing.html</id>
         <link href="https://www.nekopara.uk/archives/Qwen3-TTS_dubbing.html"/>
@@ -1468,30 +1636,6 @@
         <updated>2026-07-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-05</time>
                                     <a href="https://blog.forecho.com/bitget-100u-price-action-real-money-test.html" rel="external noopener" target="_blank">用 100U 开实盘：给价格行为学习交一次答卷</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[说说：今天凌晨西班牙成功拿下 2026 美加墨世界杯总冠军，翻出 6 月 1…]]></title>
-        <id>https://yigeboke.com/shuoshuo.php#shuo_36</id>
-        <link href="https://yigeboke.com/shuoshuo.php#shuo_36"/>
-        <updated>2026-07-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-20</time>
-                                    <a href="https://yigeboke.com/shuoshuo.php#shuo_36" rel="external noopener" target="_blank">说说：今天凌晨西班牙成功拿下 2026 美加墨世界杯总冠军，翻出 6 月 1…</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[求助｜慢性咽炎久治不愈，输液吃药不停复发怎么办]]></title>
-        <id>https://yigeboke.com/article.php?id=47</id>
-        <link href="https://yigeboke.com/article.php?id=47"/>
-        <updated>2026-07-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-15</time>
-                                    <a href="https://yigeboke.com/article.php?id=47" rel="external noopener" target="_blank">求助｜慢性咽炎久治不愈，输液吃药不停复发怎么办</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[观影观后感｜看完《功夫女足》聊聊真实感受]]></title>
-        <id>https://yigeboke.com/article.php?id=46</id>
-        <link href="https://yigeboke.com/article.php?id=46"/>
-        <updated>2026-07-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-12</time>
-                                    <a href="https://yigeboke.com/article.php?id=46" rel="external noopener" target="_blank">观影观后感｜看完《功夫女足》聊聊真实感受</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[家有中考生，从备考到录取的那些忐忑日子]]></title>
@@ -1590,30 +1734,6 @@
                                     <a href="https://chidd.net/2026/07/10/about-ai.html" rel="external noopener" target="_blank">关于AI的一些碎片思考</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关于入学体检折腾一通的事情]]></title>
-        <id>https://fxpai.com/article/guanyuruxuetijianzhetengyitongdeshiqing</id>
-        <link href="https://fxpai.com/article/guanyuruxuetijianzhetengyitongdeshiqing"/>
-        <updated>2026-07-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-25</time>
-                                    <a href="https://fxpai.com/article/guanyuruxuetijianzhetengyitongdeshiqing" rel="external noopener" target="_blank">关于入学体检折腾一通的事情</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因为一个吊饰在火车站被拦了]]></title>
-        <id>https://fxpai.com/article/yinweiyigediaoshizaihuochezhanbeilanle</id>
-        <link href="https://fxpai.com/article/yinweiyigediaoshizaihuochezhanbeilanle"/>
-        <updated>2026-07-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-25</time>
-                                    <a href="https://fxpai.com/article/yinweiyigediaoshizaihuochezhanbeilanle" rel="external noopener" target="_blank">因为一个吊饰在火车站被拦了</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[儿子毕业典礼，刚开始就被大雨袭击了😅]]></title>
-        <id>https://fxpai.com/article/erzibiyedianligangkaishijiubeidayuxijile</id>
-        <link href="https://fxpai.com/article/erzibiyedianligangkaishijiubeidayuxijile"/>
-        <updated>2026-07-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-06</time>
-                                    <a href="https://fxpai.com/article/erzibiyedianligangkaishijiubeidayuxijile" rel="external noopener" target="_blank">儿子毕业典礼，刚开始就被大雨袭击了😅</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[哈苏 X2D II 顶盖浅划痕修复]]></title>
         <id>https://siwei.li/hasselblad-x2d-ii-scratch-repair/</id>
         <link href="https://siwei.li/hasselblad-x2d-ii-scratch-repair/"/>
@@ -1660,30 +1780,6 @@
         <updated>2026-07-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-04</time>
                                     <a href="https://www.seis-jun.xyz/blog/2026-07-04-paper-reading-62.html" rel="external noopener" target="_blank">Paper Reading (62)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【记录】虚拟机安装Debian]]></title>
-        <id>https://hexo.limour.top/installing-debian-on-vmware</id>
-        <link href="https://hexo.limour.top/installing-debian-on-vmware"/>
-        <updated>2026-07-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-23</time>
-                                    <a href="https://hexo.limour.top/installing-debian-on-vmware" rel="external noopener" target="_blank">【记录】虚拟机安装Debian</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【观点】我为什么恰好活在此刻]]></title>
-        <id>https://hexo.limour.top/why-am-i-living-at-this-very-moment</id>
-        <link href="https://hexo.limour.top/why-am-i-living-at-this-very-moment"/>
-        <updated>2026-07-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-20</time>
-                                    <a href="https://hexo.limour.top/why-am-i-living-at-this-very-moment" rel="external noopener" target="_blank">【观点】我为什么恰好活在此刻</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【观点】转向]]></title>
-        <id>https://hexo.limour.top/an-evolution-of-civilization</id>
-        <link href="https://hexo.limour.top/an-evolution-of-civilization"/>
-        <updated>2026-07-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-17</time>
-                                    <a href="https://hexo.limour.top/an-evolution-of-civilization" rel="external noopener" target="_blank">【观点】转向</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[用 qwen 3.8-max 做一个 GPT 风格封面生成 skill]]></title>
@@ -1998,30 +2094,6 @@
                                     <a href="https://simibiji.com/archives/616.html" rel="external noopener" target="_blank">看老何杂记写点我的吐槽杂记</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[人为什么要中庸 AI从一个意想不到的角度给了我雷霆一击]]></title>
-        <id>http://weiwuhui.com/10798.html</id>
-        <link href="http://weiwuhui.com/10798.html"/>
-        <updated>2026-07-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-24</time>
-                                    <a href="http://weiwuhui.com/10798.html" rel="external noopener" target="_blank">人为什么要中庸 AI从一个意想不到的角度给了我雷霆一击</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[都是抓“奴隶” 这两个游戏的内核是完全不同的]]></title>
-        <id>http://weiwuhui.com/10752.html</id>
-        <link href="http://weiwuhui.com/10752.html"/>
-        <updated>2026-07-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-22</time>
-                                    <a href="http://weiwuhui.com/10752.html" rel="external noopener" target="_blank">都是抓“奴隶” 这两个游戏的内核是完全不同的</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRAE Work已正式上岗 成为我的教学小助理]]></title>
-        <id>http://weiwuhui.com/10760.html</id>
-        <link href="http://weiwuhui.com/10760.html"/>
-        <updated>2026-07-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-21</time>
-                                    <a href="http://weiwuhui.com/10760.html" rel="external noopener" target="_blank">TRAE Work已正式上岗 成为我的教学小助理</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【26年30周记】小~调整——第n次博客微调计划]]></title>
         <id>https://www.haoyu233.com/2563.html</id>
         <link href="https://www.haoyu233.com/2563.html"/>
@@ -2068,6 +2140,30 @@
         <updated>2026-07-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-09</time>
                                     <a href="https://blog.codingnow.com/2026/07/learning_english.html" rel="external noopener" target="_blank">小孩的英语辅导</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年上半年房地产数据发布]]></title>
+        <id>https://joojen.com/archives/9052.html</id>
+        <link href="https://joojen.com/archives/9052.html"/>
+        <updated>2026-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-26</time>
+                                    <a href="https://joojen.com/archives/9052.html" rel="external noopener" target="_blank">2026年上半年房地产数据发布</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脱离人生系统 一段时间后的感受]]></title>
+        <id>https://joojen.com/archives/9046.html</id>
+        <link href="https://joojen.com/archives/9046.html"/>
+        <updated>2026-07-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-11</time>
+                                    <a href="https://joojen.com/archives/9046.html" rel="external noopener" target="_blank">脱离人生系统 一段时间后的感受</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日更是没用的]]></title>
+        <id>https://joojen.com/archives/9040.html</id>
+        <link href="https://joojen.com/archives/9040.html"/>
+        <updated>2026-06-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-06-24</time>
+                                    <a href="https://joojen.com/archives/9040.html" rel="external noopener" target="_blank">日更是没用的</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[耐心等待，静待花开]]></title>
@@ -2140,6 +2236,30 @@
         <updated>2026-07-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-12</time>
                                     <a href="https://tumutanzi.com/archives/17616" rel="external noopener" target="_blank">SpaceX的IPO新股申购记</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做规划与下功夫]]></title>
+        <id>https://blog.kfdzcoffee.cn/archives/composition-2</id>
+        <link href="https://blog.kfdzcoffee.cn/archives/composition-2"/>
+        <updated>2026-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-26</time>
+                                    <a href="https://blog.kfdzcoffee.cn/archives/composition-2" rel="external noopener" target="_blank">做规划与下功夫</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新主题（但是新域名）]]></title>
+        <id>https://blog.kfdzcoffee.cn/archives/newthemedomain</id>
+        <link href="https://blog.kfdzcoffee.cn/archives/newthemedomain"/>
+        <updated>2026-07-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-18</time>
+                                    <a href="https://blog.kfdzcoffee.cn/archives/newthemedomain" rel="external noopener" target="_blank">新主题（但是新域名）</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[湖北！]]></title>
+        <id>https://blog.kfdzcoffee.cn/archives/hu-bei</id>
+        <link href="https://blog.kfdzcoffee.cn/archives/hu-bei"/>
+        <updated>2026-06-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-06-27</time>
+                                    <a href="https://blog.kfdzcoffee.cn/archives/hu-bei" rel="external noopener" target="_blank">湖北！</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[chatgpt太夯了！终于手搓出属于自己的博客主题]]></title>
@@ -2238,30 +2358,6 @@
                                     <a href="https://blog.giveanornot.com/full-time-job-2026/" rel="external noopener" target="_blank">最近的工作、還有對工作的看法</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[记一个gitea推送失败的问题]]></title>
-        <id>https://nicksxs.me/2026/07/19/%E8%AE%B0%E4%B8%80%E4%B8%AAgiea%E6%8E%A8%E9%80%81%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/</id>
-        <link href="https://nicksxs.me/2026/07/19/%E8%AE%B0%E4%B8%80%E4%B8%AAgiea%E6%8E%A8%E9%80%81%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/"/>
-        <updated>2026-07-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-19</time>
-                                    <a href="https://nicksxs.me/2026/07/19/%E8%AE%B0%E4%B8%80%E4%B8%AAgiea%E6%8E%A8%E9%80%81%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98/" rel="external noopener" target="_blank">记一个gitea推送失败的问题</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学一下chrome的扩展开发]]></title>
-        <id>https://nicksxs.me/2026/07/12/%E5%AD%A6%E4%B8%80%E4%B8%8Bchrome%E7%9A%84%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91/</id>
-        <link href="https://nicksxs.me/2026/07/12/%E5%AD%A6%E4%B8%80%E4%B8%8Bchrome%E7%9A%84%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91/"/>
-        <updated>2026-07-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-12</time>
-                                    <a href="https://nicksxs.me/2026/07/12/%E5%AD%A6%E4%B8%80%E4%B8%8Bchrome%E7%9A%84%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91/" rel="external noopener" target="_blank">学一下chrome的扩展开发</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看下chrome的内置模型]]></title>
-        <id>https://nicksxs.me/2026/07/05/%E7%9C%8B%E4%B8%8Bchrome%E7%9A%84%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9E%8B/</id>
-        <link href="https://nicksxs.me/2026/07/05/%E7%9C%8B%E4%B8%8Bchrome%E7%9A%84%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9E%8B/"/>
-        <updated>2026-07-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-05</time>
-                                    <a href="https://nicksxs.me/2026/07/05/%E7%9C%8B%E4%B8%8Bchrome%E7%9A%84%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9E%8B/" rel="external noopener" target="_blank">看下chrome的内置模型</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[狗屁倒灶的政治正确]]></title>
         <id>https://ichov.com/blog/goupidaozaode.html</id>
         <link href="https://ichov.com/blog/goupidaozaode.html"/>
@@ -2308,101 +2404,5 @@
         <updated>2026-07-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-05</time>
                                     <a href="https://liduos.com/weekly/the-weekly-gradient-110" rel="external noopener" target="_blank">Vol.110 AI能力飙升背后，谁为智能买单？成本与价值的博弈</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[别再用封禁 DevTools 来掩盖你的无能]]></title>
-        <id>https://blog.liuzhen932.top/posts/why-not-block-devtools/</id>
-        <link href="https://blog.liuzhen932.top/posts/why-not-block-devtools/"/>
-        <updated>2026-07-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-22</time>
-                                    <a href="https://blog.liuzhen932.top/posts/why-not-block-devtools/" rel="external noopener" target="_blank">别再用封禁 DevTools 来掩盖你的无能</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我又从 Twikoo 换回了 Artalk]]></title>
-        <id>https://blog.liuzhen932.top/posts/why-i-switched-back-from-twikoo-to-artalk/</id>
-        <link href="https://blog.liuzhen932.top/posts/why-i-switched-back-from-twikoo-to-artalk/"/>
-        <updated>2026-07-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-21</time>
-                                    <a href="https://blog.liuzhen932.top/posts/why-i-switched-back-from-twikoo-to-artalk/" rel="external noopener" target="_blank">为什么我又从 Twikoo 换回了 Artalk</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[liuzhen932 提供的公益服务]]></title>
-        <id>https://blog.liuzhen932.top/posts/free-services/</id>
-        <link href="https://blog.liuzhen932.top/posts/free-services/"/>
-        <updated>2026-06-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-06-18</time>
-                                    <a href="https://blog.liuzhen932.top/posts/free-services/" rel="external noopener" target="_blank">liuzhen932 提供的公益服务</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用必应搜索：一年兑换300元猫超卡/盒马卡/沃尔玛卡/KFC消费券/麦德龙消费券]]></title>
-        <id>https://lklog.cn/chat/1432.html</id>
-        <link href="https://lklog.cn/chat/1432.html"/>
-        <updated>2026-07-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-21</time>
-                                    <a href="https://lklog.cn/chat/1432.html" rel="external noopener" target="_blank">使用必应搜索：一年兑换300元猫超卡/盒马卡/沃尔玛卡/KFC消费券/麦德龙消费券</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有QQ号就行：免费领WPS、迅雷、keep、芒果会员]]></title>
-        <id>https://lklog.cn/share/1430.html</id>
-        <link href="https://lklog.cn/share/1430.html"/>
-        <updated>2026-07-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-14</time>
-                                    <a href="https://lklog.cn/share/1430.html" rel="external noopener" target="_blank">有QQ号就行：免费领WPS、迅雷、keep、芒果会员</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外贸人员必看：WhatsApp最新骗局]]></title>
-        <id>https://lklog.cn/chat/1426.html</id>
-        <link href="https://lklog.cn/chat/1426.html"/>
-        <updated>2026-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-04</time>
-                                    <a href="https://lklog.cn/chat/1426.html" rel="external noopener" target="_blank">外贸人员必看：WhatsApp最新骗局</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不想用Jekyll了。]]></title>
-        <id>https://blog.imshimao.com/%E6%8A%80%E6%9C%AF/2026/07/17/byejek.html</id>
-        <link href="https://blog.imshimao.com/%E6%8A%80%E6%9C%AF/2026/07/17/byejek.html"/>
-        <updated>2026-07-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-17</time>
-                                    <a href="https://blog.imshimao.com/%E6%8A%80%E6%9C%AF/2026/07/17/byejek.html" rel="external noopener" target="_blank">不想用Jekyll了。</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frutiger美学的解读]]></title>
-        <id>https://blog.imshimao.com/%E6%96%87%E5%8C%96/2026/07/13/frutigeraero.html</id>
-        <link href="https://blog.imshimao.com/%E6%96%87%E5%8C%96/2026/07/13/frutigeraero.html"/>
-        <updated>2026-07-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-13</time>
-                                    <a href="https://blog.imshimao.com/%E6%96%87%E5%8C%96/2026/07/13/frutigeraero.html" rel="external noopener" target="_blank">Frutiger美学的解读</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给你的Jekyll博客创建一个动态/说说页面]]></title>
-        <id>https://blog.imshimao.com/%E6%95%99%E7%A8%8B/2026/07/01/jekylltalk.html</id>
-        <link href="https://blog.imshimao.com/%E6%95%99%E7%A8%8B/2026/07/01/jekylltalk.html"/>
-        <updated>2026-07-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-01</time>
-                                    <a href="https://blog.imshimao.com/%E6%95%99%E7%A8%8B/2026/07/01/jekylltalk.html" rel="external noopener" target="_blank">给你的Jekyll博客创建一个动态/说说页面</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不容易等的电梯，容易受伤的膝盖]]></title>
-        <id>https://cuixiping.com/blog/others/vcfhuy</id>
-        <link href="https://cuixiping.com/blog/others/vcfhuy"/>
-        <updated>2026-07-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-16</time>
-                                    <a href="https://cuixiping.com/blog/others/vcfhuy" rel="external noopener" target="_blank">不容易等的电梯，容易受伤的膝盖</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回忆印象中的Z同学]]></title>
-        <id>https://cuixiping.com/blog/memory/fyurmw</id>
-        <link href="https://cuixiping.com/blog/memory/fyurmw"/>
-        <updated>2026-07-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-15</time>
-                                    <a href="https://cuixiping.com/blog/memory/fyurmw" rel="external noopener" target="_blank">回忆印象中的Z同学</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女儿初中毕业了]]></title>
-        <id>https://cuixiping.com/blog/life/iqynph</id>
-        <link href="https://cuixiping.com/blog/life/iqynph"/>
-        <updated>2026-07-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time class="text-muted font-monospace float-end ms-3">2026-07-06</time>
-                                    <a href="https://cuixiping.com/blog/life/iqynph" rel="external noopener" target="_blank">女儿初中毕业了</a>]]></content>
     </entry>
 </feed>
