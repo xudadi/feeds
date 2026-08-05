@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/</id>
     <title>重庆市人社局-公示信息</title>
-    <updated>2026-08-05T08:17:26.533Z</updated>
+    <updated>2026-08-05T19:09:18.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[关于确认夏宏光等9名同志职称的公示]]></title>
+        <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202608/t20260805_15897726.html</id>
+        <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202608/t20260805_15897726.html"/>
+        <updated>2026-08-05T19:05:30.459Z</updated>
+        <content type="html"><![CDATA[<a href="./202608/t20260805_15897726.html" title="关于确认夏宏光等9名同志职称的公示" target="_blank">关于确认夏宏光等9名同志职称的公示</a><span>2026-08-05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026年重庆市招募“三支一扶”计划人员公示（第一批）]]></title>
         <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202608/t20260804_15891922.html</id>
@@ -137,12 +144,5 @@
         <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202607/t20260727_15858849.html"/>
         <updated>2026-07-27T09:12:46.167Z</updated>
         <content type="html"><![CDATA[<a href="./202607/t20260727_15858849.html" title="重庆市属事业单位2026年第一季度公开遴选工作人员拟聘人员公示（市委网信办）" target="_blank">重庆市属事业单位2026年第一季度公开遴选工作人员拟聘人员公示（市委网信办）</a><span>2026-07-27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重庆市属事业单位2025年第四季度公开遴选工作人员拟聘人员公示（市人力社保局）]]></title>
-        <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202607/t20260727_15858815.html</id>
-        <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202607/t20260727_15858815.html"/>
-        <updated>2026-07-27T09:12:46.172Z</updated>
-        <content type="html"><![CDATA[<a href="./202607/t20260727_15858815.html" title="重庆市属事业单位2025年第四季度公开遴选工作人员拟聘人员公示（市人力社保局）" target="_blank">重庆市属事业单位2025年第四季度公开遴选工作人员拟聘人员公示（市人力社保局）</a><span>2026-07-27</span>]]></content>
     </entry>
 </feed>
