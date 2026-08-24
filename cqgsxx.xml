@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/</id>
     <title>重庆市人社局-公示信息</title>
-    <updated>2026-08-24T06:24:48.114Z</updated>
+    <updated>2026-08-24T18:01:45.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[关于确认王成等13名同志职称的公示]]></title>
+        <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202608/t20260824_15973295.html</id>
+        <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202608/t20260824_15973295.html"/>
+        <updated>2026-08-24T17:58:04.182Z</updated>
+        <content type="html"><![CDATA[<a href="./202608/t20260824_15973295.html" title="关于确认王成等13名同志职称的公示" target="_blank">关于确认王成等13名同志职称的公示</a><span>2026-08-24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[永川区事业单位2026年公开招聘拟聘人员公示（第七批）]]></title>
         <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202608/t20260821_15962463.html</id>
@@ -137,12 +144,5 @@
         <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202608/t20260818_15947871.html"/>
         <updated>2026-08-18T18:16:29.309Z</updated>
         <content type="html"><![CDATA[<a href="./202608/t20260818_15947871.html" title="长寿区事业单位2026年公开招聘拟聘人员公示（第八批）" target="_blank">长寿区事业单位2026年公开招聘拟聘人员公示（第八批）</a><span>2026-08-18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025重庆国际人才交流大会事业单位考核招聘高层次和紧缺人才拟聘人员公示（市农科院第三批）]]></title>
-        <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202608/t20260818_15947864.html</id>
-        <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202608/t20260818_15947864.html"/>
-        <updated>2026-08-18T18:16:29.310Z</updated>
-        <content type="html"><![CDATA[<a href="./202608/t20260818_15947864.html" title="2025重庆国际人才交流大会事业单位考核招聘高层次和紧缺人才拟聘人员公示（市农科院第三批）" target="_blank">2025重庆国际人才交流大会事业单位考核招聘高层次和紧缺人才拟聘人员公示（市农科院第三批）</a><span>2026-08-18</span>]]></content>
     </entry>
 </feed>
