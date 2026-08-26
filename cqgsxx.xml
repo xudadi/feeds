@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/</id>
     <title>重庆市人社局-公示信息</title>
-    <updated>2026-08-26T06:23:25.371Z</updated>
+    <updated>2026-08-26T19:29:14.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[重庆市事业单位专业技术二级岗位拟聘用人选公示]]></title>
+        <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202608/t20260826_15983454.html</id>
+        <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202608/t20260826_15983454.html"/>
+        <updated>2026-08-26T19:28:27.376Z</updated>
+        <content type="html"><![CDATA[<a href="./202608/t20260826_15983454.html" title="重庆市事业单位专业技术二级岗位拟聘用人选公示" target="_blank">重庆市事业单位专业技术二级岗位拟聘用人选公示</a><span>2026-08-26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[潼南区事业单位2026年公开招聘拟聘人员公示（第三批）]]></title>
         <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202608/t20260825_15978497.html</id>
@@ -137,12 +144,5 @@
         <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202608/t20260819_15953832.html"/>
         <updated>2026-08-19T18:07:35.568Z</updated>
         <content type="html"><![CDATA[<a href="./202608/t20260819_15953832.html" title="重庆市属事业单位2026年第一季度公开招聘工作人员拟聘人员公示 （共青团重庆市委）" target="_blank">重庆市属事业单位2026年第一季度公开招聘工作人员拟聘人员公示 （共青团重庆市委）</a><span>2026-08-19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[秀山自治县事业单位2026年公开招聘拟聘人员公示（第四批）]]></title>
-        <id>https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202608/t20260819_15953881.html</id>
-        <link href="https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202608/t20260819_15953881.html"/>
-        <updated>2026-08-19T18:07:35.568Z</updated>
-        <content type="html"><![CDATA[<a href="./202608/t20260819_15953881.html" title="秀山自治县事业单位2026年公开招聘拟聘人员公示（第四批）" target="_blank">秀山自治县事业单位2026年公开招聘拟聘人员公示（第四批）</a><span>2026-08-19</span>]]></content>
     </entry>
 </feed>
